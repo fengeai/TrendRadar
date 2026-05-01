@@ -1,8 +1,269 @@
 {
-  "generated_at": "2026-05-01T15:18:09.551225+08:00",
-  "total_titles_processed": 1010,
+  "generated_at": "2026-05-01T15:33:03.474131+08:00",
+  "total_titles_processed": 1022,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
+      "match_count": 22,
+      "titles": [
+        {
+          "title": "俞浩炮轰小红书背后：平台如何更好应对水军、黑产？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33085027",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16,
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[02时16分 ~ 15时33分]"
+        },
+        {
+          "title": "【早报】易会满被“双开”；三部门发文！事关支持科技创新",
+          "url": "https://www.cls.cn/detail/2361649",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时57分 ~ 15时33分]"
+        },
+        {
+          "title": "60秒看中国硬科技核心突破",
+          "url": "https://www.douyin.com/hot/2485299",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时08分 ~ 15时33分]"
+        },
+        {
+          "title": "三部门：扩大科技创新和技术改造贷款投放 进一步支持设备更新",
+          "url": "https://www.cls.cn/detail/2361259",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 12时09分]"
+        },
+        {
+          "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
+          "url": "https://wallstreetcn.com/articles/3771319",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 07时58分]"
+        },
+        {
+          "title": "如何看待闻泰科技一年巨亏 87.48 亿，将「披星带帽」，退市风险悬顶？",
+          "url": "https://www.zhihu.com/question/2033139439564580001",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时17分 ~ 15时33分]"
+        },
+        {
+          "title": "美股四大科技巨头「谷歌、微软、亚马逊、 Meta」2026 年 Q1 财报同时出炉，如何解析？",
+          "url": "https://www.zhihu.com/question/2033115543276930640",
+          "source": "知乎",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时08分 ~ 15时33分]"
+        },
+        {
+          "title": "金十数据整理：每日科技要闻速递（5月1日）",
+          "url": "https://flash.jin10.com/detail/20260501072018316800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "美国白宫人工智能顾问萨克斯：Mythos不是世界末日装置。",
+          "url": "https://flash.jin10.com/detail/20260501014942443800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时16分"
+        },
+        {
+          "title": "法国总理：将开发和部署人工智能工具，以检测系统存在的漏洞和弱点。这是一个安全和主权的问题。",
+          "url": "https://flash.jin10.com/detail/20260501142522147800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时18分 ~ 15时33分]"
+        },
+        {
+          "title": "闻泰科技将变更为*ST闻泰",
+          "url": "https://www.toutiao.com/trending/7634557457460629035/",
+          "source": "今日头条",
+          "ranks": [
+            11,
+            13,
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 06时02分]"
+        },
+        {
+          "title": "科技巨头财报大比拼，为什么只有谷歌赢了？",
+          "url": "https://wallstreetcn.com/articles/3771342",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时57分 ~ 07时58分]"
+        },
+        {
+          "title": "美国国防部长赫格塞思：人工智能并未做出致命决策；Anthropic公司由一位“意识形态狂人”领导。",
+          "url": "https://flash.jin10.com/detail/20260501014458806800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时16分"
+        },
+        {
+          "title": "Anthropic大模型Mythos的扩张包括日本（市场）。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3097753",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "美国“战争部”部长赫格塞斯：Anthropic由“一群思想狂热分子”经营。 并没有让人工智能（AI）做出致命性的决策。",
+          "url": "https://wallstreetcn.com/livenews/3097660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时16分"
+        },
+        {
+          "title": "周四（4月30日），美股信息科技指数收涨2.06%，报341.16点，4月份累涨31.48%。 人工智能（AI）赢家指数涨1.69%，报357.04点，4月份累上涨29.66%。 AI软件先驱指数跌1.22%，报96.01点，4月份累涨2.48%。",
+          "url": "https://wallstreetcn.com/livenews/3097751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "金十图示：2026年05月01日（周五）全球主要科技与互联网公司市值变化",
+          "url": "https://flash.jin10.com/detail/20260501105953851800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时09分"
+        },
+        {
+          "title": "在上海，找到创作主场！市委网信办启动“互联网优质内容创作活动月”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33078229",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时26分"
+        },
+        {
+          "title": "西部数据预计季度营收将超出预期，得益于人工智能存储需求",
+          "url": "https://flash.jin10.com/detail/20260501045130303800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260501102459392800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时09分"
+        },
+        {
+          "title": "东京电子等科技股提振日股 但出口企业因日元反弹承压",
+          "url": "https://flash.jin10.com/detail/20260501102450342800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时09分"
+        },
+        {
+          "title": "恒生指数主连夜盘收涨1.44%，报25992点。 恒生科技指数主连夜盘收涨1.62%，报4955点。",
+          "url": "https://wallstreetcn.com/livenews/3097675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        }
+      ]
+    },
     {
       "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
       "match_count": 14,
@@ -17,8 +278,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 15时18分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 15时33分]"
         },
         {
           "title": "从硅谷视角看DeepSeekV4",
@@ -44,6 +305,18 @@
           "time_info": "[12时08分 ~ 12时09分]"
         },
         {
+          "title": "DeepSeek多模态正式发布",
+          "url": "https://www.douyin.com/hot/2485029",
+          "source": "抖音",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时08分 ~ 15时33分]"
+        },
+        {
           "title": "DeepSeek多模态模型来了",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A8%A1%E5%9E%8B%E6%9D%A5%E4%BA%86",
           "source": "百度热搜",
@@ -56,16 +329,15 @@
           "time_info": "[00时26分 ~ 07时58分]"
         },
         {
-          "title": "DeepSeek多模态正式发布",
-          "url": "https://www.douyin.com/hot/2485029",
-          "source": "抖音",
+          "title": "DeepSeek梦话大赏",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%A2%A6%E8%AF%9D%E5%A4%A7%E8%B5%8F%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
           "ranks": [
-            6,
-            7
+            27
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时08分 ~ 15时18分]"
+          "time_info": "[15时17分 ~ 15时33分]"
         },
         {
           "title": "Deepseek-V4 究竟在编程上和 Claude-Opus-4.7 差距有多大？",
@@ -90,17 +362,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时57分 ~ 07时58分]"
-        },
-        {
-          "title": "DeepSeek梦话大赏",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%A2%A6%E8%AF%9D%E5%A4%A7%E8%B5%8F%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时17分 ~ 15时18分]"
         },
         {
           "title": "4月30日，马斯克重返证人席，接受OpenAI律师反询问。",
@@ -163,37 +424,6 @@
           "source": "金十数据",
           "ranks": [
             22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "俞浩炮轰小红书背后：平台如何更好应对水军、黑产？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33085027",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16,
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时16分 ~ 15时18分]"
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20260501102459392800",
-          "source": "金十数据",
-          "ranks": [
-            24
           ],
           "is_new": false,
           "appearance_count": 1,
