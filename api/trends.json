@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-01T17:54:44.491066+08:00",
-  "total_titles_processed": 1216,
+  "generated_at": "2026-05-01T19:15:37.060145+08:00",
+  "total_titles_processed": 1319,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时57分 ~ 17时54分]"
+          "appearance_count": 12,
+          "time_info": "[07时57分 ~ 19时15分]"
+        },
+        {
+          "title": "如何看待闻泰科技一年巨亏 87.48 亿，将「披星带帽」，退市风险悬顶？",
+          "url": "https://www.zhihu.com/question/2033139439564580001",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时17分 ~ 19时15分]"
         },
         {
           "title": "俞浩炮轰小红书背后：平台如何更好应对水军、黑产？",
@@ -32,20 +44,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[02时16分 ~ 17时54分]"
-        },
-        {
-          "title": "如何看待闻泰科技一年巨亏 87.48 亿，将「披星带帽」，退市风险悬顶？",
-          "url": "https://www.zhihu.com/question/2033139439564580001",
-          "source": "知乎",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时17分 ~ 17时54分]"
+          "appearance_count": 15,
+          "time_info": "[02时16分 ~ 19时15分]"
         },
         {
           "title": "60秒看中国硬科技核心突破",
@@ -292,11 +292,12 @@
             4,
             7,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时26分 ~ 17时54分]"
+          "appearance_count": 16,
+          "time_info": "[00时26分 ~ 19时15分]"
         },
         {
           "title": "DeepSeek多模态正式发布",
