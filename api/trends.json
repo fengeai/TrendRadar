@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-02T01:05:48.029001+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-02T03:22:57.194324+08:00",
+  "total_titles_processed": 413,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "【早报】易会满被“双开”；三部门发文！事关支持科技创新",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 03时22分]"
         },
         {
           "title": "市场消息：因担忧人工智能加剧黑客攻击，美国网络安全官员正考虑缩短漏洞修复期限，提议将修复网络安全漏洞的截止时间从两周缩短至三天。",
@@ -34,22 +34,35 @@
           "url": "https://www.toutiao.com/trending/7634931653269261878/",
           "source": "今日头条",
           "ranks": [
-            7
+            7,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 03时22分]"
         },
         {
           "title": "江苏常晋队员齐发抖音庆祝晋级",
           "url": "https://www.douyin.com/hot/2485685",
           "source": "抖音",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 03时22分]"
+        },
+        {
+          "title": "特朗普媒体科技集团(DJT.O)计划将Truth Social和 Truth+拆分成立独立的上市公司。",
+          "url": "https://flash.jin10.com/detail/20260502020119063800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时05分"
+          "time_info": "03时22分"
         }
       ]
     },
@@ -65,8 +78,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 03时22分]"
         }
       ]
     },
@@ -79,11 +92,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%8F%8A%E5%8D%96700%E4%B8%87%E6%88%BF%E5%AD%90%E7%BB%99%E7%94%B7%E5%8F%8B%E5%88%9B%E4%B8%9A%E8%BF%99%E6%AE%B5%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
           "ranks": [
-            27
+            27,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 03时22分]"
         }
       ]
     }
