@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-02T19:54:14.571238+08:00",
-  "total_titles_processed": 1189,
+  "generated_at": "2026-05-02T21:28:48.088514+08:00",
+  "total_titles_processed": 1301,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时56分 ~ 19时54分]"
+          "appearance_count": 11,
+          "time_info": "[06时56分 ~ 21时28分]"
         },
         {
           "title": "【早报】易会满被“双开”；三部门发文！事关支持科技创新",
@@ -29,6 +29,20 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时05分 ~ 16时26分]"
+        },
+        {
+          "title": "SemiAnalysis：下游大模型公司已经爆赚，英伟达、台积电还能赚更多",
+          "url": "https://wallstreetcn.com/articles/3771479",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时26分 ~ 21时28分]"
         },
         {
           "title": "科技巨头的财报启示",
@@ -57,19 +71,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时05分 ~ 11时43分]"
-        },
-        {
-          "title": "SemiAnalysis：下游大模型公司已经爆赚，英伟达、台积电还能赚更多",
-          "url": "https://wallstreetcn.com/articles/3771479",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时26分 ~ 19时54分]"
         },
         {
           "title": "闻泰科技一夜“披星戴帽”",
@@ -235,6 +236,17 @@
           "time_info": "[14时15分 ~ 18时05分]"
         },
         {
+          "title": "“我真是个傻瓜”，马斯克大战OpenAI索赔1500亿美元",
+          "url": "https://news.ifeng.com/c/8snnwdxDs8v",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时53分 ~ 21时28分]"
+        },
+        {
           "title": "Claude画的DeepSeek蓝胖鱼",
           "url": "https://s.weibo.com/weibo?q=Claude%E7%94%BB%E7%9A%84DeepSeek%E8%93%9D%E8%83%96%E9%B1%BC&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -270,17 +282,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时05分 ~ 19时54分]"
-        },
-        {
-          "title": "“我真是个傻瓜”，马斯克大战OpenAI索赔1500亿美元",
-          "url": "https://news.ifeng.com/c/8snnwdxDs8v",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时53分 ~ 19时54分]"
         },
         {
           "title": "DeepSeek 现在我是你爹了",
