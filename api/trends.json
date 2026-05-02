@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-05-02T18:05:16.909890+08:00",
-  "total_titles_processed": 1085,
+  "generated_at": "2026-05-02T19:54:14.571238+08:00",
+  "total_titles_processed": 1189,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
       "match_count": 15,
       "titles": [
+        {
+          "title": "伊朗新谈判方案重创原油，科技股助标普再新高、创一年半最长周涨，日元反弹暂歇但全周走强",
+          "url": "https://wallstreetcn.com/articles/3771459",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[06时56分 ~ 19时54分]"
+        },
         {
           "title": "【早报】易会满被“双开”；三部门发文！事关支持科技创新",
           "url": "https://www.cls.cn/detail/2361649",
@@ -17,18 +29,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时05分 ~ 16时26分]"
-        },
-        {
-          "title": "伊朗新谈判方案重创原油，科技股助标普再新高、创一年半最长周涨，日元反弹暂歇但全周走强",
-          "url": "https://wallstreetcn.com/articles/3771459",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时56分 ~ 18时05分]"
         },
         {
           "title": "科技巨头的财报启示",
@@ -57,6 +57,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时05分 ~ 11时43分]"
+        },
+        {
+          "title": "SemiAnalysis：下游大模型公司已经爆赚，英伟达、台积电还能赚更多",
+          "url": "https://wallstreetcn.com/articles/3771479",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时26分 ~ 19时54分]"
         },
         {
           "title": "闻泰科技一夜“披星戴帽”",
@@ -94,18 +107,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时16分 ~ 16时26分]"
-        },
-        {
-          "title": "SemiAnalysis：下游大模型公司已经爆赚，英伟达、台积电还能赚更多",
-          "url": "https://wallstreetcn.com/articles/3771479",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时26分 ~ 18时05分]"
         },
         {
           "title": "美国国会山成员们下周将会见科技巨头们的代表。 英伟达、谷歌公司、Anthropic、Meta、特斯拉、英特尔、应用材料的代表们将与议员们见面。（Axios）",
@@ -192,7 +193,7 @@
     },
     {
       "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "DeepSeek破底价,友商瑟瑟发抖",
@@ -215,11 +216,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时15分 ~ 18时05分]"
+          "appearance_count": 6,
+          "time_info": "[14时15分 ~ 19时54分]"
         },
         {
           "title": "OpenAI 称 GPT-5.5 中「哥布林」泛滥是奖励机制所致，这反映了大模型训练的哪些难题？",
@@ -258,6 +260,29 @@
           "time_info": "[11时43分 ~ 18时05分]"
         },
         {
+          "title": "OpenAI：人工智能在一个月内从编写20%的代码提升至80%。",
+          "url": "https://flash.jin10.com/detail/20260502172401507800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时05分 ~ 19时54分]"
+        },
+        {
+          "title": "“我真是个傻瓜”，马斯克大战OpenAI索赔1500亿美元",
+          "url": "https://news.ifeng.com/c/8snnwdxDs8v",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时53分 ~ 19时54分]"
+        },
+        {
           "title": "DeepSeek 现在我是你爹了",
           "url": "https://s.weibo.com/weibo?q=DeepSeek%20%E7%8E%B0%E5%9C%A8%E6%88%91%E6%98%AF%E4%BD%A0%E7%88%B9%E4%BA%86&t=31&band_rank=15&Refer=top",
           "source": "微博",
@@ -267,17 +292,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时15分 ~ 14时16分]"
-        },
-        {
-          "title": "OpenAI：人工智能在一个月内从编写20%的代码提升至80%。",
-          "url": "https://flash.jin10.com/detail/20260502172401507800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时05分"
         }
       ]
     },
