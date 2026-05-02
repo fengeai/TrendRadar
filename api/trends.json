@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-02T21:28:48.088514+08:00",
-  "total_titles_processed": 1301,
+  "generated_at": "2026-05-02T22:57:39.469842+08:00",
+  "total_titles_processed": 1388,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "伊朗新谈判方案重创原油，科技股助标普再新高、创一年半最长周涨，日元反弹暂歇但全周走强",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时56分 ~ 21时28分]"
+          "appearance_count": 12,
+          "time_info": "[06时56分 ~ 22时57分]"
         },
         {
           "title": "【早报】易会满被“双开”；三部门发文！事关支持科技创新",
@@ -41,8 +41,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时26分 ~ 21时28分]"
+          "appearance_count": 6,
+          "time_info": "[16时26分 ~ 22时57分]"
         },
         {
           "title": "科技巨头的财报启示",
@@ -85,6 +85,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时05分 ~ 08时40分]"
+        },
+        {
+          "title": "伯克希尔CEO格雷格·阿贝尔：人工智能的应用将在所有业务领域创造机遇。",
+          "url": "https://flash.jin10.com/detail/20260502222823586800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
         },
         {
           "title": "市场消息：因担忧人工智能加剧黑客攻击，美国网络安全官员正考虑缩短漏洞修复期限，提议将修复网络安全漏洞的截止时间从两周缩短至三天。",
@@ -145,6 +156,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时43分 ~ 14时16分]"
+        },
+        {
+          "title": "据The Information：Anthropic正在与英国初创公司Fractile就购买人工智能推理芯片进行磋商。",
+          "url": "https://flash.jin10.com/detail/20260502220352594800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
         },
         {
           "title": "标普500指数的11个板块几乎全线溃败，能源板块收跌1.31%，工业、公用事业、保健、金融等板块至多跌0.93%，可选消费板块则收涨0.51%，信息技术/科技板块涨1.41%。",
@@ -243,8 +265,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时53分 ~ 21时28分]"
+          "appearance_count": 4,
+          "time_info": "[19时53分 ~ 22时57分]"
         },
         {
           "title": "Claude画的DeepSeek蓝胖鱼",
