@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-03T07:55:30.222699+08:00",
-  "total_titles_processed": 501,
+  "generated_at": "2026-05-03T11:57:31.718383+08:00",
+  "total_titles_processed": 700,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "SemiAnalysis：下游大模型公司已经爆赚，英伟达、台积电还能赚更多",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时01分 ~ 07时55分]"
+          "appearance_count": 11,
+          "time_info": "[01时01分 ~ 11时57分]"
         },
         {
           "title": "伊朗新谈判方案重创原油，科技股助标普再新高、创一年半最长周涨，日元反弹暂歇但全周走强",
@@ -57,6 +57,17 @@
           "time_info": "[01时02分 ~ 01时59分]"
         },
         {
+          "title": "金十数据整理：每日科技要闻速递（5月3日）",
+          "url": "https://flash.jin10.com/detail/20260503093544952800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
           "title": "伯克希尔CEO格雷格·阿贝尔：人工智能的应用将在所有业务领域创造机遇。",
           "url": "https://flash.jin10.com/detail/20260502222823586800",
           "source": "金十数据",
@@ -83,11 +94,12 @@
             13,
             15,
             18,
-            20
+            20,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时01分 ~ 07时55分]"
+          "appearance_count": 11,
+          "time_info": "[01时01分 ~ 11时57分]"
         },
         {
           "title": "“我真是个傻瓜”，马斯克大战OpenAI索赔1500亿美元",
