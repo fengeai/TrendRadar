@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-04T12:02:20.136164+08:00",
-  "total_titles_processed": 738,
+  "generated_at": "2026-05-04T14:51:28.976689+08:00",
+  "total_titles_processed": 903,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "美国财长贝森特：特朗普应该因英特尔投资获利而受到表扬。 人们应该担心人工智能可能对银行进行黑客攻击。",
@@ -29,7 +29,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -46,13 +46,24 @@
           "time_info": "[12时01分 ~ 12时02分]"
         },
         {
+          "title": "39 岁上海科技大学教授王晨辉为救至亲溺水去世，我们该如何看待这种舍己救人的行为？",
+          "url": "https://www.zhihu.com/question/2034260292213945927",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
           "title": "金十图示：2026年05月04日（周一）全球主要科技与互联网公司市值变化",
           "url": "https://flash.jin10.com/detail/20260504105522822800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -63,7 +74,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -74,7 +85,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -85,7 +96,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -96,7 +107,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -107,7 +118,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         }
@@ -123,11 +134,29 @@
           "source": "bilibili 热搜",
           "ranks": [
             23,
-            27
+            27,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时57分 ~ 12时02分]"
+          "appearance_count": 4,
+          "time_info": "[07时57分 ~ 14时51分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "独立开发 创业 副业",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "青年在上海｜免租金助创业，“巨富长”街区有个青春经济试验场",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33084440",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
         }
       ]
     }
