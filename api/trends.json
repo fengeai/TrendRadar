@@ -1,22 +1,47 @@
 {
-  "generated_at": "2026-05-05T06:10:54.494601+08:00",
-  "total_titles_processed": 548,
+  "generated_at": "2026-05-05T08:02:13.251388+08:00",
+  "total_titles_processed": 651,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "大模型免费时代结束？豆包官宣新增付费订阅，主打生产力场景",
           "url": "https://m.thepaper.cn/newsDetail_forward_33096657",
           "source": "澎湃新闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 06时10分]"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 08时02分]"
+        },
+        {
+          "title": "马上评｜AI替岗，还是“科技向善”吗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33096788",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 08时02分]"
+        },
+        {
+          "title": "抖音集团副总裁：网传所谓红果短剧收费的消息不实",
+          "url": "https://wallstreetcn.com/livenews/3098679",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
         },
         {
           "title": "标普500指数初步收跌0.4%，原材料板块跌1.6%，工业板块跌1.1%，科技板块跌0.3%，能源板块涨0.7%。 纳斯达克100指数初步收跌0.2%，成分股中，ODFL初步收跌6.8%，AMD跌5.3%，高通跌4.8%，特许通讯、Arm控股跌3.8%，Insmed则涨4.9%，闪迪涨5.3%，美光科技涨6.5%。 家得宝跌3.4%，波音跌2.7%，耐克跌2.5%，领跌道指成分股，雪佛龙、Salesforce则涨0.9%，亚马逊涨1.3%。",
@@ -30,28 +55,51 @@
           "time_info": "04时23分"
         },
         {
-          "title": "马上评｜AI替岗，还是“科技向善”吗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33096788",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 06时10分]"
-        },
-        {
           "title": "牛散集体换仓：科技稀土黄金成新猎物",
           "url": "https://www.toutiao.com/trending/7636037468252278318/",
           "source": "今日头条",
           "ranks": [
             7,
-            16
+            16,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 02时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 08时02分]"
+        },
+        {
+          "title": "抖音作者组团探访052D驱逐舰",
+          "url": "https://www.douyin.com/hot/2488197",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时01分 ~ 08时02分]"
+        },
+        {
+          "title": "周一（5月4日），美股信息科技指数涨1.34%，报355.01点。 人工智能（AI）赢家指数涨1.15%，报367.81点。 AI软件先驱指数涨2.05%，报101.76点。",
+          "url": "https://wallstreetcn.com/livenews/3098642",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时10分 ~ 08时02分]"
+        },
+        {
+          "title": "金十数据整理：每日科技要闻速递（5月5日）",
+          "url": "https://flash.jin10.com/detail/20260505072854614800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
         },
         {
           "title": "美联储威廉姆斯：预计未来几年人工智能将带来更高的生产率增长。",
@@ -71,18 +119,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        },
-        {
-          "title": "周一（5月4日），美股信息科技指数涨1.34%，报355.01点。 人工智能（AI）赢家指数涨1.15%，报367.81点。 AI软件先驱指数涨2.05%，报101.76点。",
-          "url": "https://wallstreetcn.com/livenews/3098642",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
         },
@@ -104,7 +141,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
         },
@@ -115,7 +152,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
         },
@@ -148,7 +185,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
         }
@@ -159,6 +196,19 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "DeepSeek员工为何不加班",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%91%98%E5%B7%A5%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%8A%A0%E7%8F%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时22分 ~ 08时02分]"
+        },
+        {
           "title": "“从未见过此等增速”！Anthropic年化收入两个月翻番，首超OpenAI",
           "url": "https://wallstreetcn.com/articles/3771533",
           "source": "华尔街见闻",
@@ -168,18 +218,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时55分 ~ 00时56分]"
-        },
-        {
-          "title": "DeepSeek员工为何不加班",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%91%98%E5%B7%A5%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%8A%A0%E7%8F%AD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时22分 ~ 04时23分]"
         }
       ]
     },
@@ -192,11 +230,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33084440",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 06时10分]"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 08时02分]"
         }
       ]
     }
