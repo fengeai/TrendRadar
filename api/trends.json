@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T04:47:10.711474+08:00",
-  "total_titles_processed": 469,
+  "generated_at": "2026-05-07T06:04:41.294904+08:00",
+  "total_titles_processed": 537,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "美军部署超10万个人工智能体，欲打造“算法铁幕”谋求算法霸权",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 06时04分]"
         },
         {
           "title": "标普500指数的11个板块多数收涨，工业板块涨2.60%，信息技术/科技板块涨2.56%，电信板块涨2.05%，能源板块重挫4.07%。",
@@ -25,7 +25,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
         },
@@ -35,11 +35,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             21,
-            19
+            19,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时25分 ~ 04时47分]"
+          "appearance_count": 4,
+          "time_info": "[02时25分 ~ 06时04分]"
         },
         {
           "title": "纳斯达克金龙中国指数收涨3.45%，报7127.47点。 利弗莫尔中概股龙头指数收涨4.98%。 ETF中，中国科技指数ETF（CQQQ）收涨4.94%，中概互联网指数ETF（KWEB）收涨4.31%。 MSCI新兴市场ex中国ETF（EMXC）收涨3.46%，德银嘉实沪深300指数ETF（ASHR）收涨2.73%，XtrackersHarvest中证50（ASHS）收涨1.84%。",
@@ -48,7 +49,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
         },
@@ -59,9 +60,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
+        },
+        {
+          "title": "据CNBC：随着苹果(AAPL.O)加大对人工智能的投资力度，截至三月当季，苹果(AAPL.O)的研发支出占营收的比例达到10.3%。",
+          "url": "https://flash.jin10.com/detail/20260507050409862800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
         },
         {
           "title": "美国芝加哥联储主席Goolsbee（2027年FOMC票委）：如果人们将未来预期的收入提前用于当前消费，很容易导致经济过热。 如果人工智能真如宣传的那样出色，那将是“一件好事”，但美联储仍需警惕经济过热。",
@@ -81,7 +93,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
         },
@@ -103,7 +115,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
         },
@@ -142,11 +154,12 @@
           "ranks": [
             16,
             15,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 06时04分]"
         },
         {
           "title": "OpenAI 推出 GPT-5.5 Instant，有哪些值得关注的技术亮点？使用感受如何？",
@@ -155,11 +168,12 @@
           "ranks": [
             15,
             18,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 06时04分]"
         },
         {
           "title": "从0开始了解Claude Code",
@@ -168,11 +182,12 @@
           "ranks": [
             19,
             23,
-            24
+            24,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 06时04分]"
         },
         {
           "title": "Anthropic：将Claude代码的五小时限额翻倍，适用于Pro、Max、Team和基于座位的企业计划。",
@@ -203,7 +218,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
         }
@@ -222,8 +237,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 06时04分]"
         }
       ]
     }
