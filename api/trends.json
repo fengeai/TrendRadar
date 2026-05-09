@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T05:55:27.099421+08:00",
-  "total_titles_processed": 491,
+  "generated_at": "2026-05-10T06:56:27.786553+08:00",
+  "total_titles_processed": 512,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 05时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 06时56分]"
         },
         {
           "title": "科技赋能 向新而行",
@@ -28,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 05时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 06时56分]"
         },
         {
           "title": "美科技股“火爆行情”很快结束？资深分析师列四大信号力证！",
@@ -40,8 +41,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 05时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 06时56分]"
         },
         {
           "title": "AI狂热已近尾声？“大空头”敲响警钟：市场好似互联网泡沫破裂前夕",
@@ -52,8 +53,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 05时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 06时56分]"
         },
         {
           "title": "大空头：当前AI热潮酷似2000年互联网泡沫“破灭前几个月”",
@@ -64,8 +65,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 05时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 06时56分]"
         },
         {
           "title": "小红书电商调整商家扶持策略，重点扶持100万个好货商家",
@@ -74,11 +75,12 @@
           "ranks": [
             4,
             12,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 05时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 06时56分]"
         },
         {
           "title": "中国互联网金融协会互联网贷款自律工作委员会筹备组第一次会议在京召开",
@@ -87,11 +89,12 @@
           "ranks": [
             15,
             23,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 05时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 06时56分]"
         },
         {
           "title": "千亿级私募景林资产一季度大手笔加码科技与消费",
@@ -100,11 +103,12 @@
           "ranks": [
             17,
             25,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 05时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 06时56分]"
         },
         {
           "title": "伊朗欲掌控霍尔木兹海峡海底互联网电缆",
@@ -167,8 +171,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 05时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 06时56分]"
         },
         {
           "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
@@ -179,8 +183,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 05时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 06时56分]"
         },
         {
           "title": "DeepSeek睁眼,开放识图模式",
@@ -190,8 +194,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 05时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 06时56分]"
         }
       ]
     },
@@ -204,11 +208,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33120610",
           "source": "澎湃新闻",
           "ranks": [
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 05时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 06时56分]"
         }
       ]
     }
