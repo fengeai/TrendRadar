@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T01:56:33.530219+08:00",
-  "total_titles_processed": 391,
+  "generated_at": "2026-05-10T03:15:15.847203+08:00",
+  "total_titles_processed": 426,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时03分 ~ 01时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 03时15分]"
         },
         {
           "title": "谁是这波增量资金主力？融资净买入创年内新高，加杠杆押科技",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时03分 ~ 01时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 03时15分]"
         },
         {
           "title": "小红书电商调整商家扶持策略，重点扶持100万个好货商家",
@@ -38,19 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时56分]"
-        },
-        {
-          "title": "伊朗欲掌控霍尔木兹海峡海底互联网电缆",
-          "url": "https://flash.jin10.com/detail/20260510011935382800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时56分"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 03时15分]"
         },
         {
           "title": "美科技股“火爆行情”很快结束？资深分析师列四大信号力证！",
@@ -61,8 +50,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时03分 ~ 01时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 03时15分]"
         },
         {
           "title": "AI狂热已近尾声？“大空头”敲响警钟：市场好似互联网泡沫破裂前夕",
@@ -72,8 +61,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时03分 ~ 01时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 03时15分]"
         },
         {
           "title": "大空头：当前AI热潮酷似2000年互联网泡沫“破灭前几个月”",
@@ -84,8 +73,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时03分 ~ 01时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 03时15分]"
+        },
+        {
+          "title": "伊朗欲掌控霍尔木兹海峡海底互联网电缆",
+          "url": "https://flash.jin10.com/detail/20260510011935382800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时56分 ~ 03时15分]"
         },
         {
           "title": "中国互联网金融协会互联网贷款自律工作委员会筹备组第一次会议在京召开",
@@ -95,8 +96,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 03时15分]"
         },
         {
           "title": "千亿级私募景林资产一季度大手笔加码科技与消费",
@@ -106,19 +107,20 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 03时15分]"
         },
         {
           "title": "伊朗准备全面接管通过霍尔木兹海峡的全部7条海底互联网光缆。",
           "url": "https://flash.jin10.com/detail/20260510011447366800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时56分 ~ 03时15分]"
         },
         {
           "title": "小红书电商：调整商家扶持策略，重点扶持100万个好货商家",
@@ -157,8 +159,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时03分 ~ 01时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 03时15分]"
         },
         {
           "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
@@ -168,8 +170,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时03分 ~ 01时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 03时15分]"
         },
         {
           "title": "DeepSeek睁眼,开放识图模式",
@@ -179,8 +181,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时03分 ~ 01时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 03时15分]"
         }
       ]
     },
@@ -196,8 +198,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时03分 ~ 01时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 03时15分]"
         }
       ]
     }
