@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T15:29:40.991097+08:00",
-  "total_titles_processed": 879,
+  "generated_at": "2026-05-10T17:45:24.297051+08:00",
+  "total_titles_processed": 993,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时03分 ~ 15时29分]"
+          "appearance_count": 13,
+          "time_info": "[00时03分 ~ 17时45分]"
         },
         {
           "title": "科技赋能 向新而行",
@@ -42,8 +42,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时03分 ~ 15时29分]"
+          "appearance_count": 13,
+          "time_info": "[00时03分 ~ 17时45分]"
         },
         {
           "title": "大空头：当前AI热潮酷似2000年互联网泡沫“破灭前几个月”",
@@ -130,22 +130,24 @@
           "url": "https://www.toutiao.com/trending/7638088340340080691/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时29分 ~ 17时45分]"
         },
         {
           "title": "广州推出人工智能场景交易平台，首批49个真实场景订单发布",
           "url": "https://wallstreetcn.com/livenews/3101113",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时29分 ~ 17时45分]"
         },
         {
           "title": "伊朗欲掌控霍尔木兹海峡海底互联网电缆",
@@ -172,6 +174,18 @@
           "time_info": "[01时56分 ~ 03时15分]"
         },
         {
+          "title": "“科技叙事”正在重构资本市场底色",
+          "url": "https://www.cls.cn/detail/2367094",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时29分 ~ 17时45分]"
+        },
+        {
           "title": "狂卖80亿美元微软持仓！知名科技对冲基金“十年持股一朝清仓”",
           "url": "https://wallstreetcn.com/articles/3771880",
           "source": "华尔街见闻",
@@ -181,17 +195,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
-        },
-        {
-          "title": "“科技叙事”正在重构资本市场底色",
-          "url": "https://www.cls.cn/detail/2367094",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时29分"
         },
         {
           "title": "据一位知情人士透露，阿里巴巴(09988.HK)正准备公布其人工智能平台Qwen与电商平台淘宝的整合计划，此举旨在通过对话而非关键词搜索来推动购物。",
@@ -233,7 +236,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         },
@@ -274,11 +277,12 @@
           "ranks": [
             11,
             15,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时03分 ~ 15时29分]"
+          "appearance_count": 13,
+          "time_info": "[00时03分 ~ 17时45分]"
         },
         {
           "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
@@ -299,11 +303,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            4
+            4,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时05分 ~ 15时29分]"
+          "appearance_count": 4,
+          "time_info": "[12时05分 ~ 17时45分]"
         },
         {
           "title": "Deepseek和阿里谈崩了？市场人士回应",
@@ -324,9 +329,9 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时29分 ~ 17时45分]"
         }
       ]
     },
