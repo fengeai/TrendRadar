@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-05-11T05:58:46.254037+08:00",
-  "total_titles_processed": 514,
+  "generated_at": "2026-05-11T07:01:45.757287+08:00",
+  "total_titles_processed": 562,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "谁是这波增量资金主力？融资净买入创年内新高，加杠杆押科技",
           "url": "https://www.cls.cn/detail/2366912",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时06分 ~ 05时58分]"
+          "appearance_count": 6,
+          "time_info": "[00时06分 ~ 07时01分]"
         },
         {
           "title": "美科技股“火爆行情”很快结束？资深分析师列四大信号力证！",
@@ -27,8 +28,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时06分 ~ 05时58分]"
+          "appearance_count": 6,
+          "time_info": "[00时06分 ~ 07时01分]"
+        },
+        {
+          "title": "券商：A股“红五月”格局有望延续，聚焦科技、资源两大景气方向",
+          "url": "https://wallstreetcn.com/livenews/3101188",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
         },
         {
           "title": "如何评价蔚来汽车董事长李斌？为什么蔚来汽车董事长李斌能得到这么多互联网大佬的支持帮助和青睐？",
@@ -40,8 +52,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时06分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时06分 ~ 07时01分]"
         },
         {
           "title": "广州推出人工智能场景交易平台，首批49个真实场景订单发布",
@@ -65,6 +77,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
+        },
+        {
+          "title": "消息人士：人工智能芯片公司Cerebras Systems拟将IPO发行价区间上调至每股150至160美元，并计划发行3000万股股票。若按指导区间上限定价，IPO融资规模可能达到48亿美元。",
+          "url": "https://flash.jin10.com/detail/20260511053851456800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
         },
         {
           "title": "法拉第未来正式任命贾跃亭为全球唯一首席执行官，同时任命王佳伟为全球执行董事长；公司将于下周公布升级版转型计划，开启作为物理人工智能公司的新增长篇章。",
@@ -93,8 +116,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时06分 ~ 05时58分]"
+          "appearance_count": 6,
+          "time_info": "[00时06分 ~ 07时01分]"
         },
         {
           "title": "DeepSeek睁眼,开放识图模式",
@@ -105,19 +128,20 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时06分 ~ 05时58分]"
+          "appearance_count": 6,
+          "time_info": "[00时06分 ~ 07时01分]"
         },
         {
           "title": "周末要闻汇总：DeepSeek据悉拟募资最高500亿元人民币；证监会查处2起财务造假案件",
           "url": "https://www.cls.cn/detail/2367192",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时58分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时58分 ~ 07时01分]"
         },
         {
           "title": "当OpenAI和Anthropic下场“抢生意”，Palantir的真对手来了",
@@ -140,6 +164,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "独立开发 创业 副业",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "直播丨与城市共成长，上海创新创业青年50人论坛举行",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33107321",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
         }
       ]
     }
