@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T19:05:52.455099+08:00",
-  "total_titles_processed": 1081,
+  "generated_at": "2026-05-10T21:45:29.573564+08:00",
+  "total_titles_processed": 1212,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "谁是这波增量资金主力？融资净买入创年内新高，加杠杆押科技",
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时03分 ~ 19时05分]"
+          "appearance_count": 15,
+          "time_info": "[00时03分 ~ 21时45分]"
         },
         {
           "title": "科技赋能 向新而行",
@@ -42,8 +42,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时03分 ~ 19时05分]"
+          "appearance_count": 15,
+          "time_info": "[00时03分 ~ 21时45分]"
         },
         {
           "title": "大空头：当前AI热潮酷似2000年互联网泡沫“破灭前几个月”",
@@ -132,11 +132,12 @@
           "ranks": [
             3,
             11,
-            14
+            14,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时29分 ~ 19时05分]"
+          "appearance_count": 4,
+          "time_info": "[15时29分 ~ 21时45分]"
         },
         {
           "title": "哈工大“黑科技”玻璃几秒就能变色",
@@ -209,6 +210,17 @@
           "time_info": "12时06分"
         },
         {
+          "title": "如何评价蔚来汽车董事长李斌？为什么蔚来汽车董事长李斌能得到这么多互联网大佬的支持帮助和青睐？",
+          "url": "https://www.zhihu.com/question/265062196",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
+        },
+        {
           "title": "金十数据整理：每日科技要闻速递（5月10日）",
           "url": "https://flash.jin10.com/detail/20260510093047355800",
           "source": "金十数据",
@@ -256,7 +268,7 @@
     },
     {
       "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
@@ -279,11 +291,12 @@
             11,
             15,
             16,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时03分 ~ 19时05分]"
+          "appearance_count": 15,
+          "time_info": "[00时03分 ~ 21时45分]"
         },
         {
           "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
@@ -339,11 +352,23 @@
           "url": "https://www.zhihu.com/question/2035400318624733173",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时05分 ~ 21时45分]"
+        },
+        {
+          "title": "当OpenAI和Anthropic下场“抢生意”，Palantir的真对手来了",
+          "url": "https://wallstreetcn.com/articles/3771914",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时05分"
+          "time_info": "21时45分"
         }
       ]
     },
