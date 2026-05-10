@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-11T04:58:34.874201+08:00",
-  "total_titles_processed": 491,
+  "generated_at": "2026-05-11T05:58:46.254037+08:00",
+  "total_titles_processed": 514,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时06分 ~ 04时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时06分 ~ 05时58分]"
         },
         {
           "title": "美科技股“火爆行情”很快结束？资深分析师列四大信号力证！",
@@ -27,8 +27,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时06分 ~ 04时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时06分 ~ 05时58分]"
         },
         {
           "title": "如何评价蔚来汽车董事长李斌？为什么蔚来汽车董事长李斌能得到这么多互联网大佬的支持帮助和青睐？",
@@ -36,11 +36,12 @@
           "source": "知乎",
           "ranks": [
             20,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时06分 ~ 04时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 05时58分]"
         },
         {
           "title": "广州推出人工智能场景交易平台，首批49个真实场景订单发布",
@@ -72,7 +73,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
         }
@@ -92,8 +93,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时06分 ~ 04时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时06分 ~ 05时58分]"
         },
         {
           "title": "DeepSeek睁眼,开放识图模式",
@@ -104,8 +105,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时06分 ~ 04时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时06分 ~ 05时58分]"
         },
         {
           "title": "周末要闻汇总：DeepSeek据悉拟募资最高500亿元人民币；证监会查处2起财务造假案件",
@@ -115,8 +116,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时58分 ~ 04时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时58分 ~ 05时58分]"
         },
         {
           "title": "当OpenAI和Anthropic下场“抢生意”，Palantir的真对手来了",
