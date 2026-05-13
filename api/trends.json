@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-14T00:35:32.825059+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-05-14T03:05:08.488503+08:00",
+  "total_titles_processed": 399,
   "failed_sources": [],
   "trends": [
     {
@@ -23,22 +23,35 @@
           "url": "https://www.douyin.com/hot/2497347",
           "source": "抖音",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 03时05分]"
         },
         {
           "title": "闻泰科技就安世争端索赔80亿美元",
           "url": "https://www.toutiao.com/trending/7638628778822991935/",
           "source": "今日头条",
           "ranks": [
-            9
+            9,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 03时05分]"
+        },
+        {
+          "title": "塔菲抖音爆红,bw展位被砍",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354242&amp;topic_name=%E5%A1%94%E8%8F%B2%E6%8A%96%E9%9F%B3%E7%88%86%E7%BA%A2%2Cbw%E5%B1%95%E4%BD%8D%E8%A2%AB%E7%A0%8D",
+          "source": "贴吧",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 03时05分]"
         },
         {
           "title": "美联储柯林斯：预期将持续看到持续的生产力提升，这不仅仅是由人工智能驱动的。",
@@ -55,17 +68,6 @@
           "title": "策略师：在脆弱市场中，大型科技股是避风港",
           "url": "https://wallstreetcn.com/livenews/3103134",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
-        },
-        {
-          "title": "塔菲抖音爆红,bw展位被砍",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354242&amp;topic_name=%E5%A1%94%E8%8F%B2%E6%8A%96%E9%9F%B3%E7%88%86%E7%BA%A2%2Cbw%E5%B1%95%E4%BD%8D%E8%A2%AB%E7%A0%8D",
-          "source": "贴吧",
           "ranks": [
             11
           ],
@@ -115,8 +117,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 03时05分]"
         }
       ]
     }
