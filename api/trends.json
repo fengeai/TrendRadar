@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-05-14T03:05:08.488503+08:00",
-  "total_titles_processed": 399,
+  "generated_at": "2026-05-14T05:43:07.979121+08:00",
+  "total_titles_processed": 488,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 7,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "抖音集团超15亿扶持真人短剧",
+          "url": "https://www.douyin.com/hot/2497347",
+          "source": "抖音",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 05时43分]"
+        },
         {
           "title": "美联储Collins：一直预期生产率将持续增长，且这不仅仅是由人工智能（A.I.）驱动的。 失业率仍保持在相对较低的水平。 近期发生了一系列供应冲击，目前正密切关注供应端问题。 美联储的通胀目标涵盖了所有驱动价格的因素。 强劲的生产率增长应有助于减轻通胀压力。",
           "url": "https://wallstreetcn.com/livenews/3103140",
@@ -19,28 +31,17 @@
           "time_info": "00时35分"
         },
         {
-          "title": "抖音集团超15亿扶持真人短剧",
-          "url": "https://www.douyin.com/hot/2497347",
-          "source": "抖音",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时35分 ~ 03时05分]"
-        },
-        {
           "title": "闻泰科技就安世争端索赔80亿美元",
           "url": "https://www.toutiao.com/trending/7638628778822991935/",
           "source": "今日头条",
           "ranks": [
             9,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时35分 ~ 03时05分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 05时43分]"
         },
         {
           "title": "塔菲抖音爆红,bw展位被砍",
@@ -50,8 +51,30 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时35分 ~ 03时05分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 05时43分]"
+        },
+        {
+          "title": "【数据看盘】IM期指空头大幅加仓 游资、量化资金激烈博弈红板科技",
+          "url": "https://www.cls.cn/detail/2370258",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时42分 ~ 05时43分]"
+        },
+        {
+          "title": "韩寒发抖音推荐给阿嬷的情书",
+          "url": "https://www.douyin.com/hot/2497143",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时42分 ~ 05时43分]"
         },
         {
           "title": "美联储柯林斯：预期将持续看到持续的生产力提升，这不仅仅是由人工智能驱动的。",
@@ -76,6 +99,72 @@
           "time_info": "00时35分"
         },
         {
+          "title": "周三（5月13日），美股行业ETF多数收涨，半导体ETF涨2%，全球科技股指数ETF涨1.44%，科技行业ETF涨0.94%，网络股指数ETF涨0.67%，能源业ETF涨0.10%，金融业ETF、公用事业ETF、银行业ETF、区域银行ETF则收跌1.14%-1.60%。",
+          "url": "https://wallstreetcn.com/livenews/3103217",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "标普500指数的11个板块多数收涨，电信板块涨2.65%，信息技术/科技板块涨0.98%，可选消费板块涨0.75%，金融板块则收跌1.07%，公用事业板块跌1.26%。",
+          "url": "https://wallstreetcn.com/livenews/3103216",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨3.89%，报7282.03点，5月5日结束交易以来持续站上50日均线（彭博数据显示该技术指标目前报6943.90点），逼近100日均线（目前报7308.60点）、2月26日收盘位7411.37点，200日均线在7671.89点。 热门中概股里，世纪互联初步收涨25.3%，金山云涨17%，美团涨12%，阿里巴巴涨8.3%，百度涨7.8%，蔚来涨7.5%，京东涨7.2%，万国数据、理想、老虎证券涨超6%，拼多多涨4.1%，日月光半导体涨3.4%。 ETF中，中概互联网指数ETF（KWEB）收涨4.94%，中国科技指数ETF（CQQQ）收涨4.88%。 MSCI新兴市场ex中国ETF（EMXC）收涨2.06%，XtrackersHarvest中证50（ASHS）收涨1.96%，德银嘉实沪深300指数ETF（ASHR）收涨1.49%。",
+          "url": "https://wallstreetcn.com/livenews/3103208",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "据知情人士透露，人工智能芯片制造商Cerebras Systems预计将把其美国IPO定价定为每股185美元。",
+          "url": "https://flash.jin10.com/detail/20260514041527500800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "思科(CSCO.O)：公司正推进一项重组计划，以投资于硅、光学、安全及人工智能等关键增长机会。公司目前预计将确认与此次重组计划相关最高10亿美元的税前费用。预计将在2026财年第四季度确认约4.5亿美元费用，其余部分预计将在2027财年确认。",
+          "url": "https://flash.jin10.com/detail/20260514040852808800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "恒生指数主连夜盘收涨1.92%，报26799点。 恒生科技指数主连夜盘收涨3.04%，报5261点。",
+          "url": "https://wallstreetcn.com/livenews/3103198",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
           "title": "加拿大央行：大约12%的受访加拿大企业使用人工智能（AI），在各行业的分部并不均衡。 诸多迹象表明，AI正带来生产力的小幅增长。 AI具备提振生产力、提高生活标准的潜力。 AI可能会改变人们的工作，但不会造成就业机会缩水。 AI尚未造成加拿大大规模失业。",
           "url": "https://wallstreetcn.com/livenews/3103116",
           "source": "华尔街见闻-快讯",
@@ -90,18 +179,52 @@
     },
     {
       "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
-      "match_count": 1,
+      "match_count": 4,
       "titles": [
         {
           "title": "保姆级Claude Code速成攻略",
           "url": "https://search.bilibili.com/all?keyword=%E4%BF%9D%E5%A7%86%E7%BA%A7Claude%20Code%E9%80%9F%E6%88%90%E6%94%BB%E7%95%A5",
           "source": "bilibili 热搜",
           "ranks": [
-            20
+            20,
+            24
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 05时43分]"
+        },
+        {
+          "title": "微软寻求收购AI公司以摆脱对OpenAI依赖",
+          "url": "https://flash.jin10.com/detail/20260514043922541800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时35分"
+          "time_info": "05时43分"
+        },
+        {
+          "title": "报道：微软寻求AI交易，为“后OpenAI时代”做准备",
+          "url": "https://wallstreetcn.com/livenews/3103215",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "消息人士：微软正探索与人工智能初创公司达成交易，以为“后OpenAI时代”做准备。微软曾考虑收购Cursor，但因反垄断担忧而放弃。微软已与人工智能初创公司Inception讨论交易事宜。Inception已聘请一家银行，就至少10亿美元的交易进行谈判。",
+          "url": "https://flash.jin10.com/detail/20260514041348939800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
         }
       ]
     },
