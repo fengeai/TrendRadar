@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-13T08:08:41.887319+08:00",
-  "total_titles_processed": 593,
+  "generated_at": "2026-05-13T12:54:11.036438+08:00",
+  "total_titles_processed": 814,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 20,
+      "match_count": 26,
       "titles": [
         {
           "title": "美国通胀超预期，美股低开，科技股普跌，英伟达股价续创新高，美伊僵局致布油涨3%",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时23分 ~ 05时01分]"
+        },
+        {
+          "title": "抖音电商：持续推进仿冒治理，已拦截侵权视频超17万条",
+          "url": "https://wallstreetcn.com/livenews/3102713",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
         },
         {
           "title": "据华尔街日报：YouTube借助人工智能帮助，正向各类广告主承诺全方位服务。",
@@ -87,6 +98,18 @@
           "time_info": "[02时23分 ~ 06时18分]"
         },
         {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260513073045179800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时08分 ~ 12时54分]"
+        },
+        {
           "title": "宇树科技发布双臂人形机器人，价格 2.69 万元起，使用场景有哪些？值得买吗？",
           "url": "https://www.zhihu.com/question/2033154931448918850",
           "source": "知乎",
@@ -111,6 +134,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时23分 ~ 06时18分]"
+        },
+        {
+          "title": "科技巨头竞逐太空算力新赛道！谷歌据悉接洽SpaceX发射轨道数据中心",
+          "url": "https://www.cls.cn/detail/2369554",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时53分 ~ 12时54分]"
+        },
+        {
+          "title": "豆包收费 大模型将告别免费时代",
+          "url": "https://www.baidu.com/s?wd=%E8%B1%86%E5%8C%85%E6%94%B6%E8%B4%B9+%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%B0%86%E5%91%8A%E5%88%AB%E5%85%8D%E8%B4%B9%E6%97%B6%E4%BB%A3",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时53分 ~ 12时54分]"
         },
         {
           "title": "周二（5月12日），美股行业ETF涨跌各异，半导体ETF收跌2.61%，全球科技股指数ETF跌2.17%，科技行业ETF跌1.51%，能源业ETF涨0.70%，医疗业ETF涨1.96%。",
@@ -146,6 +191,17 @@
           "time_info": "05时01分"
         },
         {
+          "title": "港股午评：恒生指数涨0.26% 恒生科技指数涨0.52%",
+          "url": "https://flash.jin10.com/detail/20260513120802246800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
           "title": "标普500指数初步收跌0.1%，科技板块跌1%，可选消费板块跌0.9%，能源板块涨0.9%，日用品板块涨1.6%，保健板块涨2%。 纳斯达克100指数初步收跌0.9%，成分股中，高通初步收跌11.3%，英特尔跌6.8%，Strategy、闪迪、西部数据、恩智浦至少跌超4%，路透跌2.5%，ISRG涨2.6%，AppLovin涨2.8%，德康医疗涨3.1%，Insmed涨12.1%。 联合健康初步收涨3.1%，沃尔玛涨2.3%，安进涨2%，领跑道指成分股，微软、亚马逊、卡特彼勒、IBM则跌超1%，Salesforce跌3.6%。 费城半导体指数跌3%，纳斯达克生物科技指数涨1.1%。",
           "url": "https://wallstreetcn.com/livenews/3102490",
           "source": "华尔街见闻-快讯",
@@ -157,26 +213,37 @@
           "time_info": "05时01分"
         },
         {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20260513073045179800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时08分"
-        },
-        {
           "title": "周二（5月12日），美股存储芯片与硬件供应链指数跌4.10%，报186.72点，整体呈现出V形走势，北京时间00:43曾刷新日低至177.08点。 成分股全线溃败，闪迪跌6.17%，西部数据跌5.25%，美光科技、Rambus、希捷科技至多跌3.61%，应用材料、拉姆研究、泰瑞达TER至少跌2.23%。",
           "url": "https://wallstreetcn.com/livenews/3102555",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
+        },
+        {
+          "title": "恒生科技指数转涨，此前一度跌超1%。京东集团涨超6%，美团涨4%。 香港恒生指数转涨，此前跌约0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3102690",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-05-13）",
+          "url": "https://flash.jin10.com/detail/20260513120124433800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
         },
         {
           "title": "美股七巨头收盘播报｜周二（5月12日），美国科技股七巨头（Magnificent 7）指数跌0.18%，报223.38点，整体呈现出V形走势，北京时间00:58刷新日低至220.98点。 “超大”市值科技股指数跌1.20%，报448.68点，00:59也刷新日低至440.83点。",
@@ -196,7 +263,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
         },
@@ -218,7 +285,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
         },
@@ -229,7 +296,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
         }
@@ -237,8 +304,19 @@
     },
     {
       "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "DeepSeek-TUI 霸榜 GitHub，小白不到 10 元开发应用，将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2036544679387341657",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时53分 ~ 12时54分]"
+        },
         {
           "title": "据The Information：Anthropic正在洽谈收购开发工具初创公司Stainless，OpenAI和谷歌均使用该公司的产品。",
           "url": "https://flash.jin10.com/detail/20260513060313265800",
@@ -249,6 +327,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "独立开发 创业 副业",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "上证指数早盘收报4218.22点，涨0.09%。 深证成指早盘收报15881.76点，涨0.36%。 创业板指早盘收报3946.79点，涨0.30%。 沪深300早盘收报4948.23点，涨0.00%。 科创50早盘收报1729.89点，涨0.35%。 中证500早盘收报8830.30点，涨0.50%。 中证1000早盘收报8885.08点，涨0.72%。",
+          "url": "https://wallstreetcn.com/livenews/3102685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
+          "title": "5月13日午间收评：创业板指低开高走涨0.3%，绿电、算力概念股集体走强",
+          "url": "https://wallstreetcn.com/livenews/3102684",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
         }
       ]
     }
