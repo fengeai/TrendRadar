@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-14T17:39:59.417120+08:00",
-  "total_titles_processed": 1102,
+  "generated_at": "2026-05-14T19:58:45.365217+08:00",
+  "total_titles_processed": 1243,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 25,
+      "match_count": 31,
       "titles": [
         {
           "title": "塔菲抖音爆红,bw展位被砍",
@@ -15,11 +15,12 @@
             11,
             16,
             21,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时35分 ~ 17时39分]"
+          "appearance_count": 12,
+          "time_info": "[00时35分 ~ 19时58分]"
         },
         {
           "title": "科技巨头力撑标普、纳指新高，英伟达新高，中概股指跑赢大盘，美长债三连跌",
@@ -30,8 +31,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时01分 ~ 17时39分]"
+          "appearance_count": 5,
+          "time_info": "[12时01分 ~ 19时58分]"
         },
         {
           "title": "抖音集团超15亿扶持真人短剧",
@@ -72,15 +73,27 @@
           "time_info": "00时35分"
         },
         {
-          "title": "美记者在北京体验中国科技",
-          "url": "https://www.douyin.com/hot/2498543",
-          "source": "抖音",
+          "title": "箭元科技：目标瞄准2026年底执行首次入轨发射+海上回收任务",
+          "url": "https://wallstreetcn.com/livenews/3103683",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时39分"
+          "time_info": "19时58分"
+        },
+        {
+          "title": "美记者在北京体验中国科技",
+          "url": "https://www.douyin.com/hot/2498543",
+          "source": "抖音",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时39分 ~ 19时58分]"
         },
         {
           "title": "【数据看盘】IM期指空头大幅加仓 游资、量化资金激烈博弈红板科技",
@@ -138,6 +151,17 @@
           "time_info": "14时53分"
         },
         {
+          "title": "*ST高科：公司上层股东与长江存储科技有限责任公司不存在任何实质关系",
+          "url": "https://flash.jin10.com/detail/20260514194548818800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
+        },
+        {
           "title": "策略师：在脆弱市场中，大型科技股是避风港",
           "url": "https://wallstreetcn.com/livenews/3103134",
           "source": "华尔街见闻-快讯",
@@ -160,6 +184,17 @@
           "time_info": "05时43分"
         },
         {
+          "title": "源杰科技：收到公司副总经理陈文君先生家属的通知，陈文君先生因涉嫌刑事犯罪被公安机关刑事拘留，无法正常履行公司副总经理职责。该事件不影响公司的正常经营活动。",
+          "url": "https://wallstreetcn.com/livenews/3103667",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
+        },
+        {
           "title": "标普500指数的11个板块多数收涨，电信板块涨2.65%，信息技术/科技板块涨0.98%，可选消费板块涨0.75%，金融板块则收跌1.07%，公用事业板块跌1.26%。",
           "url": "https://wallstreetcn.com/livenews/3103216",
           "source": "华尔街见闻-快讯",
@@ -169,6 +204,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260514193910975800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
+        },
+        {
+          "title": "上交所上市委：上海频准激光科技股份有限公司（简称“频准激光”）首发5月21日上会。",
+          "url": "https://flash.jin10.com/detail/20260514193812646800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
         },
         {
           "title": "纳斯达克金龙中国指数收涨3.89%，报7282.03点，5月5日结束交易以来持续站上50日均线（彭博数据显示该技术指标目前报6943.90点），逼近100日均线（目前报7308.60点）、2月26日收盘位7411.37点，200日均线在7671.89点。 热门中概股里，世纪互联初步收涨25.3%，金山云涨17%，美团涨12%，阿里巴巴涨8.3%，百度涨7.8%，蔚来涨7.5%，京东涨7.2%，万国数据、理想、老虎证券涨超6%，拼多多涨4.1%，日月光半导体涨3.4%。 ETF中，中概互联网指数ETF（KWEB）收涨4.94%，中国科技指数ETF（CQQQ）收涨4.88%。 MSCI新兴市场ex中国ETF（EMXC）收涨2.06%，XtrackersHarvest中证50（ASHS）收涨1.96%，德银嘉实沪深300指数ETF（ASHR）收涨1.49%。",
@@ -226,6 +283,17 @@
           "time_info": "12时02分"
         },
         {
+          "title": "科翔股份：公司子公司广州陶积电电子科技有限公司的主营业务为陶瓷印制电路板、陶瓷基板的研发和生产制造，但陶积电公司应用于AI领域的陶瓷基板目前仍处于研发打样阶段，在公司销售收入占比极小，且后续产品的量产和销售，存在较大不确定性。",
+          "url": "https://wallstreetcn.com/livenews/3103650",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
+        },
+        {
           "title": "思科(CSCO.O)：公司正推进一项重组计划，以投资于硅、光学、安全及人工智能等关键增长机会。公司目前预计将确认与此次重组计划相关最高10亿美元的税前费用。预计将在2026财年第四季度确认约4.5亿美元费用，其余部分预计将在2027财年确认。",
           "url": "https://flash.jin10.com/detail/20260514040852808800",
           "source": "金十数据",
@@ -243,7 +311,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时39分"
         },
@@ -276,7 +344,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时39分"
         },
@@ -295,7 +363,7 @@
     },
     {
       "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "保姆级Claude Code速成攻略",
@@ -321,6 +389,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时43分 ~ 07时13分]"
+        },
+        {
+          "title": "美国财长贝森特：Anthropic、OpenAI、谷歌的AI模型能力正不断增强。",
+          "url": "https://wallstreetcn.com/livenews/3103666",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
         },
         {
           "title": "报道：微软寻求AI交易，为“后OpenAI时代”做准备",
