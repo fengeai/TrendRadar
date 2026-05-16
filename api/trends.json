@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T04:59:16.870339+08:00",
-  "total_titles_processed": 410,
+  "generated_at": "2026-05-17T06:00:13.842192+08:00",
+  "total_titles_processed": 426,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 04时59分]"
+          "appearance_count": 5,
+          "time_info": "[01时07分 ~ 06时00分]"
         },
         {
           "title": "OpenAI与马耳他达成协议，所有马耳他民众都能使用ChatGPT Plus",
@@ -30,8 +30,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 04时59分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 06时00分]"
         }
       ]
     },
@@ -47,8 +47,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 04时59分]"
+          "appearance_count": 5,
+          "time_info": "[01时07分 ~ 06时00分]"
         }
       ]
     }
