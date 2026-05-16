@@ -1,265 +1,50 @@
 {
-  "generated_at": "2026-05-16T23:04:58.522844+08:00",
-  "total_titles_processed": 1356,
+  "generated_at": "2026-05-17T01:07:54.904539+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 13,
+      "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
+      "match_count": 2,
       "titles": [
         {
-          "title": "【早报】资本市场支持现代服务业与新型消费企业，利好来了；中际旭创、胜宏科技透露重要信息",
-          "url": "https://www.cls.cn/detail/2373057",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时48分 ~ 23时04分]"
-        },
-        {
-          "title": "为什么我们总怪父母没抓住房产和互联网红利，可轮到自己面对 AI 时代红利时，也没好好抓住？",
-          "url": "https://www.zhihu.com/question/2035685308566610183",
+          "title": "为什么 Deepseek 在输入 <think 后会匹配到疑似其他对话?",
+          "url": "https://www.zhihu.com/question/2038402853274915914",
           "source": "知乎",
           "ranks": [
-            17,
-            14,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时49分 ~ 07时03分]"
-        },
-        {
-          "title": "【AI冲击初现端倪，美国数类职业连续出现严重岗位流失】2025年美国多个被认为易受人工智能(AI)影响的职业领域连续第二年出现严重的职位流失，其中以客户服务代表以及特定类型的秘书和销售人员受到冲击最为严重。根据周五发布的年度数据，在2024年5月至2025年5月期间，美国劳工统计局标记为暴露在AI风险之下的18个职业组别（涉及约1000万个工作岗位）的就业人数下降了0.2%。相比之下，同期美国整体就业人数增长了0.8%。",
-          "url": "https://wallstreetcn.com/livenews/3104628",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时15分"
-        },
-        {
-          "title": "海光信息：为“能源电力行业第一届人工智能创新研发交流活动”提供算力支撑",
-          "url": "https://flash.jin10.com/detail/20260516161511737800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时54分 ~ 18时23分]"
-        },
-        {
-          "title": "美股收盘：三大指数收低 科技股显著回调",
-          "url": "https://flash.jin10.com/detail/20260516040037420800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时15分 ~ 07时03分]"
-        },
-        {
-          "title": "13F报告显示：桥水新进台积电等，清仓Salesforce、Workday、ServiceNOW等，增持亚马逊、美光、博通、迈威尔科技，减持Adobe等，重仓亚马逊、英伟达、谷歌A等。",
-          "url": "https://wallstreetcn.com/livenews/3104627",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        },
-        {
-          "title": "恒生指数主连夜盘收跌0.29%，报25733点。 恒生科技指数主连夜盘收跌0.59%，报4895点。",
-          "url": "https://wallstreetcn.com/livenews/3104595",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时49分"
-        },
-        {
-          "title": "周五（5月15日），美股行业ETF几乎全线溃败，半导体ETF收跌3.80%，生物科技指数ETF、全球航空业ETF、全球科技股指数ETF、公用事业ETF至多跌2.63%，科技行业ETF、银行业ETF等至多跌1.81%，能源业ETF则收涨2.36%。 2026年迄今，半导体ETF维持54.48%的累计涨幅，能源业ETF累涨33.81%，全球科技股指数ETF累涨25.79%，全球航空业ETF则累跌8.94%。",
-          "url": "https://wallstreetcn.com/livenews/3104626",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        },
-        {
-          "title": "标普500指数的11个板块几乎全线溃败，原材料板块收跌2.74%，公用事业板块跌2.4%，可选消费板块跌1.84%，信息技术/科技板块跌1.61%，能源板块则收涨2.32%。",
-          "url": "https://wallstreetcn.com/livenews/3104620",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        },
-        {
-          "title": "日久光电：公司调光导电膜下游主要客户包含了光羿科技",
-          "url": "https://flash.jin10.com/detail/20260516130803317800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时29分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌2.80%，报6839.65点，本周累计下跌2.22%。 热门中概股里，金山云初步收跌9.4%，阿里巴巴跌6.2%，B站、小马智行、文远知行、百度至少跌5.6%。 ETF中，中概互联网指数ETF（KWEB）收跌3.53%，本周回撤4.67%； 中国科技指数ETF（CQQQ）收跌3.06%，本周回撤3.17%； XtrackersHarvest中证50（ASHS）收跌2.05%，本周回撤2.06%； 德银嘉实沪深300指数ETF（ASHR）收跌1.85%，本周回撤0.73%，结束此前连续上涨六周的趋势。",
-          "url": "https://wallstreetcn.com/livenews/3104613",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        },
-        {
-          "title": "标普500指数收跌92.74点，跌幅1.24%，报7408.50点。 道琼斯工业平均指数收跌537.29点，跌幅1.07%，报49526.17点。 纳斯达克综合指数（纳指）收跌410.077点，跌幅1.54%，报26225.145点。 纳斯达克100指数收跌455.099点，跌幅1.54%，报29125.20点。 纳斯达克科技市值加权指数收跌1.60%，报2833.1335点。 费城半导体指数收跌485.316点，跌幅4.02%，报11588.463点。 费城证交所KBW银行指数收跌0.70%，报162.80点。 道琼斯KBW地区银行指数收跌1.26%，报129.91点。 罗素2000指数收跌2.44%，报2793.299点。 纳斯达克生物科技指数收跌2.71%，报5825.51点。 标普中盘股400指数收跌1.65%，纳斯达克美国中等市值指数跌1.53%。 恐慌指数VIX收涨6.72%，报18.42。",
-          "url": "https://wallstreetcn.com/livenews/3104611",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20260516002012145800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "Deepseek不语 只是一味跟团",
-          "url": "https://s.weibo.com/weibo?q=Deepseek%E4%B8%8D%E8%AF%AD%20%E5%8F%AA%E6%98%AF%E4%B8%80%E5%91%B3%E8%B7%9F%E5%9B%A2&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28,
-            5,
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时49分 ~ 07时03分]"
-        },
-        {
-          "title": "Anthropic：普华永道（PwC）将推出Claude Code & CoWork。 普华永道在Claude的基础上推出新的Finance Business Group。",
-          "url": "https://wallstreetcn.com/livenews/3104578",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时49分 ~ 03时49分]"
-        },
-        {
-          "title": "网易新闻、网易小蜜蜂宣布已接入DeepSeek-V4",
-          "url": "https://wallstreetcn.com/livenews/3104769",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            16,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时54分 ~ 19时58分]"
+          "time_info": "01时07分"
         },
         {
           "title": "OpenAI与马耳他达成协议，所有马耳他民众都能使用ChatGPT Plus",
           "url": "https://wallstreetcn.com/livenews/3104794",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            12,
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时58分 ~ 23时04分]"
-        },
+          "appearance_count": 1,
+          "time_info": "01时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "市场消息：OpenAI与马耳他达成合作，向所有公民提供ChatGPT Plus服务。",
-          "url": "https://flash.jin10.com/detail/20260516184026768800",
-          "source": "金十数据",
+          "title": "【早报】资本市场支持现代服务业与新型消费企业，利好来了；中际旭创、胜宏科技透露重要信息",
+          "url": "https://www.cls.cn/detail/2373057",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            23,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时58分 ~ 23时04分]"
-        },
-        {
-          "title": "为什么 Deepseek 在输入 <think 后会匹配到疑似其他对话?",
-          "url": "https://www.zhihu.com/question/2038402853274915914",
-          "source": "知乎",
-          "ranks": [
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时53分 ~ 23时04分]"
-        },
-        {
-          "title": "OpenAI联手Plaid，为大众提供量身定制的财务咨询",
-          "url": "https://wallstreetcn.com/livenews/3104554",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时49分"
-        },
-        {
-          "title": "今年早些时候，OpenAI收购了weights.gg。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3104694",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时48分"
+          "time_info": "01时07分"
         }
       ]
     }
