@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-16T11:48:41.013405+08:00",
-  "total_titles_processed": 717,
+  "generated_at": "2026-05-16T14:29:07.547728+08:00",
+  "total_titles_processed": 869,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "【早报】资本市场支持现代服务业与新型消费企业，利好来了；中际旭创、胜宏科技透露重要信息",
+          "url": "https://www.cls.cn/detail/2373057",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时48分 ~ 14时29分]"
+        },
         {
           "title": "为什么我们总怪父母没抓住房产和互联网红利，可轮到自己面对 AI 时代红利时，也没好好抓住？",
           "url": "https://www.zhihu.com/question/2035685308566610183",
@@ -20,17 +31,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时49分 ~ 07时03分]"
-        },
-        {
-          "title": "【早报】资本市场支持现代服务业与新型消费企业，利好来了；中际旭创、胜宏科技透露重要信息",
-          "url": "https://www.cls.cn/detail/2373057",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时48分"
         },
         {
           "title": "【AI冲击初现端倪，美国数类职业连续出现严重岗位流失】2025年美国多个被认为易受人工智能(AI)影响的职业领域连续第二年出现严重的职位流失，其中以客户服务代表以及特定类型的秘书和销售人员受到冲击最为严重。根据周五发布的年度数据，在2024年5月至2025年5月期间，美国劳工统计局标记为暴露在AI风险之下的18个职业组别（涉及约1000万个工作岗位）的就业人数下降了0.2%。相比之下，同期美国整体就业人数增长了0.8%。",
@@ -97,6 +97,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
+        },
+        {
+          "title": "日久光电：公司调光导电膜下游主要客户包含了光羿科技",
+          "url": "https://flash.jin10.com/detail/20260516130803317800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌2.80%，报6839.65点，本周累计下跌2.22%。 热门中概股里，金山云初步收跌9.4%，阿里巴巴跌6.2%，B站、小马智行、文远知行、百度至少跌5.6%。 ETF中，中概互联网指数ETF（KWEB）收跌3.53%，本周回撤4.67%； 中国科技指数ETF（CQQQ）收跌3.06%，本周回撤3.17%； XtrackersHarvest中证50（ASHS）收跌2.05%，本周回撤2.06%； 德银嘉实沪深300指数ETF（ASHR）收跌1.85%，本周回撤0.73%，结束此前连续上涨六周的趋势。",
@@ -181,7 +192,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时48分"
         }
