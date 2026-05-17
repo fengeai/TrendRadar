@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-17T21:48:32.795994+08:00",
-  "total_titles_processed": 1093,
+  "generated_at": "2026-05-17T23:05:34.186222+08:00",
+  "total_titles_processed": 1194,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "国安部：境外间谍对我稀土、光伏、半导体、高端芯片、人工智能等领域实施窃密",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时57分 ~ 21时48分]"
+          "appearance_count": 8,
+          "time_info": "[12时57分 ~ 23时05分]"
         },
         {
           "title": "【早报】资本市场支持现代服务业与新型消费企业，利好来了；中际旭创、胜宏科技透露重要信息",
@@ -29,22 +29,24 @@
             7,
             8,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时07分 ~ 21时48分]"
+          "appearance_count": 15,
+          "time_info": "[01时07分 ~ 23时05分]"
         },
         {
           "title": "抖音拼豆学术交流大会",
           "url": "https://www.douyin.com/hot/2502076",
           "source": "抖音",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时54分 ~ 21时48分]"
+          "appearance_count": 6,
+          "time_info": "[17时54分 ~ 23时05分]"
         },
         {
           "title": "西安电子科技大学某导师官宣跑路，个人主页三连喊「我跑了」，可能是什么情况？反映了大学教育生态什么问题？",
@@ -53,11 +55,12 @@
           "ranks": [
             8,
             6,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时54分 ~ 21时48分]"
+          "appearance_count": 6,
+          "time_info": "[17时54分 ~ 23时05分]"
         },
         {
           "title": "罕见病确诊 这才是互联网的意义",
@@ -99,6 +102,18 @@
           "time_info": "[17时55分 ~ 21时48分]"
         },
         {
+          "title": "长鑫科技招股书更新：一季度营收同比增长719%，净利润330亿元，上半年盈利指引大超预期",
+          "url": "https://wallstreetcn.com/articles/3772456",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时48分 ~ 23时05分]"
+        },
+        {
           "title": "中国移动：将加强5G-A、6G、卫星互联网等通信网关键核心技术攻关",
           "url": "https://wallstreetcn.com/livenews/3104857",
           "source": "华尔街见闻-快讯",
@@ -117,11 +132,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            17
+            17,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 21时48分]"
+          "appearance_count": 3,
+          "time_info": "[19时17分 ~ 23时05分]"
         },
         {
           "title": "长鑫科技：一季度营收同比增长719.13%",
@@ -129,11 +145,36 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            18
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时17分 ~ 23时05分]"
+        },
+        {
+          "title": "纳指科技ETF景顺二级市场出现较大幅度溢价，将于2026年5月18日开市起停牌，自2026年5月18日10:30起复牌，停牌期间赎回业务照常办理。",
+          "url": "https://wallstreetcn.com/livenews/3104878",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时17分 ~ 21时48分]"
+          "time_info": "[21时48分 ~ 23时05分]"
+        },
+        {
+          "title": "如何看待长鑫科技 2026 年 Q1 净利润狂飙至 330 亿，营收暴增 719%？",
+          "url": "https://www.zhihu.com/question/2039409528396048206",
+          "source": "知乎",
+          "ranks": [
+            19,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时48分 ~ 23时05分]"
         },
         {
           "title": "长鑫科技：一季度营收同比增长719.13%，净利润330亿元",
@@ -147,26 +188,28 @@
           "time_info": "[19时16分 ~ 19时17分]"
         },
         {
-          "title": "长鑫科技招股书更新：一季度营收同比增长719%，净利润330亿元，上半年盈利指引大超预期",
-          "url": "https://wallstreetcn.com/articles/3772456",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时48分"
-        },
-        {
-          "title": "纳指科技ETF景顺二级市场出现较大幅度溢价，将于2026年5月18日开市起停牌，自2026年5月18日10:30起复牌，停牌期间赎回业务照常办理。",
-          "url": "https://wallstreetcn.com/livenews/3104878",
+          "title": "宁德时代与厦门市深化战略合作，加快零碳科技城建设与低空经济布局",
+          "url": "https://wallstreetcn.com/livenews/3104875",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            10,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时48分 ~ 23时05分]"
+        },
+        {
+          "title": "宁德时代与厦门市深化战略合作，加快零碳科技城建设与低空经济布局",
+          "url": "https://flash.jin10.com/detail/20260517194805179800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时48分 ~ 23时05分]"
         },
         {
           "title": "终末地赤石科技大赛2",
@@ -175,18 +218,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时48分"
-        },
-        {
-          "title": "宁德时代与厦门市深化战略合作，加快零碳科技城建设与低空经济布局",
-          "url": "https://wallstreetcn.com/livenews/3104875",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时48分"
         },
@@ -202,24 +234,13 @@
           "time_info": "17时55分"
         },
         {
-          "title": "宁德时代与厦门市深化战略合作，加快零碳科技城建设与低空经济布局",
-          "url": "https://flash.jin10.com/detail/20260517194805179800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时48分"
-        },
-        {
           "title": "国家人工智能应用中试基地（具身智能）揭牌 18家企业集中签约",
           "url": "https://flash.jin10.com/detail/20260517194359233800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时48分"
         },
@@ -246,24 +267,13 @@
           "time_info": "12时57分"
         },
         {
-          "title": "如何看待长鑫科技 2026 年 Q1 净利润狂飙至 330 亿，营收暴增 719%？",
-          "url": "https://www.zhihu.com/question/2039409528396048206",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时48分"
-        },
-        {
           "title": "长鑫科技：一季度营收增长719.13%",
           "url": "https://www.toutiao.com/trending/7640141809625104425/",
           "source": "今日头条",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时48分"
         },
@@ -299,6 +309,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
+        },
+        {
+          "title": "长鑫科技一季度营收同比增长719.13%",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E4%B8%80%E5%AD%A3%E5%BA%A6%E8%90%A5%E6%94%B6%E5%90%8C%E6%AF%94%E5%A2%9E%E9%95%BF719.13%25%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
         }
       ]
     },
