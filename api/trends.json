@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-18T01:06:12.236654+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-05-18T03:20:07.933879+08:00",
+  "total_titles_processed": 378,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 01时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 03时20分]"
         },
         {
           "title": "长鑫科技招股书更新：一季度营收同比增长719%，净利润330亿元，上半年盈利指引大超预期",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 01时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 03时20分]"
         },
         {
           "title": "国安部：境外间谍对我稀土、光伏、半导体、高端芯片、人工智能等领域实施窃密",
@@ -37,19 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 01时06分]"
-        },
-        {
-          "title": "抖音拼豆学术交流大会",
-          "url": "https://www.douyin.com/hot/2502076",
-          "source": "抖音",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 01时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 03时20分]"
         },
         {
           "title": "西安电子科技大学某导师官宣跑路，个人主页三连喊「我跑了」，可能是什么情况？反映了大学教育生态什么问题？",
@@ -59,8 +48,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 01时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 03时20分]"
+        },
+        {
+          "title": "抖音拼豆学术交流大会",
+          "url": "https://www.douyin.com/hot/2502076",
+          "source": "抖音",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 03时20分]"
         },
         {
           "title": "【早报】资本市场支持现代服务业与新型消费企业，利好来了；中际旭创、胜宏科技透露重要信息",
@@ -70,19 +71,44 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 01时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 03时20分]"
         },
         {
           "title": "长鑫科技预计上半年净利超500亿元",
           "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E9%A2%84%E8%AE%A1%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%87%80%E5%88%A9%E8%B6%85500%E4%BA%BF%E5%85%83",
           "source": "百度热搜",
           "ranks": [
-            22
+            22,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 03时20分]"
+        },
+        {
+          "title": "纳指科技ETF景顺二级市场出现较大幅度溢价，将于2026年5月18日开市起停牌，自2026年5月18日10:30起复牌，停牌期间赎回业务照常办理。",
+          "url": "https://wallstreetcn.com/livenews/3104878",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时05分 ~ 01时06分]"
+          "time_info": "[01时06分 ~ 03时20分]"
+        },
+        {
+          "title": "宁德时代与厦门市深化战略合作，加快零碳科技城建设与低空经济布局",
+          "url": "https://wallstreetcn.com/livenews/3104875",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 03时20分]"
         },
         {
           "title": "长鑫科技一季度营收同比增长719.13%",
@@ -96,35 +122,13 @@
           "time_info": "[01时05分 ~ 01时06分]"
         },
         {
-          "title": "纳指科技ETF景顺二级市场出现较大幅度溢价，将于2026年5月18日开市起停牌，自2026年5月18日10:30起复牌，停牌期间赎回业务照常办理。",
-          "url": "https://wallstreetcn.com/livenews/3104878",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时06分"
-        },
-        {
-          "title": "宁德时代与厦门市深化战略合作，加快零碳科技城建设与低空经济布局",
-          "url": "https://wallstreetcn.com/livenews/3104875",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时06分"
-        },
-        {
           "title": "长鑫科技：预计上半年营收1100至1200亿元，净利润500亿元至570亿元",
           "url": "https://wallstreetcn.com/livenews/3104866",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
         },
@@ -135,7 +139,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
         }
