@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-18T03:20:07.933879+08:00",
-  "total_titles_processed": 378,
+  "generated_at": "2026-05-18T05:03:37.219183+08:00",
+  "total_titles_processed": 430,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "如何看待长鑫科技 2026 年 Q1 净利润狂飙至 330 亿，营收暴增 719%？",
@@ -15,8 +15,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时05分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[01时05分 ~ 05时03分]"
+        },
+        {
+          "title": "国安部：境外间谍对我稀土、光伏、半导体、高端芯片、人工智能等领域实施窃密",
+          "url": "https://www.cls.cn/detail/2373269",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时05分 ~ 05时03分]"
         },
         {
           "title": "长鑫科技招股书更新：一季度营收同比增长719%，净利润330亿元，上半年盈利指引大超预期",
@@ -26,30 +38,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时05分 ~ 03时20分]"
-        },
-        {
-          "title": "国安部：境外间谍对我稀土、光伏、半导体、高端芯片、人工智能等领域实施窃密",
-          "url": "https://www.cls.cn/detail/2373269",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时05分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[01时05分 ~ 05时03分]"
         },
         {
           "title": "西安电子科技大学某导师官宣跑路，个人主页三连喊「我跑了」，可能是什么情况？反映了大学教育生态什么问题？",
           "url": "https://www.zhihu.com/question/2038901266051502596",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时05分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[01时05分 ~ 05时03分]"
         },
         {
           "title": "抖音拼豆学术交流大会",
@@ -57,11 +59,12 @@
           "source": "抖音",
           "ranks": [
             4,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时05分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[01时05分 ~ 05时03分]"
         },
         {
           "title": "【早报】资本市场支持现代服务业与新型消费企业，利好来了；中际旭创、胜宏科技透露重要信息",
@@ -71,8 +74,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时05分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[01时05分 ~ 05时03分]"
         },
         {
           "title": "长鑫科技预计上半年净利超500亿元",
@@ -80,11 +83,12 @@
           "source": "百度热搜",
           "ranks": [
             22,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时05分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[01时05分 ~ 05时03分]"
         },
         {
           "title": "纳指科技ETF景顺二级市场出现较大幅度溢价，将于2026年5月18日开市起停牌，自2026年5月18日10:30起复牌，停牌期间赎回业务照常办理。",
@@ -92,11 +96,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             19,
-            21
+            21,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 03时20分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 05时03分]"
         },
         {
           "title": "宁德时代与厦门市深化战略合作，加快零碳科技城建设与低空经济布局",
@@ -120,6 +125,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时05分 ~ 01时06分]"
+        },
+        {
+          "title": "瑞典首相：居住在瑞典的8万多名印度裔群体对我们的经济和社会做出了重大贡献，尤为值得一提的是，他们为瑞典各地的高科技领域带来了亟需的专业技能。",
+          "url": "https://flash.jin10.com/detail/20260518031625378800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时03分"
         },
         {
           "title": "长鑫科技：预计上半年营收1100至1200亿元，净利润500亿元至570亿元",
