@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-18T13:13:04.335694+08:00",
-  "total_titles_processed": 788,
+  "generated_at": "2026-05-18T18:20:42.631562+08:00",
+  "total_titles_processed": 997,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 20,
+      "match_count": 27,
       "titles": [
         {
           "title": "长鑫科技招股书更新：一季度营收同比增长719%，净利润330亿元，上半年盈利指引大超预期",
@@ -115,7 +115,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -189,15 +189,70 @@
           "time_info": "08时07分"
         },
         {
+          "title": "杭州公司推宠物翻译神器，大模型 + 超 500 万条声纹数据，号称准确率 94%，是真突破还是智商税？",
+          "url": "https://www.zhihu.com/question/2039331976692200758",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
+          "title": "科技大佬Gavin Baker：亚马逊芯片是黑马，太空数据中心快来了，台积电在帮所有人避泡沫",
+          "url": "https://wallstreetcn.com/articles/3772477",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
+          "title": "【每日收评】三大指数缩量整理小幅收跌，科技股有所回暖，存储芯片、机器人概念反复活跃",
+          "url": "https://www.cls.cn/detail/2374260",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
           "title": "期货热点追踪",
           "url": "https://flash.jin10.com/detail/20260518124720351800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
+        },
+        {
+          "title": "美国和菲律宾正“迅速推进”建设人工智能中心的计划",
+          "url": "https://flash.jin10.com/detail/20260518180646973800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
+          "title": "港美互联网LOF：调降大额申购和定期定额投资业务金额至10,000元人民币。",
+          "url": "https://flash.jin10.com/detail/20260518180459761800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "AI高景气与盈利持续兑现，机构：资金或往科技方向进一步集中",
@@ -209,6 +264,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
+        },
+        {
+          "title": "复洁科技：股东隽洁投资拟减持不超3%",
+          "url": "https://flash.jin10.com/detail/20260518180312280800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
+          "title": "商务部：正在抓紧筹划出台“人工智能+消费”政策体系",
+          "url": "https://wallstreetcn.com/livenews/3105280",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "瑞典首相：居住在瑞典的8万多名印度裔群体对我们的经济和社会做出了重大贡献，尤为值得一提的是，他们为瑞典各地的高科技领域带来了亟需的专业技能。",
@@ -256,7 +333,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -267,7 +344,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         }
