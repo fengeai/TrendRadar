@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-18T08:07:41.772468+08:00",
-  "total_titles_processed": 569,
+  "generated_at": "2026-05-18T13:13:04.335694+08:00",
+  "total_titles_processed": 788,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
+        {
+          "title": "长鑫科技招股书更新：一季度营收同比增长719%，净利润330亿元，上半年盈利指引大超预期",
+          "url": "https://wallstreetcn.com/articles/3772456",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时05分 ~ 13时13分]"
+        },
         {
           "title": "国安部：境外间谍对我稀土、光伏、半导体、高端芯片、人工智能等领域实施窃密",
           "url": "https://www.cls.cn/detail/2373269",
@@ -32,15 +43,20 @@
           "time_info": "[01时05分 ~ 08时07分]"
         },
         {
-          "title": "长鑫科技招股书更新：一季度营收同比增长719%，净利润330亿元，上半年盈利指引大超预期",
-          "url": "https://wallstreetcn.com/articles/3772456",
-          "source": "华尔街见闻",
+          "title": "抖音拼豆学术交流大会",
+          "url": "https://www.douyin.com/hot/2502076",
+          "source": "抖音",
           "ranks": [
-            4
+            4,
+            7,
+            6,
+            9,
+            18,
+            27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时05分 ~ 08时07分]"
+          "appearance_count": 10,
+          "time_info": "[01时05分 ~ 13时13分]"
         },
         {
           "title": "西安电子科技大学某导师官宣跑路，个人主页三连喊「我跑了」，可能是什么情况？反映了大学教育生态什么问题？",
@@ -51,21 +67,6 @@
             7,
             13,
             14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时05分 ~ 08时07分]"
-        },
-        {
-          "title": "抖音拼豆学术交流大会",
-          "url": "https://www.douyin.com/hot/2502076",
-          "source": "抖音",
-          "ranks": [
-            4,
-            7,
-            6,
-            9,
-            18
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -95,6 +96,28 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时05分 ~ 07时01分]"
+        },
+        {
+          "title": "提前盈利！长鑫科技更新科创板IPO招股书 存储行情推动Q1业绩“狂飙”",
+          "url": "https://www.cls.cn/detail/2373552",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时12分 ~ 13时13分]"
+        },
+        {
+          "title": "A股PCB概念股午后拉升，广信材料直线拉升20cm涨停，温州宏丰涨超10%，生益科技、赛意信息、奕东电子、兴森科技跟涨。",
+          "url": "https://flash.jin10.com/detail/20260518131037650800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
         },
         {
           "title": "纳指科技ETF景顺二级市场出现较大幅度溢价，将于2026年5月18日开市起停牌，自2026年5月18日10:30起复牌，停牌期间赎回业务照常办理。",
@@ -139,7 +162,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
         },
@@ -150,7 +173,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
         },
@@ -161,9 +184,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260518124720351800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
         },
         {
           "title": "AI高景气与盈利持续兑现，机构：资金或往科技方向进一步集中",
@@ -172,7 +206,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
         },
@@ -208,6 +242,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "独立开发 创业 副业",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "上证指数早盘收报4126.35点，跌0.22%。 深证成指早盘收报15513.13点，跌0.31%。 创业板指早盘收报3909.26点，跌0.50%。 沪深300早盘收报4826.19点，跌0.69%。 科创50早盘收报1712.79点，涨0.97%。 中证500早盘收报8554.27点，涨0.21%。 中证1000早盘收报8715.43点，涨0.38%。",
+          "url": "https://wallstreetcn.com/livenews/3105094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
+          "title": "5月18日午间收评：创业板指冲高回落跌0.5%，存储芯片板块逆势走强",
+          "url": "https://wallstreetcn.com/livenews/3105093",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
         }
       ]
     }
