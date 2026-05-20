@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-20T07:13:17.709421+08:00",
-  "total_titles_processed": 561,
+  "generated_at": "2026-05-20T12:14:53.941286+08:00",
+  "total_titles_processed": 793,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "谈判前景反复无常，油价先跌后涨，美股承压，科技股领跌",
@@ -20,6 +20,20 @@
           "time_info": "[00时29分 ~ 07时13分]"
         },
         {
+          "title": "中美同意开展人工智能政府间对话",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E5%90%8C%E6%84%8F%E5%BC%80%E5%B1%95%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%94%BF%E5%BA%9C%E9%97%B4%E5%AF%B9%E8%AF%9D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            6,
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 12时14分]"
+        },
+        {
           "title": "恒生指数主连夜盘收跌0.40%，报25603点。 恒生科技指数主连夜盘收跌0.08%，报4851点。",
           "url": "https://wallstreetcn.com/livenews/3106224",
           "source": "华尔街见闻-快讯",
@@ -29,19 +43,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
-        },
-        {
-          "title": "中美同意开展人工智能政府间对话",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E5%90%8C%E6%84%8F%E5%BC%80%E5%B1%95%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%94%BF%E5%BA%9C%E9%97%B4%E5%AF%B9%E8%AF%9D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 07时13分]"
         },
         {
           "title": "英伟达(NVDA.O)：与谷歌云助力下一波人工智能开发者。",
@@ -72,11 +73,12 @@
           "ranks": [
             16,
             17,
-            18
+            18,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 07时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 12时14分]"
         },
         {
           "title": "【数据看盘】五家机构博弈光迅科技 一线游资、量化资金扎堆沪硅产业",
@@ -112,13 +114,35 @@
           "time_info": "05时27分"
         },
         {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-05-20）",
+          "url": "https://flash.jin10.com/detail/20260520115627016800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
+        },
+        {
+          "title": "张雪机车车手卡里卡苏洛开抖音了",
+          "url": "https://www.douyin.com/hot/2505142",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
+        },
+        {
           "title": "周二（5月19日），美股AI软件先驱指数跌0.12%，报107.31点，高开高走之际、北京时间21:52刷新日高至110.81点，随后回吐涨幅，23:25以来大致持平。 成分股甲骨文收跌2.76%，铿腾电子跌2.27%，ServiceNOW、微软至少跌1.44%，新思科技跌0.91%，GitLab涨1.47%，Datadog涨3.03%，Snowflake涨3.23%。",
           "url": "https://wallstreetcn.com/livenews/3106273",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -140,7 +164,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -151,9 +175,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "金银迎“大轮动”？基金经理：卖掉科技股买入金银，这是市场“最后一口气”",
+          "url": "https://flash.jin10.com/detail/20260520114855641800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
         },
         {
           "title": "美股七巨头收盘播报｜周二（5月19日），美国科技股七巨头（Magnificent 7）指数跌1.16%，报223.24点。 “超大”市值科技股指数跌1.50%，报440.54点。",
@@ -162,7 +197,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -181,7 +216,7 @@
     },
     {
       "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenAI创始成员Karpathy宣布，跳槽至Anthropic。",
@@ -219,13 +254,24 @@
           "time_info": "[00时29分 ~ 07时13分]"
         },
         {
+          "title": "OpenAI投2.34亿美元在新加坡设立新AI实验室",
+          "url": "https://flash.jin10.com/detail/20260520115552905800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
+        },
+        {
           "title": "报道：SpaceX计划在美国IPO后30天内收购AI编程初创公司Cursor",
           "url": "https://wallstreetcn.com/livenews/3106274",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -236,7 +282,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -250,6 +296,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "独立开发 创业 副业",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "上证指数早盘收报4150.98点，跌0.45%。 深证成指早盘收报15512.08点，跌0.37%。 创业板指早盘收报3910.52点，涨0.05%。 沪深300早盘收报4839.16点，跌0.28%。 科创50早盘收报1811.43点，涨2.04%。 中证500早盘收报8612.51点，跌0.18%。 中证1000早盘收报8757.78点，跌0.58%。",
+          "url": "https://wallstreetcn.com/livenews/3106432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
         }
       ]
     }
