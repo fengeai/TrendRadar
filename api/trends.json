@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-21T05:04:23.427149+08:00",
-  "total_titles_processed": 402,
+  "generated_at": "2026-05-21T07:20:34.525808+08:00",
+  "total_titles_processed": 487,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 10,
+      "match_count": 16,
       "titles": [
         {
           "title": "长鑫科技IPO将于5月27日上会，拟募资295亿元",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时25分 ~ 05时04分]"
+          "appearance_count": 4,
+          "time_info": "[02时25分 ~ 07时20分]"
         },
         {
           "title": "抖音禁止录播伪装为直播",
@@ -24,11 +24,36 @@
           "source": "微博",
           "ranks": [
             9,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时25分 ~ 05时04分]"
+          "appearance_count": 4,
+          "time_info": "[02时25分 ~ 07时20分]"
+        },
+        {
+          "title": "抖音全民写作大赛开赛",
+          "url": "https://www.douyin.com/hot/2505564",
+          "source": "抖音",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时25分 ~ 07时20分]"
+        },
+        {
+          "title": "中美同意开展人工智能政府间对话",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E5%90%8C%E6%84%8F%E5%BC%80%E5%B1%95%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%94%BF%E5%BA%9C%E9%97%B4%E5%AF%B9%E8%AF%9D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时25分 ~ 07时20分]"
         },
         {
           "title": "抖音封了打焦赞直播间",
@@ -42,35 +67,13 @@
           "time_info": "[02时25分 ~ 05时04分]"
         },
         {
-          "title": "抖音全民写作大赛开赛",
-          "url": "https://www.douyin.com/hot/2505564",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时25分 ~ 05时04分]"
-        },
-        {
-          "title": "中美同意开展人工智能政府间对话",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E5%90%8C%E6%84%8F%E5%BC%80%E5%B1%95%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%94%BF%E5%BA%9C%E9%97%B4%E5%AF%B9%E8%AF%9D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时25分 ~ 05时04分]"
-        },
-        {
           "title": "报道：白宫向人工智能公司介绍审查AI模型的行政令",
           "url": "https://wallstreetcn.com/livenews/3106911",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -81,9 +84,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
+        },
+        {
+          "title": "马斯克：我们正在与其他公司讨论开展同样的合作。随着时间的推移，特别是借助轨道数据中心，我们预计将以极高的规模提供人工智能服务。",
+          "url": "https://flash.jin10.com/detail/20260521063704751800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.44%，报6760.29点。 热门中概股里，万国数据初步收跌9.1%，金山云跌4.2%，蔚来跌2%。 ETF中，MSCI新兴市场ex中国ETF（EMXC）收涨2.38%，XtrackersHarvest中证50（ASHS）收涨1.91%，德银嘉实沪深300指数ETF（ASHR）收涨1.00%。 中国科技指数ETF（CQQQ）收涨1.74%，中概互联网指数ETF（KWEB）收跌0.57%。",
@@ -92,9 +106,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
+        },
+        {
+          "title": "马斯克：最近与AnthropicAI扩展的合作关系表明，SpaceX正在大规模提供人工智能计算服务。",
+          "url": "https://flash.jin10.com/detail/20260521063630853800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
         },
         {
           "title": "标普500指数初步收涨1%，可选消费、科技、原材料、金融、工业、房地产板块至少涨约1%，能源板块跌2.3%。 纳斯达克100指数初步收涨1.6%，成分股中，Arm控股初步收涨15%，核电股CEG涨7.9%，AMD、英特尔、拉姆研究、德康医疗、阿斯麦ADR、迈威尔科技至少涨5.7%，Workday则跌2.1%，Lumentum跌2.5%，沃尔玛跌2.8%，财捷INTU跌3.6%，ADI跌4.2%。 高盛初步收涨5.6%，耐克、波音、SHW、家得宝、亚马逊、摩根大通涨超2%，领跑道指成分股，联合健康跌1.6%，雪佛龙跌2.8%，与沃尔玛表现最差。 半导体指数涨4.5%。",
@@ -103,9 +128,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
+        },
+        {
+          "title": "美联储拟推精简版支付账户，向金融科技公司开放其支付系统",
+          "url": "https://flash.jin10.com/detail/20260521061447533800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "纳指期货跌幅在亚太盘初扩大至0.9%，科技股AMD美股盘后跌2.6%，高通跌2%，美光跌1.6%，英特尔跌1.5%，英伟达跌1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3106963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
         },
         {
           "title": "恒生指数主连夜盘收涨0.73%，报25761点。 恒生科技指数主连夜盘收涨0.51%，报4899点。",
@@ -114,9 +161,31 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：包含人工智能新型云业务的新报告板块增速将超过超大规模数据中心子板块。",
+          "url": "https://flash.jin10.com/detail/20260521055614526800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：从长远来看，人工智能的经济格局将发生转变，而“第二阵营（Second category）”——这是他对超大规模云服务商（Hyperscalers）之外的 AI 技术应用的全新称呼——规模将会变得庞大得多。 “我同时寄希望于在未来的五年内，物理 AI（Physical AI）与机器人细分领域能够迎来令人难以置信的爆发式增长。”",
+          "url": "https://wallstreetcn.com/livenews/3106957",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
         }
       ]
     },
@@ -130,11 +199,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时25分 ~ 05时04分]"
+          "appearance_count": 4,
+          "time_info": "[02时25分 ~ 07时20分]"
         },
         {
           "title": "据知情人士透露，OpenAI按达到、或超过1万亿美元估值的预期筹备IPO。（英国金融时报）",
