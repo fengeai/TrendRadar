@@ -1,370 +1,94 @@
 {
-  "generated_at": "2026-05-21T20:23:59.152146+08:00",
-  "total_titles_processed": 1097,
-  "failed_sources": [
-    "cls-hot"
-  ],
+  "generated_at": "2026-05-22T00:21:32.755499+08:00",
+  "total_titles_processed": 311,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 31,
+      "match_count": 7,
       "titles": [
         {
-          "title": "长鑫科技IPO将于5月27日上会，拟募资295亿元",
-          "url": "https://www.cls.cn/detail/2376986",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时25分 ~ 07时20分]"
-        },
-        {
-          "title": "【早报】美股科技巨头全线走高；英伟达财报出炉、SpaceX启动IPO",
-          "url": "https://www.cls.cn/detail/2377339",
+          "title": "A股放量回调，小作文惹祸？多家基金公司一线解读：高位科技兑现与海外利率扰动是主因",
+          "url": "https://www.cls.cn/detail/2378280",
           "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时22分 ~ 16时39分]"
+          "appearance_count": 1,
+          "time_info": "00时21分"
         },
         {
-          "title": "抖音全民写作大赛开赛",
-          "url": "https://www.douyin.com/hot/2505564",
+          "title": "微软推出必应图像搜索。 微软对其推出由人工智能（AI）引导的升级。",
+          "url": "https://wallstreetcn.com/livenews/3107538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        },
+        {
+          "title": "张雪机车冠军车手瓦伦丁抖音独播",
+          "url": "https://www.douyin.com/hot/2506870",
           "source": "抖音",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时25分 ~ 16时39分]"
-        },
-        {
-          "title": "抖音禁止录播伪装为直播",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%8A%96%E9%9F%B3%E7%A6%81%E6%AD%A2%E5%BD%95%E6%92%AD%E4%BC%AA%E8%A3%85%E4%B8%BA%E7%9B%B4%E6%92%AD%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9,
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时25分 ~ 07时20分]"
-        },
-        {
-          "title": "中美同意开展人工智能政府间对话",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E5%90%8C%E6%84%8F%E5%BC%80%E5%B1%95%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%94%BF%E5%BA%9C%E9%97%B4%E5%AF%B9%E8%AF%9D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19,
-            18,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时25分 ~ 12时23分]"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-05-21）",
-          "url": "https://flash.jin10.com/detail/20260521115449640800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时23分"
-        },
-        {
-          "title": "投了长鑫科技 合肥赚了一个合肥",
-          "url": "https://www.toutiao.com/trending/7641330476858359827/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "韩股涨到“熔断”！三星最后关头避免罢工 韩国科技股集体暴涨",
-          "url": "https://www.cls.cn/detail/2377510",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时22分 ~ 16时39分]"
-        },
-        {
-          "title": "如何看待当前的恒生科技",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%BD%93%E5%89%8D%E7%9A%84%E6%81%92%E7%94%9F%E7%A7%91%E6%8A%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        },
-        {
-          "title": "抖音封了打焦赞直播间",
-          "url": "https://s.weibo.com/weibo?q=%E6%8A%96%E9%9F%B3%E5%B0%81%E4%BA%86%E6%89%93%E7%84%A6%E8%B5%9E%E7%9B%B4%E6%92%AD%E9%97%B4&t=31&band_rank=10&Refer=top",
-          "source": "微博",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时25分 ~ 05时04分]"
+          "appearance_count": 1,
+          "time_info": "00时21分"
         },
         {
           "title": "砺算科技 7g100 国产显卡开启预约，12GB 售 3299 元，其市场竞争力如何？",
           "url": "https://www.zhihu.com/question/2040569394959491641",
           "source": "知乎",
           "ranks": [
-            7,
-            8
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时39分 ~ 20时23分]"
+          "appearance_count": 1,
+          "time_info": "00时21分"
         },
         {
-          "title": "张雪机车5冠背后黑科技曝光",
-          "url": "https://www.toutiao.com/trending/7641960121714626089/",
+          "title": "据日经新闻：川崎重工将与英伟达合作开展物理人工智能，并在美国开设机器人中心。英伟达的仿真技术将应用于川崎重工的Corleo。除了英伟达，川崎重工将与微软和富士通在美国中心合作。川崎重工与英伟达的合作将初步聚焦于医疗和移动领域。",
+          "url": "https://flash.jin10.com/detail/20260521233812388800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        },
+        {
+          "title": "投了长鑫科技 合肥赚了一个合肥",
+          "url": "https://www.toutiao.com/trending/7641330476858359827/",
           "source": "今日头条",
           "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 12时23分]"
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20260521111656607800",
-          "source": "金十数据",
-          "ranks": [
-            28,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时23分 ~ 16时39分]"
-        },
-        {
-          "title": "报道：白宫向人工智能公司介绍审查AI模型的行政令",
-          "url": "https://wallstreetcn.com/livenews/3106911",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
-          "title": "超越GPT-Realtime-2，阿里语音大模型获三项第一",
-          "url": "https://flash.jin10.com/detail/20260521114818831800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时23分"
-        },
-        {
-          "title": "标普500指数的11个板块普遍上涨，可选消费板块收涨2.5%，信息技术/科技板块涨1.87%，原材料板块反弹1.39%，能源板块跌2.59%。",
-          "url": "https://wallstreetcn.com/livenews/3106909",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
-          "title": "恒生指数收盘跌1.03%，恒生科技指数跌2.15%",
-          "url": "https://wallstreetcn.com/livenews/3107294",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        },
-        {
-          "title": "马斯克：我们正在与其他公司讨论开展同样的合作。随着时间的推移，特别是借助轨道数据中心，我们预计将以极高的规模提供人工智能服务。",
-          "url": "https://flash.jin10.com/detail/20260521063704751800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.44%，报6760.29点。 热门中概股里，万国数据初步收跌9.1%，金山云跌4.2%，蔚来跌2%。 ETF中，MSCI新兴市场ex中国ETF（EMXC）收涨2.38%，XtrackersHarvest中证50（ASHS）收涨1.91%，德银嘉实沪深300指数ETF（ASHR）收涨1.00%。 中国科技指数ETF（CQQQ）收涨1.74%，中概互联网指数ETF（KWEB）收跌0.57%。",
-          "url": "https://wallstreetcn.com/livenews/3106905",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
-          "title": "马斯克：最近与AnthropicAI扩展的合作关系表明，SpaceX正在大规模提供人工智能计算服务。",
-          "url": "https://flash.jin10.com/detail/20260521063630853800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "深交所发布对北京利仁科技股份有限公司2025年年报的问询函",
-          "url": "https://flash.jin10.com/detail/20260521201529801800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "标普500指数初步收涨1%，可选消费、科技、原材料、金融、工业、房地产板块至少涨约1%，能源板块跌2.3%。 纳斯达克100指数初步收涨1.6%，成分股中，Arm控股初步收涨15%，核电股CEG涨7.9%，AMD、英特尔、拉姆研究、德康医疗、阿斯麦ADR、迈威尔科技至少涨5.7%，Workday则跌2.1%，Lumentum跌2.5%，沃尔玛跌2.8%，财捷INTU跌3.6%，ADI跌4.2%。 高盛初步收涨5.6%，耐克、波音、SHW、家得宝、亚马逊、摩根大通涨超2%，领跑道指成分股，联合健康跌1.6%，雪佛龙跌2.8%，与沃尔玛表现最差。 半导体指数涨4.5%。",
-          "url": "https://wallstreetcn.com/livenews/3106903",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
-          "title": "香港恒生指数5月21日（周四）收盘下跌264.6点，跌幅1.03%，报25386.52点；<br/>香港恒生科技指数5月21日（周四）收盘下跌104.92点，跌幅2.15%，报4768.9点；<br/>国企指数5月21日（周四）收盘下跌129.81点，跌幅1.51%，报8475.32点；<br/>红筹指数5月21日（周四）收盘下跌34.06点，跌幅0.76%，报4434.01点。",
-          "url": "https://flash.jin10.com/detail/20260521161230431800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        },
-        {
-          "title": "美联储拟推精简版支付账户，向金融科技公司开放其支付系统",
-          "url": "https://flash.jin10.com/detail/20260521061447533800",
-          "source": "金十数据",
-          "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时20分"
+          "time_info": "00时21分"
         },
         {
-          "title": "国家发展改革委：将完善公平竞争、投融资、促进科技创新、规范经营等方面政策举措",
-          "url": "https://wallstreetcn.com/livenews/3107113",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时23分"
-        },
-        {
-          "title": "纳指期货跌幅在亚太盘初扩大至0.9%，科技股AMD美股盘后跌2.6%，高通跌2%，美光跌1.6%，英特尔跌1.5%，英伟达跌1.5%。",
-          "url": "https://wallstreetcn.com/livenews/3106963",
+          "title": "白宫推迟美国总统特朗普的人工智能（AI）行政命令的签字仪式。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3107523",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "德国政府发布“高科技议程”路线图",
-          "url": "https://wallstreetcn.com/livenews/3107105",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时23分"
-        },
-        {
-          "title": "恒生指数主连夜盘收涨0.73%，报25761点。 恒生科技指数主连夜盘收涨0.51%，报4899点。",
-          "url": "https://wallstreetcn.com/livenews/3106893",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：包含人工智能新型云业务的新报告板块增速将超过超大规模数据中心子板块。",
-          "url": "https://flash.jin10.com/detail/20260521055614526800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：从长远来看，人工智能的经济格局将发生转变，而“第二阵营（Second category）”——这是他对超大规模云服务商（Hyperscalers）之外的 AI 技术应用的全新称呼——规模将会变得庞大得多。 “我同时寄希望于在未来的五年内，物理 AI（Physical AI）与机器人细分领域能够迎来令人难以置信的爆发式增长。”",
-          "url": "https://wallstreetcn.com/livenews/3106957",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "上抖音看德国队大名单直播",
-          "url": "https://www.douyin.com/hot/2507158",
-          "source": "抖音",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
+          "time_info": "00时21分"
         }
       ]
     },
     {
       "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
         {
           "title": "如何评价 OpenAI 称推翻困扰数学界近 80 年的「平面单位距离猜想」？这一结果的可信度如何？",
@@ -373,55 +97,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时23分"
+          "time_info": "00时21分"
         },
         {
           "title": "不小心把DeepSeek叫成豆包",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8A%8ADeepSeek%E5%8F%AB%E6%88%90%E8%B1%86%E5%8C%85&t=31&band_rank=4&Refer=top",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8A%8ADeepSeek%E5%8F%AB%E6%88%90%E8%B1%86%E5%8C%85&t=31&band_rank=7&Refer=top",
           "source": "微博",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "如何看待 DeepSeek 组建 Harness 团队对标 Claude Code？",
-          "url": "https://www.zhihu.com/question/2040450519303288568",
-          "source": "知乎",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时25分 ~ 07时20分]"
-        },
-        {
-          "title": "OpenAI最快本周秘密递表，不想让华尔街的钱全流向马斯克？",
-          "url": "https://flash.jin10.com/detail/20260521113142876800",
-          "source": "金十数据",
-          "ranks": [
-            16
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时23分"
-        },
-        {
-          "title": "据知情人士透露，OpenAI按达到、或超过1万亿美元估值的预期筹备IPO。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3106863",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时26分"
+          "time_info": "00时21分"
         }
       ]
     },
@@ -430,15 +119,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "上证指数早盘收报4162.37点，涨0.00%。 深证成指早盘收报15662.21点，涨0.59%。 创业板指早盘收报3942.36点，涨0.52%。 沪深300早盘收报4878.61点，涨0.58%。 科创50早盘收报1830.90点，跌0.06%。 中证500早盘收报8670.32点，涨0.16%。 中证1000早盘收报8777.55点，跌0.36%。",
-          "url": "https://wallstreetcn.com/livenews/3107135",
-          "source": "华尔街见闻-快讯",
+          "title": "马斯克透露三个创业新风口",
+          "url": "https://www.toutiao.com/trending/7642290815179915270/",
+          "source": "今日头条",
           "ranks": [
-            4
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时23分"
+          "time_info": "00时21分"
         }
       ]
     }
