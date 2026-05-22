@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-22T07:11:12.972261+08:00",
-  "total_titles_processed": 552,
+  "generated_at": "2026-05-22T12:18:30.990151+08:00",
+  "total_titles_processed": 793,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 15,
+      "match_count": 30,
       "titles": [
         {
           "title": "A股放量回调，小作文惹祸？多家基金公司一线解读：高位科技兑现与海外利率扰动是主因",
@@ -15,8 +15,32 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 07时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 12时18分]"
+        },
+        {
+          "title": "投了长鑫科技 合肥赚了一个合肥",
+          "url": "https://www.toutiao.com/trending/7641330476858359827/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 12时18分]"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-05-22）",
+          "url": "https://flash.jin10.com/detail/20260522114816207800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
         },
         {
           "title": "砺算科技 7g100 国产显卡开启预约，12GB 售 3299 元，其市场竞争力如何？",
@@ -33,17 +57,37 @@
           "time_info": "[00时21分 ~ 07时11分]"
         },
         {
-          "title": "投了长鑫科技 合肥赚了一个合肥",
-          "url": "https://www.toutiao.com/trending/7641330476858359827/",
-          "source": "今日头条",
+          "title": "朗新科技：公司一季度完成交易电量近45亿度 是去年同期的6倍",
+          "url": "https://flash.jin10.com/detail/20260522114545422800",
+          "source": "金十数据",
           "ranks": [
-            20,
-            15,
-            16
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 07时11分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
+          "title": "恒生指数涨幅扩大至1.1%，恒生科技指数涨1.8%。联想集团涨超15%。",
+          "url": "https://wallstreetcn.com/livenews/3107770",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
+          "title": "联合国准备改写全球征税规则，科技巨头“低税时代”恐将结束",
+          "url": "https://flash.jin10.com/detail/20260522113945167800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
         },
         {
           "title": "A股科技行情调整，业内人士：整体风险或相对可控",
@@ -52,7 +96,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -116,6 +160,61 @@
           "time_info": "00时21分"
         },
         {
+          "title": "恒生科技指数持续走强涨超2%。",
+          "url": "https://flash.jin10.com/detail/20260522113748755800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
+          "title": "国家发改委：指导国产大模型加大力度适配国产算力芯片",
+          "url": "https://wallstreetcn.com/livenews/3107761",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
+          "title": "国家发改委：正在谋划出台加快“人工智能+”落地的配套文件 进一步加大要素保障",
+          "url": "https://www.cls.cn/detail/2378704",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
+          "title": "国家发改委：要让真正的硬科技企业受益，2026年集成电路企业税收优惠清单与往年保持一致。",
+          "url": "https://wallstreetcn.com/livenews/3107751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
+          "title": "国网68亿采购引爆电力机器人赛道 申昊科技订单放量力争扭亏 | 直击股东会",
+          "url": "https://www.cls.cn/detail/2378518",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
           "title": "美联储巴尔金：就人工智能的短期与长期影响得出结论很困难。",
           "url": "https://flash.jin10.com/detail/20260522020549910800",
           "source": "金十数据",
@@ -125,6 +224,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
+        },
+        {
+          "title": "国家发改委：正在谋划出台加快人工智能落地的配套文件",
+          "url": "https://wallstreetcn.com/livenews/3107744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
+          "title": "恒指午盘前持续走强涨超1%，联想集团(00992.HK)涨超15%领涨成分股，恒生科技指数现涨1.7%。",
+          "url": "https://flash.jin10.com/detail/20260522112849020800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
         },
         {
           "title": "据日经新闻：川崎重工将与英伟达合作开展物理人工智能，并在美国开设机器人中心。英伟达的仿真技术将应用于川崎重工的Corleo。除了英伟达，川崎重工将与微软和富士通在美国中心合作。川崎重工与英伟达的合作将初步聚焦于医疗和移动领域。",
@@ -149,6 +270,17 @@
           "time_info": "03时05分"
         },
         {
+          "title": "智谱大涨逾20% 公司推出ZCube组网架构且有望入恒生科技指数",
+          "url": "https://wallstreetcn.com/livenews/3107737",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
           "title": "美联储巴尔金：从近期的就业增长中受到鼓舞，但不难想象人工智能可能导致的就业损失。",
           "url": "https://flash.jin10.com/detail/20260522020357566800",
           "source": "金十数据",
@@ -158,6 +290,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
+        },
+        {
+          "title": "港股AI应用板块持续走强，智谱(02513.HK)涨超21%，MINIMAX-W(00100.HK)涨超11%，网易-S(09999.HK)涨超7%，知行科技(01274.HK)、佑驾创新(02431.HK)等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260522112056100800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
         },
         {
           "title": "白宫推迟美国总统特朗普的人工智能（AI）行政命令的签字仪式。（Axios）",
@@ -171,6 +314,17 @@
           "time_info": "00时21分"
         },
         {
+          "title": "国家发改委：从未要求中国科技企业不得接受外商投资",
+          "url": "https://wallstreetcn.com/livenews/3107734",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
           "title": "纳斯达克金龙中国指数收跌1.50%，报6659.19点。 热门中概股里，贝壳初步收跌6.5%，新东方跌4.5%，B站跌3.7%，万国数据跌3.5%，腾讯跌3.1%，百度跌2.9%，阿里跌2.1%，小米跌1.3%，大全新能源涨2.4%，文远知行涨3.4%，阿特斯太阳能涨8.5%。 ETF中，中国科技指数ETF（CQQQ）收跌1.92%，中概互联网指数ETF（KWEB）收跌1.74%。 XtrackersHarvest中证50（ASHS）收跌2.39%，德银嘉实沪深300指数ETF（ASHR）收跌0.73%，MSCI新兴市场ex中国ETF（EMXC）收涨1.40%。",
           "url": "https://wallstreetcn.com/livenews/3107612",
           "source": "华尔街见闻-快讯",
@@ -180,6 +334,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
+        },
+        {
+          "title": "中国贸促会：第四届链博会首次设立人工智能专区 集聚英伟达等中外人工智能领域领军企业",
+          "url": "https://flash.jin10.com/detail/20260522111320425800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
         }
       ]
     },
@@ -263,7 +428,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -282,8 +447,30 @@
     },
     {
       "keyword_group": "独立开发 创业 副业",
-      "match_count": 1,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "上证指数早盘收报4096.24点，涨0.47%。 深证成指早盘收报15458.88点，涨1.39%。 创业板指早盘收报3902.74点，涨1.91%。 沪深300早盘收报4816.59点，涨0.70%。 科创50早盘收报1763.27点，跌0.05%。 中证500早盘收报8496.29点，涨0.91%。 中证1000早盘收报8629.50点，涨1.40%。",
+          "url": "https://wallstreetcn.com/livenews/3107769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
+          "title": "5月22日午间收评：创业板指半日涨近2%，算力硬件股集体走强",
+          "url": "https://wallstreetcn.com/livenews/3107768",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
         {
           "title": "马斯克透露三个创业新风口",
           "url": "https://www.toutiao.com/trending/7642290815179915270/",
@@ -294,6 +481,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "A股午评：创业板指高开高走收涨1.91% 算力硬件方向集体爆发",
+          "url": "https://flash.jin10.com/detail/20260522113451966800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
+          "title": "创业板指涨超2%，沪指涨0.44%，深成指涨1.48%，培育钻石、PCB、CPO、稀土永磁等方向领涨，沪深京三市上涨个股近3600只。",
+          "url": "https://wallstreetcn.com/livenews/3107718",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
         }
       ]
     }
