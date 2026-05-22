@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-22T16:28:03.365425+08:00",
-  "total_titles_processed": 968,
+  "generated_at": "2026-05-22T19:51:51.411110+08:00",
+  "total_titles_processed": 1150,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 33,
+      "match_count": 39,
       "titles": [
         {
           "title": "A股放量回调，小作文惹祸？多家基金公司一线解读：高位科技兑现与海外利率扰动是主因",
@@ -80,6 +80,17 @@
           "time_info": "12时18分"
         },
         {
+          "title": "观想科技：子公司拟投资建设巴里坤AI科技成果转化总部基地项目，计划总投资约10亿元",
+          "url": "https://wallstreetcn.com/livenews/3108021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时51分"
+        },
+        {
           "title": "恒生指数涨幅扩大至1.1%，恒生科技指数涨1.8%。联想集团涨超15%。",
           "url": "https://wallstreetcn.com/livenews/3107770",
           "source": "华尔街见闻-快讯",
@@ -119,7 +130,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -212,7 +223,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -239,6 +250,28 @@
           "time_info": "12时18分"
         },
         {
+          "title": "澜起科技：上海融迎企业管理合伙企业拟减持1.00%股份",
+          "url": "https://wallstreetcn.com/livenews/3108005",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时51分"
+        },
+        {
+          "title": "交通运输部：加快建设智能综合立体交通网，深化人工智能规模化创新应用",
+          "url": "https://wallstreetcn.com/livenews/3108001",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时51分"
+        },
+        {
           "title": "国家发改委：要让真正的硬科技企业受益，2026年集成电路企业税收优惠清单与往年保持一致。",
           "url": "https://wallstreetcn.com/livenews/3107751",
           "source": "华尔街见闻-快讯",
@@ -248,6 +281,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时18分"
+        },
+        {
+          "title": "富国银行：将戴尔科技公司目标价从180美元上调至270美元。",
+          "url": "https://flash.jin10.com/detail/20260522193104561800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时51分"
         },
         {
           "title": "美联储巴尔金：就人工智能的短期与长期影响得出结论很困难。",
@@ -270,6 +314,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时18分"
+        },
+        {
+          "title": "观想科技：子公司拟投资10亿元建设AI科技成果转化总部基地项目，为不同领域的客户提供专用TOKEN等服务",
+          "url": "https://flash.jin10.com/detail/20260522192845435800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时51分"
         },
         {
           "title": "恒指午盘前持续走强涨超1%，联想集团(00992.HK)涨超15%领涨成分股，恒生科技指数现涨1.7%。",
@@ -369,6 +424,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
+        },
+        {
+          "title": "恒生指数公司发布季检结果：恒生科技指数纳入MINIMAX-W、智谱",
+          "url": "https://wallstreetcn.com/livenews/3107977",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时51分"
         },
         {
           "title": "中国贸促会：第四届链博会首次设立人工智能专区 集聚英伟达等中外人工智能领域领军企业",
@@ -482,7 +548,7 @@
     },
     {
       "keyword_group": "独立开发 创业 副业",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "上证指数早盘收报4096.24点，涨0.47%。 深证成指早盘收报15458.88点，涨1.39%。 创业板指早盘收报3902.74点，涨1.91%。 沪深300早盘收报4816.59点，涨0.70%。 科创50早盘收报1763.27点，跌0.05%。 中证500早盘收报8496.29点，涨0.91%。 中证1000早盘收报8629.50点，涨1.40%。",
@@ -529,6 +595,17 @@
           "time_info": "00时21分"
         },
         {
+          "title": "创业板涨超2%，算力硬件集体爆发，PCB、光模块齐涨，恒科指涨超2%，联想暴涨20%，智谱狂飙斤30%",
+          "url": "https://wallstreetcn.com/articles/3772886",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时51分"
+        },
+        {
           "title": "A股午评：创业板指高开高走收涨1.91% 算力硬件方向集体爆发",
           "url": "https://flash.jin10.com/detail/20260522113451966800",
           "source": "金十数据",
@@ -538,6 +615,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时18分"
+        },
+        {
+          "title": "【每日收评】创业板指高开高走涨超2%，PCB等AI硬件全线爆发",
+          "url": "https://www.cls.cn/detail/2379110",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时51分"
         },
         {
           "title": "创业板指涨超2%，沪指涨0.44%，深成指涨1.48%，培育钻石、PCB、CPO、稀土永磁等方向领涨，沪深京三市上涨个股近3600只。",
