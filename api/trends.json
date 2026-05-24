@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-25T04:13:11.221280+08:00",
-  "total_titles_processed": 442,
+  "generated_at": "2026-05-25T06:02:42.167441+08:00",
+  "total_titles_processed": 480,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时07分 ~ 04时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 06时02分]"
         },
         {
           "title": "比尔 · 盖茨基金会清空了其仅剩的 770 万股微软股票，对此你怎么看，科技股到顶了么？",
@@ -25,11 +25,24 @@
           "source": "知乎",
           "ranks": [
             14,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时04分 ~ 04时13分]"
+          "appearance_count": 4,
+          "time_info": "[02时04分 ~ 06时02分]"
+        },
+        {
+          "title": "欧洲央行将呼吁银行业解决因人工智能（AI）而暴露出来的瑕疵。 欧洲央行计划强调Anthropic模型Mythos构成的威胁的严重程度。 欧洲央行将于周二召开银行业会议讨论网络安全事宜。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3108534",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时13分 ~ 06时02分]"
         },
         {
           "title": "印度外交部长苏杰生：与来访的美国国务卿卢比奥讨论了关键矿物、人工智能（AI）、核、以及其他问题。",
@@ -52,17 +65,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
-        },
-        {
-          "title": "欧洲央行将呼吁银行业解决因人工智能（AI）而暴露出来的瑕疵。 欧洲央行计划强调Anthropic模型Mythos构成的威胁的严重程度。 欧洲央行将于周二召开银行业会议讨论网络安全事宜。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3108534",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时13分"
         },
         {
           "title": "据英国《金融时报》：欧洲央行召集银行要求其修补最新人工智能模型暴露出的缺陷。",
@@ -89,19 +91,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时07分 ~ 04时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 06时02分]"
         },
         {
           "title": "【早报】国家数据局将把推动词元经济发展纳入工作体系；DeepSeek宣布永久降价",
           "url": "https://www.cls.cn/detail/2379922",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时07分 ~ 04时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 06时02分]"
         },
         {
           "title": "梁文锋与DeepSeek的十万亿美元棋盘",
@@ -112,8 +115,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时07分 ~ 04时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 06时02分]"
         },
         {
           "title": "deepseek狂降价,友商被卷哭",
@@ -123,8 +126,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时07分 ~ 04时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 06时02分]"
         }
       ]
     },
@@ -141,8 +144,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时07分 ~ 04时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 06时02分]"
         }
       ]
     }
