@@ -1,93 +1,44 @@
 {
-  "generated_at": "2026-05-25T22:15:00.309687+08:00",
-  "total_titles_processed": 1200,
+  "generated_at": "2026-05-26T01:11:42.396671+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 31,
+      "match_count": 12,
       "titles": [
         {
-          "title": "下周重磅日程：“美联储最爱通胀指标”、中国PMI、长鑫科技上会、拼多多小米财报",
-          "url": "https://wallstreetcn.com/articles/3772885",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时07分 ~ 08时08分]"
-        },
-        {
-          "title": "比尔 · 盖茨基金会清空了其仅剩的 770 万股微软股票，对此你怎么看，科技股到顶了么？",
-          "url": "https://www.zhihu.com/question/2039273480357684027",
-          "source": "知乎",
-          "ranks": [
-            14,
-            6,
-            4,
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时04分 ~ 13时26分]"
-        },
-        {
-          "title": "本周重磅日程：“美联储最爱通胀指标”、中国PMI、长鑫科技上会、拼多多小米财报",
-          "url": "https://wallstreetcn.com/articles/3772885",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时26分 ~ 18时24分]"
-        },
-        {
-          "title": "中国高科技出现井喷式发展意味什么",
-          "url": "https://www.toutiao.com/trending/7643781385290780210/",
-          "source": "今日头条",
+          "title": "长鑫科技这笔IPO，承销保荐费能赚几个亿？跟投更带来隐形收益",
+          "url": "https://www.cls.cn/detail/2380881",
+          "source": "财联社热门",
           "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时14分 ~ 22时15分]"
+          "appearance_count": 1,
+          "time_info": "01时11分"
         },
         {
-          "title": "澜起科技：初步确定本次询价转让价格为250.08元/股",
-          "url": "https://wallstreetcn.com/livenews/3108821",
+          "title": "宇树科技6月1日上会迎考 冲击A股“人形机器人第一股”",
+          "url": "https://www.cls.cn/detail/2381067",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时11分"
+        },
+        {
+          "title": "惠誉评级：北美企业面临战争溢出效应、关税和人工智能带来的信用风险",
+          "url": "https://wallstreetcn.com/livenews/3108971",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时24分"
-        },
-        {
-          "title": "合肥城建：业绩下滑且与长鑫科技关联小",
-          "url": "https://flash.jin10.com/detail/20260525180951604800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时24分"
-        },
-        {
-          "title": "TCL科技：目前对玻璃基封装领域尚处于前期调研与技术预研阶段",
-          "url": "https://flash.jin10.com/detail/20260525125247127800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时26分"
+          "time_info": "01时11分"
         },
         {
           "title": "给阿嬷的情书主创发抖音感谢支持",
@@ -97,86 +48,85 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时24分 ~ 22时15分]"
+          "appearance_count": 1,
+          "time_info": "01时11分"
         },
         {
-          "title": "长鑫科技这笔IPO，承销保荐费能赚几个亿？跟投更带来隐形收益",
-          "url": "https://www.cls.cn/detail/2380881",
+          "title": "追觅科技官宣C罗出任全球代言人",
+          "url": "https://www.cls.cn/detail/2380908",
           "source": "财联社热门",
           "ranks": [
-            7
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时14分 ~ 22时15分]"
-        },
-        {
-          "title": "宇树科技IPO上会时间定了",
-          "url": "https://www.toutiao.com/trending/7643801736922005567/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时14分 ~ 22时15分]"
-        },
-        {
-          "title": "欧洲央行将呼吁银行业解决因人工智能（AI）而暴露出来的瑕疵。 欧洲央行计划强调Anthropic模型Mythos构成的威胁的严重程度。 欧洲央行将于周二召开银行业会议讨论网络安全事宜。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3108534",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时13分 ~ 06时02分]"
-        },
-        {
-          "title": "追觅科技官宣C罗为全球代言人",
-          "url": "https://www.toutiao.com/trending/7643630735122841636/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时14分 ~ 22时15分]"
+          "appearance_count": 1,
+          "time_info": "01时11分"
         },
         {
           "title": "字节反击腾讯称“都是卖猪食的，谁也别看不起谁”？抖音副总裁李亮：相关内容系谣言",
           "url": "https://m.thepaper.cn/newsDetail_forward_33226639",
           "source": "澎湃新闻",
           "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时11分"
+        },
+        {
+          "title": "惠誉评级：北美企业面临来自战争溢出、关税和人工智能的信用风险。",
+          "url": "https://flash.jin10.com/detail/20260525234937534800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时11分"
+        },
+        {
+          "title": "宇树科技科创板IPO将于6月1日上会",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E7%A7%91%E5%88%9B%E6%9D%BFIPO%E5%B0%86%E4%BA%8E6%E6%9C%881%E6%97%A5%E4%B8%8A%E4%BC%9A",
+          "source": "百度热搜",
+          "ranks": [
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时14分 ~ 22时15分]"
+          "appearance_count": 1,
+          "time_info": "01时11分"
+        },
+        {
+          "title": "宇树科技IPO上会时间定了",
+          "url": "https://www.toutiao.com/trending/7643801736922005567/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时11分"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260525233806653800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时11分"
         },
         {
           "title": "家业抖音追剧团",
           "url": "https://www.douyin.com/hot/2511696",
           "source": "抖音",
           "ranks": [
-            18
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时14分 ~ 22时15分]"
-        },
-        {
-          "title": "印度外交部长苏杰生：与来访的美国国务卿卢比奥讨论了关键矿物、人工智能（AI）、核、以及其他问题。",
-          "url": "https://wallstreetcn.com/livenews/3108500",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 02时04分]"
+          "appearance_count": 1,
+          "time_info": "01时11分"
         },
         {
           "title": "所有人来感受抖音上的粉彩女星",
@@ -186,192 +136,15 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时14分 ~ 22时15分]"
-        },
-        {
-          "title": "同是科技，A股、港股不同命？",
-          "url": "https://wallstreetcn.com/articles/3773003",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时24分"
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20260525075758148800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时08分"
-        },
-        {
-          "title": "欧洲央行将在周二的会议上敦促银行加快保护其信息技术系统的工作，讨论最新人工智能模型所暴露的网络安全风险。",
-          "url": "https://flash.jin10.com/detail/20260525010427079800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时04分"
-        },
-        {
-          "title": "安徽：支持科技创新 着力投早、投小、投长期、投硬科技",
-          "url": "https://wallstreetcn.com/livenews/3108812",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时24分"
-        },
-        {
-          "title": "【李强同巴基斯坦总理夏巴兹会谈】5月25日上午，国务院总理李强在北京人民大会堂同来华进行正式访问的巴基斯坦总理夏巴兹举行会谈。李强指出，中方愿同巴方深入推进中巴经济走廊建设，继续抓好两国重大联通项目，加强产业、矿业、农业、民生、金融等领域合作。中方愿进口巴方更多优质产品，同巴方积极打造双边自贸协定升级版，促进两国贸易不断扩容提质。双方还可以探讨开展人工智能、数字经济、绿色能源等领域合作，共同培育发展新动能。中方也愿同巴方深化人力资源开发合作，欢迎更多巴基斯坦青年学生来华学习深造。希望巴方继续采取必要措施，保护在巴中国人员、项目和机构安全，营造安全稳定的合作环境。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3108917",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时15分"
-        },
-        {
-          "title": "据英国《金融时报》：欧洲央行召集银行要求其修补最新人工智能模型暴露出的缺陷。",
-          "url": "https://flash.jin10.com/detail/20260525010206221800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时04分"
-        },
-        {
-          "title": "澜起科技：初步确定本次询价转让价格为250.08元/股",
-          "url": "https://flash.jin10.com/detail/20260525180210362800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时24分"
-        },
-        {
-          "title": "宏和科技：公司主要产品电子级玻璃纤维布是PCB的基础材料之一",
-          "url": "https://wallstreetcn.com/livenews/3108807",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时24分"
-        },
-        {
-          "title": "A股市场波动有所放大，科技主线韧性仍存，机构：建议聚焦盈利兑现和高景气方向",
-          "url": "https://wallstreetcn.com/livenews/3108558",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时08分"
-        },
-        {
-          "title": "米奥会展：拟1.5亿元认购上海阶跃星辰智能科技股份",
-          "url": "https://wallstreetcn.com/livenews/3108909",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时15分"
-        },
-        {
-          "title": "行云科技：控股子公司行云存算与浙江甚湖签署3.22亿元设备销售框架协议",
-          "url": "https://wallstreetcn.com/livenews/3108906",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时15分"
-        },
-        {
-          "title": "A股市场波动有所放大 科技主线韧性仍存 机构：建议聚焦盈利兑现和高景气方向",
-          "url": "https://flash.jin10.com/detail/20260525072259845800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时08分"
-        },
-        {
-          "title": "和仁科技：筹划控制权变更，停牌预计不超2交易日",
-          "url": "https://wallstreetcn.com/livenews/3108902",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时15分"
-        },
-        {
-          "title": "宇树科技：公司2026年1-3月扣非后净利润同比下降52.55%",
-          "url": "https://wallstreetcn.com/livenews/3108898",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时15分"
-        },
-        {
-          "title": "宇树科技科创板IPO将于6月1日上会",
-          "url": "https://wallstreetcn.com/livenews/3108892",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时15分"
+          "time_info": "01时11分"
         }
       ]
     },
     {
       "keyword_group": "独立开发 创业 副业",
-      "match_count": 6,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "算力巨头超聚变闯关创业板，80亿募资要下怎样一盘棋？",
-          "url": "https://www.cls.cn/detail/2379778",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 06时02分]"
-        },
         {
           "title": "创业板涨超2%，科创50狂飙近6%，芯片半导体大爆发，中芯国际涨停、寒武纪创历史新高，“双焦”强势涨停",
           "url": "https://wallstreetcn.com/articles/3773021",
@@ -380,109 +153,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时14分 ~ 22时15分]"
+          "appearance_count": 1,
+          "time_info": "01时11分"
         },
         {
           "title": "【焦点复盘】创业板指涨逾2%收复4000点，全市场连续2日超百股涨停，科创芯片股批量创历史新高",
           "url": "https://www.cls.cn/detail/2380774",
           "source": "财联社热门",
           "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时14分 ~ 22时15分]"
-        },
-        {
-          "title": "原华为云AI算法创新Lab主任朱森华创业，押注类脑智能与具身模型",
-          "url": "https://wallstreetcn.com/livenews/3108804",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时24分"
-        },
-        {
-          "title": "上证指数早盘收报4136.25点，涨0.57%。 深证成指早盘收报15732.86点，涨0.87%。 创业板指早盘收报3983.30点，涨1.14%。 沪深300早盘收报4889.40点，涨0.91%。 科创50早盘收报1854.56点，涨3.56%。 中证500早盘收报8629.02点，涨0.61%。 中证1000早盘收报8758.65点，涨0.76%。",
-          "url": "https://wallstreetcn.com/livenews/3108661",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时26分"
-        },
-        {
-          "title": "深成指、创业板指均涨超1%，沪指涨0.62%，培育钻石、白酒、煤炭、半导体等方向涨幅居前，沪深京三市上涨个股超2000只。",
-          "url": "https://wallstreetcn.com/livenews/3108648",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "周末要闻汇总：特朗普称美伊协议基本谈成；DeepSeek宣布永久降价",
-          "url": "https://www.cls.cn/detail/2380075",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时07分 ~ 13时26分]"
-        },
-        {
-          "title": "【早报】国家数据局将把推动词元经济发展纳入工作体系；DeepSeek宣布永久降价",
-          "url": "https://www.cls.cn/detail/2379922",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时07分 ~ 08时08分]"
-        },
-        {
-          "title": "梁文锋与DeepSeek的十万亿美元棋盘",
-          "url": "https://wallstreetcn.com/articles/3772995",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时07分 ~ 13时26分]"
-        },
-        {
-          "title": "deepseek狂降价,友商被卷哭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354527&amp;topic_name=deepseek%E7%8B%82%E9%99%8D%E4%BB%B7%2C%E5%8F%8B%E5%95%86%E8%A2%AB%E5%8D%B7%E5%93%AD",
-          "source": "贴吧",
-          "ranks": [
-            12,
-            17,
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时07分 ~ 22时15分]"
+          "time_info": "01时11分"
         }
       ]
     }
