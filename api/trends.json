@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-05-26T07:14:41.613709+08:00",
-  "total_titles_processed": 517,
+  "generated_at": "2026-05-26T12:13:31.122991+08:00",
+  "total_titles_processed": 746,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 17,
+      "match_count": 24,
       "titles": [
+        {
+          "title": "宇树科技6月1日上会迎考 冲击A股“人形机器人第一股”",
+          "url": "https://www.cls.cn/detail/2381067",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 12时13分]"
+        },
         {
           "title": "长鑫科技这笔IPO，承销保荐费能赚几个亿？跟投更带来隐形收益",
           "url": "https://www.cls.cn/detail/2380881",
@@ -20,17 +34,53 @@
           "time_info": "[01时11分 ~ 07时14分]"
         },
         {
-          "title": "宇树科技6月1日上会迎考 冲击A股“人形机器人第一股”",
-          "url": "https://www.cls.cn/detail/2381067",
+          "title": "【早报】广东1000亿战新基金正式启动；宇树科技科创板IPO6月1日上会",
+          "url": "https://www.cls.cn/detail/2381183",
           "source": "财联社热门",
           "ranks": [
-            7,
-            5,
-            2
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-05-26）",
+          "url": "https://flash.jin10.com/detail/20260526115702163800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
+          "title": "字节反击腾讯称“都是卖猪食的，谁也别看不起谁”？抖音副总裁李亮：相关内容系谣言",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33226639",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            17,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 07时14分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 12时13分]"
+        },
+        {
+          "title": "给阿嬷的情书主创发抖音感谢支持",
+          "url": "https://www.douyin.com/hot/2511572",
+          "source": "抖音",
+          "ranks": [
+            12,
+            13,
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 12时13分]"
         },
         {
           "title": "伊朗总统下令：恢复互联网至今年1月大规模断网前状态",
@@ -58,19 +108,6 @@
           "time_info": "[01时11分 ~ 07时14分]"
         },
         {
-          "title": "给阿嬷的情书主创发抖音感谢支持",
-          "url": "https://www.douyin.com/hot/2511572",
-          "source": "抖音",
-          "ranks": [
-            12,
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 07时14分]"
-        },
-        {
           "title": "家业抖音追剧团",
           "url": "https://www.douyin.com/hot/2511696",
           "source": "抖音",
@@ -79,18 +116,6 @@
             13,
             16,
             24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 07时14分]"
-        },
-        {
-          "title": "字节反击腾讯称“都是卖猪食的，谁也别看不起谁”？抖音副总裁李亮：相关内容系谣言",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33226639",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            17
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -132,6 +157,18 @@
           "time_info": "[03时52分 ~ 05时18分]"
         },
         {
+          "title": "挑战用抖音小猫表情完美卡点",
+          "url": "https://www.douyin.com/hot/2511752",
+          "source": "抖音",
+          "ranks": [
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时14分 ~ 12时13分]"
+        },
+        {
           "title": "惠誉评级：北美企业面临战争溢出效应、关税和人工智能带来的信用风险",
           "url": "https://wallstreetcn.com/livenews/3108971",
           "source": "华尔街见闻-快讯",
@@ -143,15 +180,37 @@
           "time_info": "01时11分"
         },
         {
+          "title": "宇树科技IPO将于6月1日上会",
+          "url": "https://www.douyin.com/hot/2512228",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
           "title": "百亿级私募仓位指数升至82%以上，“科技+能源”均衡布局",
           "url": "https://wallstreetcn.com/livenews/3109043",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "抖音公布十大辟谣案例",
+          "url": "https://www.douyin.com/hot/2512575",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
         },
         {
           "title": "惠誉评级：北美企业面临来自战争溢出、关税和人工智能的信用风险。",
@@ -187,15 +246,37 @@
           "time_info": "01时11分"
         },
         {
-          "title": "挑战用抖音小猫表情完美卡点",
-          "url": "https://www.douyin.com/hot/2511752",
-          "source": "抖音",
+          "title": "A股PCB概念股探底回升，诺德股份拉升封板，中京电子、晨丰科技此前涨停，生益电子涨超16%，沪电股份、博敏电子、宝鼎科技涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3109147",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
+          "title": "广东科技厅：将推动金融资本向科技企业集聚 带动更多社会资本投早、投小、投长期、投硬科技",
+          "url": "https://flash.jin10.com/detail/20260526112430519800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
+          "title": "恒生科技指数日内涨幅扩大至2.3%，联想集团涨超15%。",
+          "url": "https://wallstreetcn.com/livenews/3109136",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时14分"
+          "time_info": "12时13分"
         },
         {
           "title": "所有人来感受抖音上的粉彩女星",
@@ -212,8 +293,31 @@
     },
     {
       "keyword_group": "独立开发 创业 副业",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "上证指数早盘收报4117.85点，跌0.84%。 深证成指早盘收报15718.98点，跌0.87%。 创业板指早盘收报4000.50点，跌0.51%。 沪深300早盘收报4907.69点，跌0.28%。 科创50早盘收报1841.35点，跌2.88%。 中证500早盘收报8566.73点，跌1.58%。 中证1000早盘收报8613.58点，跌2.11%。",
+          "url": "https://wallstreetcn.com/livenews/3109177",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
+          "title": "创业板涨超2%，科创50狂飙近6%，芯片半导体大爆发，中芯国际涨停、寒武纪创历史新高，“双焦”强势涨停",
+          "url": "https://wallstreetcn.com/articles/3773021",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 12时13分]"
+        },
         {
           "title": "【焦点复盘】创业板指涨逾2%收复4000点，全市场连续2日超百股涨停，科创芯片股批量创历史新高",
           "url": "https://www.cls.cn/detail/2380774",
@@ -228,15 +332,43 @@
           "time_info": "[01时11分 ~ 07时14分]"
         },
         {
-          "title": "创业板涨超2%，科创50狂飙近6%，芯片半导体大爆发，中芯国际涨停、寒武纪创历史新高，“双焦”强势涨停",
-          "url": "https://wallstreetcn.com/articles/3773021",
-          "source": "华尔街见闻",
+          "title": "沪指、深成指均跌超1%，创业板指跌0.81%，半导体、军工、光纤、智能电网等方向跌幅居前，沪深京三市下跌个股超4500只。",
+          "url": "https://wallstreetcn.com/livenews/3109166",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 07时14分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
+          "title": "沪指跌超1%，深证成指跌1.16%，创业板指跌0.81%，光纤概念、存储芯片板块跌幅居前。",
+          "url": "https://flash.jin10.com/detail/20260526110455969800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何看待 DeepSeek 连续多次降价？",
+          "url": "https://www.zhihu.com/question/2033335202307647295",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
         }
       ]
     }
