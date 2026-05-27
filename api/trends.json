@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-05-28T00:42:40.070502+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-05-28T03:31:44.143182+08:00",
+  "total_titles_processed": 403,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
         {
           "title": "中国第一大 DRAM 厂商长鑫科技科创板 IPO 获上市委会议通过，会对国产芯片市场有怎样的影响？",
           "url": "https://www.zhihu.com/question/2042900633947038528",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 03时31分]"
         },
         {
           "title": "国产存储迎来里程碑时刻！长鑫科技过会 科创板首单 “预先审阅” 项目迈出重要一步",
@@ -26,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 03时31分]"
         },
         {
           "title": "长鑫科技，科创板IPO过会！",
@@ -37,8 +38,52 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 03时31分]"
+        },
+        {
+          "title": "恒生指数主连夜盘收跌0.02%，报25259点。 恒生科技指数主连夜盘收涨0.39%，报4922点。",
+          "url": "https://wallstreetcn.com/livenews/3110226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时42分"
+          "time_info": "03时31分"
+        },
+        {
+          "title": "千问“拒聊”盒马粉木耳事件？人民网：大模型不能内嵌企业立场",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33245808",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "据科技媒体TechCrunch：Meta公司推出Instagram、Facebook和WhatsApp订阅服务，未来还将推出更多，包括人工智能计划。",
+          "url": "https://flash.jin10.com/detail/20260528020659080800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "长鑫科技科创板IPO获通过",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E7%A7%91%E5%88%9B%E6%9D%BFIPO%E8%8E%B7%E9%80%9A%E8%BF%87",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
         },
         {
           "title": "上交所：长鑫科技集团股份有限公司IPO审核状态变更为提交注册。",
@@ -65,8 +110,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 03时31分]"
         },
         {
           "title": "AI编程公司Cognition按260亿美元估值融资10亿美元",
