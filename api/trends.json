@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-28T18:18:33.297783+08:00",
-  "total_titles_processed": 1018,
+  "generated_at": "2026-05-28T22:42:56.999393+08:00",
+  "total_titles_processed": 1210,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 25,
+      "match_count": 29,
       "titles": [
         {
           "title": "国产存储迎来里程碑时刻！长鑫科技过会 科创板首单 “预先审阅” 项目迈出重要一步",
@@ -82,6 +82,17 @@
           "time_info": "[13时14分 ~ 13时15分]"
         },
         {
+          "title": "两部门联手 系统布局人工智能计量能力建设",
+          "url": "https://www.cls.cn/detail/2384415",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
+        },
+        {
           "title": "韩国AI芯片初创企业FuriosaAI宣布与博通(AVGO.O)建立战略合作伙伴关系，共同开发其第三代人工智能加速器。",
           "url": "https://flash.jin10.com/detail/20260528073830727800",
           "source": "金十数据",
@@ -93,24 +104,13 @@
           "time_info": "08时06分"
         },
         {
-          "title": "最亮的星致敬中国科技工作者",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9C%80%E4%BA%AE%E7%9A%84%E6%98%9F%E8%87%B4%E6%95%AC%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E5%B7%A5%E4%BD%9C%E8%80%85",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
           "title": "再升科技：公司自2020年起向国际某知名航天公司直接供应“高硅氧纤维产品”，2025年该项产品业务收入占公司总营收比例极低，目前“高硅氧纤维产品”暂无在手订单。",
           "url": "https://wallstreetcn.com/livenews/3110653",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -124,6 +124,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
+        },
+        {
+          "title": "最亮的星致敬中国科技工作者",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9C%80%E4%BA%AE%E7%9A%84%E6%98%9F%E8%87%B4%E6%95%AC%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E5%B7%A5%E4%BD%9C%E8%80%85",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时18分 ~ 22时42分]"
         },
         {
           "title": "戴尔科技美股盘后涨4.8%，该公司赢得防务合同。",
@@ -149,15 +161,37 @@
           "time_info": "03时31分"
         },
         {
+          "title": "大基金出手！沪硅产业、德邦科技等遭减持",
+          "url": "https://www.cls.cn/detail/2384545",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
+        },
+        {
           "title": "昀冢科技：目前公司MLCC产品主要应用于消费电子领域，暂未应用于AI算力服务器",
           "url": "https://flash.jin10.com/detail/20260528180921068800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
+        },
+        {
+          "title": "【焦点复盘】沪指午后深V回升小幅收涨，科技权重股全线发力，“易中天”三巨头齐创历史新高",
+          "url": "https://www.cls.cn/detail/2384303",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
         },
         {
           "title": "【数据看盘】多路资金激烈博弈华天科技，量化资金联手游资抢筹光伏人气股",
@@ -221,7 +255,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -246,6 +280,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
+        },
+        {
+          "title": "美国纽约联储主席威廉姆斯：若没有人工智能方面的投资，美国的需求将会减弱。 美国劳动力市场整体表现相当不错。 不认为人工智能会导致长期的结构性失业。 伊朗冲突对通货膨胀的影响可能在几个月内达到峰值。 美国劳动力市场“相当平衡”。 伊朗冲突造成的供应链中断令人担忧。 美联储的货币政策略显紧缩。 更有效的沟通有助于政策的实施效果。",
+          "url": "https://wallstreetcn.com/livenews/3110786",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
         },
         {
           "title": "新思科技第二财季营收22.8亿美元，同比增长42%。 第二财季调整后每股收益（EPS）为3.35美元，上年同期3.67美元。 任命Jesse Cohn为董事。 公司统一与Elliott合作。 预计全年营收96.3亿-97.1亿美元，公司原本预计95.6亿-96.6亿美元。 预计全年调整后EPS为14.70-14.80美元，公司原本预计14.38-14.46美元。 预计第三财季营收24.1亿-24.6亿美元，分析师预期23.9亿美元。 预计第三财季调整后EPSWie3.63-3.69美元，分析师预期3.62美元。",
@@ -287,7 +332,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         }
@@ -295,7 +340,7 @@
     },
     {
       "keyword_group": "独立开发 创业 副业",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "深交所理事长沙雁：2025年创业板上市公司研发投入同比增长9.8%",
@@ -315,9 +360,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
+        },
+        {
+          "title": "【每日收评】创业板指探底回升涨近2%，AI硬件方向再迎爆发",
+          "url": "https://www.cls.cn/detail/2384259",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时18分 ~ 22时42分]"
         },
         {
           "title": "深交所沙雁：创业板相关ETF已登陆全球10余家交易所 初步实现跨时区全天候的产品交易生态",
@@ -331,15 +388,15 @@
           "time_info": "13时15分"
         },
         {
-          "title": "【每日收评】创业板指探底回升涨近2%，AI硬件方向再迎爆发",
-          "url": "https://www.cls.cn/detail/2384259",
-          "source": "财联社热门",
+          "title": "午后反转！创业板涨2%，算力硬件大爆发，“易中天”齐创新高，恒指跌超1%，科网股集体低迷",
+          "url": "https://wallstreetcn.com/articles/3773302",
+          "source": "华尔街见闻",
           "ranks": [
-            11
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时18分"
+          "time_info": "22时42分"
         },
         {
           "title": "深交所理事长沙雁：2025年创业板上市公司研发投入同比增长9.8%",
@@ -426,6 +483,18 @@
           "time_info": "[00时42分 ~ 08时06分]"
         },
         {
+          "title": "国家大基金领投DeepSeek，投前估值450亿美元",
+          "url": "https://wallstreetcn.com/articles/3773316",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时18分 ~ 22时42分]"
+        },
+        {
           "title": "DeepSeek网页及API服务中断 现已恢复",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E7%BD%91%E9%A1%B5%E5%8F%8AAPI%E6%9C%8D%E5%8A%A1%E4%B8%AD%E6%96%AD+%E7%8E%B0%E5%B7%B2%E6%81%A2%E5%A4%8D",
           "source": "百度热搜",
@@ -446,17 +515,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时14分 ~ 13时15分]"
-        },
-        {
-          "title": "国家大基金领投DeepSeek，投前估值450亿美元",
-          "url": "https://wallstreetcn.com/articles/3773316",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
         },
         {
           "title": "报道：国家大基金领投DeepSeek，投前估值450亿美元",
