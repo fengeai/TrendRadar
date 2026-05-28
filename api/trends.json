@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-28T08:06:02.111191+08:00",
-  "total_titles_processed": 583,
+  "generated_at": "2026-05-28T13:15:12.792198+08:00",
+  "total_titles_processed": 804,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "国产存储迎来里程碑时刻！长鑫科技过会 科创板首单 “预先审阅” 项目迈出重要一步",
@@ -32,28 +32,6 @@
           "time_info": "[00时42分 ~ 08时06分]"
         },
         {
-          "title": "韩国AI芯片初创企业FuriosaAI宣布与博通(AVGO.O)建立战略合作伙伴关系，共同开发其第三代人工智能加速器。",
-          "url": "https://flash.jin10.com/detail/20260528073830727800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        },
-        {
-          "title": "迈威尔科技预计定制芯片业务2029财年营收超100亿美元",
-          "url": "https://wallstreetcn.com/livenews/3110299",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        },
-        {
           "title": "长鑫科技，科创板IPO过会！",
           "url": "https://wallstreetcn.com/articles/3773236",
           "source": "华尔街见闻",
@@ -63,8 +41,64 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 08时06分]"
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 13时15分]"
+        },
+        {
+          "title": "人工智能成外贸增长新引擎",
+          "url": "https://www.douyin.com/hot/2514888",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时14分 ~ 13时15分]"
+        },
+        {
+          "title": "国家中医药管理局答财联社：协调相关部门持续加大国家科技计划对海洋中药的支持力度",
+          "url": "https://www.cls.cn/detail/2383827",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时14分 ~ 13时15分]"
+        },
+        {
+          "title": "韩国AI芯片初创企业FuriosaAI宣布与博通(AVGO.O)建立战略合作伙伴关系，共同开发其第三代人工智能加速器。",
+          "url": "https://flash.jin10.com/detail/20260528073830727800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
+          "title": "千问“拒聊”盒马粉木耳事件？人民网：大模型不能内嵌企业立场",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33245808",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时31分 ~ 13时15分]"
+        },
+        {
+          "title": "迈威尔科技预计定制芯片业务2029财年营收超100亿美元",
+          "url": "https://wallstreetcn.com/livenews/3110299",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时06分"
         },
         {
           "title": "戴尔科技美股盘后涨4.8%，该公司赢得防务合同。",
@@ -77,17 +111,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时03分 ~ 08时06分]"
-        },
-        {
-          "title": "千问“拒聊”盒马粉木耳事件？人民网：大模型不能内嵌企业立场",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33245808",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时31分 ~ 08时06分]"
         },
         {
           "title": "恒生指数主连夜盘收跌0.02%，报25259点。 恒生科技指数主连夜盘收涨0.39%，报4922点。",
@@ -132,6 +155,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
+        },
+        {
+          "title": "受人工智能热潮推动，外国投资者连续第八周买入日本股票",
+          "url": "https://flash.jin10.com/detail/20260528124226890800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
         },
         {
           "title": "据科技媒体TechCrunch：Meta公司推出Instagram、Facebook和WhatsApp订阅服务，未来还将推出更多，包括人工智能计划。",
@@ -202,9 +236,103 @@
       ]
     },
     {
-      "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
-      "match_count": 2,
+      "keyword_group": "独立开发 创业 副业",
+      "match_count": 7,
       "titles": [
+        {
+          "title": "深交所理事长沙雁：2025年创业板上市公司研发投入同比增长9.8%",
+          "url": "https://wallstreetcn.com/livenews/3110468",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
+        },
+        {
+          "title": "深交所沙雁：创业板相关ETF已登陆全球10余家交易所 初步实现跨时区全天候的产品交易生态",
+          "url": "https://flash.jin10.com/detail/20260528130110724800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
+        },
+        {
+          "title": "深交所理事长沙雁：2025年创业板上市公司研发投入同比增长9.8%",
+          "url": "https://flash.jin10.com/detail/20260528125446619800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
+        },
+        {
+          "title": "深交所理事长沙雁：深交所创业板上市公司达到1398家，总市值超过21万亿元",
+          "url": "https://flash.jin10.com/detail/20260528125357302800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
+        },
+        {
+          "title": "上证指数早盘收报4087.86点，跌0.14%。 深证成指早盘收报15695.48点，跌0.26%。 创业板指早盘收报4054.21点，涨0.21%。 沪深300早盘收报4881.17点，跌0.55%。 科创50早盘收报1838.84点，涨1.29%。 中证500早盘收报8523.34点，跌0.09%。 中证1000早盘收报8568.59点，涨0.26%。",
+          "url": "https://wallstreetcn.com/livenews/3110432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
+        },
+        {
+          "title": "5月28日午间收评：创业板指探底回升涨0.21%，培育钻石、超级电容概念持续走强",
+          "url": "https://wallstreetcn.com/livenews/3110431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
+        },
+        {
+          "title": "创业板指探底回升翻红，此前一度跌超1.8%。",
+          "url": "https://wallstreetcn.com/livenews/3110428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "DeepSeek网页及API服务中断",
+          "url": "https://www.toutiao.com/trending/7644770781720743443/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时14分 ~ 13时15分]"
+        },
         {
           "title": "微软被曝将弃用 Claude，是因成本过高还是已掌握核心技术？",
           "url": "https://www.zhihu.com/question/2042293920017691036",
@@ -216,6 +344,39 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时42分 ~ 08时06分]"
+        },
+        {
+          "title": "DeepSeek网页及API服务中断 现已恢复",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E7%BD%91%E9%A1%B5%E5%8F%8AAPI%E6%9C%8D%E5%8A%A1%E4%B8%AD%E6%96%AD+%E7%8E%B0%E5%B7%B2%E6%81%A2%E5%A4%8D",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时14分 ~ 13时15分]"
+        },
+        {
+          "title": "DeepSeek崩了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时14分 ~ 13时15分]"
+        },
+        {
+          "title": "报道：国家大基金领投DeepSeek，投前估值450亿美元",
+          "url": "https://wallstreetcn.com/livenews/3110453",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
         },
         {
           "title": "AI编程公司Cognition按260亿美元估值融资10亿美元",
