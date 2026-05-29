@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-29T16:48:42.502598+08:00",
-  "total_titles_processed": 918,
+  "generated_at": "2026-05-29T20:23:48.993036+08:00",
+  "total_titles_processed": 1110,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 26,
+      "match_count": 33,
       "titles": [
         {
           "title": "两部门联手 系统布局人工智能计量能力建设",
@@ -24,11 +24,23 @@
           "source": "bilibili 热搜",
           "ranks": [
             11,
-            12
+            12,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时17分 ~ 16时48分]"
+          "appearance_count": 7,
+          "time_info": "[02时17分 ~ 20时23分]"
+        },
+        {
+          "title": "上证50、科创50等指数调整样本，华虹公司、源杰科技等热门股被纳入多条指数",
+          "url": "https://www.cls.cn/detail/2385558",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         },
         {
           "title": "戴尔(DELL.N)首席财务官：剔除人工智能组合的影响，我们的毛利率展望比上个季度更好；预计全年毛利率将继续扩张。",
@@ -48,7 +60,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时48分"
         },
@@ -62,6 +74,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
+        },
+        {
+          "title": "美国旧金山联储主席戴利（2027年FOMC票委）：政策目前处于良好状态。 对经济“谨慎乐观”。 人工智能前景广阔。",
+          "url": "https://wallstreetcn.com/livenews/3111426",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         },
         {
           "title": "戴尔科技：一季度订单积压513亿美元。",
@@ -127,7 +150,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时48分"
         },
@@ -138,7 +161,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时48分"
         },
@@ -165,6 +188,17 @@
           "time_info": "12时19分"
         },
         {
+          "title": "都叫科技基金，有些竟是亏的，基民调侃：误以为自己站在光里",
+          "url": "https://www.cls.cn/detail/2385586",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
           "title": "戴尔(DELL.N)首席运营官杰夫·克拉克：公司在本季度结束时，人工智能订单积压创纪录达到513亿美元。",
           "url": "https://flash.jin10.com/detail/20260529043950413800",
           "source": "金十数据",
@@ -176,13 +210,24 @@
           "time_info": "05时12分"
         },
         {
+          "title": "奥飞数据：全资子公司拟4.87亿元受让奥融科技少数股东股权",
+          "url": "https://flash.jin10.com/detail/20260529194836092800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
           "title": "戴尔科技美股盘前大涨逾39%，公司Q1营收增长88%，AI收入暴增757%，全年指引大幅上调。",
           "url": "https://wallstreetcn.com/livenews/3111264",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时48分"
         },
@@ -209,6 +254,17 @@
           "time_info": "05时12分"
         },
         {
+          "title": "麦捷科技：Bias-Tee模块、磁珠和电感等相关产品已经直接或间接供货光模块客户",
+          "url": "https://flash.jin10.com/detail/20260529194731494800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
           "title": "戴尔科技一季度总体净营收438.4亿美元，分析师预期355.2亿美元。 一季度调整后运营利润42.4亿美元，分析师预期27.7亿美元。 一季度基础设施解决方案集团净营收290.1亿美元。 上调2027财年AI服务器营收预期至大约600亿美元，之前预计大约500亿美元。 预计全年营收1650亿-1690亿美元，公司原本预计1380亿-1420亿美元。 预计全年调整后EPS中位数为17.90美元，分析师预期13.14美元，公司原本预计12.90美元。 预计二季度营收440亿-450亿美元，分析师预期350.6亿美元。 戴尔盘后涨7%。",
           "url": "https://wallstreetcn.com/livenews/3110924",
           "source": "华尔街见闻-快讯",
@@ -229,6 +285,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
+        },
+        {
+          "title": "香港交易所科技100指数成分股有调整：7只调入，7只剔除",
+          "url": "https://wallstreetcn.com/livenews/3111398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         },
         {
           "title": "港股反弹，恒指涨1%，恒生科技指数涨1.27%。",
@@ -253,6 +320,17 @@
           "time_info": "12时19分"
         },
         {
+          "title": "生益科技：董事长陈仁喜先生拟减持不超过33.58万股。",
+          "url": "https://wallstreetcn.com/livenews/3111397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
           "title": "纳斯达克金龙中国指数收跌0.48%，报6586.59点，跳空低开之后、早盘形成V形走势，大部分时间高位震荡。 热门中概股里，逸仙电商初步收涨18.2%，微易芯涨8.2%，爱奇艺涨8%，阿特斯太阳能涨6.8%，万国数据涨4.1%，日月光半导体涨3.7%，百度涨1.7%，小米涨0.9%，阿里跌1.3%，腾讯跌1.7%，蔚来跌3.2%，拼多多跌4.1%，美团跌4.8%。 ETF中，德银嘉实沪深300指数ETF（ASHR）收涨0.11%，MSCI新兴市场ex中国ETF（EMXC）收涨0.61%，XtrackersHarvest中证50（ASHS）收涨1.14%，中概互联网指数ETF（KWEB）收跌1.41%，中国科技指数ETF（CQQQ）收涨0.39%。",
           "url": "https://wallstreetcn.com/livenews/3110919",
           "source": "华尔街见闻-快讯",
@@ -270,7 +348,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时48分"
         },
@@ -281,7 +359,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时48分"
         },
@@ -319,11 +397,12 @@
           "url": "https://www.zhihu.com/question/2043515093007303790",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时48分 ~ 20时23分]"
         },
         {
           "title": "claude opus 4.8 发布了，相较于 opus4.7，有什么提升的地方？",
@@ -338,6 +417,29 @@
           "time_info": "[12时18分 ~ 16时48分]"
         },
         {
+          "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
+          "url": "https://wallstreetcn.com/articles/3773389",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时48分 ~ 20时23分]"
+        },
+        {
+          "title": "华为发表韬 (τ) 定律，实现晶体管密度与系统性能突破，是芯片制造领域另一个 deepseek 时刻吗？",
+          "url": "https://www.zhihu.com/question/2042260682780009473",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时48分 ~ 20时23分]"
+        },
+        {
           "title": "Claude Opus 4.8版本来了",
           "url": "https://www.baidu.com/s?wd=Claude+Opus+4.8%E7%89%88%E6%9C%AC%E6%9D%A5%E4%BA%86",
           "source": "百度热搜",
@@ -349,24 +451,13 @@
           "time_info": "[12时18分 ~ 12时19分]"
         },
         {
-          "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
-          "url": "https://wallstreetcn.com/articles/3773389",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时48分"
-        },
-        {
           "title": "日本财务大臣片山皋月：已会晤OpenAI的策略长。 一些日本金融公司将获得OPENAI模型的使用权。",
           "url": "https://wallstreetcn.com/livenews/3111261",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时48分"
         },
@@ -404,17 +495,6 @@
           "time_info": "05时12分"
         },
         {
-          "title": "华为发表韬 (τ) 定律，实现晶体管密度与系统性能突破，是芯片制造领域另一个 deepseek 时刻吗？",
-          "url": "https://www.zhihu.com/question/2042260682780009473",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时48分"
-        },
-        {
           "title": "Anthropic推出了Claude Opus 4.8。Claude Opus 4.8常规使用定价与Opus 4.7保持一致：输入令牌每百万单位定价5美元，输出令牌每百万单位定价25美元。Claude Opus 4.8快速模式定价为每百万输入令牌10美元，每百万输出令牌50美元。",
           "url": "https://flash.jin10.com/detail/20260529005420532800",
           "source": "金十数据",
@@ -440,7 +520,7 @@
     },
     {
       "keyword_group": "独立开发 创业 副业",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "创业最快的方式是寄生",
@@ -480,6 +560,17 @@
           "time_info": "[02时17分 ~ 07时24分]"
         },
         {
+          "title": "【每日收评】创业板指震荡下挫跌超2%，科技赛道集体陷入调整，电力、大消费逆势活跃",
+          "url": "https://www.cls.cn/detail/2385444",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
           "title": "上证指数早盘收报4083.62点，跌0.37%。 深证成指早盘收报15704.04点，跌1.00%。 创业板指早盘收报4077.94点，跌1.14%。 沪深300早盘收报4917.02点，涨0.06%。 科创50早盘收报1777.24点，跌3.63%。 中证500早盘收报8425.69点，跌1.61%。 中证1000早盘收报8477.09点，跌1.86%。",
           "url": "https://wallstreetcn.com/livenews/3111111",
           "source": "华尔街见闻-快讯",
@@ -511,6 +602,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
+        },
+        {
+          "title": "深交所：调整深证成指、创业板指、深证100、创业板50等指数样本股",
+          "url": "https://wallstreetcn.com/livenews/3111395",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         },
         {
           "title": "创业板指拉升翻红，此前一度跌超1.7%。",
