@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T00:10:14.446564+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-05-31T02:06:57.497095+08:00",
+  "total_titles_processed": 368,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2386026",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 00时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 02时06分]"
         },
         {
           "title": "市值超2600亿港元！MiniMax再冲A股 港股“大模型双雄”即将又会师",
@@ -26,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 00时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 02时06分]"
         },
         {
           "title": "面向超大规模药物发现的人工智能虚拟筛选平台——GalaxyVS正式发布",
@@ -36,9 +37,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 02时06分]"
         },
         {
           "title": "美股收盘：三大股指续创新高 戴尔领衔科技股狂欢",
@@ -48,8 +49,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 00时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 02时06分]"
         },
         {
           "title": "科技股究竟因何调整？四大原因讨论最多",
@@ -59,8 +60,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 00时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 02时06分]"
         },
         {
           "title": "一个月烧掉5亿美元！科技巨头“AI Token消耗赛”踩下急刹",
@@ -70,58 +71,62 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 00时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 02时06分]"
         },
         {
           "title": "科技股突然杀跌意味着什么",
           "url": "https://www.toutiao.com/trending/7645677592820846122/",
           "source": "今日头条",
           "ranks": [
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 00时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 02时06分]"
         },
         {
           "title": "“中国造”灭蚊黑科技走红",
           "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E9%80%A0%E2%80%9D%E7%81%AD%E8%9A%8A%E9%BB%91%E7%A7%91%E6%8A%80%E8%B5%B0%E7%BA%A2",
           "source": "百度热搜",
           "ranks": [
-            19
+            19,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 00时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 02时06分]"
         },
         {
           "title": "撬动创新药开发 人工智能虚拟筛选平台在天津发布",
           "url": "https://flash.jin10.com/detail/20260530215645145800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 02时06分]"
         }
       ]
     },
     {
       "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "忘了设限，1家公司1个月在Claude烧掉5亿美元！--当AI已经贵到“用不起”",
           "url": "https://wallstreetcn.com/articles/3773482",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 00时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 02时06分]"
         },
         {
           "title": "报道：OpenAI在讨论将花旗、摩根大通纳入IPO承销商名单",
@@ -130,9 +135,20 @@
           "ranks": [
             23
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 02时06分]"
+        },
+        {
+          "title": "为什么无论是 chatgpt 还是 deepseek 都会在 24 点游戏上表现的这么差？",
+          "url": "https://www.zhihu.com/question/2040472846393161206",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时10分"
+          "time_info": "02时06分"
         }
       ]
     }
