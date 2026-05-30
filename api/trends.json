@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-30T12:04:09.119401+08:00",
-  "total_titles_processed": 729,
+  "generated_at": "2026-05-30T15:45:45.956849+08:00",
+  "total_titles_processed": 885,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "上证50、科创50等指数调整样本，华虹公司、源杰科技等热门股被纳入多条指数",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 12时04分]"
+          "appearance_count": 8,
+          "time_info": "[00时50分 ~ 15时45分]"
         },
         {
           "title": "都叫科技基金，有些竟是亏的，基民调侃：误以为自己站在光里",
@@ -36,11 +36,12 @@
           "ranks": [
             6,
             5,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 12时04分]"
+          "appearance_count": 8,
+          "time_info": "[00时50分 ~ 15时45分]"
         },
         {
           "title": "走近“最美科技工作者”",
@@ -50,8 +51,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时03分 ~ 12时04分]"
+          "appearance_count": 3,
+          "time_info": "[12时03分 ~ 15时45分]"
         },
         {
           "title": "科技工作者一生坚守的赤诚心声",
@@ -61,8 +62,44 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时03分 ~ 12时04分]"
+          "appearance_count": 3,
+          "time_info": "[12时03分 ~ 15时45分]"
+        },
+        {
+          "title": "美股收盘：三大股指续创新高 戴尔领衔科技股狂欢",
+          "url": "https://www.cls.cn/detail/2385964",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时24分 ~ 15时45分]"
+        },
+        {
+          "title": "长鑫科技背后“稳赚”了八家券商！毛估460亿，科创投资正成券商第三条成长主线",
+          "url": "https://www.cls.cn/detail/2386026",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时03分 ~ 15时45分]"
+        },
+        {
+          "title": "涉事“MIMI”发卡店铺已下架停业，抖音仍有同款商品在售",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33266072",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时03分 ~ 15时45分]"
         },
         {
           "title": "恒生指数主连夜盘收涨0.11%，报15780点。 恒生科技指数主连夜盘收涨0.44%，报25098点。",
@@ -82,21 +119,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
         },
         {
-          "title": "美股收盘：三大股指续创新高 戴尔领衔科技股狂欢",
-          "url": "https://www.cls.cn/detail/2385964",
+          "title": "市值超2600亿港元！MiniMax再冲A股 港股“大模型双雄”即将又会师",
+          "url": "https://www.cls.cn/detail/2386025",
           "source": "财联社热门",
           "ranks": [
-            9,
-            5
+            8,
+            4
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时24分 ~ 12时04分]"
+          "time_info": "[12时03分 ~ 15时45分]"
         },
         {
           "title": "韩国巨额AI奖金引发科技财富分配大论战",
@@ -111,48 +148,16 @@
           "time_info": "[05时58分 ~ 07时24分]"
         },
         {
-          "title": "长鑫科技背后“稳赚”了八家券商！毛估460亿，科创投资正成券商第三条成长主线",
-          "url": "https://www.cls.cn/detail/2386026",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时03分 ~ 12时04分]"
-        },
-        {
-          "title": "涉事“MIMI”发卡店铺已下架停业，抖音仍有同款商品在售",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33266072",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时03分 ~ 12时04分]"
-        },
-        {
-          "title": "市值超2600亿港元！MiniMax再冲A股 港股“大模型双雄”即将又会师",
-          "url": "https://www.cls.cn/detail/2386025",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时03分 ~ 12时04分]"
-        },
-        {
           "title": "马上测丨又拆又改“造名牌”，抖音商家将山寨“MIMI”变身“MIUMIU”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33263879",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            11,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时03分 ~ 12时04分]"
+          "appearance_count": 3,
+          "time_info": "[12时03分 ~ 15时45分]"
         },
         {
           "title": "周五（5月29日），美股AI软件先驱指数涨7.34%，报122.40点，本周累涨11.32%，5月份累涨23.99%。 北美科技软件股指数ETF收涨6.25%，报101.66美元，本周累计上涨8.14%——连续第七周反弹，5月份累涨21.15%，创2001年10月份以来最佳单月表现。",
@@ -191,6 +196,39 @@
           "time_info": "[05时58分 ~ 07时24分]"
         },
         {
+          "title": "摩根士丹利：一定要投A股硬科技",
+          "url": "https://www.toutiao.com/trending/7644332552131493930/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
+        {
+          "title": "中央企业科技成果产业化联合体在京成立",
+          "url": "https://flash.jin10.com/detail/20260530130507461800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
+        {
+          "title": "中央企业科技成果产业化联合体在京成立",
+          "url": "https://wallstreetcn.com/livenews/3111731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
+        {
           "title": "标普500指数的11个板块普遍收跌，日用消费品板块收跌2%，电信板块跌1.7%，能源板块跌1.07%，可选消费板块跌1.05%，金融板块则收涨0.56%，信息技术/科技板块涨1.87%。",
           "url": "https://wallstreetcn.com/livenews/3111626",
           "source": "华尔街见闻-快讯",
@@ -227,7 +265,7 @@
     },
     {
       "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "如何看待 5 月 29 日发布的 Claude4.8Opus 疑似大量蒸馏国内开源模型？",
@@ -288,6 +326,28 @@
           "time_info": "[05时58分 ~ 07时24分]"
         },
         {
+          "title": "忘了设限，1家公司1个月在Claude烧掉5亿美元！--当AI已经贵到“用不起”",
+          "url": "https://wallstreetcn.com/articles/3773482",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
+        {
+          "title": "Claude Opus4.8实测",
+          "url": "https://search.bilibili.com/all?keyword=Claude%20Opus4.8%E5%AE%9E%E6%B5%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
+        {
           "title": "OpenAI确认推出Rosalind BioDefense Program。",
           "url": "https://wallstreetcn.com/livenews/3111534",
           "source": "华尔街见闻-快讯",
@@ -315,8 +375,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 12时04分]"
+          "appearance_count": 8,
+          "time_info": "[00时50分 ~ 15时45分]"
         },
         {
           "title": "【每日收评】创业板指震荡下挫跌超2%，科技赛道集体陷入调整，电力、大消费逆势活跃",
