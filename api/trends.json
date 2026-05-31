@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-01T04:17:55.836769+08:00",
-  "total_titles_processed": 409,
+  "generated_at": "2026-06-01T06:06:43.315824+08:00",
+  "total_titles_processed": 443,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 04时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 06时06分]"
         },
         {
           "title": "长鑫科技背后“稳赚”了八家券商！毛估460亿，科创投资正成券商第三条成长主线",
@@ -26,19 +26,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 04时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 06时06分]"
         },
         {
           "title": "市值超2600亿港元！MiniMax再冲A股 港股“大模型双雄”即将又会师",
           "url": "https://www.cls.cn/detail/2386025",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 04时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 06时06分]"
         },
         {
           "title": "乌克兰总统泽连斯基：美国企业拥有我们所不具备的先进人工智能技术。而反过来，由于我们积累了丰富的实战经验，我们也掌握着许多美国人所没有的能力和经验。",
@@ -65,8 +66,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 04时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 06时06分]"
         },
         {
           "title": "GitHub不装了，用户炸锅了！AI编程的低价时代结束，从此按token计费",
@@ -77,8 +78,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 04时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 06时06分]"
         },
         {
           "title": "OpenAI模型推翻80年的数学经典猜想，引发学界震动",
@@ -89,8 +90,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 04时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 06时06分]"
         }
       ]
     }
