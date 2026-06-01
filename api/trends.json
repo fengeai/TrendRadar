@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-02T02:44:18.015882+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-02T06:14:48.276865+08:00",
+  "total_titles_processed": 400,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
         {
           "title": "73天！宇树科技科创板IPO过会 A股人形机器人第一股将至",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时44分"
+          "appearance_count": 2,
+          "time_info": "[02时44分 ~ 06时14分]"
         },
         {
           "title": "大力推进人工智能+能源融合发展",
@@ -26,19 +26,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时44分"
+          "appearance_count": 2,
+          "time_info": "[02时44分 ~ 06时14分]"
         },
         {
           "title": "抖音精选的童年信箱",
           "url": "https://www.douyin.com/hot/2519633",
           "source": "抖音",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时44分"
+          "appearance_count": 2,
+          "time_info": "[02时44分 ~ 06时14分]"
         },
         {
           "title": "宇树科技科创板IPO过会，从受理到上会用时仅73天",
@@ -48,8 +49,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时44分"
+          "appearance_count": 2,
+          "time_info": "[02时44分 ~ 06时14分]"
         },
         {
           "title": "日企黑科技:塑料变石油",
@@ -59,8 +60,52 @@
             13
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时44分 ~ 06时14分]"
+        },
+        {
+          "title": "标普：上调戴尔科技评级至BBB+，前景展望稳定。",
+          "url": "https://wallstreetcn.com/livenews/3112650",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时44分"
+          "time_info": "06时14分"
+        },
+        {
+          "title": "Alphabet(GOOG.O)：AI需求已超出公司现有供应能力。公司正面临来自企业和消费者对人工智能解决方案的强劲需求。",
+          "url": "https://flash.jin10.com/detail/20260602050120532800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
+        },
+        {
+          "title": "公用事业ETF收跌将近3%，领跌美股行业ETF，全球科技股指数ETF则涨约3%",
+          "url": "https://wallstreetcn.com/livenews/3112640",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨1.47%，报6683.46点。 热门中概股里，盛大科技初步收涨25%，金山云涨8.6%，小马智行涨7.3%，蔚来涨6.8%，拼多多涨3.6%，阿里巴巴涨1%，理想跌3.1%。 ETF中，中概互联网指数ETF（KWEB）收涨2.36%，中国科技指数ETF（CQQQ）收跌0.93%。 MSCI新兴市场ex中国ETF（EMXC）收涨2.60%，XtrackersHarvest中证50（ASHS）收跌1.09%，德银嘉实沪深300指数ETF（ASHR）收跌1.36%。",
+          "url": "https://wallstreetcn.com/livenews/3112629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
         },
         {
           "title": "宇树科技体验馆亚洲首店来了",
@@ -72,6 +117,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "亚马逊(AMZN.O)：OpenAI的GPT-5.5、GPT-5.4及Codex现已登陆Amazon Bedrock。",
+          "url": "https://flash.jin10.com/detail/20260602053510657800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
         }
       ]
     }
