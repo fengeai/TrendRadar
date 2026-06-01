@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-01T06:06:43.315824+08:00",
-  "total_titles_processed": 443,
+  "generated_at": "2026-06-01T08:12:48.640910+08:00",
+  "total_titles_processed": 564,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 4,
+      "match_count": 10,
       "titles": [
         {
           "title": "鸿擎科技卫星互联网技术试验卫星成功入轨",
@@ -42,6 +42,17 @@
           "time_info": "[00时18分 ~ 06时06分]"
         },
         {
+          "title": "美元基金募资回暖 硬科技领域成共识",
+          "url": "https://wallstreetcn.com/livenews/3112010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时12分"
+        },
+        {
           "title": "乌克兰总统泽连斯基：美国企业拥有我们所不具备的先进人工智能技术。而反过来，由于我们积累了丰富的实战经验，我们也掌握着许多美国人所没有的能力和经验。",
           "url": "https://flash.jin10.com/detail/20260531234826092800",
           "source": "金十数据",
@@ -51,6 +62,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        },
+        {
+          "title": "南向资金密集扫货港股科技股 对多只标的持仓倍增",
+          "url": "https://wallstreetcn.com/livenews/3112003",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时12分"
+        },
+        {
+          "title": "关注科技股变化信号 基金经理多维度布局",
+          "url": "https://wallstreetcn.com/livenews/3112001",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时12分"
+        },
+        {
+          "title": "人民日报钟声：推动人工智能成为中美合作的新疆域",
+          "url": "https://wallstreetcn.com/livenews/3111994",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时12分"
+        },
+        {
+          "title": "美国科技记者古尔曼：戴尔(DELL.N)推出了重新设计的XPS 13笔记本电脑，起售价为699美元，将该设备定位为直接对抗苹果公司广受欢迎的MacBook Neo的产品。",
+          "url": "https://flash.jin10.com/detail/20260601072432805800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时12分"
+        },
+        {
+          "title": "券商：A股6月将延续高位震荡，科技主线或内部聚焦",
+          "url": "https://wallstreetcn.com/livenews/3111987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时12分"
         }
       ]
     },
@@ -63,11 +129,12 @@
           "url": "https://www.zhihu.com/question/2043802300246915002",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 06时06分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 08时12分]"
         },
         {
           "title": "GitHub不装了，用户炸锅了！AI编程的低价时代结束，从此按token计费",
@@ -75,11 +142,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 06时06分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 08时12分]"
         },
         {
           "title": "OpenAI模型推翻80年的数学经典猜想，引发学界震动",
