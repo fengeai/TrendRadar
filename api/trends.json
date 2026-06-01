@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-01T08:12:48.640910+08:00",
-  "total_titles_processed": 564,
+  "generated_at": "2026-06-01T14:11:04.546899+08:00",
+  "total_titles_processed": 799,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 10,
+      "match_count": 19,
       "titles": [
         {
           "title": "鸿擎科技卫星互联网技术试验卫星成功入轨",
@@ -30,6 +30,50 @@
           "time_info": "[00时18分 ~ 06时06分]"
         },
         {
+          "title": "中国科技期刊影响力提升 底气何来",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E6%9C%9F%E5%88%8A%E5%BD%B1%E5%93%8D%E5%8A%9B%E6%8F%90%E5%8D%87+%E5%BA%95%E6%B0%94%E4%BD%95%E6%9D%A5",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时10分 ~ 14时11分]"
+        },
+        {
+          "title": "日企黑科技:塑料变石油",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354745&amp;topic_name=%E6%97%A5%E4%BC%81%E9%BB%91%E7%A7%91%E6%8A%80%3A%E5%A1%91%E6%96%99%E5%8F%98%E7%9F%B3%E6%B2%B9",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时10分 ~ 14时11分]"
+        },
+        {
+          "title": "人民日报钟声：推动人工智能成为中美合作的新疆域",
+          "url": "https://www.cls.cn/detail/2386515",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时10分 ~ 14时11分]"
+        },
+        {
+          "title": "A股存储芯片板块走低，东芯股份跌超10%，拓荆科技、江波龙、香农芯创、德明利、佰维存储等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260601140753687800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时11分"
+        },
+        {
           "title": "市值超2600亿港元！MiniMax再冲A股 港股“大模型双雄”即将又会师",
           "url": "https://www.cls.cn/detail/2386025",
           "source": "财联社热门",
@@ -48,9 +92,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时12分"
+        },
+        {
+          "title": "A股存储芯片板块走低，东芯股份跌超10%，拓荆科技跌近6%，江波龙、香浓新创、德明利、佰维存储跟跌。",
+          "url": "https://wallstreetcn.com/livenews/3112208",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时11分"
         },
         {
           "title": "乌克兰总统泽连斯基：美国企业拥有我们所不具备的先进人工智能技术。而反过来，由于我们积累了丰富的实战经验，我们也掌握着许多美国人所没有的能力和经验。",
@@ -70,7 +125,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时12分"
         },
@@ -81,9 +136,42 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时12分"
+        },
+        {
+          "title": "英伟达：计划除了与中国宇树科技合作外，也将与美国、欧洲及韩国的人形机器人制造商合作，开展研究机器人项目。",
+          "url": "https://wallstreetcn.com/livenews/3112198",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时11分"
+        },
+        {
+          "title": "A股存储芯片板块走低，东芯股份跌超10%，拓荆科技跌近6%，江波龙、香浓新创、德明利、佰维存储跟跌。",
+          "url": "https://flash.jin10.com/detail/20260601135502579800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时11分"
+        },
+        {
+          "title": "A股PCB概念板块短线拉升，圣泉集团涨停，合锻智能、龙旗科技、中京电子此前封板，宏昌电子、澳弘电子、芯碁微装、鹏鼎控股、德福科技等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3112194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时11分"
         },
         {
           "title": "人民日报钟声：推动人工智能成为中美合作的新疆域",
@@ -92,7 +180,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时12分"
         },
@@ -103,7 +191,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时12分"
         },
@@ -114,15 +202,26 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时12分"
+        },
+        {
+          "title": "英伟达推出面向Windows的DGX Station，为企业配备拥有万亿参数的人工智能超级计算机。",
+          "url": "https://wallstreetcn.com/livenews/3112177",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时11分"
         }
       ]
     },
     {
       "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "如何看待 DeepSeek 在 2026.5.29 晚限制修改输入次数？",
@@ -160,6 +259,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时18分 ~ 06时06分]"
+        },
+        {
+          "title": "SpaceX、OpenAI上市在即，亚洲投资者“卖芯片，买瓶颈”，押注“新一轮资本开支”",
+          "url": "https://wallstreetcn.com/articles/3773518",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时10分 ~ 14时11分]"
         }
       ]
     }
