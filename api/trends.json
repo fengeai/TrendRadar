@@ -1,219 +1,110 @@
 {
-  "generated_at": "2026-06-02T22:59:42.267834+08:00",
-  "total_titles_processed": 1177,
+  "generated_at": "2026-06-03T02:50:59.330650+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 35,
+      "match_count": 14,
       "titles": [
         {
-          "title": "73天！宇树科技科创板IPO过会 A股人形机器人第一股将至",
-          "url": "https://www.cls.cn/detail/2387242",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时44分 ~ 08时20分]"
-        },
-        {
-          "title": "美股收盘：三大指数均创收盘新高 英伟达领涨科技股",
-          "url": "https://www.cls.cn/detail/2387720",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时20分 ~ 13时56分]"
-        },
-        {
-          "title": "大力推进人工智能+能源融合发展",
-          "url": "https://www.douyin.com/hot/2520343",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时44分 ~ 08时20分]"
-        },
-        {
-          "title": "领涨的都是“科创券商”！科技投资唤醒旗手弹性，“第三增长极”呼声高了",
-          "url": "https://www.cls.cn/detail/2388025",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时55分 ~ 18时49分]"
-        },
-        {
-          "title": "日企黑科技:塑料变石油",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354745&amp;topic_name=%E6%97%A5%E4%BC%81%E9%BB%91%E7%A7%91%E6%8A%80%3A%E5%A1%91%E6%96%99%E5%8F%98%E7%9F%B3%E6%B2%B9",
-          "source": "贴吧",
-          "ranks": [
-            13,
-            18,
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时44分 ~ 22时59分]"
-        },
-        {
-          "title": "宇树科技科创板IPO过会，从受理到上会用时仅73天",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33280884",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时44分 ~ 13时56分]"
-        },
-        {
-          "title": "英国央行行长贝利：并非所有人工智能相关股都会成为赢家。",
-          "url": "https://flash.jin10.com/detail/20260602225704964800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时59分"
-        },
-        {
-          "title": "科技赋能夏收夏种 助力粮食稳产丰收",
-          "url": "https://www.toutiao.com/trending/7646610375901970441/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时49分"
-        },
-        {
-          "title": "瑞士牙科医疗科技公司‌vVARDIS计划今年在美国进行IPO。",
-          "url": "https://flash.jin10.com/detail/20260602075517821800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时20分"
-        },
-        {
-          "title": "美股期指下跌 慧与科技盘前大涨超28% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2388757",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时59分"
-        },
-        {
-          "title": "抖音精选的童年信箱",
-          "url": "https://www.douyin.com/hot/2519633",
-          "source": "抖音",
-          "ranks": [
-            7,
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时44分 ~ 08时20分]"
-        },
-        {
-          "title": "【焦点复盘】沪指深V反转收复60日线，硬科技方向重获资金抱团，稀贵金属概念异军突起",
-          "url": "https://www.cls.cn/detail/2388469",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时49分 ~ 22时59分]"
-        },
-        {
-          "title": "超百家险资机构扎堆调研 5月汇川技术获30家险资到访 科技、制造赛道持续受宠",
-          "url": "https://www.cls.cn/detail/2388374",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时49分 ~ 22时59分]"
-        },
-        {
-          "title": "宇树科技回应联手英伟达：H2 Plus人形机器人下半年上市",
-          "url": "https://wallstreetcn.com/livenews/3113160",
+          "title": "微软：MAI-THINKING-1是微软人工智能旗下首个推理大模型。",
+          "url": "https://wallstreetcn.com/livenews/3113243",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时59分"
+          "time_info": "02时50分"
+        },
+        {
+          "title": "微软(MSFT.O)高管：将与梅奥诊所合作共同开发人工智能模型。",
+          "url": "https://flash.jin10.com/detail/20260603023241627800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时50分"
         },
         {
           "title": "再升科技：相关主体编造虚假内容、误导资本市场，必要时将报案",
           "url": "https://www.cls.cn/detail/2388734",
           "source": "财联社热门",
           "ranks": [
-            7
+            5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时59分"
+          "time_info": "02时50分"
         },
         {
-          "title": "宇树科技科创板IPO过会",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E7%A7%91%E5%88%9B%E6%9D%BFIPO%E8%BF%87%E4%BC%9A",
-          "source": "bilibili 热搜",
+          "title": "美股期指下跌 慧与科技盘前大涨超28% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2388757",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时50分"
+        },
+        {
+          "title": "微软(MSFT.O)高管：微软的推理人工智能模型是在其自家芯片上共同开发的。",
+          "url": "https://flash.jin10.com/detail/20260603023037278800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时50分"
+        },
+        {
+          "title": "【焦点复盘】沪指深V反转收复60日线，硬科技方向重获资金抱团，稀贵金属概念异军突起",
+          "url": "https://www.cls.cn/detail/2388469",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时50分"
+        },
+        {
+          "title": "微软(MSFT.O)人工智能负责人：MAI Image 2.5及其Flash版本在图像编辑方面的得分已超越Nano Banana 2。",
+          "url": "https://flash.jin10.com/detail/20260603022937536800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时50分"
+        },
+        {
+          "title": "微软(MSFT.O)人工智能负责人：MAI-CODE-1 FLASH是微软的新编码模型。",
+          "url": "https://flash.jin10.com/detail/20260603022911999800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时20分"
+          "time_info": "02时50分"
         },
         {
-          "title": "长鑫科技",
-          "url": "https://s.weibo.com/weibo?q=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80&t=31&band_rank=9&Refer=top",
-          "source": "微博",
+          "title": "微软(MSFT.O)人工智能负责人：MAI-THINKING-1是微软人工智能的首个推理模型。",
+          "url": "https://flash.jin10.com/detail/20260603022854168800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时20分"
-        },
-        {
-          "title": "紧跟戴尔、联想步伐，“服务器巨头”慧与科技营收远超预期，大幅上调指引，盘后一度暴涨40%｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3773608",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时49分"
+          "time_info": "02时50分"
         },
         {
           "title": "6月科技产业有哪些催化？",
@@ -222,203 +113,88 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时59分"
+          "time_info": "02时50分"
         },
         {
-          "title": "标普：上调戴尔科技评级至BBB+，前景展望稳定。",
-          "url": "https://wallstreetcn.com/livenews/3112650",
-          "source": "华尔街见闻-快讯",
+          "title": "微软(MSFT.O)人工智能负责人：MAI-THINKING-1是一个拥有350亿活跃参数的推理模型。",
+          "url": "https://flash.jin10.com/detail/20260603022825093800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时14分"
+          "time_info": "02时50分"
         },
         {
-          "title": "恒生科技指数午后涨幅扩大至4%，腾讯控股涨近9%，美团涨超8%。",
-          "url": "https://wallstreetcn.com/livenews/3112834",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时56分"
-        },
-        {
-          "title": "A股光纤概念持续走强，中天科技、杭电股份触及涨停，此前长飞光纤、亨通光电、永鼎股份、汇源通信涨停，长盈通涨超10%。",
-          "url": "https://flash.jin10.com/detail/20260602133255347800",
+          "title": "微软(MSFT.O)人工智能负责人：MAI-TRANSCRIBE-1.5模型是所有超大规模云服务商同类模型中成本效益最高的。",
+          "url": "https://flash.jin10.com/detail/20260603022758952800",
           "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时56分"
+          "time_info": "02时50分"
         },
         {
-          "title": "花旗策略师警告：美国科技股多头仓位过度拥挤 回调风险上升",
-          "url": "https://wallstreetcn.com/livenews/3113005",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时49分"
-        },
-        {
-          "title": "这一幕像极了互联网泡沫破裂前夕！美股陷入极端“窄牛” 华尔街拉响警报",
-          "url": "https://www.cls.cn/detail/2388081",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时49分"
-        },
-        {
-          "title": "Alphabet(GOOG.O)：AI需求已超出公司现有供应能力。公司正面临来自企业和消费者对人工智能解决方案的强劲需求。",
-          "url": "https://flash.jin10.com/detail/20260602050120532800",
+          "title": "微软(MSFT.O)人工智能负责人宣布推出7款新人工智能模型，微软的人工智能模型新增了图像和转录模型。",
+          "url": "https://flash.jin10.com/detail/20260603022720326800",
           "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时14分"
+          "time_info": "02时50分"
         },
         {
-          "title": "周一（6月1日），美股信息科技指数涨3.20%，报450.89点，继续创收盘历史新高。 成分股中，MongoDB涨20.36%，Nebius集团涨14.46%，发行垃圾债融资的CoreWeave涨13.96%，Datadog涨12.19%，Cloudflare涨11.99%，戴尔科技涨10.70%，铿腾电子涨10.46%表现第七，Credo则收跌4.2%跌幅第四大，英特尔跌4.67%，Astera Lab跌6.64%，高通跌8.78%。",
-          "url": "https://wallstreetcn.com/livenews/3112689",
-          "source": "华尔街见闻-快讯",
+          "title": "日企黑科技:塑料变石油",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354745&amp;topic_name=%E6%97%A5%E4%BC%81%E9%BB%91%E7%A7%91%E6%8A%80%3A%E5%A1%91%E6%96%99%E5%8F%98%E7%9F%B3%E6%B2%B9",
+          "source": "贴吧",
           "ranks": [
-            14
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时20分"
-        },
+          "time_info": "02时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
+      "match_count": 2,
+      "titles": [
         {
-          "title": "上交所官网显示，宇树科技股份有限公司IPO审核状态变更为提交注册。",
-          "url": "https://wallstreetcn.com/livenews/3112994",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时49分"
-        },
-        {
-          "title": "金十数据整理：每日科技要闻速递（6月2日）",
-          "url": "https://flash.jin10.com/detail/20260602073640573800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时20分"
-        },
-        {
-          "title": "公用事业ETF收跌将近3%，领跌美股行业ETF，全球科技股指数ETF则涨约3%",
-          "url": "https://wallstreetcn.com/livenews/3112640",
+          "title": "OpenAI：ZoomInfo将在企业版Codex（Codex for Work）中提供原生支持。",
+          "url": "https://wallstreetcn.com/livenews/3113224",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时14分"
+          "time_info": "02时50分"
         },
         {
-          "title": "据上交所官网显示，宇树科技股份有限公司IPO审核状态变更为提交注册。",
-          "url": "https://flash.jin10.com/detail/20260602180836931800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时49分"
-        },
-        {
-          "title": "A股半导体板块震荡走高，裕太微20cm涨停，源杰科技、江丰电子、杰华特涨幅居前。",
-          "url": "https://flash.jin10.com/detail/20260602131725247800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时56分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨1.47%，报6683.46点。 热门中概股里，盛大科技初步收涨25%，金山云涨8.6%，小马智行涨7.3%，蔚来涨6.8%，拼多多涨3.6%，阿里巴巴涨1%，理想跌3.1%。 ETF中，中概互联网指数ETF（KWEB）收涨2.36%，中国科技指数ETF（CQQQ）收跌0.93%。 MSCI新兴市场ex中国ETF（EMXC）收涨2.60%，XtrackersHarvest中证50（ASHS）收跌1.09%，德银嘉实沪深300指数ETF（ASHR）收跌1.36%。",
-          "url": "https://wallstreetcn.com/livenews/3112629",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时14分"
-        },
-        {
-          "title": "宇树科技体验馆亚洲首店来了",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E4%BD%93%E9%AA%8C%E9%A6%86%E4%BA%9A%E6%B4%B2%E9%A6%96%E5%BA%97%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时44分"
-        },
-        {
-          "title": "强脑科技预计仿生手销量今年有望大增",
-          "url": "https://wallstreetcn.com/livenews/3112809",
+          "title": "优步（Uber Technologies Inc.）对Claude等AI工具设置员工使用上限，希望借机管控成本。",
+          "url": "https://wallstreetcn.com/livenews/3113215",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时56分"
-        },
-        {
-          "title": "联发科承诺扩大招聘 以助力向新的人工智能业务领域推进",
-          "url": "https://wallstreetcn.com/livenews/3112970",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时49分"
+          "time_info": "02时50分"
         }
       ]
     },
     {
       "keyword_group": "独立开发 创业 副业",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "上海：做好算力期货研发准备，推动科创50、深证100、创业板股指期货和期权上市",
-          "url": "https://www.cls.cn/detail/2388194",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时49分"
-        },
         {
           "title": "【每日收评】创业板指震荡走高涨超2.5%，CPO、光纤等AI硬件股卷土重来",
           "url": "https://www.cls.cn/detail/2388416",
@@ -427,81 +203,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时49分 ~ 22时59分]"
-        },
-        {
-          "title": "创业板指午后涨超3%，沪指涨0.58%，深证成指涨1.78%，CPO、光纤概念板块领涨。",
-          "url": "https://wallstreetcn.com/livenews/3112842",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时56分"
+          "time_info": "02时50分"
         },
         {
           "title": "创业板大涨超2%，算力硬件全线爆发，恒科指狂飙超4%，美团、阿里、腾讯集体猛拉",
           "url": "https://wallstreetcn.com/articles/3773623",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时49分"
-        },
-        {
-          "title": "创业板指日内大涨3%，上证综指现涨0.56%，深证成指现涨1.75%；CPO、光纤概念股涨幅居前。",
-          "url": "https://flash.jin10.com/detail/20260602132542327800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "先上市者为王？一文读懂：Anthropic与OpenAI缘何上演“抢滩登陆战”！",
-          "url": "https://www.cls.cn/detail/2387988",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时49分"
-        },
-        {
-          "title": "DeepSeek降价",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E9%99%8D%E4%BB%B7&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时49分 ~ 22时59分]"
-        },
-        {
-          "title": "亚马逊(AMZN.O)：OpenAI的GPT-5.5、GPT-5.4及Codex现已登陆Amazon Bedrock。",
-          "url": "https://flash.jin10.com/detail/20260602053510657800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时14分"
+          "time_info": "02时50分"
         }
       ]
     }
