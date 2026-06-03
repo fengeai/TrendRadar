@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-03T07:54:40.969898+08:00",
-  "total_titles_processed": 509,
+  "generated_at": "2026-06-03T12:57:31.409786+08:00",
+  "total_titles_processed": 726,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 20,
+      "match_count": 26,
       "titles": [
         {
           "title": "微软：MAI-THINKING-1是微软人工智能旗下首个推理大模型。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
+        },
+        {
+          "title": "5月A股新开户同比大增78%，逼近2.6亿，“科技行情”拉动入市",
+          "url": "https://www.cls.cn/detail/2389049",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时57分"
         },
         {
           "title": "微软(MSFT.O)高管：将与梅奥诊所合作共同开发人工智能模型。",
@@ -99,6 +110,17 @@
           "time_info": "[02时50分 ~ 05时55分]"
         },
         {
+          "title": "特朗普签署人工智能行政令，要求企业向政府提前开放模型访问权限",
+          "url": "https://www.cls.cn/detail/2388943",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时54分 ~ 12时57分]"
+        },
+        {
           "title": "微软(MSFT.O)高管：微软的推理人工智能模型是在其自家芯片上共同开发的。",
           "url": "https://flash.jin10.com/detail/20260603023037278800",
           "source": "金十数据",
@@ -160,7 +182,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -187,15 +209,59 @@
           "time_info": "02时50分"
         },
         {
-          "title": "特朗普签署人工智能行政令，要求企业向政府提前开放模型访问权限",
-          "url": "https://www.cls.cn/detail/2388943",
-          "source": "财联社热门",
+          "title": "赖清德声称将处理TikTok、小红书对台青影响，国台办回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33297512",
+          "source": "澎湃新闻",
           "ranks": [
-            13
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时54分"
+          "time_info": "12时57分"
+        },
+        {
+          "title": "港股午评：恒生指数早盘震荡下行 科技权重股回调",
+          "url": "https://flash.jin10.com/detail/20260603120652973800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时57分"
+        },
+        {
+          "title": "国台办回应赖清德攻击TikTok小红书",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E8%B5%96%E6%B8%85%E5%BE%B7%E6%94%BB%E5%87%BBTikTok%E5%B0%8F%E7%BA%A2%E4%B9%A6",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时57分"
+        },
+        {
+          "title": "宇树科技科创板 IPO 过会，这意味着什么？将给国产人形机器人行业带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2044829108081775769",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时57分"
+        },
+        {
+          "title": "再升科技股价大跌后发声明",
+          "url": "https://www.douyin.com/hot/2521658",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时57分"
         },
         {
           "title": "周二（6月2日），美股人工智能（AI）赢家指数涨2.45%，报447.26点。",
@@ -234,8 +300,30 @@
     },
     {
       "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "据路透援引消息人士报道，DeepSeek计划在首轮融资中筹集约70亿美元，估值高达590亿美元。腾讯与宁德时代将成为DeepSeek最大的外部投资者；网易和京东也计划参投。",
+          "url": "https://flash.jin10.com/detail/20260603121634379800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时57分"
+        },
+        {
+          "title": "OpenAI举行“AI上岗”发布会：股票研究、投行路演都能干",
+          "url": "https://www.cls.cn/detail/2388950",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时57分"
+        },
         {
           "title": "OpenAI：ZoomInfo将在企业版Codex（Codex for Work）中提供原生支持。",
           "url": "https://wallstreetcn.com/livenews/3113224",
@@ -265,7 +353,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         }
@@ -273,7 +361,7 @@
     },
     {
       "keyword_group": "独立开发 创业 副业",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "创业板大涨超2%，算力硬件全线爆发，恒科指狂飙超4%，美团、阿里、腾讯集体猛拉",
@@ -284,8 +372,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时50分 ~ 07时54分]"
+          "appearance_count": 3,
+          "time_info": "[02时50分 ~ 12时57分]"
         },
         {
           "title": "【每日收评】创业板指震荡走高涨超2.5%，CPO、光纤等AI硬件股卷土重来",
@@ -297,6 +385,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
+        },
+        {
+          "title": "上证指数早盘收报4097.94点，涨0.56%。 深证成指早盘收报15951.08点，涨2.31%。 创业板指早盘收报4216.74点，涨3.97%。 沪深300早盘收报4990.50点，涨1.55%。 科创50早盘收报1771.29点，涨4.78%。 中证500早盘收报8437.91点，涨1.40%。 中证1000早盘收报8524.49点，涨1.67%。",
+          "url": "https://wallstreetcn.com/livenews/3113478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时57分"
+        },
+        {
+          "title": "6月3日午间收评：创业板指涨近4%站上4200点，“易中天”股价齐创新高",
+          "url": "https://wallstreetcn.com/livenews/3113477",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时57分"
+        },
+        {
+          "title": "创业板指站上4200点，为历史首次，日内涨超3.6%，权重股中际旭创、新易盛、天孚通信、蓝思科技、鼎泰高科均刷新历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3113465",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时57分"
         }
       ]
     }
