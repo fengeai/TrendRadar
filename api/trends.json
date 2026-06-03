@@ -1,24 +1,22 @@
 {
-  "generated_at": "2026-06-03T23:51:02.877568+08:00",
-  "total_titles_processed": 1144,
+  "generated_at": "2026-06-04T03:55:36.504470+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 32,
+      "match_count": 5,
       "titles": [
         {
           "title": "赖清德声称将处理TikTok、小红书对台青影响，国台办回应",
           "url": "https://m.thepaper.cn/newsDetail_forward_33297512",
           "source": "澎湃新闻",
           "ranks": [
-            14,
-            5,
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时57分 ~ 23时51分]"
+          "appearance_count": 1,
+          "time_info": "03时55分"
         },
         {
           "title": "长线外资看好中国 持续加码硬科技",
@@ -28,31 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时50分 ~ 23时51分]"
-        },
-        {
-          "title": "5月A股新开户同比大增78%，逼近2.6亿，“科技行情”拉动入市",
-          "url": "https://www.cls.cn/detail/2389049",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时57分 ~ 18时02分]"
-        },
-        {
-          "title": "孙正义重登亚洲首富，称 AI 才刚起步，体量有望达到互联网热潮 50 倍，怎么理解该判断？其首富位子能坐多久？",
-          "url": "https://www.zhihu.com/question/2045380781644763655",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时50分 ~ 23时51分]"
+          "appearance_count": 1,
+          "time_info": "03时55分"
         },
         {
           "title": "【焦点复盘】市场延续极致二八分化，个股炸板率超四成，科技与能源板块再现跷跷板",
@@ -62,422 +37,36 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时50分 ~ 23时51分]"
+          "appearance_count": 1,
+          "time_info": "03时55分"
         },
         {
-          "title": "微软：MAI-THINKING-1是微软人工智能旗下首个推理大模型。",
-          "url": "https://wallstreetcn.com/livenews/3113243",
+          "title": "恒生指数主连夜盘收跌0.70%，报25312点。 恒生科技指数主连夜盘收跌0.73%，报5006点。",
+          "url": "https://wallstreetcn.com/livenews/3113983",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时50分"
-        },
-        {
-          "title": "微软(MSFT.O)高管：将与梅奥诊所合作共同开发人工智能模型。",
-          "url": "https://flash.jin10.com/detail/20260603023241627800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时50分"
-        },
-        {
-          "title": "迈威尔科技美股盘后涨9.4%。",
-          "url": "https://wallstreetcn.com/livenews/3113304",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
-        },
-        {
-          "title": "再升科技：相关主体编造虚假内容、误导资本市场，必要时将报案",
-          "url": "https://www.cls.cn/detail/2388734",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时50分 ~ 07时54分]"
-        },
-        {
-          "title": "美股期指下跌 慧与科技盘前大涨超28% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2388757",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时50分 ~ 07时54分]"
-        },
-        {
-          "title": "6月科技产业有哪些催化？",
-          "url": "https://www.cls.cn/detail/2388614",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时50分 ~ 07时54分]"
-        },
-        {
-          "title": "日企黑科技:塑料变石油",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354745&amp;topic_name=%E6%97%A5%E4%BC%81%E9%BB%91%E7%A7%91%E6%8A%80%3A%E5%A1%91%E6%96%99%E5%8F%98%E7%9F%B3%E6%B2%B9",
-          "source": "贴吧",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时50分 ~ 07时54分]"
-        },
-        {
-          "title": "【焦点复盘】沪指深V反转收复60日线，硬科技方向重获资金抱团，稀贵金属概念异军突起",
-          "url": "https://www.cls.cn/detail/2388469",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时50分 ~ 05时55分]"
-        },
-        {
-          "title": "特朗普签署人工智能行政令，要求企业向政府提前开放模型访问权限",
-          "url": "https://www.cls.cn/detail/2388943",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时54分 ~ 12时57分]"
-        },
-        {
-          "title": "微软(MSFT.O)高管：微软的推理人工智能模型是在其自家芯片上共同开发的。",
-          "url": "https://flash.jin10.com/detail/20260603023037278800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时50分"
-        },
-        {
-          "title": "微软(MSFT.O)人工智能负责人：MAI Image 2.5及其Flash版本在图像编辑方面的得分已超越Nano Banana 2。",
-          "url": "https://flash.jin10.com/detail/20260603022937536800",
-          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时50分"
+          "time_info": "03时55分"
         },
         {
-          "title": "微软(MSFT.O)人工智能负责人：MAI-CODE-1 FLASH是微软的新编码模型。",
-          "url": "https://flash.jin10.com/detail/20260603022911999800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时50分"
-        },
-        {
-          "title": "微软(MSFT.O)人工智能负责人：MAI-THINKING-1是微软人工智能的首个推理模型。",
-          "url": "https://flash.jin10.com/detail/20260603022854168800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时50分"
-        },
-        {
-          "title": "微软(MSFT.O)人工智能负责人：MAI-THINKING-1是一个拥有350亿活跃参数的推理模型。",
-          "url": "https://flash.jin10.com/detail/20260603022825093800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时50分"
-        },
-        {
-          "title": "分析人士：科技仍是长期主线，短期交易拥挤度需充分消化",
-          "url": "https://wallstreetcn.com/livenews/3113330",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时54分"
-        },
-        {
-          "title": "微软(MSFT.O)人工智能负责人：MAI-TRANSCRIBE-1.5模型是所有超大规模云服务商同类模型中成本效益最高的。",
-          "url": "https://flash.jin10.com/detail/20260603022758952800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时50分"
-        },
-        {
-          "title": "微软(MSFT.O)人工智能负责人宣布推出7款新人工智能模型，微软的人工智能模型新增了图像和转录模型。",
-          "url": "https://flash.jin10.com/detail/20260603022720326800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时50分"
-        },
-        {
-          "title": "港股午评：恒生指数早盘震荡下行 科技权重股回调",
-          "url": "https://flash.jin10.com/detail/20260603120652973800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时57分"
-        },
-        {
-          "title": "国台办回应赖清德攻击TikTok小红书",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E8%B5%96%E6%B8%85%E5%BE%B7%E6%94%BB%E5%87%BBTikTok%E5%B0%8F%E7%BA%A2%E4%B9%A6",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时57分"
-        },
-        {
-          "title": "全抖音都在为2026高考加油",
-          "url": "https://www.douyin.com/hot/2522345",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时02分"
-        },
-        {
-          "title": "宇树科技科创板 IPO 过会，这意味着什么？将给国产人形机器人行业带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2044829108081775769",
+          "title": "孙正义重登亚洲首富，称 AI 才刚起步，体量有望达到互联网热潮 50 倍，怎么理解该判断？其首富位子能坐多久？",
+          "url": "https://www.zhihu.com/question/2045380781644763655",
           "source": "知乎",
           "ranks": [
-            20
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时57分"
-        },
-        {
-          "title": "再升科技股价大跌后发声明",
-          "url": "https://www.douyin.com/hot/2521658",
-          "source": "抖音",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时57分"
-        },
-        {
-          "title": "富时中国A50指数纳入兆易创新、澜起科技、东山精密、胜宏科技、潍柴动力",
-          "url": "https://wallstreetcn.com/livenews/3113657",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时02分"
-        },
-        {
-          "title": "纳斯达克100指数转涨，费城半导体指数涨超1.6%，生物科技指数反弹超0.7%。",
-          "url": "https://wallstreetcn.com/livenews/3113886",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时51分"
-        },
-        {
-          "title": "周二（6月2日），美股人工智能（AI）赢家指数涨2.45%，报447.26点。",
-          "url": "https://wallstreetcn.com/livenews/3113280",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
-        },
-        {
-          "title": "周二（6月2日），美股信息科技指数涨2.38%，报461.64点，连续多日创收盘历史新高，5月19日以来累计上涨23.35%。 标普500信息技术/科技板块涨0.92%，报7262.03点，也连续三天创收盘历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3113279",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周二（6月2日），美国科技股七巨头（Magnificent 7）指数跌1.03%，报225.46点。 “超大”市值科技股指数跌0.07%，报473.57点。",
-          "url": "https://wallstreetcn.com/livenews/3113276",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "独立开发 创业 副业",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "华为人才离职创业公司估值1亿美元",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E4%BA%BA%E6%89%8D%E7%A6%BB%E8%81%8C%E5%88%9B%E4%B8%9A%E5%85%AC%E5%8F%B8%E4%BC%B0%E5%80%BC1%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时50分 ~ 23时51分]"
-        },
-        {
-          "title": "【每日收评】市场午后震荡加剧，创业板指冲高回落涨1.65%，科技赛道延续强势",
-          "url": "https://www.cls.cn/detail/2389664",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时02分 ~ 23时51分]"
-        },
-        {
-          "title": "创业板大涨超2%，算力硬件全线爆发，恒科指狂飙超4%，美团、阿里、腾讯集体猛拉",
-          "url": "https://wallstreetcn.com/articles/3773623",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时50分 ~ 12时57分]"
-        },
-        {
-          "title": "创业板冲高回落涨逾1.5%，算力硬件再爆发、“易中天”齐创新高，恒科指跌近3%，科网股集体下跌",
-          "url": "https://wallstreetcn.com/articles/3773737",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时02分 ~ 23时51分]"
-        },
-        {
-          "title": "【每日收评】创业板指震荡走高涨超2.5%，CPO、光纤等AI硬件股卷土重来",
-          "url": "https://www.cls.cn/detail/2388416",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时50分"
-        },
-        {
-          "title": "【午报】创业板指震荡走高涨近4%，AI硬件与芯片产业联袂领涨",
-          "url": "https://www.cls.cn/detail/2389313",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时02分"
-        },
-        {
-          "title": "上证指数早盘收报4097.94点，涨0.56%。 深证成指早盘收报15951.08点，涨2.31%。 创业板指早盘收报4216.74点，涨3.97%。 沪深300早盘收报4990.50点，涨1.55%。 科创50早盘收报1771.29点，涨4.78%。 中证500早盘收报8437.91点，涨1.40%。 中证1000早盘收报8524.49点，涨1.67%。",
-          "url": "https://wallstreetcn.com/livenews/3113478",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时57分"
-        },
-        {
-          "title": "6月3日午间收评：创业板指涨近4%站上4200点，“易中天”股价齐创新高",
-          "url": "https://wallstreetcn.com/livenews/3113477",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时57分"
-        },
-        {
-          "title": "创业板指站上4200点，为历史首次，日内涨超3.6%，权重股中际旭创、新易盛、天孚通信、蓝思科技、鼎泰高科均刷新历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3113465",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时57分"
+          "time_info": "03时55分"
         }
       ]
     },
     {
       "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
-      "match_count": 7,
+      "match_count": 3,
       "titles": [
         {
           "title": "腾讯云宣布 DeepSeek-V4 系列模型降价，最高降幅达 97.5%，将带来哪些影响？",
@@ -487,74 +76,58 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时50分 ~ 23时51分]"
+          "appearance_count": 1,
+          "time_info": "03时55分"
         },
         {
           "title": "估值4000亿、腾讯与宁德时代入局？DeepSeek被曝开启中国AI最大规模融资",
           "url": "https://www.cls.cn/detail/2389857",
           "source": "财联社热门",
           "ranks": [
-            13
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时50分 ~ 23时51分]"
+          "appearance_count": 1,
+          "time_info": "03时55分"
         },
         {
-          "title": "据路透援引消息人士报道，DeepSeek计划在首轮融资中筹集约70亿美元，估值高达590亿美元。腾讯与宁德时代将成为DeepSeek最大的外部投资者；网易和京东也计划参投。",
-          "url": "https://flash.jin10.com/detail/20260603121634379800",
-          "source": "金十数据",
+          "title": "OpenAI 遭美国州政府起诉，ChatGPT 涉嫌帮助策划校园枪击案，诱导用户形成依赖，平台该不该担责？",
+          "url": "https://www.zhihu.com/question/2045160976878680020",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "独立开发 创业 副业",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "华为人才离职创业公司估值1亿美元",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E4%BA%BA%E6%89%8D%E7%A6%BB%E8%81%8C%E5%88%9B%E4%B8%9A%E5%85%AC%E5%8F%B8%E4%BC%B0%E5%80%BC1%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时57分"
+          "time_info": "03时55分"
         },
         {
-          "title": "OpenAI举行“AI上岗”发布会：股票研究、投行路演都能干",
-          "url": "https://www.cls.cn/detail/2388950",
-          "source": "财联社热门",
+          "title": "创业板冲高回落涨逾1.5%，算力硬件再爆发、“易中天”齐创新高，恒科指跌近3%，科网股集体下跌",
+          "url": "https://wallstreetcn.com/articles/3773737",
+          "source": "华尔街见闻",
           "ranks": [
-            11
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时57分"
-        },
-        {
-          "title": "OpenAI：ZoomInfo将在企业版Codex（Codex for Work）中提供原生支持。",
-          "url": "https://wallstreetcn.com/livenews/3113224",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时50分"
-        },
-        {
-          "title": "优步（Uber Technologies Inc.）对Claude等AI工具设置员工使用上限，希望借机管控成本。",
-          "url": "https://wallstreetcn.com/livenews/3113215",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时50分"
-        },
-        {
-          "title": "OpenAI的CEO Altman将于周三会见美国白宫高级官员。（Politico）",
-          "url": "https://wallstreetcn.com/livenews/3113311",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时54分"
+          "time_info": "03时55分"
         }
       ]
     }
