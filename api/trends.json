@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-06-05T04:14:17.328733+08:00",
-  "total_titles_processed": 399,
+  "generated_at": "2026-06-05T06:26:09.177071+08:00",
+  "total_titles_processed": 485,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "长鑫科技创始人朱一明自掏 7.68 亿股做员工激励，公司上市后预期市值 2-3 万亿，如何看待此举？",
           "url": "https://www.zhihu.com/question/2041193028925264772",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时49分 ~ 04时14分]"
+          "appearance_count": 4,
+          "time_info": "[01时49分 ~ 06时26分]"
         },
         {
           "title": "美联储戴利：目前人工智能可能带来通胀下降的影响，但这不是紧迫的问题。",
@@ -36,7 +37,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
         },
@@ -91,7 +92,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
         },
@@ -102,7 +103,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
         },
@@ -113,7 +114,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
         },
@@ -127,6 +128,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时49分"
+        },
+        {
+          "title": "据华尔街日报：Anthropic呼吁全球暂停人工智能发展，并警示人工智能模型正接近能够在没有人类干预的情况下“自我进化”风险。",
+          "url": "https://flash.jin10.com/detail/20260605044355670800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
         }
       ]
     }
