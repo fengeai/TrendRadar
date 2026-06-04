@@ -1,569 +1,88 @@
 {
-  "generated_at": "2026-06-04T22:09:13.655246+08:00",
-  "total_titles_processed": 1173,
+  "generated_at": "2026-06-05T01:49:22.665553+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 38,
+      "match_count": 7,
       "titles": [
         {
-          "title": "赖清德声称将处理TikTok、小红书对台青影响，国台办回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33297512",
-          "source": "澎湃新闻",
+          "title": "美联储戴利：目前人工智能可能带来通胀下降的影响，但这不是紧迫的问题。",
+          "url": "https://flash.jin10.com/detail/20260605013636747800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时55分 ~ 09时47分]"
-        },
-        {
-          "title": "长线外资看好中国 持续加码硬科技",
-          "url": "https://www.cls.cn/detail/2389959",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时55分 ~ 09时47分]"
-        },
-        {
-          "title": "黄仁勋最早今晚抵韩！行程曝光：与科技大佬烤肉谈AI、首次亮相综艺……",
-          "url": "https://www.cls.cn/detail/2390517",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时42分 ~ 22时09分]"
-        },
-        {
-          "title": "A股再登新闻联播：长线外资看好中国，持续加码硬科技",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33302529",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时46分 ~ 18时42分]"
-        },
-        {
-          "title": "小红书出手，发布“抓紧港美股开通”诱导贴、倒卖外资研报等乱象被集中整治",
-          "url": "https://www.cls.cn/detail/2390543",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时50分 ~ 22时09分]"
-        },
-        {
-          "title": "市场消息：普华永道与谷歌云合作加速人工智能威胁防御。",
-          "url": "https://flash.jin10.com/detail/20260604215421488800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时09分"
-        },
-        {
-          "title": "汇丰：投资者聚焦长期结构性机遇，看好亚洲科技创新潜力",
-          "url": "https://wallstreetcn.com/livenews/3114235",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时51分"
+          "time_info": "01时49分"
         },
         {
           "title": "长鑫科技创始人朱一明自掏 7.68 亿股做员工激励，公司上市后预期市值 2-3 万亿，如何看待此举？",
           "url": "https://www.zhihu.com/question/2041193028925264772",
           "source": "知乎",
           "ranks": [
-            14,
-            4
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时42分 ~ 22时09分]"
+          "appearance_count": 1,
+          "time_info": "01时49分"
         },
         {
-          "title": "新任湖北省委书记首次调研，关注科技创新和产业创新融合发展工作",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33303152",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时50分 ~ 22时09分]"
-        },
-        {
-          "title": "【焦点复盘】市场延续极致二八分化，个股炸板率超四成，科技与能源板块再现跷跷板",
-          "url": "https://www.cls.cn/detail/2389696",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时55分 ~ 06时31分]"
-        },
-        {
-          "title": "6月4日投资避雷针：2连板实益达公告 仅持有宇树科技约0.01%股权",
-          "url": "https://www.cls.cn/detail/2390227",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时46分 ~ 14时51分]"
-        },
-        {
-          "title": "孙正义重登亚洲首富，称 AI 才刚起步，体量有望达到互联网热潮 50 倍，怎么理解该判断？其首富位子能坐多久？",
-          "url": "https://www.zhihu.com/question/2045380781644763655",
-          "source": "知乎",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时55分 ~ 06时31分]"
-        },
-        {
-          "title": "瑞银：A股科技股拥挤程度远未到峰值",
-          "url": "https://www.toutiao.com/trending/7646379761480089636/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时08分 ~ 22时09分]"
-        },
-        {
-          "title": "费城半导体指数跌超5%，美光科技(MU.O)跌超8%，股价失守1000美元关口；博通(AVGO.O)跌幅扩大至近16%，Arm(ARM.O)跌超8%，AMD(AMD.O)跌超7%，高通(QCOM.O)跌超4%，英特尔(INTC.O)跌超3%。",
-          "url": "https://flash.jin10.com/detail/20260604215118498800",
+          "title": "美联储戴利：（问及5到10年展望时表示）人工智能可能会降低通胀。",
+          "url": "https://flash.jin10.com/detail/20260605013220101800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时09分"
-        },
-        {
-          "title": "恒生指数主连夜盘收跌0.70%，报25312点。 恒生科技指数主连夜盘收跌0.73%，报5006点。",
-          "url": "https://wallstreetcn.com/livenews/3113983",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时55分"
+          "time_info": "01时49分"
         },
         {
-          "title": "台积电(TSM.N) 首席执行官：从生成性人工智能到自主性人工智能的转变正在推动大型语言模型的token消耗增加，进而提高对计算能力和先进半导体的需求。",
-          "url": "https://flash.jin10.com/detail/20260604092452429800",
+          "title": "美联储戴利：到目前为止，生成式人工智能更多是用来辅助而不是取代劳动力。",
+          "url": "https://flash.jin10.com/detail/20260605012946151800",
           "source": "金十数据",
           "ranks": [
-            11
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时47分"
+          "time_info": "01时49分"
         },
         {
-          "title": "港股热门科技股普遍低开，联想集团(00992.HK)开跌超5%，哔哩哔哩(09626.HK)开跌超2%，百度(09888.HK)、华虹半导体(01347.HK)、中芯国际(00981.HK)均开跌超1%。",
-          "url": "https://flash.jin10.com/detail/20260604092352935800",
+          "title": "美联储戴利：目前还没有看到人工智能对通胀数据产生明显影响。",
+          "url": "https://flash.jin10.com/detail/20260605012915333800",
           "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时47分"
+          "time_info": "01时49分"
         },
         {
-          "title": "恒指低开0.66%，报25465.3点；恒生科技指数跌1.23%。联想集团跌超5%，蔚来、金蝶国际、比亚迪股份跌超3%。",
-          "url": "https://wallstreetcn.com/livenews/3114109",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时47分"
-        },
-        {
-          "title": "IBM与谷歌云宣布战略合作，通过结合人类专业知识与人工智能驱动的交付模式推动AI规模化落地。",
-          "url": "https://wallstreetcn.com/livenews/3114361",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时42分"
-        },
-        {
-          "title": "汇丰：投资者聚焦长期结构性机遇，看好亚洲科技创新潜力",
-          "url": "https://flash.jin10.com/detail/20260604141337572800",
+          "title": "美联储戴利：一些公司和行业已经开始看到人工智能带来的生产率提升，但目前还没有在整体经济层面体现出来。",
+          "url": "https://flash.jin10.com/detail/20260605012849132800",
           "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时51分"
+          "time_info": "01时49分"
         },
         {
-          "title": "解码万亿级参数AI大模型训练背后",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E7%A0%81%E4%B8%87%E4%BA%BF%E7%BA%A7%E5%8F%82%E6%95%B0AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%AE%AD%E7%BB%83%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时42分"
-        },
-        {
-          "title": "博通首席执行官：第二季度非人工智能半导体收入增长6%。",
-          "url": "https://flash.jin10.com/detail/20260604052445015800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "IBM(IBM.N)：此次合作将扩展IBM Consulting Advantage人工智能驱动交付平台，为Gemini 企业版引入面向特定行业的智能代理。",
-          "url": "https://flash.jin10.com/detail/20260604180339647800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时42分"
-        },
-        {
-          "title": "博通首席执行官：仍预计2027财年人工智能半导体收入将超过1000亿美元，人工智能半导体收入将在2028财年继续增长。",
-          "url": "https://flash.jin10.com/detail/20260604052421958800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "香港恒生指数6月4日（周四）开盘下跌167.91点，跌幅0.66%，报25465.3点；<br/>香港恒生科技指数6月4日（周四）开盘下跌62.03点，跌幅1.23%，报4994.94点；<br/>国企指数6月4日（周四）开盘下跌51.86点，跌幅0.6%，报8544.73点；<br/>红筹指数6月4日（周四）开盘下跌13.01点，跌幅0.29%，报4443.83点。",
-          "url": "https://flash.jin10.com/detail/20260604092124773800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时47分"
-        },
-        {
-          "title": "宇树科技“闪电”过会引爆市场",
-          "url": "https://www.toutiao.com/trending/7647393659746258451/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时42分"
-        },
-        {
-          "title": "港股开盘，恒生指数开跌0.66%，恒生科技指数开跌1.23%；比亚迪股份(01211.HK)开跌3.43%。",
-          "url": "https://flash.jin10.com/detail/20260604092121299800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时47分"
-        },
-        {
-          "title": "美股光通信股盘初下跌，Ciena绩后大跌近16%，POET跌近7%，Lumentum跌近6%，迈威尔科技、诺基亚跌超5%，康宁跌超4%。",
-          "url": "https://flash.jin10.com/detail/20260604214100321800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时09分"
-        },
-        {
-          "title": "模塑科技：目前仅获得机器人外覆盖件的小批量采购订单，订单金额占营业收入的比例不足0.1%",
-          "url": "https://wallstreetcn.com/livenews/3114348",
+          "title": "纳斯达克100指数跌幅收窄至0.5%，成分股博通目前仍然跌14.5%，美光科技跌6.1%，Lumentum跌2.3%，特斯拉跌1.1%，谷歌A则涨3.5%，迈威尔科技/美满科技、Doordash涨3.9%。",
+          "url": "https://wallstreetcn.com/livenews/3114548",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时42分"
-        },
-        {
-          "title": "A股铜缆高速连接概念反复活跃，鼎通科技20cm涨停，奕东电子涨超15%，鑫科材料此前封板，金信诺、中航光电、意华股份跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3114214",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时51分"
-        },
-        {
-          "title": "IBM(IBM.N)与谷歌云宣布战略合作，通过结合人类专业知识与人工智能驱动的交付模式推动AI规模化落地。",
-          "url": "https://flash.jin10.com/detail/20260604180127001800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时42分"
-        },
-        {
-          "title": "博通首席执行官：预计第三季度非人工智能半导体收入约为45亿美元。谷歌合作关系仍然是非常重要的。",
-          "url": "https://flash.jin10.com/detail/20260604051716270800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "据韩国经济日报：政府及业内人士透露，现代汽车与英伟达(NVDA.O)商讨在韩国设立人工智能研发中心。",
-          "url": "https://flash.jin10.com/detail/20260604091940605800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时47分"
-        },
-        {
-          "title": "A股PCB概念震荡回升，沪电股份涨停，股价创历史新高；民爆光电、芯碁微装涨超10%，新锐股份、南亚新材、中英科技、欧科亿、东威科技、鼎泰高科跟涨。",
-          "url": "https://flash.jin10.com/detail/20260604140529920800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时51分"
-        },
-        {
-          "title": "A股电子化学品板块震荡上扬，龙辰科技、中船特气此前涨停，唯特偶、奥来德涨近20%，华特气体、三孚新科、兴福电子、飞凯材料跟涨。",
-          "url": "https://flash.jin10.com/detail/20260604140008670800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时51分"
-        },
-        {
-          "title": "博通首席执行官：预计2026财年人工智能半导体收入将达到560亿美元。",
-          "url": "https://flash.jin10.com/detail/20260604051008094800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20260604175452224800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时42分"
-        },
-        {
-          "title": "日联科技：拟通过发行股份、可转换公司债券及支付现金的方式向菲光管理、张华等11名交易对方购买其合计持有的菲莱测试100%股权，交易价格9.36亿元；通过本次交易，公司将进一步深化在半导体检测设备领域的业务布局，拓展在光电子器件、逻辑器件等细分赛道的检测设备业务。",
-          "url": "https://wallstreetcn.com/livenews/3114449",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "腾讯云宣布 DeepSeek-V4 系列模型降价，最高降幅达 97.5%，将带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2045220633466725057",
-          "source": "知乎",
-          "ranks": [
-            4,
-            5,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时55分 ~ 09时47分]"
-        },
-        {
-          "title": "OpenAI打算整合CodeX与ChatGPT。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3114043",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "估值4000亿、腾讯与宁德时代入局？DeepSeek被曝开启中国AI最大规模融资",
-          "url": "https://www.cls.cn/detail/2389857",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时55分 ~ 09时47分]"
-        },
-        {
-          "title": "电话会：博通为OpenAI开发芯片，将于2027财年部署1.3 GW。 到2028财年年底将向Meta部署3 GW。 围绕服务OpenAI与Anthropic，公司与阿波罗、黑石集团合作。",
-          "url": "https://wallstreetcn.com/livenews/3114027",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "OpenAI 遭美国州政府起诉，ChatGPT 涉嫌帮助策划校园枪击案，诱导用户形成依赖，平台该不该担责？",
-          "url": "https://www.zhihu.com/question/2045160976878680020",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "独立开发 创业 副业",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "中国上证综指6月4日（周四）开盘下跌30.3点，跌幅：0.74%，报4053.67点；<br/>中国深证成指6月4日（周四）开盘下跌164.65点，跌幅：1.05%，报15540.06点；<br/>中国沪深300指数6月4日（周四）开盘下跌41.49点，跌幅：0.84%，报4897.32点；<br/>中国创业板指数6月4日（周四）开盘下跌50.44点，跌幅：1.22%，报4072.55点；<br/>中国科创50指数6月4日（周四）开盘下跌25.87点，跌幅：1.5%，报1700.31点。",
-          "url": "https://flash.jin10.com/detail/20260604092743637800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时47分"
-        },
-        {
-          "title": "华为人才离职创业公司估值1亿美元",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E4%BA%BA%E6%89%8D%E7%A6%BB%E8%81%8C%E5%88%9B%E4%B8%9A%E5%85%AC%E5%8F%B8%E4%BC%B0%E5%80%BC1%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            9,
-            8,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时55分 ~ 09时47分]"
-        },
-        {
-          "title": "创业板冲高回落涨逾1.5%，算力硬件再爆发、“易中天”齐创新高，恒科指跌近3%，科网股集体下跌",
-          "url": "https://wallstreetcn.com/articles/3773737",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时55分 ~ 09时47分]"
-        },
-        {
-          "title": "A股开盘，上证指数开跌0.74%，深证成指开跌1.05%，创业板指开跌1.22%；F5G、CPO、AI PC概念股跌幅居前。",
-          "url": "https://flash.jin10.com/detail/20260604092522189800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时47分"
-        },
-        {
-          "title": "上证指数开盘报4053.67点，跌0.74%。 深证成指开盘报15540.06点，跌1.05%。 创业板指开盘报4072.55点，跌1.22%。 沪深300开盘报4897.32点，跌0.84%。 科创50开盘报1700.31点，跌1.50%。 中证500开盘报8279.86点，跌0.98%。 中证1000开盘报8338.85点，跌1.11%。",
-          "url": "https://wallstreetcn.com/livenews/3114112",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时47分"
+          "time_info": "01时49分"
         }
       ]
     }
