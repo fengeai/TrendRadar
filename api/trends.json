@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-06-06T20:11:33.894087+08:00",
-  "total_titles_processed": 1198,
+  "generated_at": "2026-06-06T22:49:26.434883+08:00",
+  "total_titles_processed": 1325,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
-        {
-          "title": "闻泰科技起诉安世荷兰已立案",
-          "url": "https://news.ifeng.com/c/8ti5dci0HPR",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 07时17分]"
-        },
         {
           "title": "电脑成精化身互联网喷子",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354897&amp;topic_name=%E7%94%B5%E8%84%91%E6%88%90%E7%B2%BE%E5%8C%96%E8%BA%AB%E4%BA%92%E8%81%94%E7%BD%91%E5%96%B7%E5%AD%90",
@@ -32,8 +20,20 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 20时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 22时49分]"
+        },
+        {
+          "title": "闻泰科技起诉安世荷兰已立案",
+          "url": "https://news.ifeng.com/c/8ti5dci0HPR",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 07时17分]"
         },
         {
           "title": "九大科技股一日蒸发万亿美元！一文纵览华尔街解读周五抛售",
@@ -44,8 +44,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时50分 ~ 20时11分]"
+          "appearance_count": 4,
+          "time_info": "[15时50分 ~ 22时49分]"
         },
         {
           "title": "全抖音为2026高考加油",
@@ -58,8 +58,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时08分 ~ 20时11分]"
+          "appearance_count": 5,
+          "time_info": "[12时08分 ~ 22时49分]"
         },
         {
           "title": "迈威尔科技（美满科技）美股盘后涨5%，该公司将被纳入标普500指数。",
@@ -97,6 +97,18 @@
           "time_info": "[07时17分 ~ 18时13分]"
         },
         {
+          "title": "哈兰德入驻抖音",
+          "url": "https://www.douyin.com/hot/2525032",
+          "source": "抖音",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时50分 ~ 22时49分]"
+        },
+        {
           "title": "抖音副总裁回应豆包误判蘑菇致用户中毒，称 AI 回应仅供参考，如何看待这一回应？这件事豆包该背锅吗？",
           "url": "https://www.zhihu.com/question/2046268823192302620",
           "source": "知乎",
@@ -108,17 +120,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时08分 ~ 20时11分]"
-        },
-        {
-          "title": "哈兰德入驻抖音",
-          "url": "https://www.douyin.com/hot/2525032",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时50分 ~ 20时11分]"
         },
         {
           "title": "算得更快更准 全球海洋现象智能预报大模型“琅琊”2.0发布",
@@ -183,9 +184,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时11分"
+        },
+        {
+          "title": "施一公在人民日报发文《人工智能时代，教育何为》，如何理解他的这篇文章？",
+          "url": "https://www.zhihu.com/question/2046182456277956497",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "为何国内科技股龙头难走出独立行情",
@@ -292,8 +304,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时08分 ~ 20时11分]"
+          "appearance_count": 5,
+          "time_info": "[12时08分 ~ 22时49分]"
         }
       ]
     },
