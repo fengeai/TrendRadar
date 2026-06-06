@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-06T15:50:40.098239+08:00",
-  "total_titles_processed": 943,
+  "generated_at": "2026-06-06T18:13:28.337278+08:00",
+  "total_titles_processed": 1070,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "闻泰科技起诉安世荷兰已立案",
@@ -27,11 +27,23 @@
             15,
             16,
             23,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 15时50分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 18时13分]"
+        },
+        {
+          "title": "九大科技股一日蒸发万亿美元！一文纵览华尔街解读周五抛售",
+          "url": "https://www.cls.cn/detail/2392569",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时50分 ~ 18时13分]"
         },
         {
           "title": "迈威尔科技（美满科技）美股盘后涨5%，该公司将被纳入标普500指数。",
@@ -45,15 +57,17 @@
           "time_info": "05时40分"
         },
         {
-          "title": "九大科技股一日蒸发万亿美元！一文纵览华尔街解读周五抛售",
-          "url": "https://www.cls.cn/detail/2392569",
-          "source": "财联社热门",
+          "title": "全抖音为2026高考加油",
+          "url": "https://www.douyin.com/hot/2524919",
+          "source": "抖音",
           "ranks": [
-            2
+            10,
+            4,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时50分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时08分 ~ 18时13分]"
         },
         {
           "title": "标普道琼斯指数公司：迈威尔科技将被纳入标普500指数，伟创力国际（FLEX）也将被纳入该指数。",
@@ -67,28 +81,30 @@
           "time_info": "05时40分"
         },
         {
-          "title": "全抖音为2026高考加油",
-          "url": "https://www.douyin.com/hot/2524919",
-          "source": "抖音",
-          "ranks": [
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 15时50分]"
-        },
-        {
           "title": "股民还在追光，股东开始减持：硬科技大涨后高管集体套现",
           "url": "https://wallstreetcn.com/articles/3773970",
           "source": "华尔街见闻",
           "ranks": [
             10,
-            7
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时17分 ~ 18时13分]"
+        },
+        {
+          "title": "抖音副总裁回应豆包误判蘑菇致用户中毒，称 AI 回应仅供参考，如何看待这一回应？这件事豆包该背锅吗？",
+          "url": "https://www.zhihu.com/question/2046268823192302620",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13,
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时17分 ~ 15时50分]"
+          "time_info": "[12时08分 ~ 18时13分]"
         },
         {
           "title": "算得更快更准 全球海洋现象智能预报大模型“琅琊”2.0发布",
@@ -103,16 +119,15 @@
           "time_info": "[12时08分 ~ 15时50分]"
         },
         {
-          "title": "抖音副总裁回应豆包误判蘑菇致用户中毒，称 AI 回应仅供参考，如何看待这一回应？这件事豆包该背锅吗？",
-          "url": "https://www.zhihu.com/question/2046268823192302620",
-          "source": "知乎",
+          "title": "哈兰德入驻抖音",
+          "url": "https://www.douyin.com/hot/2525032",
+          "source": "抖音",
           "ranks": [
-            14,
-            13
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时08分 ~ 15时50分]"
+          "time_info": "[15时50分 ~ 18时13分]"
         },
         {
           "title": "吴清：新一轮科技革命和产业变革加快突破 亟需构建更加适配的金融服务体系",
@@ -121,7 +136,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时50分"
         },
@@ -135,17 +150,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
-        },
-        {
-          "title": "哈兰德入驻抖音",
-          "url": "https://www.douyin.com/hot/2525032",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时50分"
         },
         {
           "title": "算得更快更准 全球海洋现象智能预报大模型“琅琊”2.0发布",
@@ -168,6 +172,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "为何国内科技股龙头难走出独立行情",
+          "url": "https://www.toutiao.com/trending/7647892637445262889/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
         },
         {
           "title": "据英国金融时报：Meta Platforms(META.O)正在考虑在与谷歌(GOOG.O)达成一项重大交易后，进行大规模股权融资。Meta可能出售数百亿美元的新股，以为其人工智能基础设施融资。",
@@ -258,11 +273,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 15时50分]"
+          "appearance_count": 3,
+          "time_info": "[12时08分 ~ 18时13分]"
         }
       ]
     },
