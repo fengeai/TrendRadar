@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-08T04:20:21.576854+08:00",
-  "total_titles_processed": 445,
+  "generated_at": "2026-06-08T06:12:55.964874+08:00",
+  "total_titles_processed": 514,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 06时12分]"
         },
         {
           "title": "短期美股科技股调整，风险如何应对？十大券商策略来了",
@@ -28,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 06时12分]"
         },
         {
           "title": "抖音直播群星绽放季",
@@ -41,8 +41,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 06时12分]"
         },
         {
           "title": "黄玉峰谈2026上海高考作文：要注意科技与想象的辩证关系",
@@ -53,8 +53,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 06时12分]"
         },
         {
           "title": "抖音学霸解读高考作文",
@@ -62,11 +62,12 @@
           "source": "抖音",
           "ranks": [
             28,
-            30
+            30,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 06时12分]"
         },
         {
           "title": "中信建投：当前海外科技板块整体维持择优增持、逢低布局的核心策略",
@@ -104,11 +105,12 @@
           "ranks": [
             8,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 06时12分]"
         },
         {
           "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
@@ -118,8 +120,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 06时12分]"
         }
       ]
     }
