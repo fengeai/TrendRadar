@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-09T00:09:29.857717+08:00",
-  "total_titles_processed": 306,
+  "generated_at": "2026-06-09T03:27:51.476358+08:00",
+  "total_titles_processed": 416,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "以伊战事缓和，美股高开，科技股反弹，英特尔大涨11%，美油跌破91美元",
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 03时27分]"
         },
         {
           "title": "全球科技股急跌，黄仁勋喊话：能折价买股票 你应该感到高兴",
           "url": "https://www.cls.cn/detail/2393791",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 03时27分]"
         },
         {
           "title": "迈威尔科技(MRVL.O)涨逾15%，至盘中新高，市值报2651亿美元。",
@@ -48,8 +49,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 03时27分]"
         },
         {
           "title": "琵琶行原唱发抖音祝福考生",
@@ -59,30 +60,32 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 03时27分]"
         },
         {
           "title": "“国产GPU四小龙”或凑齐最后一位资本市场“牌友” 燧原科技将于6月15日上会",
           "url": "https://www.cls.cn/detail/2394108",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 03时27分]"
         },
         {
           "title": "胜宏科技“电梯门”风波影响几何",
           "url": "https://www.toutiao.com/trending/7649016282037095978/",
           "source": "今日头条",
           "ranks": [
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 03时27分]"
         },
         {
           "title": "为什么感觉今年高考氛围淡淡的，往年提前半个月互联网就预热了，今年似乎大家都不太关注了，这是怎么回事？",
@@ -92,19 +95,31 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 03时27分]"
         },
         {
           "title": "胜宏科技回应董事长电梯视频传闻",
           "url": "https://www.toutiao.com/trending/7648099336853323782/",
           "source": "今日头条",
           "ranks": [
-            21
+            21,
+            24
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 03时27分]"
+        },
+        {
+          "title": "CPU重返数据中心C位 “某国内大模型厂商CPU需求提高了5倍”",
+          "url": "https://www.cls.cn/detail/2393706",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时09分"
+          "time_info": "03时27分"
         },
         {
           "title": "纳斯达克100指数涨超2%，半导体指数反弹超6%，迈威尔科技涨13%",
@@ -170,8 +185,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 03时27分]"
         }
       ]
     }
