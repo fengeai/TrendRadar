@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-08T13:59:28.347885+08:00",
-  "total_titles_processed": 865,
+  "generated_at": "2026-06-08T19:18:10.312801+08:00",
+  "total_titles_processed": 1094,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 15,
+      "match_count": 27,
       "titles": [
         {
           "title": "短期美股科技股调整，风险如何应对？十大券商策略来了",
@@ -20,6 +20,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时24分 ~ 13时59分]"
+        },
+        {
+          "title": "美股盘前科技股多数反弹，韩股收跌超8%，油价飙升5%、黄金跌破4300",
+          "url": "https://wallstreetcn.com/articles/3774056",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 19时18分]"
         },
         {
           "title": "新闻交易员：科技股这波下跌不只是获利了结，水位已经变了",
@@ -52,7 +63,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -95,6 +106,18 @@
           "time_info": "[00时24分 ~ 06时12分]"
         },
         {
+          "title": "9款国内外主流AI大模型当“考生”写上海卷作文",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33329131",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时59分 ~ 19时18分]"
+        },
+        {
           "title": "中信建投：当前海外科技板块整体维持择优增持、逢低布局的核心策略",
           "url": "https://wallstreetcn.com/livenews/3115568",
           "source": "华尔街见闻-快讯",
@@ -107,13 +130,69 @@
           "time_info": "[00时24分 ~ 02时11分]"
         },
         {
+          "title": "董事长被曝亲密视频 胜宏科技回应",
+          "url": "https://www.baidu.com/s?wd=%E8%91%A3%E4%BA%8B%E9%95%BF%E8%A2%AB%E6%9B%9D%E4%BA%B2%E5%AF%86%E8%A7%86%E9%A2%91+%E8%83%9C%E5%AE%8F%E7%A7%91%E6%8A%80%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 19时18分]"
+        },
+        {
+          "title": "为什么感觉今年高考氛围淡淡的，往年提前半个月互联网就预热了，今年似乎大家都不太关注了，这是怎么回事？",
+          "url": "https://www.zhihu.com/question/2046272383623881620",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 19时18分]"
+        },
+        {
+          "title": "胜宏科技回应董事长电梯视频传闻",
+          "url": "https://www.toutiao.com/trending/7648099336853323782/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 19时18分]"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260608075310782800",
+          "source": "金十数据",
+          "ranks": [
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时18分 ~ 19时18分]"
+        },
+        {
+          "title": "永太科技：子公司与宁德时代签订电解液合作协议 预计2026-2028年采购量合计47万吨",
+          "url": "https://flash.jin10.com/detail/20260608190025509800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
           "title": "A股文化传媒板块局部拉升，新华传媒直线涨停，凡拓数创、天娱数科此前涨停，流金科技、粤传媒、荣信文化跟涨。",
           "url": "https://flash.jin10.com/detail/20260608133038702800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -124,9 +203,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
+        },
+        {
+          "title": "中恒电气：中恒科技投资股东朱国锭先生、包晓茹女士拟引进宁德时代对中恒科技投资进行投资，宁德时代拟以41亿元认购中恒科技投资新增注册资本人民币1441.18万元，出资方式为货币及股权。",
+          "url": "https://wallstreetcn.com/livenews/3116094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         },
         {
           "title": "A股传媒板块局部异动，新华传媒直线涨停，流金科技、粤传媒、荣信文化跟涨。",
@@ -135,9 +225,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
+        },
+        {
+          "title": "云天化：全资子公司天安化工在安宁草铺化工园区投资15.78亿元建设新能源电池前驱体材料配套硫循环绿色示范项目，建设内容包括30万吨/年湿法磷酸装置及利用其产生的磷石膏生产80万吨/年硫酸、79万吨/年碱性料装置；全资子公司环保科技在昆明市西山区海口片区投资11.59亿元建设磷石膏制水泥联产硫酸资源循环利用示范项目，建设内容为处理150万吨/年磷石膏生产80万吨/年水泥联产60万吨/年硫酸装置。",
+          "url": "https://wallstreetcn.com/livenews/3116092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
+          "title": "上海：截至6月8日新增6款已完成登记的生成式人工智能服务。（网信上海）",
+          "url": "https://wallstreetcn.com/livenews/3116091",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         },
         {
           "title": "英伟达CEO黄仁勋：人工智能业务已实现盈利。",
@@ -151,26 +263,26 @@
           "time_info": "08时18分"
         },
         {
-          "title": "9款国内外主流AI大模型当“考生”写上海卷作文",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33329131",
-          "source": "澎湃新闻",
+          "title": "索辰科技：近期实施的募投项目“物理合成数据核心技术基座构建与多领域场景示范应用项目”尚处于筹备阶段",
+          "url": "https://wallstreetcn.com/livenews/3116085",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时59分"
+          "time_info": "19时18分"
         },
         {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20260608075310782800",
+          "title": "瑞穗银行：首次覆盖人工智能芯片制造商Cerebras Systems，给予“跑赢大盘”评级；目标价300美元。",
+          "url": "https://flash.jin10.com/detail/20260608184922980800",
           "source": "金十数据",
           "ranks": [
-            22
+            23
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时18分"
+          "time_info": "19时18分"
         },
         {
           "title": "英伟达CEO访韩深化合作 与SK海力士、三星电子等科技公司高层会面",
@@ -182,12 +294,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "【国家数据局：到2028年底 建成一批覆盖重点领域、经过应用验证的行业高质量数据集】国家数据局发布《关于推进行业高质量数据集建设行动的实施方案》，其中提到，到2028年底，建成一批覆盖重点领域、经过应用验证的行业高质量数据集，打造一批数据驱动人工智能创新发展的典型应用场景，培育一批具备领先优势的创新型数据企业和专业人才，形成一批行业高质量数据集建设工具和标准。数据从供给到价值释放的良性循环基本形成，数据赋能人工智能创新发展的作用更加凸显，数据产业与人工智能深度融合，持续催生智能经济新增长点。",
+          "url": "https://wallstreetcn.com/livenews/3116064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
+          "title": "美光科技(MU.O)盘前现涨4%。",
+          "url": "https://flash.jin10.com/detail/20260608184511536800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         }
       ]
     },
     {
       "keyword_group": "独立开发 创业 副业",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "交易所启动深化创业板改革交易机制全链路仿真测试",
@@ -196,7 +330,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -207,9 +341,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
+        },
+        {
+          "title": "创业板重挫超3%，芯片半导体集体下跌，机器人逆势拉升，恒科指跌超2%，沪银狂泻10%",
+          "url": "https://wallstreetcn.com/articles/3774065",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 19时18分]"
         },
         {
           "title": "创业板指跌超4%，下破3800点，创今年5月11日来新低，沪深京三市下跌个股近4900只。",
@@ -218,7 +363,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -229,7 +374,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         }
@@ -237,7 +382,7 @@
     },
     {
       "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "SpaceX 、 OpenAI 、 Anthropic 扎堆天价 IPO，水分有多大？美股牛市是否临近尾声？",
@@ -266,13 +411,24 @@
           "time_info": "[00时24分 ~ 08时18分]"
         },
         {
+          "title": "DeepSeek完成首轮外部融资",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%AE%8C%E6%88%90%E9%A6%96%E8%BD%AE%E5%A4%96%E9%83%A8%E8%9E%8D%E8%B5%84&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 19时18分]"
+        },
+        {
           "title": "中外六大AI出战上海高考作文！《科创板日报》实测DeepSeek与谷歌Gemini夺魁",
           "url": "https://www.cls.cn/detail/2392919",
           "source": "财联社热门",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         }
