@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-10T16:56:49.315854+08:00",
-  "total_titles_processed": 1001,
+  "generated_at": "2026-06-10T20:32:21.740657+08:00",
+  "total_titles_processed": 1196,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 30,
+      "match_count": 34,
       "titles": [
         {
           "title": "科技股抛售潮再袭，纳指跌破上周五低点，消费股撑道指收涨，金银油齐跌",
@@ -15,8 +15,23 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时23分 ~ 16时56分]"
+          "appearance_count": 5,
+          "time_info": "[07时23分 ~ 20时32分]"
+        },
+        {
+          "title": "高考后的第一条抖音",
+          "url": "https://www.douyin.com/hot/2528465",
+          "source": "抖音",
+          "ranks": [
+            9,
+            13,
+            11,
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时09分 ~ 20时32分]"
         },
         {
           "title": "美股高开低走，盘中跳水，纳指跌超3%，迈威尔科技大跌13%，金银油齐跌",
@@ -28,20 +43,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时54分 ~ 05时55分]"
-        },
-        {
-          "title": "高考后的第一条抖音",
-          "url": "https://www.douyin.com/hot/2528465",
-          "source": "抖音",
-          "ranks": [
-            9,
-            13,
-            11,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 12时22分]"
         },
         {
           "title": "美股指跳水，纳指跌超1%，科技股回落，迈威尔科技跌超8%，金银油齐跌",
@@ -94,7 +95,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
         },
@@ -116,18 +117,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时56分"
-        },
-        {
-          "title": "全抖音寻找世界杯梗王",
-          "url": "https://www.douyin.com/hot/2529535",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
         },
@@ -141,6 +131,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "全抖音寻找世界杯梗王",
+          "url": "https://www.douyin.com/hot/2529535",
+          "source": "抖音",
+          "ranks": [
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时56分 ~ 20时32分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-06-10）",
@@ -173,8 +175,52 @@
             18
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时22分 ~ 20时32分]"
+        },
+        {
+          "title": "国家发改委：加快建设现代化产业体系，全面实施“人工智能+”行动",
+          "url": "https://www.cls.cn/detail/2396287",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时22分 ~ 16时56分]"
+          "time_info": "[20时31分 ~ 20时32分]"
+        },
+        {
+          "title": "抖音创作者守护乡村孩子足球梦",
+          "url": "https://www.douyin.com/hot/2529770",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 20时32分]"
+        },
+        {
+          "title": "抖音作者探访南海永兴岛",
+          "url": "https://www.douyin.com/hot/2529739",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 20时32分]"
+        },
+        {
+          "title": "要不要从科技转战老蓝筹",
+          "url": "https://www.toutiao.com/trending/7649692694536523327/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 20时32分]"
         },
         {
           "title": "小红书发布《Skill上传规范》 明确平台立场",
@@ -183,7 +229,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
         },
@@ -194,7 +240,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
         },
@@ -205,7 +251,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
         },
@@ -227,7 +273,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
         },
@@ -304,7 +350,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
         },
@@ -326,7 +372,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
         },
@@ -345,7 +391,7 @@
     },
     {
       "keyword_group": "独立开发 创业 副业",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "【每日收评】创业板指震荡走高涨近4%，科技股迎集体反弹，PCB、芯片产业链联袂领涨",
@@ -358,6 +404,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时09分 ~ 05时55分]"
+        },
+        {
+          "title": "【每日收评】深成指与创业板指双双跌超2%，科技股分化加剧，半导体材料逆势走强",
+          "url": "https://www.cls.cn/detail/2396047",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 20时32分]"
         },
         {
           "title": "创业板涨近4%但缩量2000亿说明啥",
@@ -410,7 +467,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
         },
