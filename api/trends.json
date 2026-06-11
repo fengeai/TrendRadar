@@ -1,73 +1,22 @@
 {
-  "generated_at": "2026-06-11T22:46:34.460230+08:00",
-  "total_titles_processed": 1257,
+  "generated_at": "2026-06-12T02:26:33.051796+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 35,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "国家发改委：加快建设现代化产业体系，全面实施“人工智能+”行动",
-          "url": "https://www.cls.cn/detail/2396287",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 08时24分]"
-        },
         {
           "title": "伊朗局势骤然升级，原油大涨，科技股抛售拖累美股，盘后甲骨文跳水9%，黄金暴跌",
           "url": "https://wallstreetcn.com/articles/3774300",
           "source": "华尔街见闻",
           "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时23分 ~ 22时46分]"
-        },
-        {
-          "title": "科技股抛售潮再袭，纳指跌破上周五低点，消费股撑道指收涨，金银油齐跌",
-          "url": "https://wallstreetcn.com/articles/3774176",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 06时11分]"
-        },
-        {
-          "title": "抖音创作者守护乡村孩子足球梦",
-          "url": "https://www.douyin.com/hot/2529770",
-          "source": "抖音",
-          "ranks": [
-            5,
-            7,
-            11,
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 13时58分]"
-        },
-        {
-          "title": "淘宝京东拼多多抖音小红书被约谈",
-          "url": "https://www.baidu.com/s?wd=%E6%B7%98%E5%AE%9D%E4%BA%AC%E4%B8%9C%E6%8B%BC%E5%A4%9A%E5%A4%9A%E6%8A%96%E9%9F%B3%E5%B0%8F%E7%BA%A2%E4%B9%A6%E8%A2%AB%E7%BA%A6%E8%B0%88",
-          "source": "百度热搜",
-          "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时58分"
+          "time_info": "02时26分"
         },
         {
           "title": "国常会：要锚定科技强国建设目标，高效组织实施国家重大科技任务",
@@ -76,484 +25,87 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时46分"
-        },
-        {
-          "title": "昀冢科技：MLCC业务尚处于亏损状态",
-          "url": "https://flash.jin10.com/detail/20260611183424273800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时55分"
-        },
-        {
-          "title": "恒生指数主连夜盘收涨0.12%，报24307点。 恒生科技指数主连夜盘收涨0.21%，报4720点。",
-          "url": "https://wallstreetcn.com/livenews/3117671",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时42分"
+          "time_info": "02时26分"
         },
         {
           "title": "淘宝、京东、拼多多、抖音、小红书 5 家电商平台被约谈，具有哪些警示意义？还有哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2048363384991477880",
           "source": "知乎",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时46分"
-        },
-        {
-          "title": "韩国投资者持续加码中国硬科技，增持资产曝光",
-          "url": "https://www.cls.cn/detail/2396870",
-          "source": "财联社热门",
-          "ranks": [
-            8,
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时58分 ~ 18时55分]"
-        },
-        {
-          "title": "EVAN李羲承抖音号公开",
-          "url": "https://www.douyin.com/hot/2530196",
-          "source": "抖音",
-          "ranks": [
-            30,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 08时24分]"
+          "appearance_count": 1,
+          "time_info": "02时26分"
         },
         {
           "title": "美银：美股净抛售创纪录，科技板块外流达2008年以来最高",
           "url": "https://wallstreetcn.com/articles/3774357",
           "source": "华尔街见闻",
           "ranks": [
-            7,
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时58分 ~ 22时46分]"
-        },
-        {
-          "title": "美国通胀创三年新高，美股低开，科技股普跌，光通信股反弹，油价攀升",
-          "url": "https://wallstreetcn.com/articles/3774300",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 03时42分]"
+          "appearance_count": 1,
+          "time_info": "02时26分"
         },
         {
           "title": "抖音AI创作大赛来了",
           "url": "https://www.douyin.com/hot/2529851",
           "source": "抖音",
           "ranks": [
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时58分 ~ 22时46分]"
-        },
-        {
-          "title": "全抖音寻找世界杯梗王",
-          "url": "https://www.douyin.com/hot/2529535",
-          "source": "抖音",
-          "ranks": [
-            24,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 08时24分]"
-        },
-        {
-          "title": "伊朗局势骤然升级，科技股抛售加剧，纳指跌2%，盘后甲骨文跳水9%，黄金暴跌",
-          "url": "https://wallstreetcn.com/articles/3774300",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时11分"
-        },
-        {
-          "title": "A股光刻胶板块震荡走高，雅克科技触及涨停，南大光电、聚合材料、彤程新材、百合花跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3117935",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "美银：客户上周抛售美国科技股规模创2008年以来最大",
-          "url": "https://wallstreetcn.com/livenews/3117786",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时24分"
-        },
-        {
-          "title": "消息人士：此次白宫与防务公司的会议与此前3月的会议类似，参会企业包括洛克希德马丁(LMT.N)、雷神科技(RTX.N)、波音(BA.N)和L3Harris。",
-          "url": "https://flash.jin10.com/detail/20260611031354848800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时42分"
-        },
-        {
-          "title": "凯雷集团CFO：我们需要招聘初级员工，人工智能无法完成所有工作。",
-          "url": "https://flash.jin10.com/detail/20260611030125378800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时42分"
-        },
-        {
-          "title": "金十数据整理：每日科技要闻速递（6月11",
-          "url": "https://flash.jin10.com/detail/20260611075138410800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时24分"
-        },
-        {
-          "title": "凯雷集团CFO：人工智能将显著影响未来的投资过程，但我不会说目前已经达到这一阶段。",
-          "url": "https://flash.jin10.com/detail/20260611030121066800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时42分"
-        },
-        {
-          "title": "由于谷歌方面的担忧，Crusoe在怀俄明州人工智能项目中被边缘化。谷歌正与剩余合作伙伴商谈使用怀俄明州数据中心事宜。",
-          "url": "https://flash.jin10.com/detail/20260611220222334800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时46分"
-        },
-        {
-          "title": "惠康科技：拟使用募集资金2800万元竞拍约80亩土地",
-          "url": "https://flash.jin10.com/detail/20260611181604635800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时55分"
-        },
-        {
-          "title": "A股光刻胶板块震荡走高，雅克科技触及涨停，南大光电、聚合材料、彤程新材、百合花跟涨。",
-          "url": "https://flash.jin10.com/detail/20260611132142102800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "布伦森G4赛后发抖音",
-          "url": "https://www.douyin.com/hot/2530694",
-          "source": "抖音",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时55分"
-        },
-        {
-          "title": "抖音作者探访南海永兴岛",
-          "url": "https://www.douyin.com/hot/2529739",
-          "source": "抖音",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时11分"
-        },
-        {
-          "title": "雅克科技：公司关注到近期网络上有关于公司特种气体业务的相关讨论，公司的含氟类特种气体产品主要为四氟化碳和六氟化硫，目前没有六氟化钨相关业务。2025年度，公司含氟类特种气体的营业收入占公司总体营业收入的5.79%。",
-          "url": "https://wallstreetcn.com/livenews/3118060",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时55分"
-        },
-        {
-          "title": "美国总统特朗普：将与人工智能领域领袖讨论回馈社会问题。我认为这些公司的负责人会回馈公众。公众将因人工智能行动而变得非常富有。",
-          "url": "https://flash.jin10.com/detail/20260610235615102800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        },
-        {
-          "title": "Anthropic首席执行官阿莫代伊：政府应当有权叫停新人工智能模型的发布。",
-          "url": "https://flash.jin10.com/detail/20260611023504794800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时42分"
-        },
-        {
-          "title": "美国总统特朗普：很快将与12位顶级人工智能公司高管举行会议。",
-          "url": "https://flash.jin10.com/detail/20260610235531014800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        },
-        {
-          "title": "甲骨文(ORCL.N)CEO：2026财年Q4签署了670亿美元的人工智能基础设施合同，其中大部分要么自带硬件，要么预付款项。",
-          "url": "https://flash.jin10.com/detail/20260611052228013800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时11分"
-        },
-        {
-          "title": "路透社/益普索调查显示，77%的美国人担心人工智能将推高电价。",
-          "url": "https://flash.jin10.com/detail/20260611180150999800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时55分"
-        },
-        {
-          "title": "标普500指数跌幅扩大至1%，工业板块跌超2.4%，科技板块跌1.6%，能源板块涨超2%。道指跌577点、跌幅超过1.1%，纳指跌1.3%，半导体指数跌2.8%。 纳斯达克100指数跌幅扩大至1.5%，成分股高通跌5.7%，西部数据跌5.6%，博通、AMD、Arm控股、核电股CEG至少跌4.2%，特斯拉跌3.1%，英伟达跌2.9%，Diamondback Energy、卡夫亨氏、T-Mobile则涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3117602",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        },
-        {
-          "title": "根据路透社/益普索调查，仅有33%的美国人支持快速建设人工智能数据中心，而64%的人表示反对。",
-          "url": "https://flash.jin10.com/detail/20260611180120531800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "“Token价格战”烧到美国？OpenAI被曝考虑大幅降价",
-          "url": "https://www.cls.cn/detail/2396831",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时58分 ~ 18时55分]"
-        },
-        {
-          "title": "DeepSeek为何发力Agent",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E4%B8%BA%E4%BD%95%E5%8F%91%E5%8A%9BAgent%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时55分 ~ 22时46分]"
-        },
-        {
-          "title": "补贴→Token计费→降价！OpenAI打响价格战，Token经济学拐点将至？",
-          "url": "https://wallstreetcn.com/articles/3774400",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时46分"
-        },
-        {
-          "title": "报道：Altman预计OpenAI将于未来一年内IPO",
-          "url": "https://wallstreetcn.com/livenews/3117610",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        },
-        {
-          "title": "AI获“付款授权”：OpenAI联手Visa开启智能体在线购物新时代",
-          "url": "https://wallstreetcn.com/livenews/3117653",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时42分"
-        },
-        {
-          "title": "Anthropic CEO：不知道Claude是否被（特朗普）用于袭击伊朗学校。",
-          "url": "https://wallstreetcn.com/livenews/3117603",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "time_info": "02时26分"
         }
       ]
     },
     {
       "keyword_group": "独立开发 创业 副业",
-      "match_count": 6,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "【每日收评】深成指与创业板指双双跌超2%，科技股分化加剧，半导体材料逆势走强",
-          "url": "https://www.cls.cn/detail/2396047",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 06时11分]"
-        },
         {
           "title": "大学生返乡创业12年：从“省标杆家庭农场”到被强制清退，行政诉讼被驳后上诉",
           "url": "https://m.thepaper.cn/newsDetail_forward_33331622",
           "source": "澎湃新闻",
           "ranks": [
-            14,
-            10,
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时58分 ~ 22时46分]"
+          "appearance_count": 1,
+          "time_info": "02时26分"
         },
         {
           "title": "【每日收评】创业板震荡调整跌超1%， 半导体材料持续爆发，小金属概念逆势活跃",
           "url": "https://www.cls.cn/detail/2397208",
           "source": "财联社热门",
           "ranks": [
-            10,
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时55分 ~ 22时46分]"
-        },
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "韩国交易所启动SIDECAR机制，暂停韩国创业板指（KOSDAQ）程序化买入。",
-          "url": "https://flash.jin10.com/detail/20260611130053572800",
-          "source": "金十数据",
+          "title": "补贴→Token计费→降价！OpenAI打响价格战，Token经济学拐点将至？",
+          "url": "https://wallstreetcn.com/articles/3774400",
+          "source": "华尔街见闻",
           "ranks": [
-            21
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "上证指数早盘收报3964.24点，跌0.73%。 深证成指早盘收报14756.97点，跌1.32%。 创业板指早盘收报3785.63点，跌1.79%。 沪深300早盘收报4697.77点，跌1.07%。 科创50早盘收报1634.93点，跌1.05%。 中证500早盘收报7976.17点，跌1.09%。 中证1000早盘收报8097.40点，跌1.24%。",
-          "url": "https://wallstreetcn.com/livenews/3117901",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "6月11日午间收评：创业板指冲高回落跌1.79%，全市场下跌个股超4500只",
-          "url": "https://wallstreetcn.com/livenews/3117900",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
+          "time_info": "02时26分"
         }
       ]
     }
