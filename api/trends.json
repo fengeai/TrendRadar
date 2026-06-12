@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-12T17:06:13.105317+08:00",
-  "total_titles_processed": 992,
+  "generated_at": "2026-06-12T21:33:33.973078+08:00",
+  "total_titles_processed": 1194,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 28,
+      "match_count": 39,
       "titles": [
         {
           "title": "国常会：要锚定科技强国建设目标，高效组织实施国家重大科技任务",
@@ -57,6 +57,17 @@
           "time_info": "[02时26分 ~ 12时47分]"
         },
         {
+          "title": "165天！长鑫科技IPO注册生效 科创板迎来国产DRAM龙头",
+          "url": "https://www.cls.cn/detail/2398625",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
           "title": "6月12日投资避雷针：中巨芯、昊华科技等六氟化钨概念股密集提示风险",
           "url": "https://www.cls.cn/detail/2397810",
           "source": "财联社热门",
@@ -91,6 +102,17 @@
           "time_info": "[12时47分 ~ 17时06分]"
         },
         {
+          "title": "水果姐世界杯开幕表演预热抖音",
+          "url": "https://www.douyin.com/hot/2531991",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时05分 ~ 21时33分]"
+        },
+        {
           "title": "新疆小羊哥发抖音感谢网友关注",
           "url": "https://www.douyin.com/hot/2531642",
           "source": "抖音",
@@ -102,15 +124,15 @@
           "time_info": "[12时47分 ~ 17时06分]"
         },
         {
-          "title": "水果姐世界杯开幕表演预热抖音",
-          "url": "https://www.douyin.com/hot/2531991",
+          "title": "抖音AI创作大赛首个爆款出现",
+          "url": "https://www.douyin.com/hot/2532139",
           "source": "抖音",
           "ranks": [
-            21
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时05分 ~ 17时06分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         },
         {
           "title": "美银：美股净抛售创纪录，科技板块外流达2008年以来最高",
@@ -135,6 +157,17 @@
           "time_info": "12时47分"
         },
         {
+          "title": "胜宏科技：拟增加不超过180亿元（或等值外币）用于进行现金管理",
+          "url": "https://wallstreetcn.com/livenews/3118911",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
           "title": "从“被投者”到“投资者”，硬科技企业密集设立产业基金",
           "url": "https://wallstreetcn.com/livenews/3118433",
           "source": "华尔街见闻-快讯",
@@ -152,9 +185,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时06分"
+        },
+        {
+          "title": "价格调整机制、有无拆股计划、市场化改革，茅台股东会回应多个热点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33361376",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-06-12）",
@@ -179,6 +223,17 @@
           "time_info": "05时28分"
         },
         {
+          "title": "申昊科技：与煜芯炎宸（杭州）科技有限公司签订了《呼和浩特市-土左旗-和林格尔集群沙尔营算力产业园绿色智算中心智慧运维项目相关设备及配套服务采购合同》，煜芯炎宸围绕基于智能运维机器人与运维人员协同工作的整体运维服务向公司开展本次采购，本合同含税总金额为人民币11.67亿元。",
+          "url": "https://wallstreetcn.com/livenews/3118899",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
           "title": "美国证交会文件显示：Alphabet(GOOG.O)股东关于水资源使用和人工智能报告的提案未在年度股东大会上获得批准。",
           "url": "https://flash.jin10.com/detail/20260612041932514800",
           "source": "金十数据",
@@ -196,7 +251,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时06分"
         },
@@ -240,9 +295,42 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时06分"
+        },
+        {
+          "title": "胜宏科技：拟增加不超过180亿元闲置自有资金进行现金管理",
+          "url": "https://flash.jin10.com/detail/20260612205319242800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
+          "title": "据上交所官网显示，长鑫科技集团股份有限公司IPO审核状态变更为注册生效。",
+          "url": "https://wallstreetcn.com/livenews/3118888",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
+          "title": "业内称全球科技半导体板块将大调整",
+          "url": "https://www.toutiao.com/trending/7650034609186701353/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         },
         {
           "title": "南芯科技与阿里巴巴达摩院签署合作备忘录",
@@ -267,15 +355,37 @@
           "time_info": "05时28分"
         },
         {
+          "title": "哈兰德抖音粉丝数超曼城",
+          "url": "https://www.douyin.com/hot/2532056",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
           "title": "港股收盘：恒生指数收涨1.93%，恒生科技指数收涨1.06%。MINIMAX收跌近9%，创1月27日以来新低。南方两倍做多SK海力士盘中大幅波动，午后一度跌超7%，收盘涨0.52%。",
           "url": "https://wallstreetcn.com/livenews/3118729",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时06分"
+        },
+        {
+          "title": "全抖音都在DaiDai",
+          "url": "https://www.douyin.com/hot/2531421",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         },
         {
           "title": "高盛总裁John Waldron：SpaceX展现出为人工智能基础设施提供资金的意愿。 SpaceX“预示”着大规模IPO浪潮的开始。 目前尚不清楚人工智能是否会导致大量失业。",
@@ -284,9 +394,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时06分"
+        },
+        {
+          "title": "证监会同意长鑫科技IPO申请",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%AF%81%E7%9B%91%E4%BC%9A%E5%90%8C%E6%84%8F%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80IPO%E7%94%B3%E8%AF%B7%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         },
         {
           "title": "余承东：要带领盘古大模型走向世界第一",
@@ -295,7 +416,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时06分"
         },
@@ -317,7 +438,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时06分"
         }
@@ -325,7 +446,7 @@
     },
     {
       "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "补贴→Token计费→降价！OpenAI打响价格战，Token经济学拐点将至？",
@@ -348,8 +469,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时05分 ~ 17时06分]"
+          "appearance_count": 3,
+          "time_info": "[17时05分 ~ 21时33分]"
         },
         {
           "title": "高盛：SpaceX、OpenAI等超级IPO不会终结AI牛市",
@@ -361,12 +482,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
+        },
+        {
+          "title": "OpenAI被逼入价格战？企业都学聪明了：中国模型“极致性价比”！",
+          "url": "https://www.cls.cn/detail/2398139",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         }
       ]
     },
     {
       "keyword_group": "独立开发 创业 副业",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "大学生返乡创业12年：从“省标杆家庭农场”到被强制清退，行政诉讼被驳后上诉",
@@ -391,6 +523,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时26分 ~ 07时44分]"
+        },
+        {
+          "title": "【焦点复盘】创业板指高开低走涨0.5%，个股炸板率超四成，半导体材料股遭深幅回调",
+          "url": "https://www.cls.cn/detail/2398416",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         },
         {
           "title": "上证指数早盘收报4049.29点，涨1.56%。 深证成指早盘收报15103.14点，涨1.69%。 创业板指早盘收报3859.75点，涨1.27%。 沪深300早盘收报4794.71点，涨1.53%。 科创50早盘收报1681.58点，涨1.15%。 中证500早盘收报8219.78点，涨2.29%。 中证1000早盘收报8300.32点，涨1.73%。",
