@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-13T19:22:27.716612+08:00",
-  "total_titles_processed": 1065,
+  "generated_at": "2026-06-13T22:16:49.369683+08:00",
+  "total_titles_processed": 1234,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 19时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时50分 ~ 22时16分]"
         },
         {
           "title": "抖音AI创作大赛首个爆款出现",
@@ -83,11 +83,12 @@
           "source": "抖音",
           "ranks": [
             5,
-            6
+            6,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时28分 ~ 19时22分]"
+          "appearance_count": 3,
+          "time_info": "[16时28分 ~ 22时16分]"
         },
         {
           "title": "科大讯飞发布星火多模态大模型X2-VL",
@@ -273,7 +274,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -314,7 +315,7 @@
     },
     {
       "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "如何评价 Claude Fable 5 全球暂停访问？",
@@ -324,8 +325,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时28分 ~ 19时22分]"
+          "appearance_count": 3,
+          "time_info": "[16时28分 ~ 22时16分]"
         },
         {
           "title": "我们真的需要又一个 DeepSeek V5 吗？",
@@ -362,6 +363,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时26分 ~ 16时28分]"
+        },
+        {
+          "title": "SpaceX上市幕后大戏：抢跑OpenAI、疯狂并购装资产，华尔街全程被牵着鼻子走",
+          "url": "https://wallstreetcn.com/articles/3774577",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
         },
         {
           "title": "亚马逊云服务(AWS)：Anthropic已要求我们撤销所有用户在全部区域范围内对Claude Fable 5和Claude Mythos 5的访问权限。所有其他Anthropic模型不受影响。",
