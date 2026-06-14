@@ -1,206 +1,22 @@
 {
-  "generated_at": "2026-06-14T23:12:03.277958+08:00",
-  "total_titles_processed": 1175,
+  "generated_at": "2026-06-15T01:27:33.228918+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "哈兰德把挪威的森林焊死在抖音",
-          "url": "https://www.douyin.com/hot/2533100",
-          "source": "抖音",
-          "ranks": [
-            17,
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 08时16分]"
-        },
-        {
-          "title": "业绩下滑遭炮轰、新战略被指“不务正业” 同仁堂科技转型困局凸显|直击股东会",
-          "url": "https://www.cls.cn/detail/2398830",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 06时13分]"
-        },
-        {
-          "title": "科技让文物可看可感",
-          "url": "https://www.baidu.com/s?wd=%E7%A7%91%E6%8A%80%E8%AE%A9%E6%96%87%E7%89%A9%E5%8F%AF%E7%9C%8B%E5%8F%AF%E6%84%9F",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "亚马逊之后，Meta也限制AI使用量了！当大厂都用不起Token，大模型巨头该“控制利润率”了？",
-          "url": "https://wallstreetcn.com/articles/3774595",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时16分 ~ 17时53分]"
-        },
-        {
-          "title": "小米工程师谈某大模型重新出山",
-          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E5%B7%A5%E7%A8%8B%E5%B8%88%E8%B0%88%E6%9F%90%E5%A4%A7%E6%A8%A1%E5%9E%8B%E9%87%8D%E6%96%B0%E5%87%BA%E5%B1%B1&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时53分 ~ 20时05分]"
-        },
-        {
-          "title": "抖音作者硬核实测国产狙击步枪",
-          "url": "https://www.douyin.com/hot/2533455",
-          "source": "抖音",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时22分 ~ 06时13分]"
-        },
-        {
-          "title": "经过两周调整，美国大型科技股仓位已经回落至“中性水平”、甚至略低于盈利增长",
-          "url": "https://wallstreetcn.com/articles/3774576",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时58分 ~ 17时53分]"
-        },
-        {
-          "title": "据The Information：美国政府不太可能将对Anthropic的出口管制扩展至其他人工智能公司。",
-          "url": "https://flash.jin10.com/detail/20260614041529668800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时13分 ~ 08时16分]"
-        },
-        {
-          "title": "“机器人伴侣”来了！10天已预售3800台，男款身着修身西装，女款可上妆，搭载“养成系”情感大模型，仅限成人购买！",
-          "url": "https://wallstreetcn.com/articles/3774586",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "纳指科技ETF景顺：本基金将于6月15日开市起至当日10:30停牌。",
-          "url": "https://flash.jin10.com/detail/20260614171658710800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时53分"
-        },
-        {
-          "title": "欧洲理事会主席科斯塔：刚刚与苹果公司CEO蒂姆·库克就儿童网络安全、人工智能及创新议题进行了富有成效的交谈。",
-          "url": "https://flash.jin10.com/detail/20260614004325694800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        },
-        {
-          "title": "据科技媒体The Information报道，亚马逊CEO安迪·贾西在特朗普政府针对AI公司Anthropic采取行动之前，曾对该公司的模型表达过担忧。",
-          "url": "https://flash.jin10.com/detail/20260614001329812800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        }
-      ]
-    },
-    {
       "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "SpaceX上市幕后大戏：抢跑OpenAI、疯狂并购装资产，华尔街全程被牵着鼻子走",
-          "url": "https://wallstreetcn.com/articles/3774577",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5,
-            4,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 13时58分]"
-        },
         {
           "title": "【早报】美将部分中企列入“中国军事企业清单”，商务部回应；OpenAI被查",
           "url": "https://www.cls.cn/detail/2399163",
           "source": "财联社热门",
           "ranks": [
-            1,
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时58分 ~ 23时12分]"
-        },
-        {
-          "title": "如何评价 Claude Fable 5 全球暂停访问？",
-          "url": "https://www.zhihu.com/question/2049072203191342205",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
-        },
-        {
-          "title": "美国突然限用Claude 5说明了什么",
-          "url": "https://www.toutiao.com/trending/7650833215002775103/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时16分"
+          "time_info": "01时27分"
         }
       ]
     }
