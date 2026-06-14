@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-14T13:58:33.184945+08:00",
-  "total_titles_processed": 724,
+  "generated_at": "2026-06-14T17:53:29.023304+08:00",
+  "total_titles_processed": 879,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "哈兰德把挪威的森林焊死在抖音",
@@ -40,7 +40,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -53,8 +53,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时16分 ~ 13时58分]"
+          "appearance_count": 3,
+          "time_info": "[08时16分 ~ 17时53分]"
         },
         {
           "title": "抖音作者硬核实测国产狙击步枪",
@@ -66,6 +66,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时22分 ~ 06时13分]"
+        },
+        {
+          "title": "经过两周调整，美国大型科技股仓位已经回落至“中性水平”、甚至略低于盈利增长",
+          "url": "https://wallstreetcn.com/articles/3774576",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 17时53分]"
         },
         {
           "title": "据The Information：美国政府不太可能将对Anthropic的出口管制扩展至其他人工智能公司。",
@@ -80,26 +91,37 @@
           "time_info": "[06时13分 ~ 08时16分]"
         },
         {
-          "title": "经过两周调整，美国大型科技股仓位已经回落至“中性水平”、甚至略低于盈利增长",
-          "url": "https://wallstreetcn.com/articles/3774576",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
           "title": "“机器人伴侣”来了！10天已预售3800台，男款身着修身西装，女款可上妆，搭载“养成系”情感大模型，仅限成人购买！",
           "url": "https://wallstreetcn.com/articles/3774586",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
+        },
+        {
+          "title": "纳指科技ETF景顺：本基金将于6月15日开市起至当日10:30停牌。",
+          "url": "https://flash.jin10.com/detail/20260614171658710800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
+        },
+        {
+          "title": "小米工程师谈某大模型重新出山",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E5%B7%A5%E7%A8%8B%E5%B8%88%E8%B0%88%E6%9F%90%E5%A4%A7%E6%A8%A1%E5%9E%8B%E9%87%8D%E6%96%B0%E5%87%BA%E5%B1%B1&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
         },
         {
           "title": "欧洲理事会主席科斯塔：刚刚与苹果公司CEO蒂姆·库克就儿童网络安全、人工智能及创新议题进行了富有成效的交谈。",
@@ -146,6 +168,17 @@
           "time_info": "[00时21分 ~ 13时58分]"
         },
         {
+          "title": "【早报】美将部分中企列入“中国军事企业清单”，商务部回应；OpenAI被查",
+          "url": "https://www.cls.cn/detail/2399163",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 17时53分]"
+        },
+        {
           "title": "如何评价 Claude Fable 5 全球暂停访问？",
           "url": "https://www.zhihu.com/question/2049072203191342205",
           "source": "知乎",
@@ -155,17 +188,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时21分 ~ 00时22分]"
-        },
-        {
-          "title": "【早报】美将部分中企列入“中国军事企业清单”，商务部回应；OpenAI被查",
-          "url": "https://www.cls.cn/detail/2399163",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
         },
         {
           "title": "美国突然限用Claude 5说明了什么",
