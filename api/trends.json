@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-14T20:05:13.148022+08:00",
-  "total_titles_processed": 1002,
+  "generated_at": "2026-06-14T23:12:03.277958+08:00",
+  "total_titles_processed": 1175,
   "failed_sources": [],
   "trends": [
     {
@@ -177,8 +177,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时58分 ~ 20时05分]"
+          "appearance_count": 6,
+          "time_info": "[13时58分 ~ 23时12分]"
         },
         {
           "title": "如何评价 Claude Fable 5 全球暂停访问？",
