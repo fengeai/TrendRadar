@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-15T13:10:50.561607+08:00",
-  "total_titles_processed": 762,
+  "generated_at": "2026-06-15T20:34:05.048954+08:00",
+  "total_titles_processed": 1004,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 3,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "习近平：一体推进教育科技人才发展",
+          "url": "https://www.cls.cn/detail/2399978",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时33分 ~ 20时34分]"
+        },
         {
           "title": "期货热点追踪",
           "url": "https://flash.jin10.com/detail/20260615124610140800",
@@ -14,9 +25,53 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
+        },
+        {
+          "title": "分析师用AI写研报搞了个大乌龙，互联网信息该如何排污？",
+          "url": "https://www.cls.cn/detail/2399644",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时33分 ~ 20时34分]"
+        },
+        {
+          "title": "【焦点复盘】硬科技、小金属携手发力，沪指日线6连阳收复20日均线，全市场超280股涨逾10%",
+          "url": "https://www.cls.cn/detail/2400159",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时33分 ~ 20时34分]"
+        },
+        {
+          "title": "上迪10岁生日表情来抖音啦",
+          "url": "https://www.douyin.com/hot/2535395",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时33分 ~ 20时34分]"
+        },
+        {
+          "title": "炬光科技：光通信相关业务收入占比约8%，尚未构成核心业绩支柱",
+          "url": "https://wallstreetcn.com/livenews/3119664",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
         },
         {
           "title": "TD COWEN：将美光科技(MU.O)目标价从660美元上调至1500美元。",
@@ -25,7 +80,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
         },
@@ -36,16 +91,60 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
+        },
+        {
+          "title": "印度阿达尼企业（Adani Enterprises）与捷普（Jabil）合作，将建设人工智能数据中心。",
+          "url": "https://flash.jin10.com/detail/20260615200216707800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
         }
       ]
     },
     {
       "keyword_group": "独立开发 创业 副业",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "大爆发！创业板狂飙超5%，算力硬件掀起涨停潮，恒科指涨超1%，智谱狂飙超30%",
+          "url": "https://wallstreetcn.com/articles/3774643",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时33分 ~ 20时34分]"
+        },
+        {
+          "title": "【每日收评】全市场超百股涨停！创业板指涨超5%，PCB等AI硬件概念股集体爆发",
+          "url": "https://www.cls.cn/detail/2400118",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时33分 ~ 20时34分]"
+        },
+        {
+          "title": "117万元急拉创业板ETF富国尾盘涨停 明日紧急停牌",
+          "url": "https://wallstreetcn.com/livenews/3119613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
+        },
         {
           "title": "上证指数早盘收报4068.58点，涨0.92%。 深证成指早盘收报15342.47点，涨2.53%。 创业板指早盘收报3970.67点，涨3.66%。 沪深300早盘收报4847.65点，涨1.47%。 科创50早盘收报1723.47点，涨3.62%。 中证500早盘收报8304.88点，涨2.45%。 中证1000早盘收报8431.49点，涨2.79%。",
           "url": "https://wallstreetcn.com/livenews/3119423",
@@ -53,7 +152,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
         },
@@ -64,7 +163,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
         }
