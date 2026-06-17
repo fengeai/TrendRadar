@@ -1,563 +1,94 @@
 {
-  "generated_at": "2026-06-17T21:50:57.970308+08:00",
-  "total_titles_processed": 1211,
+  "generated_at": "2026-06-18T01:13:27.878675+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 39,
+      "match_count": 5,
       "titles": [
         {
           "title": "市场静待沃什\"首秀\"，美股指涨跌互现，道指再新高，科技股承压，美油跌近6%",
           "url": "https://wallstreetcn.com/articles/3774774",
           "source": "华尔街见闻",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时41分 ~ 21时50分]"
-        },
-        {
-          "title": "支撑人工智能等高质量发展 算力网开启万亿级投资周期",
-          "url": "https://www.cls.cn/detail/2401236",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时10分 ~ 07时41分]"
-        },
-        {
-          "title": "我国成功发射卫星互联网低轨22组卫星",
-          "url": "https://wallstreetcn.com/livenews/3120744",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时55分"
-        },
-        {
-          "title": "证监会实质举措推动科技革命，三类企业受益，一线解读来了",
-          "url": "https://www.cls.cn/detail/2402254",
-          "source": "财联社热门",
-          "ranks": [
-            8,
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时56分 ~ 21时50分]"
+          "appearance_count": 1,
+          "time_info": "01时13分"
         },
         {
           "title": "【焦点复盘】沪指尾盘翻红收复4100点，科技上游通胀行情持续火爆，4000亿存储龙头午后涨停",
           "url": "https://www.cls.cn/detail/2402510",
           "source": "财联社热门",
           "ranks": [
-            5
+            4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时50分"
+          "time_info": "01时13分"
         },
         {
-          "title": "中缅联合声明：双方继续深化矿产、数字经济、人工智能等领域务实合作",
-          "url": "https://flash.jin10.com/detail/20260617213149936800",
+          "title": "据AXIOS网站：美国总统特朗普与人工智能企业首席执行官在七国集团会议上讨论全球人工智能规则。",
+          "url": "https://flash.jin10.com/detail/20260618005222154800",
           "source": "金十数据",
           "ranks": [
-            5
+            4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时50分"
+          "time_info": "01时13分"
         },
         {
           "title": "中国正加紧筹建世界人工智能合作组织",
           "url": "https://m.thepaper.cn/newsDetail_forward_33396659",
           "source": "澎湃新闻",
           "ranks": [
-            7,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时56分 ~ 21时50分]"
-        },
-        {
-          "title": "GPT-5.6 惊现 150 万上下文窗口，将如何影响大模型竞争格局？",
-          "url": "https://www.zhihu.com/question/2042539496676352614",
-          "source": "知乎",
-          "ranks": [
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时10分 ~ 07时41分]"
-        },
-        {
-          "title": "证监会：将严查借科技之名炒概念行为",
-          "url": "https://www.baidu.com/s?wd=%E8%AF%81%E7%9B%91%E4%BC%9A%EF%BC%9A%E5%B0%86%E4%B8%A5%E6%9F%A5%E5%80%9F%E7%A7%91%E6%8A%80%E4%B9%8B%E5%90%8D%E7%82%92%E6%A6%82%E5%BF%B5%E8%A1%8C%E4%B8%BA",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时56分 ~ 17时57分]"
-        },
-        {
-          "title": "全抖音都在为梅西C罗加油",
-          "url": "https://www.douyin.com/hot/2536679",
-          "source": "抖音",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时56分 ~ 17时57分]"
-        },
-        {
-          "title": "炽夏抖音追剧团",
-          "url": "https://www.douyin.com/hot/2536928",
-          "source": "抖音",
-          "ranks": [
-            30,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时10分 ~ 07时41分]"
-        },
-        {
-          "title": "抖音电影奇遇夜达人天团报道",
-          "url": "https://www.douyin.com/hot/2537729",
-          "source": "抖音",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时56分 ~ 17时57分]"
-        },
-        {
-          "title": "中国将探索开展人工智能监管合作",
-          "url": "https://www.toutiao.com/trending/7652190242211905572/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时56分 ~ 17时57分]"
-        },
-        {
-          "title": "人工智能拉动铜价飙升 10日元硬币金属价值已超过面值",
-          "url": "https://flash.jin10.com/detail/20260617173053528800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时57分"
-        },
-        {
-          "title": "慧与科技：HPE数据编织软件将扩大智能体工作流的数据可用性，将于2026年10月推出。",
-          "url": "https://flash.jin10.com/detail/20260617003450654800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时10分"
-        },
-        {
-          "title": "美股开盘，道指小幅高开，标普500指数涨0.12%，纳指涨0.43%。SpaceX(SPCX.O)涨3.6%，涨势延续至第四个交易日。半导体概念股走强，阿斯麦(ASML.O)涨5%、迈威尔科技(MRVL.O)涨5%、博通(AVGO.O)涨2.4%、英特尔(INTC.O)涨4.1%。",
-          "url": "https://flash.jin10.com/detail/20260617213040246800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时50分"
-        },
-        {
-          "title": "G7领导人责成各国财政部长和央行行长讨论人工智能问题。",
-          "url": "https://wallstreetcn.com/livenews/3121041",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时50分"
-        },
-        {
-          "title": "慧与科技：新的慧与私有云AI功能将于2026年7月推出。",
-          "url": "https://flash.jin10.com/detail/20260617003406340800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时10分"
-        },
-        {
-          "title": "我国成功发射卫星互联网低轨22组卫星",
-          "url": "https://flash.jin10.com/detail/20260617122218020800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时55分"
-        },
-        {
-          "title": "世名科技：年产5000吨LCD显示光刻胶专用纳米颜料分散液项目存在研发量产、客户批量导入不及预期风险",
-          "url": "https://wallstreetcn.com/livenews/3121040",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时50分"
-        },
-        {
-          "title": "慧与科技：与英伟达(NVDA.O)联合设计的慧与私有云AI可将令token吞吐量提升高达20%。",
-          "url": "https://flash.jin10.com/detail/20260617003350670800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时10分"
-        },
-        {
-          "title": "国务院：深入实施“人工智能+”行动，强化人工智能的就业创造效应",
-          "url": "https://wallstreetcn.com/livenews/3120894",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时57分"
-        },
-        {
-          "title": "慧与科技：携手英伟达(NVDA.O)将代理式人工智能引入生产环境。",
-          "url": "https://flash.jin10.com/detail/20260617003153886800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时10分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌2.50%，报6192.86点，跌穿2025年4月8日收盘位6198.18点、逼近2024年9月23日收盘位5917.72点。 热门中概股里，日月光半导体跌4.5%，小马智行、小鹏跌超4%，腾讯、美团、蔚来、百度、网易跌超3%。 ETF中，中概互联网指数ETF（KWEB）收跌2.78%，中国科技指数ETF（CQQQ）收跌1.62%。 MSCI新兴市场ex中国ETF（EMXC）收跌1.51%，德银嘉实沪深300指数ETF（ASHR）收跌0.50%，XtrackersHarvest中证50（ASHS）收涨0.61%。",
-          "url": "https://wallstreetcn.com/livenews/3120485",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时13分"
-        },
-        {
-          "title": "市场消息：通用汽车与雷神科技、L3哈里斯就提升军火产量展开对话。",
-          "url": "https://flash.jin10.com/detail/20260617063335194800",
-          "source": "金十数据",
-          "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "陈果：战略看多中国互联网",
-          "url": "https://wallstreetcn.com/livenews/3121028",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时50分"
-        },
-        {
-          "title": "据英国金融时报：施罗德首席投资官称，AI与科技企业并非处于“泡沫状态”。",
-          "url": "https://flash.jin10.com/detail/20260617121136589800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时55分"
-        },
-        {
-          "title": "吴清：依法从严打击利用人工智能非法荐股等乱象",
-          "url": "https://wallstreetcn.com/livenews/3120716",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时55分"
-        },
-        {
-          "title": "美国科技记者古尔曼：苹果(AAPL.O)还在准备一系列新款iPhone芯片，其中包括一款可能采用1.4nm制程工艺的A22 Pro芯片，预计将于2028年推出。",
-          "url": "https://flash.jin10.com/detail/20260617002352532800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时10分"
-        },
-        {
-          "title": "熵基科技与为旌科技签署战略合作协议",
-          "url": "https://flash.jin10.com/detail/20260617172418462800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时57分"
-        },
-        {
-          "title": "吴清：打造首批资本市场科技金融实践样本",
-          "url": "https://wallstreetcn.com/livenews/3120707",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时55分"
-        },
-        {
-          "title": "中国正加紧筹建世界人工智能合作组织",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%AD%A3%E5%8A%A0%E7%B4%A7%E7%AD%B9%E5%BB%BA%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%90%88%E4%BD%9C%E7%BB%84%E7%BB%87",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时55分"
-        },
-        {
-          "title": "上交所邱勇：落实好新发布的人工智能领域配套规则 推动更多创新示范案例落地",
-          "url": "https://wallstreetcn.com/livenews/3120875",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时57分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-06-17）",
-          "url": "https://flash.jin10.com/detail/20260617120429925800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时55分"
-        },
-        {
-          "title": "恒生指数主连夜盘收涨0.11%，报24510点。 恒生科技指数主连夜盘收跌0.45%，报4641点。",
-          "url": "https://wallstreetcn.com/livenews/3120466",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时13分"
+          "time_info": "01时13分"
         },
         {
           "title": "沈腾恭喜吕德华入驻抖音",
           "url": "https://www.douyin.com/hot/2538022",
           "source": "抖音",
           "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时50分"
-        },
-        {
-          "title": "抖音电影奇遇夜出发时刻",
-          "url": "https://www.douyin.com/hot/2536237",
-          "source": "抖音",
-          "ranks": [
-            28
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "摩根士丹利Gokul LAROIA：中国市场人工智能相关投资机遇巨大",
-          "url": "https://wallstreetcn.com/livenews/3121013",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时50分"
-        },
-        {
-          "title": "纳斯达克100指数跌幅扩大至1%，成分股Lumentum目前跌超9.4%，英特尔跌6.5%，Strategy跌超4.6%，AMD、科磊、迈威尔科技、美光科技、博通、闪迪至少跌约3.4%，拼多多跌超2.8%，阿斯麦ADR跌超2.7% 半导体指数跌超3%。",
-          "url": "https://wallstreetcn.com/livenews/3120407",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时10分"
+          "time_info": "01时13分"
         }
       ]
     },
     {
       "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
-      "match_count": 7,
+      "match_count": 2,
       "titles": [
         {
-          "title": "报道：SpaceX全股票收购AI编程工具Cursor，交易估值600亿美元",
-          "url": "https://wallstreetcn.com/articles/3774806",
-          "source": "华尔街见闻",
+          "title": "据AXIOS网站：OpenAI创始人奥尔特曼与谷歌旗下Deepmind首席执行官哈萨比斯出席了人工智能会议。",
+          "url": "https://flash.jin10.com/detail/20260618005603439800",
+          "source": "金十数据",
           "ranks": [
-            4
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时10分 ~ 17时57分]"
-        },
-        {
-          "title": "DeepSeek 完成 500 亿融资，估值超 3300 亿，如何解读背后的估值逻辑？将对 AI 领域产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2050261467174101567",
-          "source": "知乎",
-          "ranks": [
-            3,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时55分 ~ 21时50分]"
-        },
-        {
-          "title": "为什么DeepSeek是AI泡沫斩杀线",
-          "url": "https://www.toutiao.com/trending/7651979830128283145/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            23,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时10分 ~ 07时41分]"
-        },
-        {
-          "title": "Redis 之父为 DeepSeek 抱不平，美国 AI 圈为何再为「蒸馏」开吵？",
-          "url": "https://www.zhihu.com/question/2050271442697188542",
-          "source": "知乎",
-          "ranks": [
-            9,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时55分 ~ 17时57分]"
-        },
-        {
-          "title": "曝DeepSeek首轮融资梁文锋出资200亿",
-          "url": "https://www.toutiao.com/trending/7651579346738855979/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时13分 ~ 07时41分]"
+          "appearance_count": 1,
+          "time_info": "01时13分"
         },
         {
           "title": "SpaceX 上市第三天市值逼近 3 万亿美元，豪掷 600 亿收购 Cursor 加码 AI，这笔天价收购划算吗？",
           "url": "https://www.zhihu.com/question/2050515273640423854",
           "source": "知乎",
           "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时50分"
-        },
-        {
-          "title": "DeepSeek首轮融资梁文锋出资200亿",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E9%A6%96%E8%BD%AE%E8%9E%8D%E8%B5%84%E6%A2%81%E6%96%87%E9%94%8B%E5%87%BA%E8%B5%84200%E4%BA%BF%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "独立开发 创业 副业",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "【每日收评】创业板指涨1.72%，全市场连续两日超百股涨停，AI硬件方向延续强势",
-          "url": "https://www.cls.cn/detail/2401228",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时10分 ~ 07时41分]"
-        },
-        {
-          "title": "上证指数早盘收报4084.54点，跌0.18%。 深证成指早盘收报15735.60点，涨0.39%。 创业板指早盘收报4103.01点，涨0.00%。 沪深300早盘收报4889.69点，涨0.11%。 科创50早盘收报1776.26点，涨1.01%。 中证500早盘收报8534.44点，涨0.31%。 中证1000早盘收报8645.85点，跌0.01%。",
-          "url": "https://wallstreetcn.com/livenews/3120721",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时55分"
+          "time_info": "01时13分"
         }
       ]
     }
