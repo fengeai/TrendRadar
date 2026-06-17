@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-17T07:41:29.842428+08:00",
-  "total_titles_processed": 540,
+  "generated_at": "2026-06-17T12:55:43.713179+08:00",
+  "total_titles_processed": 781,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 14,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "市场静待沃什\"首秀\"，美股指涨跌互现，道指再新高，科技股承压，美油跌近6%",
+          "url": "https://wallstreetcn.com/articles/3774774",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时41分 ~ 12时55分]"
+        },
         {
           "title": "支撑人工智能等高质量发展 算力网开启万亿级投资周期",
           "url": "https://www.cls.cn/detail/2401236",
@@ -21,15 +32,15 @@
           "time_info": "[01时10分 ~ 07时41分]"
         },
         {
-          "title": "市场静待沃什\"首秀\"，美股指涨跌互现，道指再新高，科技股承压，美油跌近6%",
-          "url": "https://wallstreetcn.com/articles/3774774",
-          "source": "华尔街见闻",
+          "title": "我国成功发射卫星互联网低轨22组卫星",
+          "url": "https://wallstreetcn.com/livenews/3120744",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时41分"
+          "time_info": "12时55分"
         },
         {
           "title": "GPT-5.6 惊现 150 万上下文窗口，将如何影响大模型竞争格局？",
@@ -78,6 +89,17 @@
           "time_info": "01时10分"
         },
         {
+          "title": "我国成功发射卫星互联网低轨22组卫星",
+          "url": "https://flash.jin10.com/detail/20260617122218020800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
+        },
+        {
           "title": "慧与科技：与英伟达(NVDA.O)联合设计的慧与私有云AI可将令token吞吐量提升高达20%。",
           "url": "https://flash.jin10.com/detail/20260617003350670800",
           "source": "金十数据",
@@ -117,9 +139,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
+        },
+        {
+          "title": "据英国金融时报：施罗德首席投资官称，AI与科技企业并非处于“泡沫状态”。",
+          "url": "https://flash.jin10.com/detail/20260617121136589800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
+        },
+        {
+          "title": "吴清：依法从严打击利用人工智能非法荐股等乱象",
+          "url": "https://wallstreetcn.com/livenews/3120716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
         },
         {
           "title": "美国科技记者古尔曼：苹果(AAPL.O)还在准备一系列新款iPhone芯片，其中包括一款可能采用1.4nm制程工艺的A22 Pro芯片，预计将于2028年推出。",
@@ -131,6 +175,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时10分"
+        },
+        {
+          "title": "吴清：打造首批资本市场科技金融实践样本",
+          "url": "https://wallstreetcn.com/livenews/3120707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
+        },
+        {
+          "title": "中国正加紧筹建世界人工智能合作组织",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%AD%A3%E5%8A%A0%E7%B4%A7%E7%AD%B9%E5%BB%BA%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%90%88%E4%BD%9C%E7%BB%84%E7%BB%87",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-06-17）",
+          "url": "https://flash.jin10.com/detail/20260617120429925800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
         },
         {
           "title": "恒生指数主连夜盘收涨0.11%，报24510点。 恒生科技指数主连夜盘收跌0.45%，报4641点。",
@@ -150,7 +227,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
         },
@@ -169,7 +246,7 @@
     },
     {
       "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "报道：SpaceX全股票收购AI编程工具Cursor，交易估值600亿美元",
@@ -179,8 +256,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时10分 ~ 07时41分]"
+          "appearance_count": 4,
+          "time_info": "[01时10分 ~ 12时55分]"
+        },
+        {
+          "title": "DeepSeek 完成 500 亿融资，估值超 3300 亿，如何解读背后的估值逻辑？将对 AI 领域产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2050261467174101567",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
         },
         {
           "title": "为什么DeepSeek是AI泡沫斩杀线",
@@ -208,6 +296,17 @@
           "time_info": "[05时13分 ~ 07时41分]"
         },
         {
+          "title": "Redis 之父为 DeepSeek 抱不平，美国 AI 圈为何再为「蒸馏」开吵？",
+          "url": "https://www.zhihu.com/question/2050271442697188542",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
+        },
+        {
           "title": "DeepSeek首轮融资梁文锋出资200亿",
           "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E9%A6%96%E8%BD%AE%E8%9E%8D%E8%B5%84%E6%A2%81%E6%96%87%E9%94%8B%E5%87%BA%E8%B5%84200%E4%BA%BF%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -222,7 +321,7 @@
     },
     {
       "keyword_group": "独立开发 创业 副业",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "【每日收评】创业板指涨1.72%，全市场连续两日超百股涨停，AI硬件方向延续强势",
@@ -235,6 +334,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时10分 ~ 07时41分]"
+        },
+        {
+          "title": "上证指数早盘收报4084.54点，跌0.18%。 深证成指早盘收报15735.60点，涨0.39%。 创业板指早盘收报4103.01点，涨0.00%。 沪深300早盘收报4889.69点，涨0.11%。 科创50早盘收报1776.26点，涨1.01%。 中证500早盘收报8534.44点，涨0.31%。 中证1000早盘收报8645.85点，跌0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3120721",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
         }
       ]
     }
