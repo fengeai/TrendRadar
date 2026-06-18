@@ -1,494 +1,61 @@
 {
-  "generated_at": "2026-06-18T23:43:27.912509+08:00",
-  "total_titles_processed": 1301,
+  "generated_at": "2026-06-19T02:33:42.601250+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 34,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "市场静待沃什\"首秀\"，美股指涨跌互现，道指再新高，科技股承压，美油跌近6%",
-          "url": "https://wallstreetcn.com/articles/3774774",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时13分 ~ 06时49分]"
-        },
-        {
-          "title": "【焦点复盘】沪指尾盘翻红收复4100点，科技上游通胀行情持续火爆，4000亿存储龙头午后涨停",
-          "url": "https://www.cls.cn/detail/2402510",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 08时34分]"
-        },
-        {
-          "title": "七部门重磅发文：鼓励投早投小投硬科技，2028年培育一批平台经济单项冠军",
-          "url": "https://www.cls.cn/detail/2403507",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时16分 ~ 23时43分]"
-        },
-        {
-          "title": "商务部等八部门发布《关于加快“人工智能+消费”发展的实施意见》",
-          "url": "https://www.cls.cn/detail/2403573",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时16分 ~ 23时43分]"
-        },
-        {
-          "title": "亚马逊正洽谈对外出售自研人工智能芯片",
-          "url": "https://flash.jin10.com/detail/20260618231940001800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时43分"
-        },
-        {
-          "title": "科创板第五套标准扩围至大模型企业，智谱、MiniMax“回A”有望提速",
-          "url": "https://wallstreetcn.com/livenews/3121281",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时49分"
-        },
-        {
-          "title": "韦德布什：将美光科技(MU.O)目标价从550美元上调至1,300美元。",
-          "url": "https://flash.jin10.com/detail/20260618191249555800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时16分"
-        },
-        {
-          "title": "据AXIOS网站：美国总统特朗普与人工智能企业首席执行官在七国集团会议上讨论全球人工智能规则。",
-          "url": "https://flash.jin10.com/detail/20260618005222154800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
-        },
-        {
-          "title": "A股CPO板块持续走高，麦捷科技、兴森科技等股涨停，奕东电子、博敏电子、优迅股份涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3121445",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时02分"
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20260618081529686800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时34分 ~ 14时02分]"
-        },
         {
           "title": "【焦点复盘】极致两极分化行情再现，硬科技方向多点开花，大金融板块全线重挫",
           "url": "https://www.cls.cn/detail/2403717",
           "source": "财联社热门",
           "ranks": [
-            11,
-            4
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时16分 ~ 23时43分]"
-        },
-        {
-          "title": "中国正加紧筹建世界人工智能合作组织",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33396659",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 08时34分]"
-        },
-        {
-          "title": "沈腾恭喜吕德华入驻抖音",
-          "url": "https://www.douyin.com/hot/2538022",
-          "source": "抖音",
-          "ranks": [
-            26,
-            19,
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 08时34分]"
-        },
-        {
-          "title": "全抖音都在为梅西C罗加油",
-          "url": "https://www.douyin.com/hot/2536679",
-          "source": "抖音",
-          "ranks": [
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时24分 ~ 06时49分]"
+          "appearance_count": 1,
+          "time_info": "02时33分"
         },
         {
           "title": "【每日收评】科创50放量涨近4%，AI硬件与半导体持续火爆，多只科技权重续创历史新高",
           "url": "https://www.cls.cn/detail/2403645",
           "source": "财联社热门",
           "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时43分"
-        },
-        {
-          "title": "亚马逊(AMZN.O)正洽谈向其他公司的数据中心出售其定制人工智能芯片，这是其旨在打破英伟达(NVDA.O)市场主导地位所做努力中的一项关键扩张举措。",
-          "url": "https://flash.jin10.com/detail/20260618231239499800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时43分"
-        },
-        {
-          "title": "浙江省政府与航天科技集团签署深化战略合作框架协议",
-          "url": "https://flash.jin10.com/detail/20260618191101754800",
-          "source": "金十数据",
-          "ranks": [
-            8
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时16分"
-        },
-        {
-          "title": "【报道：亚马逊洽谈向其他公司出售英伟达竞品芯片】亚马逊正在洽谈出售其定制的人工智能芯片，以供其他公司的数据中心使用，这是其努力削弱英伟达公司主导地位的关键扩张举措。亚马逊AI业务负责人表示，公司已开始与潜在客户进行讨论，但拒绝透露具体名称，并认为AI基础设施正在快速演变。亚马逊第三代AI加速器Trainium已基本售罄，且预计明年推出的第四代产品已引起强烈兴趣。",
-          "url": "https://wallstreetcn.com/livenews/3121801",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时43分"
-        },
-        {
-          "title": "A股CPO概念板块午后持续走高，麦捷科技、兴森科技等多股涨停，奕东电子、博敏电子、优迅股份等跟涨。",
-          "url": "https://flash.jin10.com/detail/20260618133714073800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时02分"
-        },
-        {
-          "title": "A股芯片电感概念异动拉升，麦捷科技20cm涨停，创历史新高，铂科新材、龙磁科技、顺络电子、悦安新材、美信科技涨幅靠前。",
-          "url": "https://wallstreetcn.com/livenews/3121436",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时02分"
-        },
-        {
-          "title": "HSBC将昆仑万维科技股份有限公司评级从减持上调至持有。",
-          "url": "https://wallstreetcn.com/livenews/3121656",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时16分"
-        },
-        {
-          "title": "A股算力租赁板块念午后拉升，东方国信20cm涨停，此前中嘉博创、智微智能涨停，科创信息、利通电子、恒为科技、宏景科技等跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3121429",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时02分"
-        },
-        {
-          "title": "飞沃科技：为保障回购股份方案顺利实施，本次回购股份价格上限由31.06元/股（含）调整为180.00元/股（含）。",
-          "url": "https://wallstreetcn.com/livenews/3121644",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时16分"
-        },
-        {
-          "title": "金融监管总局：推进人工智能金融行业应用基础设施建设",
-          "url": "https://wallstreetcn.com/livenews/3121641",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时16分"
-        },
-        {
-          "title": "周三（6月17日），美股存储芯片与硬件供应链指数涨1.78%，报250.51点，过半交易时间持稳于256点附近，北京时间02:00美联储披露经济预期概要（SEP）之后显著回吐涨幅，美联储主席沃什新闻发布会开始后一度冲高至260点上方刷新日高。 成分股西部数据涨超4.5%，应用材料涨超4.3%，希捷科技、美光科技、拉姆研究至少涨超1%，闪迪、Rambus则跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3121255",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时49分"
-        },
-        {
-          "title": "金融监管总局：支持金融机构在风险可控的前提下，推进生成式人工智能技术的业务应用和配套能力体系建设",
-          "url": "https://wallstreetcn.com/livenews/3121640",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时16分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周三（6月17日），美国科技股七巨头（Magnificent 7）指数跌2.38%，报210.21点，跳空低开之后持续下挫，北京时间02:00美联储宣布按兵不动、披露经济预期概要（SEP）后显著地加速下跌，美联储主席凯文·沃什新闻发布会开始后再度加速下跌。 “超大”市值科技股指数跌1.56%，报432.59点，美联储决议声明发布后显著下挫，沃什新闻发布会开始之后冲高回落。",
-          "url": "https://wallstreetcn.com/livenews/3121254",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时49分"
-        },
-        {
-          "title": "金融监管总局：加强人工智能安全开发应用治理",
-          "url": "https://wallstreetcn.com/livenews/3121639",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时16分"
+          "time_info": "02时33分"
         },
         {
           "title": "南部档案抖音追剧团",
           "url": "https://www.douyin.com/hot/2539680",
           "source": "抖音",
           "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时43分"
-        },
-        {
-          "title": "国家互联网信息办公室发布关于《促进分布式数字身份互通互认应用规定（征求意见稿）》公开征求意见的通知。",
-          "url": "https://wallstreetcn.com/livenews/3121638",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时16分"
-        },
-        {
-          "title": "恒生指数主连夜盘收跌0.26%，报24200点。 恒生科技指数主连夜盘收跌0.41%，报4636点。",
-          "url": "https://wallstreetcn.com/livenews/3121216",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时24分"
-        },
-        {
-          "title": "美联储主席沃什：美联储无法对特定价格产生显著影响。 美联储的工作是，确保不会出现第二轮价格效应。 对第二轮通胀效应有一系列的看法。 FOMC今天讨论了生产力，提到了人工智能（AI）。",
-          "url": "https://wallstreetcn.com/livenews/3121214",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时24分"
-        },
-        {
-          "title": "机构：美国极少使用AI的科技工作者面临三倍的裁员风险",
-          "url": "https://wallstreetcn.com/livenews/3121775",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时43分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌1.14%，报6122.30点。 热门中概股里，理想跌3.4%，阿里跌3.1%，蔚来涨0.2%，日月光半导体涨2%。 ETF中，中概互联网指数ETF（KWEB）收跌1.93%，中国科技指数ETF（CQQQ）收涨1.72%。 MSCI新兴市场ex中国ETF（EMXC）收涨0.35%，德银嘉实沪深300指数ETF（ASHR）收跌0.08%，XtrackersHarvest中证50（ASHS）收涨0.31%。",
-          "url": "https://wallstreetcn.com/livenews/3121247",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时49分"
+          "time_info": "02时33分"
         }
       ]
     },
     {
       "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
-      "match_count": 8,
+      "match_count": 1,
       "titles": [
         {
-          "title": "据AXIOS网站：OpenAI创始人奥尔特曼与谷歌旗下Deepmind首席执行官哈萨比斯出席了人工智能会议。",
-          "url": "https://flash.jin10.com/detail/20260618005603439800",
-          "source": "金十数据",
+          "title": "Claude：Claude Code现在支持Artifacts。",
+          "url": "https://wallstreetcn.com/livenews/3121857",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时13分"
-        },
-        {
-          "title": "DeepSeek获510亿融资，投资方公布：腾讯、宁德时代、京东、网易等",
-          "url": "https://wallstreetcn.com/livenews/3121322",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时34分"
-        },
-        {
-          "title": "如何看待 6 月 16 日 DeepSeek 网页端 /App 中的「快速模式」思维链发生明显变化？",
-          "url": "https://www.zhihu.com/question/2050272536898835791",
-          "source": "知乎",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时02分 ~ 19时16分]"
-        },
-        {
-          "title": "SpaceX 上市第三天市值逼近 3 万亿美元，豪掷 600 亿收购 Cursor 加码 AI，这笔天价收购划算吗？",
-          "url": "https://www.zhihu.com/question/2050515273640423854",
-          "source": "知乎",
-          "ranks": [
-            17,
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 08时34分]"
-        },
-        {
-          "title": "DeepSeek正式上线识图模式",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF%E8%AF%86%E5%9B%BE%E6%A8%A1%E5%BC%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时43分"
-        },
-        {
-          "title": "据The Information：谷歌DeepMind研究员诺姆·沙泽尔将加入OpenAI。",
-          "url": "https://flash.jin10.com/detail/20260618081223346800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时34分"
-        },
-        {
-          "title": "谷歌AI研究员Noam Shazeer加入OpenAI。（Information）",
-          "url": "https://wallstreetcn.com/livenews/3121316",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时34分"
-        },
-        {
-          "title": "融资消息曝光后DeepSeek上线识图模式，但认不出梁文锋",
-          "url": "https://wallstreetcn.com/livenews/3121655",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时16分"
+          "time_info": "02时33分"
         }
       ]
     }
