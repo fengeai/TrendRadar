@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-19T18:50:31.409661+08:00",
-  "total_titles_processed": 983,
+  "generated_at": "2026-06-19T22:17:33.931917+08:00",
+  "total_titles_processed": 1161,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
           "title": "【焦点复盘】极致两极分化行情再现，硬科技方向多点开花，大金融板块全线重挫",
@@ -28,11 +28,36 @@
           "ranks": [
             2,
             3,
-            4
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时01分 ~ 22时17分]"
+        },
+        {
+          "title": "中国大模型何时能达Fable级别？马斯克预计明年Q1 唐杰称不用那么久",
+          "url": "https://www.cls.cn/detail/2404332",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时50分 ~ 22时17分]"
+        },
+        {
+          "title": "网友提问“中国大模型何时达到Fable级别？”，马斯克“可能明年Q1”，智谱CEO唐杰“不需要那么久”",
+          "url": "https://wallstreetcn.com/articles/3775064",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[08时01分 ~ 18时50分]"
+          "time_info": "[13时06分 ~ 22时17分]"
         },
         {
           "title": "广东：加快建设全国一体化算力网络粤港澳大湾区枢纽，前瞻布局6G技术与卫星互联网",
@@ -41,7 +66,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时50分"
         },
@@ -66,7 +91,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时50分"
         },
@@ -95,38 +120,15 @@
           "time_info": "[02时33分 ~ 08时01分]"
         },
         {
-          "title": "中国大模型何时能达Fable级别？马斯克预计明年Q1 唐杰称不用那么久",
-          "url": "https://www.cls.cn/detail/2404332",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时50分"
-        },
-        {
           "title": "广东：抢抓人工智能发展机遇，建设具有国际竞争力的软件和信息技术服务业创新中心",
           "url": "https://wallstreetcn.com/livenews/3122066",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时50分"
-        },
-        {
-          "title": "网友提问“中国大模型何时达到Fable级别？”，马斯克“可能明年Q1”，智谱CEO唐杰“不需要那么久”",
-          "url": "https://wallstreetcn.com/articles/3775064",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时06分 ~ 18时50分]"
         },
         {
           "title": "智谱与MiniMax两级分化！市场出现AI大模型“多空配对交易”",
@@ -162,6 +164,17 @@
           "time_info": "05时28分"
         },
         {
+          "title": "全球科技升温，公募加速布局韩国赛道",
+          "url": "https://wallstreetcn.com/livenews/3122110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
           "title": "周四四（6月18日），美股行业ETF多数收涨，半导体ETF涨5.76%，全球科技股指数ETF、科技行业ETF、全球航空业ETF至多涨3.75%，网络股指数ETF涨1.11%，医疗业ETF、金融业ETF则至多收跌0.89%，能源业ETF跌1.65%。",
           "url": "https://wallstreetcn.com/livenews/3121887",
           "source": "华尔街见闻-快讯",
@@ -179,7 +192,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时50分"
         },
@@ -190,9 +203,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时50分"
+        },
+        {
+          "title": "智谱等中国大模型何时达到Fable级别水平？马斯克：或许明年一季度",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33410896",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         },
         {
           "title": "周四（6月18日），美股人工智能（AI）赢家指数涨4.57%，报457.59点，时隔一个交易日再创收盘历史新高。 成分股中，Bloom能源收涨15.41%，闪迪、Astera Labs、康宁公司、超微电脑涨11.54%-10.37%紧随其后，微软涨0.13%涨幅最小，天弘股份跌2.06%跌幅第三大，Lumentum跌2.30%，戴尔科技跌2.34%。",
@@ -217,6 +241,17 @@
           "time_info": "05时28分"
         },
         {
+          "title": "中国大模型技术三大主线",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%8A%80%E6%9C%AF%E4%B8%89%E5%A4%A7%E4%B8%BB%E7%BA%BF&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
           "title": "纳指科技指数收涨超3.2%，半导体指数涨超6.4%、与小盘股指创收盘历史新高",
           "url": "https://wallstreetcn.com/livenews/3121876",
           "source": "华尔街见闻-快讯",
@@ -239,13 +274,24 @@
           "time_info": "08时01分"
         },
         {
+          "title": "抖音落日合唱派对端午场直播",
+          "url": "https://www.douyin.com/hot/2540721",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
           "title": "上抖音免费看中国男篮热身赛",
           "url": "https://www.douyin.com/hot/2540785",
           "source": "抖音",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时50分"
         },
@@ -256,7 +302,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时50分"
         }
