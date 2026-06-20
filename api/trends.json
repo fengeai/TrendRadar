@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-21T02:19:45.412951+08:00",
-  "total_titles_processed": 380,
+  "generated_at": "2026-06-21T04:21:23.718837+08:00",
+  "total_titles_processed": 423,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 02时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 04时21分]"
         },
         {
           "title": "中国大模型何时能达Fable级别？马斯克预计明年Q1 唐杰称不用那么久",
@@ -26,19 +26,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 02时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 04时21分]"
         },
         {
           "title": "1192亿美元！本周美股吸引创纪录资金，投资者涌向科技股",
           "url": "https://wallstreetcn.com/articles/3775107",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 02时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 04时21分]"
         },
         {
           "title": "存储芯片公司英韧科技完成IPO辅导，主营业务为高性能固态硬盘主控芯片的设计与供应",
@@ -48,19 +49,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 02时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 04时21分]"
         },
         {
           "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
           "url": "https://www.cls.cn/detail/2404523",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 02时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 04时21分]"
         },
         {
           "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
@@ -71,8 +73,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 02时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 04时21分]"
         },
         {
           "title": "经纬度：让AI走进千家万户，人工智能消费按下加速键",
@@ -80,11 +82,12 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 02时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 04时21分]"
         },
         {
           "title": "存储芯片公司英韧科技完成IPO辅导 主营业务为高性能固态硬盘主控芯片的设计与供应",
