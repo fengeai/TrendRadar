@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-22T00:02:45.424536+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-22T01:50:18.629552+08:00",
+  "total_titles_processed": 388,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时50分]"
         },
         {
           "title": "知名基金经理最新调仓显现，医药分歧扩大，硬科技、电网获增持",
           "url": "https://www.cls.cn/detail/2404743",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时50分]"
         },
         {
           "title": "市场“不可调和的矛盾”：如何给科技股估值",
@@ -37,19 +38,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时50分]"
         },
         {
           "title": "“加息”涨科技？",
           "url": "https://wallstreetcn.com/articles/3775132",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时50分]"
         },
         {
           "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
@@ -59,8 +61,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时50分]"
         },
         {
           "title": "环球下周看点：美伊谈判进入二阶段博弈 美光科技发布财报",
@@ -70,19 +72,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时50分]"
         },
         {
           "title": "哈兰德发抖音用了森系滤镜",
           "url": "https://www.douyin.com/hot/2542331",
           "source": "抖音",
           "ranks": [
-            26
+            26,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时50分]"
         }
       ]
     },
@@ -95,11 +98,12 @@
           "url": "https://wallstreetcn.com/articles/3775117",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时50分]"
         }
       ]
     }
