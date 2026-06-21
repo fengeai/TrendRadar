@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-22T03:54:50.604948+08:00",
-  "total_titles_processed": 454,
+  "generated_at": "2026-06-22T05:23:00.978161+08:00",
+  "total_titles_processed": 490,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 03时54分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 05时23分]"
         },
         {
           "title": "知名基金经理最新调仓显现，医药分歧扩大，硬科技、电网获增持",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 03时54分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 05时23分]"
         },
         {
           "title": "市场“不可调和的矛盾”：如何给科技股估值",
@@ -38,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 03时54分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 05时23分]"
         },
         {
           "title": "“加息”涨科技？",
@@ -50,8 +50,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 03时54分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 05时23分]"
         },
         {
           "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
@@ -61,8 +61,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 03时54分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 05时23分]"
         },
         {
           "title": "环球下周看点：美伊谈判进入二阶段博弈 美光科技发布财报",
@@ -72,8 +72,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 03时54分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 05时23分]"
         },
         {
           "title": "哈兰德发抖音用了森系滤镜",
@@ -81,11 +81,12 @@
           "source": "抖音",
           "ranks": [
             26,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 05时23分]"
         }
       ]
     },
@@ -103,8 +104,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 03时54分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 05时23分]"
         }
       ]
     }
