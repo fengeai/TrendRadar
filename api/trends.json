@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-22T13:11:12.218423+08:00",
-  "total_titles_processed": 825,
+  "generated_at": "2026-06-22T20:19:16.264754+08:00",
+  "total_titles_processed": 1091,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "科技赋能 全国夏播粮食进度近七成",
@@ -66,6 +66,17 @@
           "time_info": "[13时10分 ~ 13时11分]"
         },
         {
+          "title": "罕见券商股与科技股共振，这一波行情或许不同？",
+          "url": "https://www.cls.cn/detail/2405663",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时18分 ~ 20时19分]"
+        },
+        {
           "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
           "url": "https://www.cls.cn/detail/2404523",
           "source": "财联社热门",
@@ -83,9 +94,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时11分"
+        },
+        {
+          "title": "白宫国家经济委员会主任哈塞特：人工智能公司正在印钞。",
+          "url": "https://wallstreetcn.com/livenews/3122842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
         },
         {
           "title": "环球下周看点：美伊谈判进入二阶段博弈 美光科技发布财报",
@@ -105,7 +127,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时11分"
         },
@@ -135,13 +157,24 @@
           "time_info": "[13时10分 ~ 13时11分]"
         },
         {
+          "title": "盘后观察：科技退潮金融接棒",
+          "url": "https://www.toutiao.com/trending/7654123612265267206/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时18分 ~ 20时19分]"
+        },
+        {
           "title": "港股午间收盘：恒生指数跌0.98%，恒生科技指数跌1.35%",
           "url": "https://wallstreetcn.com/livenews/3122528",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时11分"
         },
@@ -152,9 +185,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时11分"
+        },
+        {
+          "title": "骏亚科技：拟投资15.57亿元建设年产60万平米高多层、HDI线路板项目",
+          "url": "https://wallstreetcn.com/livenews/3122798",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
         },
         {
           "title": "港股午评：恒生指数跌0.98%，恒生科技指数跌1.35%",
@@ -163,7 +207,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时11分"
         }
@@ -171,8 +215,19 @@
     },
     {
       "keyword_group": "独立开发 创业 副业",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "【每日收评】创业板指大涨2.52%，大金融板块集体爆发，两市成交额创历史第二大量",
+          "url": "https://www.cls.cn/detail/2405667",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时18分 ~ 20时19分]"
+        },
         {
           "title": "创业板冲高回落涨0.7%，AI多只热门股盘中齐跌，恒指、恒科指均跌1%，智谱暴涨17%市值破万亿",
           "url": "https://wallstreetcn.com/articles/3775154",
@@ -191,7 +246,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时11分"
         },
@@ -202,7 +257,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时11分"
         }
@@ -210,7 +265,7 @@
     },
     {
       "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "下周重磅日程：“美联储最爱通胀指标”、英伟达股东大会、OpenAI或发新模型、美光财报",
@@ -224,6 +279,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时02分 ~ 07时23分]"
+        },
+        {
+          "title": "DeepSeek 2.0时刻？智谱市值突破万亿港元，GLM-5.2刷屏华尔街",
+          "url": "https://wallstreetcn.com/articles/3775170",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时18分 ~ 20时19分]"
         }
       ]
     }
