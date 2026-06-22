@@ -1,39 +1,11 @@
 {
-  "generated_at": "2026-06-23T01:45:29.867993+08:00",
-  "total_titles_processed": 294,
+  "generated_at": "2026-06-23T04:58:35.189996+08:00",
+  "total_titles_processed": 400,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "DeepSeek 2.0时刻？智谱市值突破万亿港元，GLM-5.2刷屏华尔街",
-          "url": "https://wallstreetcn.com/articles/3775170",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时45分"
-        },
-        {
-          "title": "OpenAI：推出“Patch the Planet”项目，这是“Daybreak”倡议的一部分，旨在支持开源软件维护者。",
-          "url": "https://flash.jin10.com/detail/20260623010428902800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时45分"
-        }
-      ]
-    },
-    {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 2,
+      "match_count": 8,
       "titles": [
         {
           "title": "罕见券商股与科技股共振，这一波行情或许不同？",
@@ -43,8 +15,19 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时45分 ~ 04时58分]"
+        },
+        {
+          "title": "据Business Insider：在近期发生敏感数据泄露并可被全公司访问事件后，Meta公司暂停了一项内部人工智能培训项目。",
+          "url": "https://flash.jin10.com/detail/20260623043007263800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时45分"
+          "time_info": "04时58分"
         },
         {
           "title": "美股期指小幅上涨 美光科技盘前涨超4% | 今夜看点",
@@ -52,6 +35,100 @@
           "source": "财联社热门",
           "ranks": [
             10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时45分 ~ 04时58分]"
+        },
+        {
+          "title": "标普500指数的11个板块中，电信板块收跌3.83%，可选消费板块跌2.33%，信息技术/科技板块跌0.04%，能源板块涨1.24%，房地产板块涨1.38%。",
+          "url": "https://wallstreetcn.com/livenews/3123020",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时58分"
+        },
+        {
+          "title": "周一（6月22日），美股行业ETF多数收涨，生物科技指数ETF收涨1.94%，半导体ETF涨1.37%，能源业ETF涨1.28%，全球科技股指数ETF涨0.59%，可选消费ETF则收跌1.70%，网络股指数ETF跌2.24%。",
+          "url": "https://wallstreetcn.com/livenews/3123018",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时58分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌1.35%，报5986.28点，逼近2024年9月23日收盘位5917.72点。 热门中概股里，小马智行初步收跌5.5%，文远知行跌4.6%，小米跌4.1%，比亚迪跌3.5%，阿里跌2.1%，拼多多跌1.8%，再鼎医药涨1.6%，携程涨3%。 ETF中，中概互联网指数ETF（KWEB）收跌0.75%，中国科技指数ETF（CQQQ）收涨0.02%。 MSCI新兴市场ex中国ETF（EMXC）收涨0.70%，XtrackersHarvest中证50（ASHS）收涨2.15%，德银嘉实沪深300指数ETF（ASHR）收涨2.64%。",
+          "url": "https://wallstreetcn.com/livenews/3123011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时58分"
+        },
+        {
+          "title": "标普500指数收跌27.79点，跌幅0.37%，报7472.79点。 道琼斯工业平均指数收涨148.01点，涨幅0.29%，报51712.71点。 纳斯达克综合指数（纳指）收跌351.33点，跌幅1.33%，报26166.602点。 纳斯达克100指数收跌59.111点，跌幅0.19%，报30347.083点。 纳斯达克科技市值加权指数收跌0.80%，报2981.2847点。 费城半导体指数收涨2.04%，报14634.722点，继续创收盘历史新高。 费城证交所KBW银行指数收涨1.45%，报182.35点，突破6月16日所创收盘历史最高位181.59点。 道琼斯KBW地区银行指数收涨1.21%，报140.18点。 罗素2000指数收涨0.83%，报3004.404点，再次创收盘历史新高。 纳斯达克生物科技指数收涨1.87%，报6133.30点。 标普中盘股400指数收涨0.40%，纳斯达克美国中等市值指数涨0.33%。 恐慌指数VIX收涨2.98%，报17.28。",
+          "url": "https://wallstreetcn.com/livenews/3123009",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时58分"
+        },
+        {
+          "title": "恒生指数主连夜盘收涨0.29%，报23830点。 恒生科技指数主连夜盘收涨0.26%，报4565点。",
+          "url": "https://wallstreetcn.com/livenews/3122993",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "IBM(IBM.N)与OpenAI扩大网络安全合作，推出前沿人工智能能力，帮助企业抵御机器速度的网络威胁。",
+          "url": "https://flash.jin10.com/detail/20260623043203412800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时58分"
+        },
+        {
+          "title": "DeepSeek 2.0时刻？智谱市值突破万亿港元，GLM-5.2刷屏华尔街",
+          "url": "https://wallstreetcn.com/articles/3775170",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时45分 ~ 04时58分]"
+        },
+        {
+          "title": "OpenAI：推出“Patch the Planet”项目，这是“Daybreak”倡议的一部分，旨在支持开源软件维护者。",
+          "url": "https://flash.jin10.com/detail/20260623010428902800",
+          "source": "金十数据",
+          "ranks": [
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -71,8 +148,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时45分"
+          "appearance_count": 2,
+          "time_info": "[01时45分 ~ 04时58分]"
         }
       ]
     }
