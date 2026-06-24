@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-24T07:14:28.573554+08:00",
-  "total_titles_processed": 505,
+  "generated_at": "2026-06-24T12:12:13.689913+08:00",
+  "total_titles_processed": 736,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 22,
+      "match_count": 30,
       "titles": [
         {
           "title": "科技巨头下挫拖累美股大盘，芯片股指新高，原油转跌，美债收益率“补涨”",
@@ -42,13 +42,35 @@
           "time_info": "[02时08分 ~ 05时04分]"
         },
         {
+          "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3775262",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时11分 ~ 12时12分]"
+        },
+        {
+          "title": "【早报】美股半导体指数，暴跌超7%！芯片股全线重挫，闪迪、美光科技跌超13%；黄金、原油齐跌；C罗双响葡萄牙5球大胜、英格兰0-0战平加纳",
+          "url": "https://www.cls.cn/detail/2407391",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时11分 ~ 12时12分]"
+        },
+        {
           "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐升，金银下挫",
           "url": "https://wallstreetcn.com/articles/3775262",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
         },
@@ -111,6 +133,28 @@
           "time_info": "[02时08分 ~ 05时04分]"
         },
         {
+          "title": "6月24日投资避雷针：美股半导体指数暴跌超7% 闪迪、美光科技跌超13%",
+          "url": "https://www.cls.cn/detail/2407435",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时11分 ~ 12时12分]"
+        },
+        {
+          "title": "全抖音为2026中考加油",
+          "url": "https://www.douyin.com/hot/2545572",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时11分 ~ 12时12分]"
+        },
+        {
           "title": "周二（6月23日），美股行业ETF多数收涨，区域银行ETF收涨2.55%，医疗业ETF、银行业ETF、能源业ETF也至多涨2.31%，网络股指数ETF则收跌0.49%，可选消费ETF跌2.71%，科技行业ETF跌3.67%，全球科技股指数ETF跌5.33%，半导体ETF跌7.01%。",
           "url": "https://wallstreetcn.com/livenews/3123632",
           "source": "华尔街见闻-快讯",
@@ -131,6 +175,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
+        },
+        {
+          "title": "港股午评：恒生指数涨0.04%，恒生科技指数1.34%",
+          "url": "https://flash.jin10.com/detail/20260624120323051800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.55%，报5953.29点。 热门中概股里，日月光半导体初步收跌约8.8%，阿特斯太阳能跌8.2%，小马智行跌7%，文远知行跌4.9%，大全新能源跌4.2%，小鹏跌3.8%，亚朵涨3.1%，拼多多、阿里跌约2%，网易有道涨6.66%。 ETF中，MSCI新兴市场ex中国ETF（EMXC）收跌6.44%，德银嘉实沪深300指数ETF（ASHR）收跌3.32%，XtrackersHarvest中证50（ASHS）收跌2.58%。 中国科技指数ETF（CQQQ）收跌2.80%，中概互联网指数ETF（KWEB）收跌2.24%。",
@@ -166,13 +221,24 @@
           "time_info": "05时04分"
         },
         {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-06-24）",
+          "url": "https://flash.jin10.com/detail/20260624115959990800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
           "title": "周二（6月23日），美股人工智能（AI）赢家指数跌6.74%，报431.58点，跳空低开后持续低位窄幅震荡，成分股Fluence Energy、闪迪、美光跌15.80%-13.18%领跌，在收涨的四只成分股中，微软涨1.8%，戴尔科技涨2.17%。",
           "url": "https://wallstreetcn.com/livenews/3123683",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
         },
@@ -183,7 +249,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
         },
@@ -194,7 +260,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
         },
@@ -205,7 +271,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
         },
@@ -216,7 +282,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
         },
@@ -238,7 +304,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
         },
@@ -252,13 +318,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
+        },
+        {
+          "title": "半导体产业链震荡拉升，西陇科学2连板，汇成股份、赛英电子、富满微、格科微均涨超10%，神工股份、中科飞测、长电科技等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3123734",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
+          "title": "香港恒生指数开盘涨0.36%，恒生科技指数涨0.48%。",
+          "url": "https://wallstreetcn.com/livenews/3123722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
         }
       ]
     },
     {
       "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "40天不睡、5人死磕，DeepMind主管爆Gemini大战DeepSeek惨烈内幕",
+          "url": "https://wallstreetcn.com/articles/3775315",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时11分 ~ 12时12分]"
+        },
         {
           "title": "DeepseekV4.1 即将发布，网友期待「降价、打爆国外 AI」，它将如何改变 AI 市场格局？",
           "url": "https://www.zhihu.com/question/2044875348719005741",
@@ -285,7 +384,7 @@
     },
     {
       "keyword_group": "独立开发 创业 副业",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "创业板跌逾3%，算力硬件、有色金属重挫，创新药、大金融拉升，港股“大模型双雄”大跌",
@@ -296,8 +395,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时08分 ~ 07时14分]"
+          "appearance_count": 6,
+          "time_info": "[02时08分 ~ 12时12分]"
         },
         {
           "title": "【每日收评】创业板震荡走低跌近4%，有色、AI硬件集体调整，创新药板块逆势走强",
@@ -310,6 +409,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时08分 ~ 07时14分]"
+        },
+        {
+          "title": "上证指数开盘报4090.10点，跌0.39%。 深证成指开盘报15782.40点，跌0.45%。 创业板指开盘报4181.91点，跌0.25%。 沪深300开盘报4900.38点，跌0.39%。 科创50开盘报1896.34点，跌1.04%。 中证500开盘报8638.66点，跌0.57%。 中证1000开盘报8650.82点，跌0.34%。",
+          "url": "https://wallstreetcn.com/livenews/3123724",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
         }
       ]
     }
