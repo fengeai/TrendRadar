@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-06-24T19:51:39.523493+08:00",
-  "total_titles_processed": 1124,
+  "generated_at": "2026-06-24T22:47:44.878269+08:00",
+  "total_titles_processed": 1277,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 47,
+      "match_count": 52,
       "titles": [
         {
           "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
           "url": "https://wallstreetcn.com/articles/3775262",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时11分 ~ 19时51分]"
+          "appearance_count": 5,
+          "time_info": "[12时11分 ~ 22时47分]"
         },
         {
           "title": "科技巨头下挫拖累美股大盘，芯片股指新高，原油转跌，美债收益率“补涨”",
@@ -64,6 +65,18 @@
           "time_info": "[12时11分 ~ 12时12分]"
         },
         {
+          "title": "美光财报前瞻：AI存储龙头今夜迎大考，能否成科技股多头“定心丸”？",
+          "url": "https://www.cls.cn/detail/2408054",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时51分 ~ 22时47分]"
+        },
+        {
           "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐升，金银下挫",
           "url": "https://wallstreetcn.com/articles/3775262",
           "source": "华尔街见闻",
@@ -86,15 +99,15 @@
           "time_info": "16时28分"
         },
         {
-          "title": "美光财报前瞻：AI存储龙头今夜迎大考，能否成科技股多头“定心丸”？",
-          "url": "https://www.cls.cn/detail/2408054",
-          "source": "财联社热门",
+          "title": "产业扎根大地 科技赋能民生",
+          "url": "https://www.toutiao.com/trending/7654856924794847268/",
+          "source": "今日头条",
           "ranks": [
-            4
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时51分"
+          "time_info": "22时47分"
         },
         {
           "title": "标普500指数的11个板块中，信息技术/科技板块收跌3.66%，工业板块跌2.03%，房地产、保健、日用消费品板块则至多收涨1.78%。 在科技板块，闪迪、美光、安森美半导体、高意公司Coherent收跌13.64%-10.40%，ServiceNOW则收涨3.15%表现第三，IBM 涨5.04%，CDW Corporation涨5.25%。",
@@ -106,6 +119,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
+        },
+        {
+          "title": "国家国防科技工业局党组成员、副局长卞志刚被查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33441921",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时28分 ~ 22时47分]"
         },
         {
           "title": "【焦点复盘】沪指缩量调整险守4100点，硬科技内部现剧烈高低切，大金融板块继续逆势冲高",
@@ -179,27 +205,39 @@
           "time_info": "[02时08分 ~ 05时04分]"
         },
         {
-          "title": "国家国防科技工业局党组成员、副局长卞志刚被查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33441921",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时28分 ~ 19时51分]"
-        },
-        {
           "title": "中考后的第一条抖音",
           "url": "https://www.douyin.com/hot/2545604",
           "source": "抖音",
+          "ranks": [
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时51分 ~ 22时47分]"
+        },
+        {
+          "title": "【每日收评】科创50指数涨近4%，科技赛道全线回暖，半导体芯片产业链领涨",
+          "url": "https://www.cls.cn/detail/2407987",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时51分 ~ 22时47分]"
+        },
+        {
+          "title": "全球 AI 交易降温，美股半导体相关 ETF 暴跌，闪迪、美光科技跌超 10%，发生了什么？",
+          "url": "https://www.zhihu.com/question/2052869201178652833",
+          "source": "知乎",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时51分"
+          "time_info": "22时47分"
         },
         {
           "title": "美国财长贝森特：不能让他人用人工智能监管措施拖我们后腿。",
@@ -208,7 +246,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
@@ -241,7 +279,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
@@ -263,18 +301,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时51分"
-        },
-        {
-          "title": "【每日收评】科创50指数涨近4%，科技赛道全线回暖，半导体芯片产业链领涨",
-          "url": "https://www.cls.cn/detail/2407987",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
@@ -307,9 +334,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
+        },
+        {
+          "title": "美股期指小幅上涨 科技股反弹迎接美光财报“大考” | 今夜看点",
+          "url": "https://www.cls.cn/detail/2408279",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
         },
         {
           "title": "美股半导体指数初步收跌约7.9%，创6月5日以来最差单日表现。 标普500指数初步收跌1.3%，科技板块跌3.4%，工业、原材料板块至多跌1.9%，房地产、保健、日用消费品板块至多涨1.8%。 纳斯达克100指数初步收跌3.2%，成分股中，闪迪初步收跌13.7%，美光科技跌3.1%，Arm控股跌10.1%，西部数据、美满电子、阿斯麦ADR至少跌约8%，英特尔跌6%，英伟达跌4%，汤森路透涨5.6%，Axon涨5.8%。 IBM初步收涨4.8%，Merck涨3.6%，领跑道指成分股，波音跌1.7%，霍尼韦尔跌2.4%，卡特彼勒跌3.5%，与英伟达表现最差。",
@@ -466,6 +504,17 @@
           "time_info": "07时14分"
         },
         {
+          "title": "臻宝科技上市首日大涨逾1200%",
+          "url": "https://www.toutiao.com/trending/7654034425830899731/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
+        },
+        {
           "title": "恒生指数主连夜盘收涨0.78%，报23498点。 恒生科技指数主连夜盘收涨0.98%，报4438点。",
           "url": "https://wallstreetcn.com/livenews/3123613",
           "source": "华尔街见闻-快讯",
@@ -483,7 +532,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
@@ -519,6 +568,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
+        },
+        {
+          "title": "湖南钢铁集团与宇树科技签订战略合作协议",
+          "url": "https://wallstreetcn.com/livenews/3124082",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
         },
         {
           "title": "香港恒生指数开盘涨0.36%，恒生科技指数涨0.48%。",
@@ -566,11 +626,12 @@
           "url": "https://www.cls.cn/detail/2408036",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时51分 ~ 22时47分]"
         },
         {
           "title": "A股收盘：深成指、创业板指均涨超1%",
@@ -598,7 +659,7 @@
     },
     {
       "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "40天不睡、5人死磕，DeepMind主管爆Gemini大战DeepSeek惨烈内幕",
@@ -622,6 +683,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时08分 ~ 02时09分]"
+        },
+        {
+          "title": "如何评价 Anthropic 最新发布的 Claude Tag？",
+          "url": "https://www.zhihu.com/question/2053047749281690000",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
         },
         {
           "title": "市场消息：Anthropic希望Claude以更深入的方式融入Slack聊天。",
