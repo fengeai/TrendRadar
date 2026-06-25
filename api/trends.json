@@ -1,221 +1,33 @@
 {
-  "generated_at": "2026-06-25T22:47:15.061333+08:00",
-  "total_titles_processed": 1389,
+  "generated_at": "2026-06-26T01:20:11.971622+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 44,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "国家国防科技工业局党组成员、副局长卞志刚被查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33441921",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时11分 ~ 07时14分]"
-        },
-        {
-          "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3775262",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时11分 ~ 07时14分]"
-        },
-        {
-          "title": "美光财报前瞻：AI存储龙头今夜迎大考，能否成科技股多头“定心丸”？",
-          "url": "https://www.cls.cn/detail/2408054",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时11分 ~ 07时14分]"
-        },
-        {
-          "title": "产业扎根大地 科技赋能民生",
-          "url": "https://www.toutiao.com/trending/7654856924794847268/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时11分 ~ 07时14分]"
-        },
-        {
-          "title": "全球 AI 交易降温，美股半导体相关 ETF 暴跌，闪迪、美光科技跌超 10%，发生了什么？",
-          "url": "https://www.zhihu.com/question/2052869201178652833",
-          "source": "知乎",
-          "ranks": [
-            6,
-            5,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时11分 ~ 07时14分]"
-        },
-        {
-          "title": "中考后的第一条抖音",
-          "url": "https://www.douyin.com/hot/2545604",
-          "source": "抖音",
-          "ranks": [
-            10,
-            8,
-            22,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时11分 ~ 16时28分]"
-        },
-        {
-          "title": "美股收盘：科技股回调拖累纳指跌0.4% AI估值与资本开支担忧持续发酵",
-          "url": "https://www.cls.cn/detail/2408510",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时13分 ~ 12时12分]"
-        },
-        {
-          "title": "科技股承压，美股指涨跌互现，美债美元齐涨，黄金暴跌，美光盘后暴涨12%",
-          "url": "https://wallstreetcn.com/articles/3775351",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时13分 ~ 07时14分]"
-        },
-        {
-          "title": "美股期指小幅上涨 科技股反弹迎接美光财报“大考” | 今夜看点",
-          "url": "https://www.cls.cn/detail/2408279",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时11分 ~ 12时12分]"
-        },
         {
           "title": "苹果重挫5%拖累科技板块，纳指转跌超1%，美光涨幅收窄至8%，黄金重回4000，白银转涨",
           "url": "https://wallstreetcn.com/articles/3775470",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时46分 ~ 22时47分]"
-        },
-        {
-          "title": "【每日收评】科创50指数涨近4%，科技赛道全线回暖，半导体芯片产业链领涨",
-          "url": "https://www.cls.cn/detail/2407987",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时11分 ~ 07时14分]"
-        },
-        {
-          "title": "中国制冷学会公开征集数据中心液冷技术需求与科技成果",
-          "url": "https://flash.jin10.com/detail/20260625114553622800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时12分"
-        },
-        {
-          "title": "香港恒生指数6月25日（周四）收盘下跌335.27点，跌幅1.43%，报23076.91点；<br/>香港恒生科技指数6月25日（周四）收盘下跌73.1点，跌幅1.63%，报4405.92点；<br/>国企指数6月25日（周四）收盘下跌156.59点，跌幅2.02%，报7608.38点；<br/>红筹指数6月25日（周四）收盘下跌61.13点，跌幅1.58%，报3797.03点。",
-          "url": "https://flash.jin10.com/detail/20260625161349828800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        },
-        {
-          "title": "市场消息：美国寻求与欧盟在人工智能监管和供应链领域建立合作伙伴关系。",
-          "url": "https://flash.jin10.com/detail/20260625222717365800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时47分"
-        },
-        {
-          "title": "恒生指数收盘跌1.43%，恒生科技指数跌1.63%",
-          "url": "https://wallstreetcn.com/livenews/3124536",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        },
-        {
-          "title": "港股收评：恒生指数跌1.43%，恒生科技指数跌1.63%",
-          "url": "https://flash.jin10.com/detail/20260625161250257800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时28分"
+          "time_info": "[01时19分 ~ 01时20分]"
         },
         {
           "title": "SpaceX 暴跌 16% 股份逼近挂牌价，谷歌狂跌 5%，为何科技股开始下跌？未来走向可能如何？",
           "url": "https://www.zhihu.com/question/2053015352347293676",
           "source": "知乎",
           "ranks": [
-            15,
-            7
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时46分 ~ 22时47分]"
-        },
-        {
-          "title": "美光科技财报",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80%E8%B4%A2%E6%8A%A5%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时39分 ~ 07时14分]"
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 01时20分]"
         },
         {
           "title": "美光科技、闪迪股价大涨近20%",
@@ -226,7 +38,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时46分 ~ 22时47分]"
+          "time_info": "[01时19分 ~ 01时20分]"
         },
         {
           "title": "美光科技市值首超Meta",
@@ -237,395 +49,35 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时46分 ~ 22时47分]"
-        },
-        {
-          "title": "美国参战飞行员：伊朗无人机摆出“水母阵型”，像外星科技",
-          "url": "https://flash.jin10.com/detail/20260625032934051800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        },
-        {
-          "title": "美股盘前：存储板块大涨，美光科技涨约18%",
-          "url": "https://wallstreetcn.com/livenews/3124530",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        },
-        {
-          "title": "港股收盘，恒指收跌1.43%，科指收跌1.63%。有色金属股、机器人概念股多数下跌，舜宇光学科技(02382.HK)跌超11%，招金矿业(01818.HK)跌超8%。携程集团-S(09961.HK)绩后跌约11%。",
-          "url": "https://flash.jin10.com/detail/20260625160846853800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        },
-        {
-          "title": "恒生指数主连夜盘收跌0.29%，报23322点。 恒生科技指数主连夜盘收跌0.31%，报4464点。",
-          "url": "https://wallstreetcn.com/livenews/3124204",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        },
-        {
-          "title": "亚马逊(AMZN.O)：到2030年，将额外投资130亿美元以扩展和支持印度的人工智能和云基础设施。",
-          "url": "https://flash.jin10.com/detail/20260625160809975800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20260625221410807800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时47分"
-        },
-        {
-          "title": "资金涌入科技成长ETF",
-          "url": "https://wallstreetcn.com/livenews/3124268",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时14分"
-        },
-        {
-          "title": "创识科技：收到相关监察机关出具的《解除责令候查通知书》，相关监察机关已解除对公司控股股东、实际控制人张更生先生的责令候查措施。",
-          "url": "https://wallstreetcn.com/livenews/3124623",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时46分"
-        },
-        {
-          "title": "高通发布面向数据中心的人工智能CPU，Meta喝头啖汤",
-          "url": "https://flash.jin10.com/detail/20260625031341400800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        },
-        {
-          "title": "美国内存芯片股盘前走强，闪迪(SNDK.O)上涨12.4%，西部数据(WDC.O)上涨12.1%，希捷科技(STX.O)上涨8.7%。",
-          "url": "https://flash.jin10.com/detail/20260625160633975800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        },
-        {
-          "title": "瑞银：有迹象表明中国AI科技上行周期逐步接近顶部 但撤离还为时过早",
-          "url": "https://wallstreetcn.com/livenews/3124407",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时12分"
-        },
-        {
-          "title": "据华尔街日报：由Anthropic公司的老将成立的初创公司打算帮助科学家开发自己的人工智能。",
-          "url": "https://flash.jin10.com/detail/20260625030730792800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        },
-        {
-          "title": "摩根大通：内存作为通用人工智能中战略资产的作用依然不变",
-          "url": "https://flash.jin10.com/detail/20260625160535102800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        },
-        {
-          "title": "永太科技：全资子公司永太新能源与宁德时代签订了《电解液原材料合作协议》，约定甲乙双方将在本协议有效期内就电解液添加剂-碳酸亚乙烯酯（VC）物料进行购销合作。",
-          "url": "https://wallstreetcn.com/livenews/3124615",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时46分"
-        },
-        {
-          "title": "标普500指数的11个板块涨跌各异，工业板块收涨1.18%，电信板块跌0.61%，信息技术/科技板块跌0.64%，能源板块跌1.73%。",
-          "url": "https://wallstreetcn.com/livenews/3124230",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时39分"
-        },
-        {
-          "title": "纳指期货亚太盘初涨2.2%，美光科技给出的业绩展望强劲",
-          "url": "https://wallstreetcn.com/livenews/3124259",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时14分"
-        },
-        {
-          "title": "港股算力硬件股继续走强，壁仞科技涨超15%，建滔积层板、国民技术、兆易创新涨超10%，长飞光纤光缆涨超9%。",
-          "url": "https://wallstreetcn.com/livenews/3124513",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        },
-        {
-          "title": "受美光科技(MU.O)等芯片股盘后上涨提振，纳指期货周四开涨2%。",
-          "url": "https://flash.jin10.com/detail/20260625060151037800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时14分"
-        },
-        {
-          "title": "纳指跌超1%，苹果跌跌超5%拖累科技板块表现，美光涨幅收窄超过一半",
-          "url": "https://wallstreetcn.com/livenews/3124724",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时47分"
-        },
-        {
-          "title": "周三（6月24日），美股行业ETF多数收涨，全球航空业ETF涨4.17%，生物科技指数ETF、区域银行ETF、可选消费ETF、公用事业ETF至多涨1.93%，半导体ETF则收跌0.35%，科技行业ETF跌0.62%，能源业ETF跌1.63%。",
-          "url": "https://wallstreetcn.com/livenews/3124226",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时39分"
-        },
-        {
-          "title": "知名投资人提示科技股泡沫破裂风险",
-          "url": "https://www.toutiao.com/trending/7654943006419586579/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时39分"
-        },
-        {
-          "title": "振芯科技：公司不涉及PCB生产制造",
-          "url": "https://flash.jin10.com/detail/20260625160115662800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        },
-        {
-          "title": "美光科技第三财季调整后营收414.6亿美元，分析师预期356.9亿美元。 第三财季核心数据中心营收115.2亿美元，分析师预期68亿美元。 第三财季云存储营收137.7亿美元，分析师预期106.9亿美元。 第三财季移动与客户营收115.2亿美元，分析师预期97.3亿美元。 第三财季调整后每股收益（EPS）为25.11美元，分析师预期20.49美元。 第三财季调整后运营利润336.8亿美元，分析师预期278.6亿美元。 第三财季调整后毛利润率84.9%，分析师预期81.9%。 预计第四财季资本支出约为100亿美元，预计2026财年全年资本支出约为270亿美元；2027财年各季度的资本支出将高于2026第四财季的水平。 预计第四财季调整后营收490亿-510亿美元，分析师预期432.4亿美元。 预计第四财季调整后EPS为30-32美元，分析师预期25.31美元。 美光（MU）美股盘后涨11%，闪迪、西部数据、希捷科技跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3124222",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时39分"
-        },
-        {
-          "title": "恒生科技指数日内跌超2%，携程、舜宇光学科技跌超6%，理想汽车、小鹏集团、阿里巴巴等跌超4%。",
-          "url": "https://wallstreetcn.com/livenews/3124382",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时12分"
+          "time_info": "[01时19分 ~ 01时20分]"
         }
       ]
     },
     {
       "keyword_group": "独立开发 创业 副业",
-      "match_count": 7,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "【焦点复盘】创业板、深成指缩量涨超1%，全市场超150股涨超10%，AI硬件产业链卷土重来",
-          "url": "https://www.cls.cn/detail/2408036",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时11分 ~ 07时14分]"
-        },
         {
           "title": "创业板、科创50均创历史新高，超4200股下跌，存储芯片、GPU大爆发，恒指跌超1%，科网股普跌",
           "url": "https://wallstreetcn.com/articles/3775467",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时46分 ~ 22时47分]"
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 01时20分]"
         },
         {
           "title": "【每日收评】创业板指涨近3%，两市成交额再超3.5万亿，半导体、AI硬件持续爆发",
           "url": "https://www.cls.cn/detail/2409159",
           "source": "财联社热门",
           "ranks": [
-            12
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时46分 ~ 22时47分]"
-        },
-        {
-          "title": "上证指数早盘收报4125.76点，涨0.36%。 深证成指早盘收报16285.83点，涨1.46%。 创业板指早盘收报4336.74点，涨2.01%。 沪深300早盘收报5022.46点，涨1.61%。 科创50早盘收报2072.50点，涨4.18%。 中证500早盘收报8909.16点，涨0.75%。 中证1000早盘收报8800.47点，涨0.08%。",
-          "url": "https://wallstreetcn.com/livenews/3124422",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时12分"
-        },
-        {
-          "title": "创业板指下行翻绿，此前一度涨超2%，医药医疗、贵金属、油气、文化传媒等方向跌幅居前，沪深京三市下跌个股近4200只。",
-          "url": "https://wallstreetcn.com/livenews/3124396",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时12分"
-        },
-        {
-          "title": "A股收盘：创业板指涨近3%再创新高，MLCC概念集体爆发",
-          "url": "https://wallstreetcn.com/livenews/3124506",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        },
-        {
-          "title": "上证指数收报4120.28点，涨0.23%。 深证成指收报16344.08点，涨1.82%。 创业板指收报4371.99点，涨2.84%。 沪深300收报5020.10点，涨1.56%。 科创50收报2066.33点，涨3.87%。 中证500收报8938.01点，涨1.08%。 中证1000收报8825.92点，涨0.37%。",
-          "url": "https://wallstreetcn.com/livenews/3124503",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "商汤科技正研发新图像模型：代号U1 Pro，内部称将对标OpenAI",
-          "url": "https://wallstreetcn.com/livenews/3124540",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        },
-        {
-          "title": "DeepSeek发布招聘广告：正努力将所有部门的规模扩大至少一倍",
-          "url": "https://wallstreetcn.com/livenews/3124723",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时47分"
-        },
-        {
-          "title": "OpenAI发布首款自研芯片",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83%E9%A6%96%E6%AC%BE%E8%87%AA%E7%A0%94%E8%8A%AF%E7%89%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时12分"
+          "time_info": "[01时19分 ~ 01时20分]"
         }
       ]
     }
