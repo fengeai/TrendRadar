@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T16:28:54.592076+08:00",
-  "total_titles_processed": 1037,
+  "generated_at": "2026-06-25T19:46:46.358552+08:00",
+  "total_titles_processed": 1225,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 35,
+      "match_count": 38,
       "titles": [
         {
           "title": "国家国防科技工业局党组成员、副局长卞志刚被查",
@@ -145,7 +145,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -156,7 +156,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -167,7 +167,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -201,7 +201,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -212,7 +212,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -234,7 +234,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -248,6 +248,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "创识科技：收到相关监察机关出具的《解除责令候查通知书》，相关监察机关已解除对公司控股股东、实际控制人张更生先生的责令候查措施。",
+          "url": "https://wallstreetcn.com/livenews/3124623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
         },
         {
           "title": "高通发布面向数据中心的人工智能CPU，Meta喝头啖汤",
@@ -267,9 +278,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
+        },
+        {
+          "title": "SpaceX 暴跌 16% 股份逼近挂牌价，谷歌狂跌 5%，为何科技股开始下跌？未来走向可能如何？",
+          "url": "https://www.zhihu.com/question/2053015352347293676",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
         },
         {
           "title": "瑞银：有迹象表明中国AI科技上行周期逐步接近顶部 但撤离还为时过早",
@@ -300,9 +322,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
+        },
+        {
+          "title": "永太科技：全资子公司永太新能源与宁德时代签订了《电解液原材料合作协议》，约定甲乙双方将在本协议有效期内就电解液添加剂-碳酸亚乙烯酯（VC）物料进行购销合作。",
+          "url": "https://wallstreetcn.com/livenews/3124615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
         },
         {
           "title": "标普500指数的11个板块涨跌各异，工业板块收涨1.18%，电信板块跌0.61%，信息技术/科技板块跌0.64%，能源板块跌1.73%。",
@@ -333,7 +366,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -377,7 +410,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -407,7 +440,7 @@
     },
     {
       "keyword_group": "独立开发 创业 副业",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "【焦点复盘】创业板、深成指缩量涨超1%，全市场超150股涨超10%，AI硬件产业链卷土重来",
@@ -434,6 +467,17 @@
           "time_info": "12时12分"
         },
         {
+          "title": "创业板、科创50均创历史新高，超4200股下跌，存储芯片、GPU大爆发，恒指跌超1%，科网股普跌",
+          "url": "https://wallstreetcn.com/articles/3775467",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
+        },
+        {
           "title": "创业板指下行翻绿，此前一度涨超2%，医药医疗、贵金属、油气、文化传媒等方向跌幅居前，沪深京三市下跌个股近4200只。",
           "url": "https://wallstreetcn.com/livenews/3124396",
           "source": "华尔街见闻-快讯",
@@ -451,7 +495,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -462,7 +506,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         }
@@ -479,7 +523,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
