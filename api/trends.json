@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-26T08:17:50.146187+08:00",
-  "total_titles_processed": 635,
+  "generated_at": "2026-06-26T13:16:14.403090+08:00",
+  "total_titles_processed": 867,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
           "title": "苹果重挫5%拖累科技板块，纳指转跌超1%，美光涨幅收窄至8%，黄金重回4000，白银转涨",
@@ -17,6 +17,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时19分 ~ 04时14分]"
+        },
+        {
+          "title": "美股收盘：科技巨头回落拖累纳指收跌 芯片股暴拉难挽大盘颓势",
+          "url": "https://www.cls.cn/detail/2409639",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时26分 ~ 13时16分]"
         },
         {
           "title": "科技巨头领跌拖累标普收平，美光亮眼财报提振芯片股，油价因霍尔木兹局势跳涨，黄金重回4000",
@@ -47,7 +60,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时17分"
         },
@@ -58,21 +71,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时17分"
         },
         {
-          "title": "美股收盘：科技巨头回落拖累纳指收跌 芯片股暴拉难挽大盘颓势",
-          "url": "https://www.cls.cn/detail/2409639",
-          "source": "财联社热门",
+          "title": "祥睿锦英与派能科技达成战略合作",
+          "url": "https://flash.jin10.com/detail/20260626124427444800",
+          "source": "金十数据",
           "ranks": [
-            8,
-            1
+            4
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时26分 ~ 08时17分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
         },
         {
           "title": "SpaceX 暴跌 16% 股份逼近挂牌价，谷歌狂跌 5%，为何科技股开始下跌？未来走向可能如何？",
@@ -120,6 +132,17 @@
           "time_info": "04时14分"
         },
         {
+          "title": "法巴银行把美光科技目标价从615美元上调至1700美元。",
+          "url": "https://wallstreetcn.com/livenews/3125044",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
+        },
+        {
           "title": "标普500指数的11个板块涨跌各异，可选消费板块收跌1.78%，日用消费品、电信板块至多跌1.08%，信息技术/科技板块跌0.09%，原材料板块涨1.39%，保健板块涨1.49%，工业板块涨2.19%。",
           "url": "https://wallstreetcn.com/livenews/3124853",
           "source": "华尔街见闻-快讯",
@@ -142,6 +165,17 @@
           "time_info": "06时26分"
         },
         {
+          "title": "港股午评：恒生指数跌1.87%，恒生科技指数跌3.21%",
+          "url": "https://flash.jin10.com/detail/20260626120730844800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
+        },
+        {
           "title": "周四（6月25日），美股行业ETF多数收涨，半导体ETF涨2.90%，全球航空业ETF、医疗业ETF、生物科技指数ETF、全球科技股指数ETF、银行业ETF至多涨1.54%，网络股指数ETF则收跌1.39%，可选消费ETF跌1.49%。",
           "url": "https://wallstreetcn.com/livenews/3124851",
           "source": "华尔街见闻-快讯",
@@ -162,6 +196,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
+        },
+        {
+          "title": "法巴银行：将美光科技(MU.O)目标价从615美元上调至1700美元。",
+          "url": "https://flash.jin10.com/detail/20260626115803313800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌2.70%，报5690.24点，日内整体呈现出长尾L形走势，逼近2024年9月18日收盘位5639.37点、当年8月28日收盘位5399.48点（当年8月5日盘中曾走低至5373.21点）。 热门中概股里，携程初步收跌12.5%，万国数据跌6.3%，金山云跌5.6%，阿里巴巴跌4.8%，拼多多跌3.2%，日月光半导体涨0.8%。 ETF中，中概互联网指数ETF（KWEB）收跌2.76%，中国科技指数ETF（CQQQ）收涨1.24%。 MSCI新兴市场ex中国ETF（EMXC）收涨1.67%，XtrackersHarvest中证50（ASHS）收涨2.01%，德银嘉实沪深300指数ETF（ASHR）收涨2.31%。",
@@ -189,8 +234,19 @@
     },
     {
       "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "全速扩容！DeepSeek“招兵买马”扩编一倍",
+          "url": "https://www.cls.cn/detail/2409672",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时15分 ~ 13时16分]"
+        },
         {
           "title": "报道：美国政府要求OpenAI分阶段发布最新模型GPT 5.6",
           "url": "https://wallstreetcn.com/livenews/3124869",
@@ -201,6 +257,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
+        },
+        {
+          "title": "所有部门规模至少扩大一倍！DeepSeek发布“英雄帖”：人类正处于AGI前夜",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33454877",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时15分 ~ 13时16分]"
+        },
+        {
+          "title": "DeepSeek大规模招聘",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8B%9B%E8%81%98%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时15分 ~ 13时16分]"
         },
         {
           "title": "报道：OpenAI倾向于等到2027年再进行IPO",
@@ -261,7 +339,7 @@
     },
     {
       "keyword_group": "独立开发 创业 副业",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "创业板、科创50均创历史新高，超4200股下跌，存储芯片、GPU大爆发，恒指跌超1%，科网股普跌",
@@ -271,11 +349,12 @@
             9,
             8,
             7,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时19分 ~ 08时17分]"
+          "appearance_count": 7,
+          "time_info": "[01时19分 ~ 13时16分]"
         },
         {
           "title": "【每日收评】创业板指涨近3%，两市成交额再超3.5万亿，半导体、AI硬件持续爆发",
@@ -289,6 +368,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时19分 ~ 08时17分]"
+        },
+        {
+          "title": "上证指数早盘收报4032.30点，跌2.14%。 深证成指早盘收报15846.98点，跌3.04%。 创业板指早盘收报4209.29点，跌3.72%。 沪深300早盘收报4878.74点，跌2.82%。 科创50早盘收报2012.53点，跌2.60%。 中证500早盘收报8734.60点，跌2.28%。 中证1000早盘收报8609.54点，跌2.45%。",
+          "url": "https://wallstreetcn.com/livenews/3125029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
+        },
+        {
+          "title": "6月26日午间收评：创业板指半日跌3.72%，全市场下跌个股超4600只",
+          "url": "https://wallstreetcn.com/livenews/3125028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
         }
       ]
     }
