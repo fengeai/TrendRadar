@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-27T20:13:34.313621+08:00",
-  "total_titles_processed": 1166,
+  "generated_at": "2026-06-27T22:49:21.215509+08:00",
+  "total_titles_processed": 1303,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "在抖音的三国文学里出不来了",
@@ -14,11 +14,25 @@
           "ranks": [
             2,
             1,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时58分 ~ 20时13分]"
+          "appearance_count": 8,
+          "time_info": "[12时58分 ~ 22时49分]"
+        },
+        {
+          "title": "AI交易退潮席卷科技股：安森美暴跌24%，甲骨文创2001年来最大周跌，七巨头全线周跌",
+          "url": "https://wallstreetcn.com/articles/3775658",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时58分 ~ 22时49分]"
         },
         {
           "title": "科技股拖累全球股市，美股指下挫，光通信板块普跌，美光跌6%，金银走高，油价跌近4%",
@@ -44,18 +58,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时57分 ~ 08时16分]"
-        },
-        {
-          "title": "AI交易退潮席卷科技股：安森美暴跌24%，甲骨文创2001年来最大周跌，七巨头全线周跌",
-          "url": "https://wallstreetcn.com/articles/3775658",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时58分 ~ 20时13分]"
         },
         {
           "title": "甲骨文创互联网泡沫破灭低谷期以来最大单周跌幅",
@@ -183,6 +185,17 @@
           "time_info": "[01时57分 ~ 01时58分]"
         },
         {
+          "title": "欧洲央行执委Schnabel：预计油价将持续走高。 不确定性依然很高。 和平协议使负面情景出现的可能性降低。 能源冲击对欧元区打击尤为严重。 此次能源冲击的程度比以往几次石油危机要缓和。 预测显示通胀上升、增长放缓。 能源成本上升拖累信心和消费。 政府投资和全球人工智能热潮支撑了经济增长。 劳动力市场仍具韧性。",
+          "url": "https://wallstreetcn.com/livenews/3125605",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "甲骨文创2001年互联网泡沫破灭低谷期以来最大单周跌幅，安森美周五收跌超23%",
           "url": "https://wallstreetcn.com/livenews/3125456",
           "source": "华尔街见闻-快讯",
@@ -219,7 +232,7 @@
     },
     {
       "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "DeepSeek 宣布所有部门至少扩大一倍，进行大规模招聘，这一举动意味着什么？",
@@ -247,6 +260,17 @@
           "time_info": "[01时57分 ~ 08时16分]"
         },
         {
+          "title": "如何评价 DeepSeek 发布 DSpark？哪些亮点值得关注？",
+          "url": "https://www.zhihu.com/question/2054255700407055156",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "报道：苹果负责Vision Pro和智能眼镜业务的负责人将跳槽至OpenAI",
           "url": "https://wallstreetcn.com/livenews/3125443",
           "source": "华尔街见闻-快讯",
@@ -263,11 +287,12 @@
           "url": "https://wallstreetcn.com/articles/3775650",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时16分 ~ 20时13分]"
+          "appearance_count": 4,
+          "time_info": "[18时16分 ~ 22时49分]"
         },
         {
           "title": "如何评价 DeepSeek 与智谱均声明将在下半年大规模使用华为昇腾 950 超节点？",
@@ -275,11 +300,12 @@
           "source": "知乎",
           "ranks": [
             15,
-            12
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时16分 ~ 20时13分]"
+          "appearance_count": 4,
+          "time_info": "[18时16分 ~ 22时49分]"
         },
         {
           "title": "内存涨价反噬终端需求！苹果涨价+OpenAI IPO推迟引爆亚洲芯片股崩盘",
@@ -313,6 +339,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时55分 ~ 15时56分]"
+        },
+        {
+          "title": "刚刚，DeepSeek V4更新DSpark，推理速度提升80%",
+          "url": "https://wallstreetcn.com/articles/3775676",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
+          "title": "“OpenAI推迟上市”之下：甲骨文、Nebius带头硬件股下跌，ServiceNow和Workday领衔软件股全线大涨",
+          "url": "https://wallstreetcn.com/articles/3775663",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "市场消息：苹果(AAPL.O)公司负责Vision Pro和智能眼镜业务的负责人将离职加入OpenAI。",
@@ -371,9 +419,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时13分 ~ 22时49分]"
         },
         {
           "title": "【每日收评】创业板指跌超4%，全市场超4600股收绿，AI硬件股集体重挫",
