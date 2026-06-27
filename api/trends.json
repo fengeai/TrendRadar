@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-27T12:59:16.879526+08:00",
-  "total_titles_processed": 798,
+  "generated_at": "2026-06-27T15:56:08.340365+08:00",
+  "total_titles_processed": 919,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "科技股拖累全球股市，美股指下挫，光通信板块普跌，美光跌6%，金银走高，油价跌近4%",
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时57分 ~ 06时20分]"
+        },
+        {
+          "title": "在抖音的三国文学里出不来了",
+          "url": "https://www.douyin.com/hot/2549237",
+          "source": "抖音",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时58分 ~ 15时56分]"
         },
         {
           "title": "抖音乒乓百分大战首战奥恰队获胜",
@@ -31,17 +43,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时57分 ~ 08时16分]"
-        },
-        {
-          "title": "在抖音的三国文学里出不来了",
-          "url": "https://www.douyin.com/hot/2549237",
-          "source": "抖音",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 12时59分]"
         },
         {
           "title": "甲骨文创互联网泡沫破灭低谷期以来最大单周跌幅",
@@ -77,6 +78,18 @@
           "time_info": "04时03分"
         },
         {
+          "title": "AI交易退潮席卷科技股：安森美暴跌24%，甲骨文创2001年来最大周跌，七巨头全线周跌",
+          "url": "https://wallstreetcn.com/articles/3775658",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时58分 ~ 15时56分]"
+        },
+        {
           "title": "英伟达为什么没有成为顶尖大模型公司？",
           "url": "https://www.zhihu.com/question/2052136735417557323",
           "source": "知乎",
@@ -87,17 +100,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时57分 ~ 06时20分]"
-        },
-        {
-          "title": "AI交易退潮席卷科技股：安森美暴跌24%，甲骨文创2001年来最大周跌，七巨头全线周跌",
-          "url": "https://wallstreetcn.com/articles/3775658",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 12时59分]"
         },
         {
           "title": "标普500指数的11个板块中，医疗保健板块收涨3.16%，可选消费、房地产板块至多涨1.55%，能源板块则收跌0.41%，电信板块跌0.56%，信息技术/科技板块跌1.05%，工业板块跌1.53%。",
@@ -146,6 +148,17 @@
           "time_info": "[01时57分 ~ 01时58分]"
         },
         {
+          "title": "雷勇军已任国防科技大学校长",
+          "url": "https://www.toutiao.com/trending/7655872730155876406/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时55分 ~ 15时56分]"
+        },
+        {
           "title": "哈兰德抖音粉丝突破400万",
           "url": "https://www.douyin.com/hot/2548884",
           "source": "抖音",
@@ -171,7 +184,7 @@
     },
     {
       "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "DeepSeek 宣布所有部门至少扩大一倍，进行大规模招聘，这一举动意味着什么？",
@@ -220,6 +233,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时58分 ~ 12时59分]"
+        },
+        {
+          "title": "OpenAI发布GPT5.6",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E5%8F%91%E5%B8%83GPT5.6",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时55分 ~ 15时56分]"
         },
         {
           "title": "市场消息：苹果(AAPL.O)公司负责Vision Pro和智能眼镜业务的负责人将离职加入OpenAI。",
