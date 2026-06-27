@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-27T08:16:41.989611+08:00",
-  "total_titles_processed": 573,
+  "generated_at": "2026-06-27T12:59:16.879526+08:00",
+  "total_titles_processed": 798,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "科技股拖累全球股市，美股指下挫，光通信板块普跌，美光跌6%，金银走高，油价跌近4%",
@@ -33,6 +33,17 @@
           "time_info": "[01时57分 ~ 08时16分]"
         },
         {
+          "title": "在抖音的三国文学里出不来了",
+          "url": "https://www.douyin.com/hot/2549237",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 12时59分]"
+        },
+        {
           "title": "甲骨文创互联网泡沫破灭低谷期以来最大单周跌幅",
           "url": "https://flash.jin10.com/detail/20260627045017784800",
           "source": "金十数据",
@@ -50,7 +61,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时16分"
         },
@@ -78,6 +89,17 @@
           "time_info": "[01时57分 ~ 06时20分]"
         },
         {
+          "title": "AI交易退潮席卷科技股：安森美暴跌24%，甲骨文创2001年来最大周跌，七巨头全线周跌",
+          "url": "https://wallstreetcn.com/articles/3775658",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 12时59分]"
+        },
+        {
           "title": "标普500指数的11个板块中，医疗保健板块收涨3.16%，可选消费、房地产板块至多涨1.55%，能源板块则收跌0.41%，电信板块跌0.56%，信息技术/科技板块跌1.05%，工业板块跌1.53%。",
           "url": "https://wallstreetcn.com/livenews/3125473",
           "source": "华尔街见闻-快讯",
@@ -88,6 +110,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 08时16分]"
+        },
+        {
+          "title": "MAG7“信仰”松动：科技巨头技术面剧烈分化，美股资金加速涌向估值洼地",
+          "url": "https://wallstreetcn.com/articles/3775625",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 12时59分]"
         },
         {
           "title": "医疗业ETF收涨3%，与生物科技ETF领跑美股行业ETF",
@@ -138,7 +171,7 @@
     },
     {
       "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "DeepSeek 宣布所有部门至少扩大一倍，进行大规模招聘，这一举动意味着什么？",
@@ -147,11 +180,12 @@
           "ranks": [
             3,
             2,
-            1
+            1,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时57分 ~ 08时16分]"
+          "appearance_count": 7,
+          "time_info": "[01时57分 ~ 12时59分]"
         },
         {
           "title": "所有部门规模至少扩大一倍！DeepSeek发布“英雄帖”：人类正处于AGI前夜",
@@ -175,6 +209,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时03分 ~ 06时20分]"
+        },
+        {
+          "title": "内存涨价反噬终端需求！苹果涨价+OpenAI IPO推迟引爆亚洲芯片股崩盘",
+          "url": "https://wallstreetcn.com/articles/3775589",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 12时59分]"
         },
         {
           "title": "市场消息：苹果(AAPL.O)公司负责Vision Pro和智能眼镜业务的负责人将离职加入OpenAI。",
