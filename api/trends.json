@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T18:17:15.248720+08:00",
-  "total_titles_processed": 1055,
+  "generated_at": "2026-06-27T20:13:34.313621+08:00",
+  "total_titles_processed": 1166,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时58分 ~ 18时17分]"
+          "appearance_count": 7,
+          "time_info": "[12时58分 ~ 20时13分]"
         },
         {
           "title": "科技股拖累全球股市，美股指下挫，光通信板块普跌，美光跌6%，金银走高，油价跌近4%",
@@ -46,6 +46,18 @@
           "time_info": "[01时57分 ~ 08时16分]"
         },
         {
+          "title": "AI交易退潮席卷科技股：安森美暴跌24%，甲骨文创2001年来最大周跌，七巨头全线周跌",
+          "url": "https://wallstreetcn.com/articles/3775658",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时58分 ~ 20时13分]"
+        },
+        {
           "title": "甲骨文创互联网泡沫破灭低谷期以来最大单周跌幅",
           "url": "https://flash.jin10.com/detail/20260627045017784800",
           "source": "金十数据",
@@ -55,18 +67,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 08时16分]"
-        },
-        {
-          "title": "AI交易退潮席卷科技股：安森美暴跌24%，甲骨文创2001年来最大周跌，七巨头全线周跌",
-          "url": "https://wallstreetcn.com/articles/3775658",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时58分 ~ 18时17分]"
         },
         {
           "title": "周五（6月26日），美股纳斯达克生物科技指数收涨超2.2%，连续五天创收盘历史新高。 成分股Pyxis Oncology收涨24.22%，Humacyte、ATAI Beckley、Moderna（莫德纳）、Immunitybio Inc.、GH Research、Abcellera Biologics涨18.05%-10.81%，Compass Pathways涨9.20%紧随其后。 Kymera则收跌7.26%、表现倒数第四，Ardelyx跌8.50%，Mesoblast跌9.03%，奥麦罗制药（OMER）跌19.17%。",
@@ -126,6 +126,18 @@
           "time_info": "[06时20分 ~ 08时16分]"
         },
         {
+          "title": "光谷出台一揽子科技金融新政，上市企业力争突破100家",
+          "url": "https://flash.jin10.com/detail/20260627172654595800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时17分 ~ 20时13分]"
+        },
+        {
           "title": "医疗业ETF收涨3%，与生物科技ETF领跑美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3125469",
           "source": "华尔街见闻-快讯",
@@ -171,17 +183,6 @@
           "time_info": "[01时57分 ~ 01时58分]"
         },
         {
-          "title": "光谷出台一揽子科技金融新政，上市企业力争突破100家",
-          "url": "https://flash.jin10.com/detail/20260627172654595800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时17分"
-        },
-        {
           "title": "甲骨文创2001年互联网泡沫破灭低谷期以来最大单周跌幅，安森美周五收跌超23%",
           "url": "https://wallstreetcn.com/livenews/3125456",
           "source": "华尔街见闻-快讯",
@@ -199,7 +200,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时17分"
         },
@@ -210,7 +211,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时17分"
         }
@@ -258,6 +259,29 @@
           "time_info": "[04时03分 ~ 06时20分]"
         },
         {
+          "title": "OpenAI发布GPT-5.6系列模型，Sol基准测试超越Claude Mythos，应美政府要求限量开放",
+          "url": "https://wallstreetcn.com/articles/3775650",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时16分 ~ 20时13分]"
+        },
+        {
+          "title": "如何评价 DeepSeek 与智谱均声明将在下半年大规模使用华为昇腾 950 超节点？",
+          "url": "https://www.zhihu.com/question/2050591443664779181",
+          "source": "知乎",
+          "ranks": [
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时16分 ~ 20时13分]"
+        },
+        {
           "title": "内存涨价反噬终端需求！苹果涨价+OpenAI IPO推迟引爆亚洲芯片股崩盘",
           "url": "https://wallstreetcn.com/articles/3775589",
           "source": "华尔街见闻",
@@ -267,28 +291,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时58分 ~ 12时59分]"
-        },
-        {
-          "title": "OpenAI发布GPT-5.6系列模型，Sol基准测试超越Claude Mythos，应美政府要求限量开放",
-          "url": "https://wallstreetcn.com/articles/3775650",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时16分 ~ 18时17分]"
-        },
-        {
-          "title": "如何评价 DeepSeek 与智谱均声明将在下半年大规模使用华为昇腾 950 超节点？",
-          "url": "https://www.zhihu.com/question/2050591443664779181",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时16分 ~ 18时17分]"
         },
         {
           "title": "DeepSeek发布DSpark",
@@ -352,7 +354,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时17分"
         }
@@ -360,8 +362,19 @@
     },
     {
       "keyword_group": "独立开发 创业 副业",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "如何看待开店博主「勇哥餐饮创业说」由于直播间被判定违规，对线短视频平台客服被挂断电话？",
+          "url": "https://www.zhihu.com/question/2054090943784133053",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
+        },
         {
           "title": "【每日收评】创业板指跌超4%，全市场超4600股收绿，AI硬件股集体重挫",
           "url": "https://www.cls.cn/detail/2410276",
