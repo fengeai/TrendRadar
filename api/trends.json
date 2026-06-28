@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T04:19:27.149372+08:00",
-  "total_titles_processed": 444,
+  "generated_at": "2026-06-29T06:08:42.131672+08:00",
+  "total_titles_processed": 482,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时11分 ~ 04时19分]"
+          "appearance_count": 3,
+          "time_info": "[02时11分 ~ 06时08分]"
         },
         {
           "title": "美国科技企业悄然转向中国AI模型，Coinbase带头用上GLM与Kimi",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 04时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 06时08分]"
         },
         {
           "title": "专访｜前白宫科技顾问：特朗普政策逆风，难阻美国清洁能源的市场扩张",
@@ -37,8 +37,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 04时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 06时08分]"
+        },
+        {
+          "title": "科技仍是主线？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2411118",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 06时08分]"
         },
         {
           "title": "抖音潮流舞蹈大赛成都站",
@@ -50,20 +63,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 04时19分]"
-        },
-        {
-          "title": "科技仍是主线？十大券商策略来了",
-          "url": "https://www.cls.cn/detail/2411118",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 04时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 06时08分]"
         },
         {
           "title": "中国版「星链」运营方启动新一轮增资，设 50 亿元投资门槛，明确拒绝境外资本，低轨卫星互联网为什么重要？",
@@ -72,11 +73,12 @@
           "ranks": [
             12,
             8,
-            9
+            9,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 04时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 06时08分]"
         },
         {
           "title": "抖音封禁诋毁杂交技术的网红账号",
@@ -84,11 +86,12 @@
           "source": "抖音",
           "ranks": [
             20,
-            9
+            9,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 04时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 06时08分]"
         },
         {
           "title": "吴珈庆夺冠后发抖音",
@@ -96,11 +99,12 @@
           "source": "抖音",
           "ranks": [
             25,
-            30
+            30,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时11分 ~ 04时19分]"
+          "appearance_count": 3,
+          "time_info": "[02时11分 ~ 06时08分]"
         }
       ]
     },
@@ -114,11 +118,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 04时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 06时08分]"
         },
         {
           "title": "豆包和DeepSeek的博弈",
