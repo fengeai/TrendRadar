@@ -1,348 +1,105 @@
 {
-  "generated_at": "2026-06-28T22:05:10.980355+08:00",
-  "total_titles_processed": 1187,
+  "generated_at": "2026-06-29T00:19:48.398347+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 18,
+      "match_count": 6,
       "titles": [
         {
-          "title": "在抖音的三国文学里出不来了",
-          "url": "https://www.douyin.com/hot/2549237",
-          "source": "抖音",
+          "title": "美国科技企业悄然转向中国AI模型，Coinbase带头用上GLM与Kimi",
+          "url": "https://wallstreetcn.com/articles/3775696",
+          "source": "华尔街见闻",
           "ranks": [
-            5,
-            2,
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 13时23分]"
-        },
-        {
-          "title": "欧洲央行执委Schnabel：预计油价将持续走高。 不确定性依然很高。 和平协议使负面情景出现的可能性降低。 能源冲击对欧元区打击尤为严重。 此次能源冲击的程度比以往几次石油危机要缓和。 预测显示通胀上升、增长放缓。 能源成本上升拖累信心和消费。 政府投资和全球人工智能热潮支撑了经济增长。 劳动力市场仍具韧性。",
-          "url": "https://wallstreetcn.com/livenews/3125605",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时13分 ~ 13时23分]"
+          "appearance_count": 1,
+          "time_info": "00时19分"
         },
         {
           "title": "专访｜前白宫科技顾问：特朗普政策逆风，难阻美国清洁能源的市场扩张",
           "url": "https://m.thepaper.cn/newsDetail_forward_33467359",
           "source": "澎湃新闻",
           "ranks": [
-            19,
-            14,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时23分 ~ 22时05分]"
-        },
-        {
-          "title": "抖音通报网红诋毁袁隆平",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%8A%96%E9%9F%B3%E9%80%9A%E6%8A%A5%E7%BD%91%E7%BA%A2%E8%AF%8B%E6%AF%81%E8%A2%81%E9%9A%86%E5%B9%B3%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时22分 ~ 19时52分]"
+          "appearance_count": 1,
+          "time_info": "00时19分"
         },
         {
-          "title": "AI交易退潮席卷科技股：安森美暴跌24%，甲骨文创2001年来最大周跌，七巨头全线周跌",
-          "url": "https://wallstreetcn.com/articles/3775658",
-          "source": "华尔街见闻",
+          "title": "抖音潮流舞蹈大赛成都站",
+          "url": "https://www.douyin.com/hot/2550751",
+          "source": "抖音",
           "ranks": [
-            6,
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时13分 ~ 06时10分]"
+          "appearance_count": 1,
+          "time_info": "00时19分"
         },
         {
-          "title": "美国科技企业悄然转向中国AI模型，Coinbase带头用上GLM与Kimi",
-          "url": "https://wallstreetcn.com/articles/3775696",
-          "source": "华尔街见闻",
+          "title": "科技仍是主线？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2411118",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            7
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时22分 ~ 22时05分]"
+          "appearance_count": 1,
+          "time_info": "00时19分"
         },
         {
           "title": "中国版「星链」运营方启动新一轮增资，设 50 亿元投资门槛，明确拒绝境外资本，低轨卫星互联网为什么重要？",
           "url": "https://www.zhihu.com/question/2053410817152902707",
           "source": "知乎",
           "ranks": [
-            17,
-            14,
-            16
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时22分 ~ 22时05分]"
-        },
-        {
-          "title": "吴珈庆夺冠后发抖音",
-          "url": "https://www.douyin.com/hot/2550379",
-          "source": "抖音",
-          "ranks": [
-            18,
-            29,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时23分 ~ 19时52分]"
+          "appearance_count": 1,
+          "time_info": "00时19分"
         },
         {
           "title": "抖音封禁诋毁杂交技术的网红账号",
           "url": "https://www.douyin.com/hot/2550626",
           "source": "抖音",
           "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时52分 ~ 22时05分]"
-        },
-        {
-          "title": "哈兰德发抖音回顾小组赛",
-          "url": "https://www.douyin.com/hot/2550418",
-          "source": "抖音",
-          "ranks": [
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时23分 ~ 17时23分]"
-        },
-        {
-          "title": "国际清算银行：人工智能热潮的可持续性、金融脆弱性、紧张的公共财政以及通胀，都是全球经济所面临的风险。",
-          "url": "https://flash.jin10.com/detail/20260628170103760800",
-          "source": "金十数据",
-          "ranks": [
-            7
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时23分"
-        },
-        {
-          "title": "富信科技：网传公司销售周志奇演讲完整原文为杜撰文章",
-          "url": "https://flash.jin10.com/detail/20260628110823067800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时23分"
-        },
-        {
-          "title": "纳指科技ETF景顺：6月29日开市起停牌 10:30起复牌",
-          "url": "https://flash.jin10.com/detail/20260628182343949800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时52分"
-        },
-        {
-          "title": "雅克科技：目前没有六氟化钨相关业务",
-          "url": "https://flash.jin10.com/detail/20260628161447033800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时23分"
-        },
-        {
-          "title": "中泰证券：后续市场风格依然是科技扩散而非风格切换",
-          "url": "https://flash.jin10.com/detail/20260628175358592800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时52分"
-        },
-        {
-          "title": "祥鑫科技：液冷散热产品不会对公司的经营业绩产生重大影响",
-          "url": "https://flash.jin10.com/detail/20260628154829666800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时23分"
-        },
-        {
-          "title": "中材科技：子公司泰山玻纤电子布、特种纤维布产品销售收入总体占比较小",
-          "url": "https://flash.jin10.com/detail/20260628154556882800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时23分"
-        },
-        {
-          "title": "好利科技：实控人筹划公司控制权变更事项 明起停牌",
-          "url": "https://flash.jin10.com/detail/20260628153844958800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时23分"
+          "time_info": "00时19分"
         }
       ]
     },
     {
       "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
-      "match_count": 8,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "刚刚，DeepSeek V4更新DSpark，推理速度提升80%",
-          "url": "https://wallstreetcn.com/articles/3775676",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 13时23分]"
-        },
-        {
-          "title": "如何评价 DeepSeek 发布 DSpark？哪些亮点值得关注？",
-          "url": "https://www.zhihu.com/question/2054255700407055156",
-          "source": "知乎",
-          "ranks": [
-            3,
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时13分 ~ 08时10分]"
-        },
-        {
-          "title": "OpenAI发布GPT-5.6系列模型，Sol基准测试超越Claude Mythos，应美政府要求限量开放",
-          "url": "https://wallstreetcn.com/articles/3775650",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时13分 ~ 08时10分]"
-        },
-        {
-          "title": "“OpenAI推迟上市”之下：甲骨文、Nebius带头硬件股下跌，ServiceNow和Workday领衔软件股全线大涨",
-          "url": "https://wallstreetcn.com/articles/3775663",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时13分 ~ 08时10分]"
-        },
-        {
-          "title": "如何评价 DeepSeek 与智谱均声明将在下半年大规模使用华为昇腾 950 超节点？",
-          "url": "https://www.zhihu.com/question/2050591443664779181",
-          "source": "知乎",
-          "ranks": [
-            5,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 04时15分]"
-        },
         {
           "title": "大模型推理最高提速85%！DeepSeek发表重磅论文 提出两项互补机制",
           "url": "https://www.cls.cn/detail/2411046",
           "source": "财联社热门",
           "ranks": [
-            9,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时22分 ~ 22时05分]"
-        },
-        {
-          "title": "豆包和DeepSeek的博弈",
-          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E5%92%8CDeepSeek%E7%9A%84%E5%8D%9A%E5%BC%88&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时52分 ~ 22时05分]"
-        },
-        {
-          "title": "马斯克：基于我们1.5万亿参数的V9基础模型、并在补充训练中加入Cursor数据的Grok 4.5，现已在SpaceX和特斯拉进入内测阶段。",
-          "url": "https://flash.jin10.com/detail/20260628185444117800",
-          "source": "金十数据",
-          "ranks": [
-            11
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "独立开发 创业 副业",
-      "match_count": 1,
-      "titles": [
+          "time_info": "00时19分"
+        },
         {
-          "title": "如何看待开店博主「勇哥餐饮创业说」由于直播间被判定违规，对线短视频平台客服被挂断电话？",
-          "url": "https://www.zhihu.com/question/2054090943784133053",
-          "source": "知乎",
+          "title": "豆包和DeepSeek的博弈",
+          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E5%92%8CDeepSeek%E7%9A%84%E5%8D%9A%E5%BC%88&t=31&band_rank=10&Refer=top",
+          "source": "微博",
           "ranks": [
-            1
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时13分 ~ 08时10分]"
+          "appearance_count": 1,
+          "time_info": "00时19分"
         }
       ]
     }
