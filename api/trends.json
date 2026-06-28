@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-28T13:23:23.904519+08:00",
-  "total_titles_processed": 752,
+  "generated_at": "2026-06-28T17:23:12.146961+08:00",
+  "total_titles_processed": 907,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 7,
+      "match_count": 15,
       "titles": [
         {
           "title": "在抖音的三国文学里出不来了",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时13分 ~ 13时23分]"
+        },
+        {
+          "title": "抖音通报网红诋毁袁隆平",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%8A%96%E9%9F%B3%E9%80%9A%E6%8A%A5%E7%BD%91%E7%BA%A2%E8%AF%8B%E6%AF%81%E8%A2%81%E9%9A%86%E5%B9%B3%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 17时23分]"
         },
         {
           "title": "欧洲央行执委Schnabel：预计油价将持续走高。 不确定性依然很高。 和平协议使负面情景出现的可能性降低。 能源冲击对欧元区打击尤为严重。 此次能源冲击的程度比以往几次石油危机要缓和。 预测显示通胀上升、增长放缓。 能源成本上升拖累信心和消费。 政府投资和全球人工智能热潮支撑了经济增长。 劳动力市场仍具韧性。",
@@ -45,54 +56,134 @@
           "time_info": "[00时13分 ~ 06时10分]"
         },
         {
-          "title": "富信科技：网传公司销售周志奇演讲完整原文为杜撰文章",
-          "url": "https://flash.jin10.com/detail/20260628110823067800",
-          "source": "金十数据",
+          "title": "专访｜前白宫科技顾问：特朗普政策逆风，难阻美国清洁能源的市场扩张",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33467359",
+          "source": "澎湃新闻",
           "ranks": [
-            15
+            19,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时23分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时23分 ~ 17时23分]"
         },
         {
           "title": "哈兰德发抖音回顾小组赛",
           "url": "https://www.douyin.com/hot/2550418",
           "source": "抖音",
           "ranks": [
-            17
+            17,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时23分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时23分 ~ 17时23分]"
         },
         {
           "title": "吴珈庆夺冠后发抖音",
           "url": "https://www.douyin.com/hot/2550379",
           "source": "抖音",
           "ranks": [
-            18
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时23分 ~ 17时23分]"
+        },
+        {
+          "title": "美国科技企业悄然转向中国AI模型，Coinbase带头用上GLM与Kimi",
+          "url": "https://wallstreetcn.com/articles/3775696",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 17时23分]"
+        },
+        {
+          "title": "中国版「星链」运营方启动新一轮增资，设 50 亿元投资门槛，明确拒绝境外资本，低轨卫星互联网为什么重要？",
+          "url": "https://www.zhihu.com/question/2053410817152902707",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 17时23分]"
+        },
+        {
+          "title": "国际清算银行：人工智能热潮的可持续性、金融脆弱性、紧张的公共财政以及通胀，都是全球经济所面临的风险。",
+          "url": "https://flash.jin10.com/detail/20260628170103760800",
+          "source": "金十数据",
+          "ranks": [
+            7
           ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
+        },
+        {
+          "title": "富信科技：网传公司销售周志奇演讲完整原文为杜撰文章",
+          "url": "https://flash.jin10.com/detail/20260628110823067800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
         {
-          "title": "专访｜前白宫科技顾问：特朗普政策逆风，难阻美国清洁能源的市场扩张",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33467359",
-          "source": "澎湃新闻",
+          "title": "雅克科技：目前没有六氟化钨相关业务",
+          "url": "https://flash.jin10.com/detail/20260628161447033800",
+          "source": "金十数据",
           "ranks": [
-            19
+            21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时23分"
+          "time_info": "17时23分"
+        },
+        {
+          "title": "祥鑫科技：液冷散热产品不会对公司的经营业绩产生重大影响",
+          "url": "https://flash.jin10.com/detail/20260628154829666800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
+        },
+        {
+          "title": "中材科技：子公司泰山玻纤电子布、特种纤维布产品销售收入总体占比较小",
+          "url": "https://flash.jin10.com/detail/20260628154556882800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
+        },
+        {
+          "title": "好利科技：实控人筹划公司控制权变更事项 明起停牌",
+          "url": "https://flash.jin10.com/detail/20260628153844958800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
         }
       ]
     },
     {
       "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "刚刚，DeepSeek V4更新DSpark，推理速度提升80%",
@@ -158,6 +249,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时13分 ~ 04时15分]"
+        },
+        {
+          "title": "大模型推理最高提速85%！DeepSeek发表重磅论文 提出两项互补机制",
+          "url": "https://www.cls.cn/detail/2411046",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 17时23分]"
         }
       ]
     },
