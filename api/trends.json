@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-01T16:53:09.093062+08:00",
-  "total_titles_processed": 933,
+  "generated_at": "2026-07-01T20:14:15.805033+08:00",
+  "total_titles_processed": 1136,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 23,
+      "match_count": 29,
       "titles": [
         {
           "title": "八部门：推动工业互联网基础设施和智算设施、超算设施等算力基础设施一体规划、同步建设",
@@ -43,13 +43,25 @@
           "time_info": "[02时05分 ~ 07时20分]"
         },
         {
+          "title": "人工智能领域“权力更迭”：美股三大芯片股市值Q2增加约2万亿美元",
+          "url": "https://www.cls.cn/detail/2413957",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时52分 ~ 20时14分]"
+        },
+        {
           "title": "鼎阳科技：推出SSG3000XPlus系列射频信号发生器",
           "url": "https://flash.jin10.com/detail/20260701164750216800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -59,11 +71,24 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时41分 ~ 16时53分]"
+          "appearance_count": 5,
+          "time_info": "[12时41分 ~ 20时14分]"
+        },
+        {
+          "title": "美团开源万亿参数大模型 longcat-2.0，将对大模型领域和 AI 行业产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2055252813568119737",
+          "source": "知乎",
+          "ranks": [
+            19,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时52分 ~ 20时14分]"
         },
         {
           "title": "哈兰德把抖音当朋友圈发",
@@ -78,26 +103,48 @@
           "time_info": "[02时05分 ~ 05时02分]"
         },
         {
-          "title": "人工智能领域“权力更迭”：美股三大芯片股市值Q2增加约2万亿美元",
-          "url": "https://www.cls.cn/detail/2413957",
+          "title": "【每日收评】全市场超200股涨停！大金融引领沪指放量收红，科技权重陷入调整",
+          "url": "https://www.cls.cn/detail/2414258",
           "source": "财联社热门",
           "ranks": [
-            11
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时52分 ~ 16时53分]"
+          "time_info": "[20时13分 ~ 20时14分]"
         },
         {
-          "title": "美团开源万亿参数大模型 longcat-2.0，将对大模型领域和 AI 行业产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2055252813568119737",
+          "title": "A 股下半年第一个交易日，221 股涨停创年内新高，高位科技股出现扎堆「对子顶」，如何看待当下行情？",
+          "url": "https://www.zhihu.com/question/2055569067063375363",
           "source": "知乎",
           "ranks": [
-            19
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时52分 ~ 16时53分]"
+          "time_info": "[20时13分 ~ 20时14分]"
+        },
+        {
+          "title": "AI正沦为科技圈的“自嗨”？一文起底：市场最危险的错配在这！",
+          "url": "https://www.cls.cn/detail/2414015",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时13分 ~ 20时14分]"
+        },
+        {
+          "title": "谁不想在抖音养一只霸王龙",
+          "url": "https://www.douyin.com/hot/2554660",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时13分 ~ 20时14分]"
         },
         {
           "title": "青云科技声明：网传高端AI服务器相关案件涉案企业非我司企业",
@@ -106,7 +153,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -117,7 +164,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -177,6 +224,17 @@
           "time_info": "12时41分"
         },
         {
+          "title": "兴业科技：目前所有产品均不涉及光模块客户",
+          "url": "https://flash.jin10.com/detail/20260701193721684800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
+        },
+        {
           "title": "纳斯达克金龙中国指数收涨0.63%，报5847.59点，6月份累计下跌11.22%，二季度累跌13.41%。 热门中概股里，阿特斯太阳能初步收涨8.4%，世纪互联、日月光半导体涨6.9%，小鹏涨3.7%，腾讯涨3.1%，阿里涨0.5%。 中国科技指数ETF（CQQQ）收涨2.92%，6月份累涨8.01%连涨三个月，二季度累涨23.92%，上半年累涨9.67%； XtrackersHarvest中证50（ASHS）收涨2.40%，6月份累涨8.53%，二季度19.96%连续六个季度走高，上半年涨25.54%； MSCI新兴市场ex中国ETF（EMXC）收涨1.83%，6月份涨1.85%，二季度涨30.87%，上半年涨41.64%； 德银嘉实沪深300指数ETF（ASHR）收涨1.13%，6月份累涨1.92%，二季度涨12.32%，上半年涨11.60%； 中概互联网指数ETF（KWEB）收涨0.70%，6月份跌8.45%，二季度跌13.93%连续三个季度走低，上半年跌28.14%。",
           "url": "https://wallstreetcn.com/livenews/3126972",
           "source": "华尔街见闻-快讯",
@@ -188,13 +246,24 @@
           "time_info": "05时02分"
         },
         {
+          "title": "惠康科技：公司关注到近期市场对欧洲高温带动清凉家电出口题材关注度较高，公司目前对欧洲市场的销售占整体营收比例较低，对公司业绩贡献有限。",
+          "url": "https://wallstreetcn.com/livenews/3127382",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
+        },
+        {
           "title": "同兴科技：宜宾地震未对钠离子电池正极材料项目施工、建设进度产生不利影响",
           "url": "https://flash.jin10.com/detail/20260701163652001800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -216,7 +285,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -227,7 +296,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -260,7 +329,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         }
@@ -283,6 +352,18 @@
           "time_info": "[02时05分 ~ 07时20分]"
         },
         {
+          "title": "网传 Claude 通过原生消息传递获取用户位置，再以隐写术隐蔽回传封杀中国大陆用户，什么情况？你怎么看？",
+          "url": "https://www.zhihu.com/question/2055348161544295141",
+          "source": "知乎",
+          "ranks": [
+            16,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时41分 ~ 20时14分]"
+        },
+        {
           "title": "Anthropic：推出Claude Sonnet 5。",
           "url": "https://flash.jin10.com/detail/20260701020323978800",
           "source": "金十数据",
@@ -292,18 +373,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
-        },
-        {
-          "title": "网传 Claude 通过原生消息传递获取用户位置，再以隐写术隐蔽回传封杀中国大陆用户，什么情况？你怎么看？",
-          "url": "https://www.zhihu.com/question/2055348161544295141",
-          "source": "知乎",
-          "ranks": [
-            16,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时41分 ~ 16时53分]"
         },
         {
           "title": "Claude偷偷给中国用户打水印",
