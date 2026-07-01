@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-01T07:20:00.791379+08:00",
-  "total_titles_processed": 499,
+  "generated_at": "2026-07-01T12:41:56.837932+08:00",
+  "total_titles_processed": 743,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "八部门：推动工业互联网基础设施和智算设施、超算设施等算力基础设施一体规划、同步建设",
@@ -55,6 +55,17 @@
           "time_info": "[02时05分 ~ 05时02分]"
         },
         {
+          "title": "“炒币”高手特朗普！官方披露2025年加密货币业务斩获超10亿美元，重仓美股科技巨头",
+          "url": "https://wallstreetcn.com/articles/3775893",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
           "title": "周二（6月30日），美股行业ETF多数收涨，半导体ETF涨3.78%，全球科技股指数ETF、科技行业ETF至少涨2.76%，医疗业ETF、日常消费品ETF、公用事业ETF、日常消费品ETF跌1.29%-1.54%。 上半年，半导体ETF累计上涨82.13%，全球科技股指数ETF、科技行业ETF至少涨32.66%，能源业ETF、工业ETF至少涨20.04%，金融业ETF、可选消费ETF、网络股指数ETF则至多累跌1.66%。",
           "url": "https://wallstreetcn.com/livenews/3126976",
           "source": "华尔街见闻-快讯",
@@ -72,7 +83,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -83,7 +94,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -97,6 +108,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
+        },
+        {
+          "title": "哈兰德发抖音庆祝晋级16强",
+          "url": "https://www.douyin.com/hot/2553802",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         },
         {
           "title": "纳斯达克金龙中国指数收涨0.63%，报5847.59点，6月份累计下跌11.22%，二季度累跌13.41%。 热门中概股里，阿特斯太阳能初步收涨8.4%，世纪互联、日月光半导体涨6.9%，小鹏涨3.7%，腾讯涨3.1%，阿里涨0.5%。 中国科技指数ETF（CQQQ）收涨2.92%，6月份累涨8.01%连涨三个月，二季度累涨23.92%，上半年累涨9.67%； XtrackersHarvest中证50（ASHS）收涨2.40%，6月份累涨8.53%，二季度19.96%连续六个季度走高，上半年涨25.54%； MSCI新兴市场ex中国ETF（EMXC）收涨1.83%，6月份涨1.85%，二季度涨30.87%，上半年涨41.64%； 德银嘉实沪深300指数ETF（ASHR）收涨1.13%，6月份累涨1.92%，二季度涨12.32%，上半年涨11.60%； 中概互联网指数ETF（KWEB）收涨0.70%，6月份跌8.45%，二季度跌13.93%连续三个季度走低，上半年跌28.14%。",
@@ -130,12 +152,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
+        },
+        {
+          "title": "科创50指数翻绿，此前一度涨超2％。寒武纪、源杰科技跌超4％。",
+          "url": "https://wallstreetcn.com/livenews/3127119",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         }
       ]
     },
     {
       "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "如何评价 deepseek2026 年 6 月 29 日再次调整收费标准？",
@@ -183,6 +216,17 @@
           "time_info": "02时05分"
         },
         {
+          "title": "网传 Claude 通过原生消息传递获取用户位置，再以隐写术隐蔽回传封杀中国大陆用户，什么情况？你怎么看？",
+          "url": "https://www.zhihu.com/question/2055348161544295141",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
           "title": "市场消息：Anthropic发布Claude Science测试版工具，旨在帮助科学家自动化科研流程，减少重复性工作。",
           "url": "https://flash.jin10.com/detail/20260701010526378800",
           "source": "金十数据",
@@ -208,8 +252,21 @@
     },
     {
       "keyword_group": "独立开发 创业 副业",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "A股上半年收官！创业板涨超35%，科创50暴涨64%，算力硬件、芯片半导体全线飙涨",
+          "url": "https://wallstreetcn.com/articles/3775807",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时05分 ~ 12时41分]"
+        },
         {
           "title": "【焦点复盘】创业板指高开高走涨近3%，全市场超270股涨超10%，3200亿玻璃基板龙头创历史天量",
           "url": "https://www.cls.cn/detail/2413064",
@@ -217,18 +274,6 @@
           "ranks": [
             6,
             7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时05分 ~ 07时20分]"
-        },
-        {
-          "title": "A股上半年收官！创业板涨超35%，科创50暴涨64%，算力硬件、芯片半导体全线飙涨",
-          "url": "https://wallstreetcn.com/articles/3775807",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -245,6 +290,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时05分 ~ 05时02分]"
+        },
+        {
+          "title": "上证指数早盘收报4138.65点，涨1.08%。 深证成指早盘收报16271.32点，涨0.41%。 创业板指早盘收报4325.67点，跌0.39%。 沪深300早盘收报5001.54点，涨0.44%。 科创50早盘收报2201.01点，跌0.31%。 中证500早盘收报9121.63点，涨1.00%。 中证1000早盘收报8920.20点，涨1.25%。",
+          "url": "https://wallstreetcn.com/livenews/3127143",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "沪指拉升涨超1%，微盘股指数涨超3%，深成指涨0.65%，创业板指涨0.17%，养殖、保险、证券、房地产等方向涨幅居前，沪深京三市上涨个股近4200只。",
+          "url": "https://wallstreetcn.com/livenews/3127125",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         }
       ]
     }
