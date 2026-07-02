@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T01:58:33.377418+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-07-03T03:45:34.725078+08:00",
+  "total_titles_processed": 376,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "104天！宇树科技科创板IPO注册生效 A股“人形机器人第一股”诞生在即",
@@ -15,8 +15,19 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 03时45分]"
+        },
+        {
+          "title": "恒生指数主连夜盘收涨0.04%，报23061点。 恒生科技指数主连夜盘收跌0.31%，报4447点。",
+          "url": "https://wallstreetcn.com/livenews/3128191",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时58分"
+          "time_info": "03时45分"
         },
         {
           "title": "【焦点复盘】科创50跌7.7%创年内单日最大跌幅，多只硬科技权重股遭遇跌停，贵金属板块逆势领涨",
@@ -26,8 +37,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时58分"
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 03时45分]"
         },
         {
           "title": "宇树科技IPO注册获批",
@@ -37,19 +48,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时58分"
-        },
-        {
-          "title": "纳斯达克100指数跌幅扩大至2%，半导体指数跌5.9%。 存储芯片指数重挫超10%，成分股闪迪跌13.4%、泰瑞达跌12.8%、西部数据跌9.6%。 纳指100的成分股中，除了上述个股之外，科磊跌11.8%，迈威尔科技/美满电子跌9.6%，Lumentum跌9.3%，Nebius Group跌8.5%，特斯拉跌7.8%，Meta跌4.2%。",
-          "url": "https://wallstreetcn.com/livenews/3128157",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时58分"
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 03时45分]"
         },
         {
           "title": "学姐我注册抖音号了",
@@ -59,15 +59,49 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时58分"
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 03时45分]"
         },
         {
           "title": "哈兰德破纪录后发了5条抖音",
           "url": "https://www.douyin.com/hot/2556150",
           "source": "抖音",
           "ranks": [
-            25
+            25,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 03时45分]"
+        },
+        {
+          "title": "Meta Platforms(META.O)CEO：2026年初，高管们曾担心在人工智能领域“行动不够迅速”。",
+          "url": "https://flash.jin10.com/detail/20260703030444713800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时45分"
+        },
+        {
+          "title": "2008年以来最大波动率差距 科技牛市出现降温信号",
+          "url": "https://flash.jin10.com/detail/20260703025934985800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时45分"
+        },
+        {
+          "title": "纳斯达克100指数跌幅扩大至2%，半导体指数跌5.9%。 存储芯片指数重挫超10%，成分股闪迪跌13.4%、泰瑞达跌12.8%、西部数据跌9.6%。 纳指100的成分股中，除了上述个股之外，科磊跌11.8%，迈威尔科技/美满电子跌9.6%，Lumentum跌9.3%，Nebius Group跌8.5%，特斯拉跌7.8%，Meta跌4.2%。",
+          "url": "https://wallstreetcn.com/livenews/3128157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -84,33 +118,36 @@
           "url": "https://www.zhihu.com/question/2056064893745193207",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时58分"
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 03时45分]"
         },
         {
           "title": "为什么现在 DeepSeek 快速模式豆包化？",
           "url": "https://www.zhihu.com/question/2050992107284964141",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时58分"
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 03时45分]"
         },
         {
           "title": "出现性能下降问题 DeepSeek回应",
           "url": "https://www.baidu.com/s?wd=%E5%87%BA%E7%8E%B0%E6%80%A7%E8%83%BD%E4%B8%8B%E9%99%8D%E9%97%AE%E9%A2%98+DeepSeek%E5%9B%9E%E5%BA%94",
           "source": "百度热搜",
           "ranks": [
-            22
+            22,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时58分"
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 03时45分]"
         },
         {
           "title": "传特朗普政府未与Anthropic讨论入股 OpenAI曾涉5%股权提议",
@@ -137,8 +174,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时58分"
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 03时45分]"
         },
         {
           "title": "创业板大跌近6%，科创50创年内最大单日跌幅，CPO领跌、存储芯片“一哥”跌停，贵金属逆势拉升",
@@ -148,8 +185,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时58分"
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 03时45分]"
         }
       ]
     }
