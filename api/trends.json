@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T07:16:27.327517+08:00",
-  "total_titles_processed": 546,
+  "generated_at": "2026-07-03T11:55:32.371769+08:00",
+  "total_titles_processed": 789,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 30,
+      "match_count": 36,
       "titles": [
         {
           "title": "104天！宇树科技科创板IPO注册生效 A股“人形机器人第一股”诞生在即",
@@ -19,13 +19,24 @@
           "time_info": "[01时58分 ~ 07时16分]"
         },
         {
+          "title": "中国科技交出亮眼成绩单",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E4%BA%A4%E5%87%BA%E4%BA%AE%E7%9C%BC%E6%88%90%E7%BB%A9%E5%8D%95%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
           "title": "“解放日”关税掀市场巨震，特朗普账户却在疯狂扫货科技股",
           "url": "https://flash.jin10.com/detail/20260703065821847800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -47,7 +58,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -141,7 +152,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -177,6 +188,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时45分"
+        },
+        {
+          "title": "A股染料板块持续走弱，信凯科技跌超9%，怡达股份、福莱蒽特、润禾材料、鼎龙科技跟跌。",
+          "url": "https://flash.jin10.com/detail/20260703112639347800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "宇树科技IPO注册获批",
+          "url": "https://www.douyin.com/hot/2555844",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
         },
         {
           "title": "北美科技软件股指数ETF涨0.25%，报93.57美元，整体高开低走。 Global X网络安全ETF涨0.38%，纳斯达克网络安全ETF跌0.48%，ETFMG网络安全ETF跌0.12%",
@@ -218,7 +251,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -251,7 +284,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -284,9 +317,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "Meta卖算力引科技股大跌",
+          "url": "https://search.bilibili.com/all?keyword=Meta%E5%8D%96%E7%AE%97%E5%8A%9B%E5%BC%95%E7%A7%91%E6%8A%80%E8%82%A1%E5%A4%A7%E8%B7%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
         },
         {
           "title": "据The Information：Palantir(PLTR.N)首席执行官表示，部分美国政府客户已转向开源人工智能。",
@@ -317,9 +361,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260703111356309800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
         },
         {
           "title": "周四（7月2日），美股存储芯片与硬件供应链指数重挫10.32%，报218.59点，本周累计下跌11.21%。 周四当天，成分股全线溃败，闪迪收跌超14.1%，泰瑞达跌超13.6%，希捷科技、拉姆研究、西部数据跌约10%，Rambus、应用材料、美光科技也跌8.81%-5.49%。",
@@ -328,7 +383,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -339,9 +394,106 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "A股铜箔概念震荡反弹，诺德股份涨停，德福科技、方邦股份、生益科技、宏和科技、宝鼎科技、海星股份等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260703110500101800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "独立开发 创业 副业",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "【每日收评】创业板指跌近6%，机器人概念股逆势活跃，AI硬件、 半导体等科技权重批量跌停",
+          "url": "https://www.cls.cn/detail/2415416",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时58分 ~ 07时16分]"
+        },
+        {
+          "title": "7月3日午间收评：创业板指半日涨1.58%，机器人概念股集体爆发",
+          "url": "https://wallstreetcn.com/livenews/3128409",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "A股午评：创业板指半日收涨1.58% 贵金属、人形机器人板块领涨",
+          "url": "https://flash.jin10.com/detail/20260703113735460800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "创业板大跌近6%，科创50创年内最大单日跌幅，CPO领跌、存储芯片“一哥”跌停，贵金属逆势拉升",
+          "url": "https://wallstreetcn.com/articles/3776030",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时58分 ~ 11时55分]"
+        },
+        {
+          "title": "创业板指涨超2%，沪指涨0.67%，深成指涨1.5%，贵金属、军工、机器人、算力硬件等方向涨幅居前，沪深京三市上涨个股近3100只。",
+          "url": "https://wallstreetcn.com/livenews/3128392",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "创业板指涨超1%，沪指涨0.36%，深成指涨0.85%，贵金属、机器人、军工、造纸等方向领涨，沪深京三市上涨个股超3800只。",
+          "url": "https://wallstreetcn.com/livenews/3128374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "创业板指涨幅扩大至1%。",
+          "url": "https://wallstreetcn.com/livenews/3128371",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
         }
       ]
     },
@@ -398,7 +550,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -412,36 +564,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "独立开发 创业 副业",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "【每日收评】创业板指跌近6%，机器人概念股逆势活跃，AI硬件、 半导体等科技权重批量跌停",
-          "url": "https://www.cls.cn/detail/2415416",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时58分 ~ 07时16分]"
-        },
-        {
-          "title": "创业板大跌近6%，科创50创年内最大单日跌幅，CPO领跌、存储芯片“一哥”跌停，贵金属逆势拉升",
-          "url": "https://wallstreetcn.com/articles/3776030",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时58分 ~ 07时16分]"
         }
       ]
     }
