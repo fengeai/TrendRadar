@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T03:25:31.579714+08:00",
-  "total_titles_processed": 376,
+  "generated_at": "2026-07-05T05:06:43.334402+08:00",
+  "total_titles_processed": 413,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时15分 ~ 03时25分]"
+          "appearance_count": 3,
+          "time_info": "[01时15分 ~ 05时06分]"
         },
         {
           "title": "卡点发布！GPT-5.6三大模型全曝，定档7月7日？",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时15分 ~ 03时25分]"
+          "appearance_count": 3,
+          "time_info": "[01时15分 ~ 05时06分]"
         },
         {
           "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时15分 ~ 03时25分]"
+          "appearance_count": 3,
+          "time_info": "[01时15分 ~ 05时06分]"
         },
         {
           "title": "锐评互联网热门视频",
@@ -46,11 +46,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             10,
-            28
+            28,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时15分 ~ 03时25分]"
+          "appearance_count": 3,
+          "time_info": "[01时15分 ~ 05时06分]"
         },
         {
           "title": "上半年A股新开户突破2000万，已是去年前三季度总量，动力仍是科技行情？",
@@ -60,8 +61,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时15分 ~ 03时25分]"
+          "appearance_count": 3,
+          "time_info": "[01时15分 ~ 05时06分]"
         },
         {
           "title": "三部门发文规范国际科技组织成立登记",
@@ -71,8 +72,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时15分 ~ 03时25分]"
+          "appearance_count": 3,
+          "time_info": "[01时15分 ~ 05时06分]"
         }
       ]
     },
