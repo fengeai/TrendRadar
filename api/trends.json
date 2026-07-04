@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-04T11:49:17.310245+08:00",
-  "total_titles_processed": 697,
+  "generated_at": "2026-07-04T14:54:10.435772+08:00",
+  "total_titles_processed": 848,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
+          "url": "https://wallstreetcn.com/articles/3776124",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时49分 ~ 14时54分]"
+        },
         {
           "title": "一枚芯片拯救了葡萄牙和 C 罗，有人称科技让规则绝对精准，有人称科技让足球失去偶然性和原始美感，你怎么看？",
           "url": "https://www.zhihu.com/question/2056380849625325900",
@@ -21,26 +32,16 @@
           "time_info": "[01时41分 ~ 07时13分]"
         },
         {
-          "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
-          "url": "https://wallstreetcn.com/articles/3776124",
+          "title": "韩国股市杠杆失控：450亿美元资金狂飙，SK海力士单只ETF规模碾压美股科技巨头",
+          "url": "https://wallstreetcn.com/articles/3776174",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            6,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时49分"
-        },
-        {
-          "title": "宇树科技陈立：关节电机核心技术全部自研 上游仅依赖铜线、磁铁等原材料",
-          "url": "https://flash.jin10.com/detail/20260704111304915800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时49分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时49分 ~ 14时54分]"
         },
         {
           "title": "恒生指数主连夜盘收跌0.20%，报23253点。 恒生科技指数主连夜盘收跌0.13%，报4492点。",
@@ -56,6 +57,18 @@
           "time_info": "[03时40分 ~ 07时13分]"
         },
         {
+          "title": "宇树科技陈立：关节电机核心技术全部自研 上游仅依赖铜线、磁铁等原材料",
+          "url": "https://flash.jin10.com/detail/20260704111304915800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时49分 ~ 14时54分]"
+        },
+        {
           "title": "欧洲央行行长拉加德：人工智能（AI）是生产力和收益的来源。 但该技术也构成了“重大风险”。 大约十年来，我们一直在讨论网络安全风险、黑客攻击、数据盗窃等问题。 但随着AI模型的加速和深化，我们面临的风险要严重得多，因为这一切发生得非常快，而且相应的防御手段以及所需资金仍然没有准备充分。",
           "url": "https://wallstreetcn.com/livenews/3128834",
           "source": "华尔街见闻-快讯",
@@ -68,15 +81,15 @@
           "time_info": "[05时16分 ~ 07时13分]"
         },
         {
-          "title": "韩国股市杠杆失控：450亿美元资金狂飙，SK海力士单只ETF规模碾压美股科技巨头",
-          "url": "https://wallstreetcn.com/articles/3776174",
-          "source": "华尔街见闻",
+          "title": "上半年A股新开户突破2000万，已是去年前三季度总量，动力仍是科技行情？",
+          "url": "https://www.cls.cn/detail/2417055",
+          "source": "财联社热门",
           "ranks": [
-            6
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时53分 ~ 14时54分]"
         },
         {
           "title": "常州市市长周伟调研人工智能上游产业",
@@ -85,7 +98,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时49分"
         },
@@ -96,7 +109,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时49分"
         }
@@ -165,11 +178,12 @@
           "url": "https://wallstreetcn.com/articles/3776170",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时49分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时49分 ~ 14时54分]"
         },
         {
           "title": "Claude：正在调查多个模型中出现的异常错误。",
@@ -178,7 +192,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时49分"
         }
