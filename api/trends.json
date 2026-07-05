@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T01:20:29.962132+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-07-06T03:35:36.560242+08:00",
+  "total_titles_processed": 364,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 03时35分]"
         },
         {
           "title": "2026中国互联网大会将举办，聚焦AI产业化落地、算力互联互通等核心议题",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 03时35分]"
         },
         {
           "title": "壁仞科技以每股46.20港元的价格配售1.53亿股新H股，筹资70.7亿港元。",
@@ -37,30 +37,32 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 03时35分]"
         },
         {
           "title": "全抖音网友都在问难题",
           "url": "https://www.douyin.com/hot/2559151",
           "source": "抖音",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 03时35分]"
         },
         {
           "title": "哈兰德发抖音晒赛前新发型",
           "url": "https://www.douyin.com/hot/2559690",
           "source": "抖音",
           "ranks": [
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 03时35分]"
         },
         {
           "title": "鸿海：展望第三季度，人工智能机架出货量预计将保持增长；整体运营前景预计季度和同比都会增长。",
@@ -70,8 +72,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 03时35分]"
         }
       ]
     },
@@ -84,11 +86,12 @@
           "url": "https://wallstreetcn.com/articles/3776218",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 03时35分]"
         }
       ]
     }
