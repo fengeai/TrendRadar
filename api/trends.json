@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-05T12:07:19.893839+08:00",
-  "total_titles_processed": 662,
+  "generated_at": "2026-07-05T16:07:19.285189+08:00",
+  "total_titles_processed": 824,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 7,
+      "match_count": 12,
       "titles": [
         {
           "title": "卡点发布！GPT-5.6三大模型全曝，定档7月7日？",
@@ -36,11 +36,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            16
+            16,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时15分 ~ 12时07分]"
+          "appearance_count": 6,
+          "time_info": "[01时15分 ~ 16时07分]"
         },
         {
           "title": "锐评互联网热门视频",
@@ -50,11 +51,12 @@
             10,
             28,
             22,
-            21
+            21,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时15分 ~ 12时07分]"
+          "appearance_count": 6,
+          "time_info": "[01时15分 ~ 16时07分]"
         },
         {
           "title": "上半年A股新开户突破2000万，已是去年前三季度总量，动力仍是科技行情？",
@@ -62,11 +64,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时15分 ~ 12时07分]"
+          "appearance_count": 6,
+          "time_info": "[01时15分 ~ 16时07分]"
         },
         {
           "title": "三部门发文规范国际科技组织成立登记",
@@ -80,22 +83,88 @@
           "time_info": "[01时15分 ~ 07时04分]"
         },
         {
+          "title": "鸿海：展望第三季度，人工智能机架出货量预计将保持增长。",
+          "url": "https://flash.jin10.com/detail/20260705153708764800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时07分"
+        },
+        {
+          "title": "全抖音网友都在问难题",
+          "url": "https://www.douyin.com/hot/2559151",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时07分"
+        },
+        {
           "title": "金十数据整理：每日科技要闻速递（7月5日）",
           "url": "https://flash.jin10.com/detail/20260705085433904800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
+        },
+        {
+          "title": "嘉实基金王贵重：对中国科技资产及国内AI加速追赶趋势持积极乐观态度",
+          "url": "https://flash.jin10.com/detail/20260705142201827800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时07分"
+        },
+        {
+          "title": "《北京数字经济发展报告（2025—2026）》发布 2025年人工智能核心产业规模约4500亿元",
+          "url": "https://flash.jin10.com/detail/20260705141115141800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时07分"
+        },
+        {
+          "title": "A股超520亿资金撤离9只科技股",
+          "url": "https://www.toutiao.com/trending/7658142757459165220/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时07分"
         }
       ]
     },
     {
       "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "OpenAI塌房！Scaling law原作曝bug，万亿算力全白烧",
+          "url": "https://wallstreetcn.com/articles/3776218",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时07分"
+        },
         {
           "title": "Anthropic已启动自研AI芯片的前期研发工作，并与三星电子洽谈，计划将其作为潜在芯片代工合作方。此举效仿OpenAI，目的是加强对支撑自身大模型、成本高昂的算力硬件体系的自主掌控。",
           "url": "https://flash.jin10.com/detail/20260705000623395800",
@@ -117,6 +186,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "独立开发 创业 副业",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "韩国总统幕僚长：支持二三十岁人群住房、创业和就业的基金。",
+          "url": "https://flash.jin10.com/detail/20260705153700634800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时07分"
         }
       ]
     }
