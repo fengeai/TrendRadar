@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-07-05T21:56:22.046947+08:00",
-  "total_titles_processed": 1097,
+  "generated_at": "2026-07-05T23:20:10.095184+08:00",
+  "total_titles_processed": 1168,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
+        {
+          "title": "上半年A股新开户突破2000万，已是去年前三季度总量，动力仍是科技行情？",
+          "url": "https://www.cls.cn/detail/2417055",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时15分 ~ 23时20分]"
+        },
         {
           "title": "卡点发布！GPT-5.6三大模型全曝，定档7月7日？",
           "url": "https://wallstreetcn.com/articles/3776196",
@@ -31,20 +45,6 @@
           "time_info": "[01时15分 ~ 07时04分]"
         },
         {
-          "title": "上半年A股新开户突破2000万，已是去年前三季度总量，动力仍是科技行情？",
-          "url": "https://www.cls.cn/detail/2417055",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时15分 ~ 21时56分]"
-        },
-        {
           "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
           "url": "https://wallstreetcn.com/livenews/3128944",
           "source": "华尔街见闻-快讯",
@@ -56,6 +56,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时15分 ~ 16时07分]"
+        },
+        {
+          "title": "招商证券：短期冲击后关注科技修复与中报业绩双主线",
+          "url": "https://wallstreetcn.com/livenews/3129017",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "锐评互联网热门视频",
@@ -77,11 +88,25 @@
           "url": "https://wallstreetcn.com/livenews/3129011",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时56分 ~ 23时20分]"
+        },
+        {
+          "title": "全抖音网友都在问难题",
+          "url": "https://www.douyin.com/hot/2559151",
+          "source": "抖音",
+          "ranks": [
+            9,
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时07分 ~ 23时20分]"
         },
         {
           "title": "三部门发文规范国际科技组织成立登记",
@@ -95,28 +120,41 @@
           "time_info": "[01时15分 ~ 07时04分]"
         },
         {
-          "title": "全抖音网友都在问难题",
-          "url": "https://www.douyin.com/hot/2559151",
-          "source": "抖音",
-          "ranks": [
-            9,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时07分 ~ 21时56分]"
-        },
-        {
           "title": "鸿海：展望第三季度，人工智能机架出货量预计将保持增长；整体运营前景预计季度和同比都会增长。",
           "url": "https://wallstreetcn.com/livenews/3128984",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
+            20,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时08分 ~ 23时20分]"
+        },
+        {
+          "title": "哈兰德发抖音晒赛前新发型",
+          "url": "https://www.douyin.com/hot/2559690",
+          "source": "抖音",
+          "ranks": [
+            19,
             20
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时56分 ~ 23时20分]"
+        },
+        {
+          "title": "壁仞科技以每股46.20港元的价格配售1.53亿股新H股，筹资70.7亿港元。",
+          "url": "https://wallstreetcn.com/livenews/3129005",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时08分 ~ 21时56分]"
+          "time_info": "[21时56分 ~ 23时20分]"
         },
         {
           "title": "鸿海：展望第三季度，人工智能机架出货量预计将保持增长。",
@@ -130,17 +168,6 @@
           "time_info": "16时07分"
         },
         {
-          "title": "壁仞科技以每股46.20港元的价格配售1.53亿股新H股，筹资70.7亿港元。",
-          "url": "https://wallstreetcn.com/livenews/3129005",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时56分"
-        },
-        {
           "title": "纳指科技ETF景顺：二级市场价格溢价 7月6日开市起停牌至十点半",
           "url": "https://flash.jin10.com/detail/20260705170539696800",
           "source": "金十数据",
@@ -152,15 +179,15 @@
           "time_info": "19时08分"
         },
         {
-          "title": "哈兰德发抖音晒赛前新发型",
-          "url": "https://www.douyin.com/hot/2559690",
-          "source": "抖音",
+          "title": "招商证券：短期冲击后关注科技修复与中报业绩双主线",
+          "url": "https://flash.jin10.com/detail/20260705215459986800",
+          "source": "金十数据",
           "ranks": [
-            19
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时56分"
+          "time_info": "23时20分"
         },
         {
           "title": "金十数据整理：每日科技要闻速递（7月5日）",
@@ -222,8 +249,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时07分 ~ 21时56分]"
+          "appearance_count": 5,
+          "time_info": "[16时07分 ~ 23时20分]"
         },
         {
           "title": "Anthropic已启动自研AI芯片的前期研发工作，并与三星电子洽谈，计划将其作为潜在芯片代工合作方。此举效仿OpenAI，目的是加强对支撑自身大模型、成本高昂的算力硬件体系的自主掌控。",
