@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-07T20:02:38.205382+08:00",
-  "total_titles_processed": 1195,
+  "generated_at": "2026-07-07T23:09:58.726411+08:00",
+  "total_titles_processed": 1367,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 29,
+      "match_count": 34,
       "titles": [
         {
           "title": "互联网巨头开始“买房收租”？京东7.5亿港元买下香港酒店将改学生宿舍",
@@ -112,6 +112,18 @@
           "time_info": "[12时03分 ~ 16时29分]"
         },
         {
+          "title": "哈兰德抖音粉丝数超过挪威人口",
+          "url": "https://www.douyin.com/hot/2562452",
+          "source": "抖音",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时01分 ~ 23时09分]"
+        },
+        {
           "title": "科技股遭对冲基金连抛四周，高盛交易员：“买入一切AI”时代终结！",
           "url": "https://wallstreetcn.com/articles/3776266",
           "source": "华尔街见闻",
@@ -121,17 +133,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时03分 ~ 12时04分]"
-        },
-        {
-          "title": "哈兰德抖音粉丝数超过挪威人口",
-          "url": "https://www.douyin.com/hot/2562452",
-          "source": "抖音",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时01分 ~ 20时02分]"
         },
         {
           "title": "鸿合科技：全资子公司收到407.2万美元的海关IEEPA关税退税",
@@ -156,6 +157,17 @@
           "time_info": "16时29分"
         },
         {
+          "title": "美股芯片股持续走低，闪迪(SNDK.O)跌超11%，西部数据(WDC.O)跌近10%，美光科技(MU.O)<br/>、希捷科技(STX.O)跌超7%， 英伟达(NVDA.O)跌1.3%。",
+          "url": "https://flash.jin10.com/detail/20260707221359560800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
           "title": "金十数据整理：每日人工智能动态汇总（2026-07-07）",
           "url": "https://flash.jin10.com/detail/20260707114534825800",
           "source": "金十数据",
@@ -178,6 +190,17 @@
           "time_info": "12时04分"
         },
         {
+          "title": "日媒：中国金融科技专利数量和质量均居全球首位",
+          "url": "https://wallstreetcn.com/livenews/3130060",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
           "title": "香港恒生指数7月7日（周二）收盘下跌119.43点，跌幅0.51%，报23496.89点；<br/>香港恒生科技指数7月7日（周二）收盘下跌34.19点，跌幅0.75%，报4507.04点；<br/>国企指数7月7日（周二）收盘下跌42.09点，跌幅0.54%，报7770.26点；<br/>红筹指数7月7日（周二）收盘下跌49.45点，跌幅1.28%，报3805.13点。",
           "url": "https://flash.jin10.com/detail/20260707161426746800",
           "source": "金十数据",
@@ -198,6 +221,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
+        },
+        {
+          "title": "闪迪、美光科技跌超6%",
+          "url": "https://www.baidu.com/s?wd=%E9%97%AA%E8%BF%AA%E3%80%81%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80%E8%B7%8C%E8%B6%856%25",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         },
         {
           "title": "国家发展改革委将在2026世界人工智能大会发布两项成果",
@@ -239,7 +273,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时02分"
         },
@@ -253,6 +287,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
+        },
+        {
+          "title": "纳斯达克100指数跌幅扩大至2%，成分股Astera Labs跌11.7%，闪迪跌11%，泰瑞达跌11%，西部数据跌10.4%。 半导体指数跌6.1%，芯片股持续走低，闪迪跌超11%，西部数据跌近10%，美光科技、希捷科技跌超7%，英伟达跌1.3%。 纳指跌1.3%，标普跌约0.6%。 欧洲STOXX 600指数跌幅扩大至0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3130052",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
+          "title": "小红书上市前夕被前员工举报",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%BA%A2%E4%B9%A6%E4%B8%8A%E5%B8%82%E5%89%8D%E5%A4%95%E8%A2%AB%E5%89%8D%E5%91%98%E5%B7%A5%E4%B8%BE%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         },
         {
           "title": "港股收盘，恒指收跌0.51%，科指收跌0.75%；遭腾讯减持，快手(01024.HK)跌超12%；存储概念下跌，兆易创新(03986.HK)跌超12%，澜起科技(06809.HK)跌超10%。",
@@ -335,7 +391,7 @@
     },
     {
       "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "如何看待华为首批天才少年计划入选者李博杰吐槽 DeepSeek 的面试流程拖沓，被面试官指控抄袭？",
@@ -343,11 +399,12 @@
           "source": "知乎",
           "ranks": [
             2,
-            1
+            1,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时29分 ~ 20时02分]"
+          "appearance_count": 4,
+          "time_info": "[16时29分 ~ 23时09分]"
         },
         {
           "title": "据英国金融时报：前OpenAI研究员管理的对冲基金Situational Awareness与英国投资机构Baillie Gifford等机构拟认购约70亿美元SK海力士纳斯达克IPO股份。",
@@ -373,6 +430,18 @@
           "time_info": "[12时03分 ~ 16时29分]"
         },
         {
+          "title": "前华为“天才少年”公开吐槽DeepSeek面试流程",
+          "url": "https://tech.ifeng.com/c/8uYAqpu54ML",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时01分 ~ 23时09分]"
+        },
+        {
           "title": "如何看待华为首批天才少年计划入选者李博杰吐槽 DeepSeek 的面试流程流程拖沓，被面试官指控抄袭？",
           "url": "https://www.zhihu.com/question/2057753624717911009",
           "source": "知乎",
@@ -395,15 +464,16 @@
           "time_info": "[12时03分 ~ 12时04分]"
         },
         {
-          "title": "前华为“天才少年”公开吐槽DeepSeek面试流程",
-          "url": "https://tech.ifeng.com/c/8uYAqpu54ML",
-          "source": "凤凰网",
+          "title": "前华为“天才少年”公开发文称DeepSeek面试流程不规范",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33531570",
+          "source": "澎湃新闻",
           "ranks": [
-            11
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时01分 ~ 20时02分]"
+          "time_info": "[20时02分 ~ 23时09分]"
         },
         {
           "title": "Claude被封 天才程序员陨落",
@@ -417,17 +487,6 @@
           "time_info": "16时29分"
         },
         {
-          "title": "前华为“天才少年”公开发文称DeepSeek面试流程不规范",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33531570",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时02分"
-        },
-        {
           "title": "DeepSeek面试",
           "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E9%9D%A2%E8%AF%95%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -437,6 +496,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
+        },
+        {
+          "title": "DeepSeek被曝自研芯片",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E8%A2%AB%E6%9B%9D%E8%87%AA%E7%A0%94%E8%8A%AF%E7%89%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         }
       ]
     },
