@@ -1,8 +1,91 @@
 {
-  "generated_at": "2026-07-08T02:07:55.644660+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-07-08T04:53:42.203228+08:00",
+  "total_titles_processed": 420,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "闪迪、美光科技跌超6%",
+          "url": "https://www.baidu.com/s?wd=%E9%97%AA%E8%BF%AA%E3%80%81%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80%E8%B7%8C%E8%B6%856%25",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时07分 ~ 04时53分]"
+        },
+        {
+          "title": "周二（7月7日），彭博电动汽车价格回报指数跌3.02%，报3475.02点，亚太盘初以来持续走低，美股开盘后跳空下挫。 成分股中，Rivian跌18.12%——创2024年2月份以来最大单日跌幅，Lucid集团跌9.98%，意法半导体巴黎股价跌7.99%，禾赛科技跌7.56%，欧股宝马收涨1.03%，H股蔚来集团涨1.71%、雅迪集团控股涨3.09%、吉利汽车控股涨3.11%。",
+          "url": "https://wallstreetcn.com/livenews/3130160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.58%，报5978.44点。 热门中概股里，日月光半导体初步收跌8.9%，蔚来、百度、拼多多、新东方、京东、百胜中国之多跌2.6%，阿里巴巴涨0.1%，腾讯涨1.9%，金山云涨3.2%，美团涨6%。 ETF中，MSCI新兴市场ex中国ETF（EMXC）收跌3.38%，XtrackersHarvest中证50（ASHS）收跌1.47%，德银嘉实沪深300指数ETF（ASHR）收跌1.27%。 中国科技指数ETF（CQQQ）收跌0.92%，中概互联网指数ETF（KWEB）收跌0.31%。",
+          "url": "https://wallstreetcn.com/livenews/3130156",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        },
+        {
+          "title": "美股存储芯片指数初步收跌6.8%，费城半导体指数跌4.9%。 标普500指数初步收跌0.4%，科技板块跌1.8%，工业板块跌1.6%，能源板块涨3.2%。 纳斯达克100指数初步收跌1.8%，成分股中，Astera Labs初步收跌12%，泰瑞达跌10.3%，英特尔跌10.1%，迈威尔科技/美满电子、西部数据、Nebius集团、科磊、拉姆研究、闪迪至少跌7.1%，汤森路透则涨3.2%，Workday行4%，再生元制药涨4.1%，Diamondback Energy涨4.2%，吉利德科学涨5.2%。 道指成分股里，雪佛龙涨3.6%。",
+          "url": "https://wallstreetcn.com/livenews/3130154",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        },
+        {
+          "title": "据研究机构PivotalPath的数据，截至6月30日，2026年对冲基金平均回报率为7.2%，创2021年以来最强劲的上半年表现。 其中，专注于科技股的对冲基金表现领跑，平均回报率高达27%。",
+          "url": "https://wallstreetcn.com/livenews/3130147",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        },
+        {
+          "title": "终于在抖音叛逆了一回",
+          "url": "https://www.douyin.com/hot/2561669",
+          "source": "抖音",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        },
+        {
+          "title": "恒生指数主连夜盘收涨0.11%，报23499点。 恒生科技指数主连夜盘收涨0.02%，报4513点。",
+          "url": "https://wallstreetcn.com/livenews/3130140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        }
+      ]
+    },
     {
       "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
       "match_count": 5,
@@ -12,22 +95,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33531570",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时07分"
-        },
-        {
-          "title": "如何看待华为首批天才少年计划入选者李博杰吐槽 DeepSeek 的面试流程拖沓，被面试官指控抄袭？",
-          "url": "https://www.zhihu.com/question/2057753624717911009",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时07分"
+          "appearance_count": 2,
+          "time_info": "[02时07分 ~ 04时53分]"
         },
         {
           "title": "前华为“天才少年”公开吐槽DeepSeek面试流程",
@@ -35,6 +108,17 @@
           "source": "凤凰网",
           "ranks": [
             12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时07分 ~ 04时53分]"
+        },
+        {
+          "title": "如何看待华为首批天才少年计划入选者李博杰吐槽 DeepSeek 的面试流程拖沓，被面试官指控抄袭？",
+          "url": "https://www.zhihu.com/question/2057753624717911009",
+          "source": "知乎",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -57,23 +141,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "闪迪、美光科技跌超6%",
-          "url": "https://www.baidu.com/s?wd=%E9%97%AA%E8%BF%AA%E3%80%81%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80%E8%B7%8C%E8%B6%856%25",
-          "source": "百度热搜",
-          "ranks": [
-            16
           ],
           "is_new": false,
           "appearance_count": 1,
