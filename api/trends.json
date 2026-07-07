@@ -1,12 +1,37 @@
 {
-  "generated_at": "2026-07-07T07:14:46.368090+08:00",
-  "total_titles_processed": 570,
+  "generated_at": "2026-07-07T12:04:02.250094+08:00",
+  "total_titles_processed": 811,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 6,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "互联网巨头开始“买房收租”？京东7.5亿港元买下香港酒店将改学生宿舍",
+          "url": "https://www.cls.cn/detail/2418465",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 12时04分]"
+        },
+        {
+          "title": "初步预测今年我国人工智能相关产业规模将有30%以上增速",
+          "url": "https://wallstreetcn.com/livenews/3129741",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时04分"
+        },
         {
           "title": "三星电子公布业绩预告后，闪迪(SNDK.O)和美光科技(MU.O)美股盘后走低，现分别跌1.2%和0.7%。",
           "url": "https://flash.jin10.com/detail/20260707065433008800",
@@ -14,7 +39,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
         },
@@ -25,22 +50,53 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
         },
         {
-          "title": "互联网巨头开始“买房收租”？京东7.5亿港元买下香港酒店将改学生宿舍",
-          "url": "https://www.cls.cn/detail/2418465",
-          "source": "财联社热门",
+          "title": "科技股遭对冲基金连抛四周，高盛交易员：“买入一切AI”时代终结！",
+          "url": "https://wallstreetcn.com/articles/3776266",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
-            11,
-            9
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 07时14分]"
+          "appearance_count": 2,
+          "time_info": "[12时03分 ~ 12时04分]"
+        },
+        {
+          "title": "三星电子公布最新季报，预计二季度利润同比暴增 1810%，如何看待这份财报？科技行情还能继续吗？",
+          "url": "https://www.zhihu.com/question/2057735732068979803",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时03分 ~ 12时04分]"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-07-07）",
+          "url": "https://flash.jin10.com/detail/20260707114534825800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时04分"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260707114116062800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时04分"
         },
         {
           "title": "北美科技软件股指数ETF涨1.30%，报94.79美元。 Global X网络安全ETF涨3.41%，纳斯达克网络安全ETF涨2.47%，ETFMG网络安全ETF涨3.08%",
@@ -52,6 +108,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
+        },
+        {
+          "title": "国家发展改革委将在2026世界人工智能大会发布两项成果",
+          "url": "https://wallstreetcn.com/livenews/3129712",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时04分"
+        },
+        {
+          "title": "我国规上工业企业人工智能应用普及率已超30%",
+          "url": "https://wallstreetcn.com/livenews/3129711",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时04分"
         },
         {
           "title": "周一（7月6日），美股行业ETF多数收涨，全球科技股指数ETF涨2.18%，半导体ETF涨2.03%，科技行业ETF、网络股指数ETF至多涨1.67%，能源业ETF、生物科技指数ETF则至多收跌0.20%，公用事业ETF、医疗业ETF、日常消费品ETF至多跌1.05%。 标普500指数的11个板块中，电信板块收涨1.64%，信息技术/科技板块涨1.34%，房地产、日用消费品板块跌0.9%，公用事业、保健板块至多跌1.17%。",
@@ -74,13 +152,97 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
+        },
+        {
+          "title": "上海市经信委主任汤文侃：业界最大规模超节点华为Atlas 950、阶跃Agent操作系统、全球首款AI智能体手机将在2026世界人工智能大会首秀",
+          "url": "https://wallstreetcn.com/livenews/3129706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时04分"
+        },
+        {
+          "title": "2026世界人工智能大会会前已累计达成162亿元意向合作",
+          "url": "https://wallstreetcn.com/livenews/3129704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "据英国金融时报：前OpenAI研究员管理的对冲基金Situational Awareness与英国投资机构Baillie Gifford等机构拟认购约70亿美元SK海力士纳斯达克IPO股份。",
+          "url": "https://flash.jin10.com/detail/20260707024555773800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "如何看待华为首批天才少年计划入选者李博杰吐槽 DeepSeek 的面试流程流程拖沓，被面试官指控抄袭？",
+          "url": "https://www.zhihu.com/question/2057753624717911009",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时03分 ~ 12时04分]"
+        },
+        {
+          "title": "前华为天才少年吐槽DeepSeek面试",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%89%8D%E5%8D%8E%E4%B8%BA%E5%A4%A9%E6%89%8D%E5%B0%91%E5%B9%B4%E5%90%90%E6%A7%BDDeepSeek%E9%9D%A2%E8%AF%95%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时03分 ~ 12时04分]"
+        },
+        {
+          "title": "前华为天才少年吐槽DeepSeek面试",
+          "url": "https://www.baidu.com/s?wd=%E5%89%8D%E5%8D%8E%E4%B8%BA%E5%A4%A9%E6%89%8D%E5%B0%91%E5%B9%B4%E5%90%90%E6%A7%BDDeepSeek%E9%9D%A2%E8%AF%95",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时03分 ~ 12时04分]"
         }
       ]
     },
     {
       "keyword_group": "独立开发 创业 副业",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "创业板跌近2%，科创50巨震后收涨1%，PCB、CPO齐跌，创新药逆势再爆发，恒指涨超1%三连涨",
+          "url": "https://wallstreetcn.com/articles/3776252",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 12时04分]"
+        },
         {
           "title": "【每日收评】创业板指冲高回落跌1.77%，算力硬件股持续调整，煤炭、医药防御性板块逆势走强",
           "url": "https://www.cls.cn/detail/2418067",
@@ -95,32 +257,15 @@
           "time_info": "[00时56分 ~ 07时14分]"
         },
         {
-          "title": "创业板跌近2%，科创50巨震后收涨1%，PCB、CPO齐跌，创新药逆势再爆发，恒指涨超1%三连涨",
-          "url": "https://wallstreetcn.com/articles/3776252",
-          "source": "华尔街见闻",
+          "title": "上证指数早盘收报3999.03点，跌1.04%。 深证成指早盘收报15259.20点，跌1.02%。 创业板指早盘收报3918.22点，跌0.78%。 沪深300早盘收报4802.00点，跌0.83%。 科创50早盘收报2009.24点，涨0.66%。 中证500早盘收报8552.19点，跌1.14%。 中证1000早盘收报8347.11点，跌1.48%。",
+          "url": "https://wallstreetcn.com/livenews/3129731",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            8
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 07时14分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "据英国金融时报：前OpenAI研究员管理的对冲基金Situational Awareness与英国投资机构Baillie Gifford等机构拟认购约70亿美元SK海力士纳斯达克IPO股份。",
-          "url": "https://flash.jin10.com/detail/20260707024555773800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时02分"
+          "time_info": "12时04分"
         }
       ]
     },
