@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-08T20:27:17.932743+08:00",
-  "total_titles_processed": 1318,
+  "generated_at": "2026-07-08T23:28:24.896417+08:00",
+  "total_titles_processed": 1475,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 32,
+      "match_count": 37,
       "titles": [
         {
           "title": "【早报】美方：强力打击伊朗、终止对伊油制裁豁免；美股科技股集体跳水；原油大涨、黄金收跌；阿根廷3-2逆转埃及",
@@ -76,6 +76,28 @@
           "time_info": "15时36分"
         },
         {
+          "title": "上交所官网显示，英韧科技股份有限公司科创板IPO审核状态变更为“已问询”。",
+          "url": "https://wallstreetcn.com/livenews/3130786",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
+        },
+        {
+          "title": "我国人工智能产业加速发展壮大",
+          "url": "https://www.douyin.com/hot/2563823",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
+        },
+        {
           "title": "金十数据整理：每日人工智能动态汇总（2026-07-08）",
           "url": "https://flash.jin10.com/detail/20260708120444479800",
           "source": "金十数据",
@@ -96,6 +118,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
+        },
+        {
+          "title": "央行：加强对扩大内需、科技创新、中小微企业等重点领域的金融支持",
+          "url": "https://www.cls.cn/detail/2420693",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时27分 ~ 23时28分]"
         },
         {
           "title": "周二（7月7日），美国科技股七巨头（Magnificent 7）指数涨0.14%，北京时间23:40-00:50曾显著反弹；“超大”市值科技股指数跌1.26%。 美股存储芯片与硬件供应链指数跌6.52%，报208.40点，跳空低开之后，整体持续低位震荡。 美股超大规模云服务商（Hyperscalers）涨0.59%。 信息科技指数跌4.52%，报403.66点。 人工智能（AI）赢家指数跌4.08%，报398.90点。 AI软件先驱指数涨0.67%，报111.18点。",
@@ -210,17 +244,6 @@
           "time_info": "15时36分"
         },
         {
-          "title": "央行：加强对扩大内需、科技创新、中小微企业等重点领域的金融支持",
-          "url": "https://www.cls.cn/detail/2420693",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时27分"
-        },
-        {
           "title": "周二（7月7日），彭博电动汽车价格回报指数跌3.02%，报3475.02点，亚太盘初以来持续走低，美股开盘后跳空下挫。 成分股中，Rivian跌18.12%——创2024年2月份以来最大单日跌幅，Lucid集团跌9.98%，意法半导体巴黎股价跌7.99%，禾赛科技跌7.56%，欧股宝马收涨1.03%，H股蔚来集团涨1.71%、雅迪集团控股涨3.09%、吉利汽车控股涨3.11%。",
           "url": "https://wallstreetcn.com/livenews/3130160",
           "source": "华尔街见闻-快讯",
@@ -232,6 +255,17 @@
           "time_info": "04时53分"
         },
         {
+          "title": "抖音网友善意正送往广西灾区",
+          "url": "https://www.douyin.com/hot/2563688",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
+        },
+        {
           "title": "宝鼎科技：预计2026年上半年净利润同比增长468.71%～559.71%",
           "url": "https://wallstreetcn.com/livenews/3130564",
           "source": "华尔街见闻-快讯",
@@ -241,6 +275,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
+        },
+        {
+          "title": "据上交所官网显示，英韧科技股份有限公司科创板IPO审核状态变更为“已问询”。",
+          "url": "https://flash.jin10.com/detail/20260708224811352800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.58%，报5978.44点。 热门中概股里，日月光半导体初步收跌8.9%，蔚来、百度、拼多多、新东方、京东、百胜中国之多跌2.6%，阿里巴巴涨0.1%，腾讯涨1.9%，金山云涨3.2%，美团涨6%。 ETF中，MSCI新兴市场ex中国ETF（EMXC）收跌3.38%，XtrackersHarvest中证50（ASHS）收跌1.47%，德银嘉实沪深300指数ETF（ASHR）收跌1.27%。 中国科技指数ETF（CQQQ）收跌0.92%，中概互联网指数ETF（KWEB）收跌0.31%。",
@@ -296,6 +341,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
+        },
+        {
+          "title": "A股热门科技股回撤超25%",
+          "url": "https://www.toutiao.com/trending/7660129507965144585/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
         },
         {
           "title": "据研究机构PivotalPath的数据，截至6月30日，2026年对冲基金平均回报率为7.2%，创2021年以来最强劲的上半年表现。 其中，专注于科技股的对冲基金表现领跑，平均回报率高达27%。",
@@ -359,7 +415,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         }
@@ -367,7 +423,7 @@
     },
     {
       "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "前华为“天才少年”公开发文称DeepSeek面试流程不规范",
@@ -430,6 +486,17 @@
           "time_info": "[02时07分 ~ 06时18分]"
         },
         {
+          "title": "吐槽 DeepSeek 面试的华为天才少年李博杰被投资人控诉诈骗，李博杰称始终履行职责，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2058168270499176758",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时27分 ~ 23时28分]"
+        },
+        {
           "title": "OpenAI：GPT-5.6 SOL、TERRA和LUNA版本将于本周四公开发布。",
           "url": "https://flash.jin10.com/detail/20260708120128059800",
           "source": "金十数据",
@@ -463,15 +530,15 @@
           "time_info": "02时07分"
         },
         {
-          "title": "吐槽 DeepSeek 面试的华为天才少年李博杰被投资人控诉诈骗，李博杰称始终履行职责，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2058168270499176758",
+          "title": "OpenAI 官宣 GPT-5.6 本周四全面开放，哪些亮点值得期待？",
+          "url": "https://www.zhihu.com/question/2058166406420460573",
           "source": "知乎",
           "ranks": [
-            15
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时27分"
+          "time_info": "23时28分"
         },
         {
           "title": "微软在部分应用中以自研AI模型替代OpenAI和Anthropic",
@@ -540,11 +607,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 20时27分]"
+          "appearance_count": 3,
+          "time_info": "[18时27分 ~ 23时28分]"
         },
         {
           "title": "上证指数早盘收报4011.05点，涨0.52%。 深证成指早盘收报15237.45点，涨0.08%。 创业板指早盘收报3949.04点，涨0.95%。 沪深300早盘收报4821.65点，涨0.61%。 科创50早盘收报2064.20点，涨3.13%。 中证500早盘收报8546.14点，涨0.44%。 中证1000早盘收报8277.09点，跌0.30%。",
