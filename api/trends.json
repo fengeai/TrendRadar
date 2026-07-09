@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-09T07:16:33.229213+08:00",
-  "total_titles_processed": 535,
+  "generated_at": "2026-07-09T11:57:45.312742+08:00",
+  "total_titles_processed": 761,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 12,
+      "match_count": 18,
       "titles": [
         {
           "title": "央行：加强对扩大内需、科技创新、中小微企业等重点领域的金融支持",
@@ -30,13 +30,36 @@
           "time_info": "[01时46分 ~ 07时16分]"
         },
         {
+          "title": "【早报】美伊再起冲突；美股科技股大反弹，中概股大涨；原油大涨，黄金、白银大跌；长鑫科技，申购日定了",
+          "url": "https://www.cls.cn/detail/2421042",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
+          "title": "抖音网友善意正送往广西灾区",
+          "url": "https://www.douyin.com/hot/2563688",
+          "source": "抖音",
+          "ranks": [
+            21,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时46分 ~ 11时57分]"
+        },
+        {
           "title": "美伊停火破裂刺激油价，欧股重挫，美科技股护盘，纳指逆市收涨，中概股大涨",
           "url": "https://wallstreetcn.com/articles/3776425",
           "source": "华尔街见闻",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -52,16 +75,16 @@
           "time_info": "03时46分"
         },
         {
-          "title": "抖音网友善意正送往广西灾区",
-          "url": "https://www.douyin.com/hot/2563688",
-          "source": "抖音",
+          "title": "长鑫科技，7月16日打新！",
+          "url": "https://www.cls.cn/detail/2421004",
+          "source": "财联社热门",
           "ranks": [
-            21,
-            20
+            9,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时46分 ~ 07时16分]"
+          "appearance_count": 2,
+          "time_info": "[07时16分 ~ 11时57分]"
         },
         {
           "title": "恒生指数主连夜盘收跌0.22%，报23983点。 恒生科技指数主连夜盘收跌0.36%，报4681点。",
@@ -76,15 +99,15 @@
           "time_info": "[03时46分 ~ 05时16分]"
         },
         {
-          "title": "长鑫科技，7月16日打新！",
-          "url": "https://www.cls.cn/detail/2421004",
-          "source": "财联社热门",
+          "title": "香港成为中东科技企业新入口 沙特科技巨头探索智慧城市合作与区域扩张",
+          "url": "https://flash.jin10.com/detail/20260709112816309800",
+          "source": "金十数据",
           "ranks": [
-            9
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时16分"
+          "time_info": "11时57分"
         },
         {
           "title": "北美科技软件股指数ETF跌1.75%，报92.48美元。 Global X网络安全ETF跌1.71%，纳斯达克网络安全ETF跌0.60%，ETFMG网络安全ETF跌0.79%。",
@@ -96,6 +119,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
+        },
+        {
+          "title": "美股AI牛市熄火？逾六成科技股“入熊”：较近期高点暴跌逾20%",
+          "url": "https://www.cls.cn/detail/2421094",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
         },
         {
           "title": "标普500指数的11个板块中，原材料板块收跌2.49%，金融、房地产、可选消费、电信、保健、工业板块跌1.92%-1.08%，信息技术/科技板块涨1.44%，能源板块涨1.45%。",
@@ -120,6 +154,17 @@
           "time_info": "05时16分"
         },
         {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260709111329584800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
           "title": "纳斯达克金龙中国指数收涨2.05%，报6101.09点，美股开盘后两小时冲高回落、北京时间22:26刷新日高至6176.82点。 热门中概股里，阿里巴巴初步收涨11%，金山云涨11.7%，小米涨7.7%，百度涨5%，腾讯涨2.9%，新东方涨2.7%。 ETF中，中概互联网指数ETF（KWEB）收涨3.53%，中国科技指数ETF（CQQQ）收涨1.54%。 MSCI新兴市场ex中国ETF（EMXC）收涨0.45%，德银嘉实沪深300指数ETF（ASHR）收跌0.80%，XtrackersHarvest中证50（ASHS）收跌1.64%。",
           "url": "https://wallstreetcn.com/livenews/3130877",
           "source": "华尔街见闻-快讯",
@@ -137,9 +182,31 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "国家超算互联网核心节点正式上线",
+          "url": "https://wallstreetcn.com/livenews/3131045",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
+          "title": "俄罗斯国家杜马通过人工智能监管法案",
+          "url": "https://wallstreetcn.com/livenews/3131042",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
         }
       ]
     },
@@ -242,8 +309,19 @@
     },
     {
       "keyword_group": "独立开发 创业 副业",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "上证指数早盘收报3952.49点，跌0.46%。 深证成指早盘收报14887.99点，跌0.35%。 创业板指早盘收报3850.21点，涨0.13%。 沪深300早盘收报4758.39点，涨0.06%。 科创50早盘收报2080.50点，涨3.19%。 中证500早盘收报8342.49点，跌0.57%。 中证1000早盘收报8032.57点，跌1.05%。",
+          "url": "https://wallstreetcn.com/livenews/3131073",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
         {
           "title": "【每日收评】创业板指冲高回落跌1.7%，算力租赁逆势走强，机器人、锂电概念股集体重挫",
           "url": "https://www.cls.cn/detail/2420430",
@@ -254,6 +332,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时46分 ~ 03时46分]"
+        },
+        {
+          "title": "深成指跌超1%，沪指跌0.74%，创业板指跌0.79%，锂矿、有色金属、电网设备、稀土永磁等方向跌幅居前，沪深京三市下跌个股近4700只。",
+          "url": "https://wallstreetcn.com/livenews/3131067",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
         }
       ]
     }
