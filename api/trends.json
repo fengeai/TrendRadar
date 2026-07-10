@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-10T12:59:41.542876+08:00",
-  "total_titles_processed": 808,
+  "generated_at": "2026-07-10T16:32:39.754207+08:00",
+  "total_titles_processed": 988,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 27,
+      "match_count": 34,
       "titles": [
         {
           "title": "丁薛祥：全力抓好党中央关于科技事业各项部署的落实，加快推进高水平科技自立自强",
@@ -32,6 +32,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时04分 ~ 08时13分]"
+        },
+        {
+          "title": "长鑫科技IPO豪华承销团抢眼！6家券商同框不常见，真正看点不止承销保荐费",
+          "url": "https://www.cls.cn/detail/2422351",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时59分 ~ 16时32分]"
         },
         {
           "title": "海力士美股IPO点燃AI热情，美股高开，科技股反弹，康宁涨超8%，黄金涨超1%，原油回落",
@@ -77,18 +88,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时59分"
-        },
-        {
-          "title": "长鑫科技IPO豪华承销团抢眼！6家券商同框不常见，真正看点不止承销保荐费",
-          "url": "https://www.cls.cn/detail/2422351",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
@@ -98,11 +98,23 @@
           "source": "知乎",
           "ranks": [
             10,
-            3
+            3,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时12分 ~ 12时59分]"
+          "appearance_count": 4,
+          "time_info": "[08时12分 ~ 16时32分]"
+        },
+        {
+          "title": "工信部：将于7月16日至24日在四川成都举办数字和人工智能部长会议及数字周相关活动",
+          "url": "https://wallstreetcn.com/livenews/3131880",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "长鑫科技申购",
@@ -115,6 +127,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时52分 ~ 08时13分]"
+        },
+        {
+          "title": "科技主线向上还是暂停？请收好全球主要科技公司Q2财报发布指南",
+          "url": "https://www.cls.cn/detail/2421559",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时59分 ~ 16时32分]"
+        },
+        {
+          "title": "美国AI股太贵了？顶级基金经理：转战中国科技股、英股高股息与全球能源",
+          "url": "https://wallstreetcn.com/articles/3776590",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时59分 ~ 16时32分]"
         },
         {
           "title": "期货热点追踪",
@@ -164,37 +199,48 @@
           "time_info": "[08时12分 ~ 08时13分]"
         },
         {
+          "title": "港股收盘：恒生指数收涨0.6%，恒生科技指数收跌0.21%。商业航天概念股走高，钧达股份涨超24%，金风科技涨超8%，亚太卫星涨超4%；创新药概念股上涨，派格生物医药涨超28%，乐普生物涨超4%，药明康德涨超4%。AI大模型概念股下挫，智谱跌超19%，MiniMax跌超9%。",
+          "url": "https://wallstreetcn.com/livenews/3131875",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "2026年APEC数字和人工智能部长会议将在成都举行",
+          "url": "https://wallstreetcn.com/livenews/3131874",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
           "title": "国家能源局：鼓励能源领域人工智能模型创新，探索数智化节能降碳解决方案",
           "url": "https://wallstreetcn.com/livenews/3131743",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
         {
-          "title": "美国AI股太贵了？顶级基金经理：转战中国科技股、英股高股息与全球能源",
-          "url": "https://wallstreetcn.com/articles/3776590",
-          "source": "华尔街见闻",
+          "title": "港股收评：恒生指数涨0.6%，恒生科技指数跌0.21%",
+          "url": "https://flash.jin10.com/detail/20260710161350386800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时59分"
-        },
-        {
-          "title": "科技主线向上还是暂停？请收好全球主要科技公司Q2财报发布指南",
-          "url": "https://www.cls.cn/detail/2421559",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时59分"
+          "time_info": "16时32分"
         },
         {
           "title": "北美科技软件股指数ETF涨1.51%，报93.88美元。 Global X网络安全ETF涨2.97%，纳斯达克网络安全ETF涨2.84%，ETFMG网络安全ETF涨2.78%",
@@ -230,6 +276,17 @@
           "time_info": "08时13分"
         },
         {
+          "title": "香港恒生指数7月10日（周五）收盘上涨144.94点，涨幅0.6%，报24175.12点；<br/>香港恒生科技指数7月10日（周五）收盘下跌9.9点，跌幅0.21%，报4721.66点；<br/>国企指数7月10日（周五）收盘上涨41.9点，涨幅0.52%，报8039.19点；<br/>红筹指数7月10日（周五）收盘上涨26.93点，涨幅0.7%，报3851.04点。",
+          "url": "https://flash.jin10.com/detail/20260710161110884800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
           "title": "南向资金大举买入科技板块，多重共振开启估值修复",
           "url": "https://wallstreetcn.com/livenews/3131574",
           "source": "华尔街见闻-快讯",
@@ -247,7 +304,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
@@ -261,6 +318,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
+        },
+        {
+          "title": "港股收盘，恒指收涨0.6%，科指收跌0.21%。芯片股集体调整，兆易创新(03986.HK)跌约21%，天数智芯(09903.HK)跌超18%，澜起科技(06809.HK)跌约9%。",
+          "url": "https://flash.jin10.com/detail/20260710160912034800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "标普500指数收涨60.93点，涨幅0.81%，报7543.64点。 道琼斯工业平均指数收涨139.02点，涨幅0.27%，报52487.41点。 纳斯达克综合指数（纳指）收涨336.238点，涨幅1.30%，报26206.89点。 纳斯达克100指数收涨474.535点，涨幅1.62%，报29727.097点。 纳斯达克科技市值加权指数收涨1.74%，报2939.4248点。 费城半导体指数收涨385.036点，涨幅3.06%，报12960.003点。 费城证交所KBW银行指数收涨1.93%，报186.26点。 道琼斯KBW地区银行指数收涨1.66%，报145.18点。 罗素2000指数收涨1.22%，报2992.541点。 纳斯达克生物科技指数收涨0.39%，报6818.99点。 标普中盘股400指数收涨1.24%，纳斯达克美国中等市值指数涨1.08%。 恐慌指数VIX收跌6.27%，报15.84。",
@@ -280,7 +348,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
@@ -302,9 +370,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
+        },
+        {
+          "title": "科技股大幅回调原因",
+          "url": "https://s.weibo.com/weibo?q=%E7%A7%91%E6%8A%80%E8%82%A1%E5%A4%A7%E5%B9%85%E5%9B%9E%E8%B0%83%E5%8E%9F%E5%9B%A0&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-07-10）",
@@ -313,7 +392,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         }
@@ -472,8 +551,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时04分 ~ 12时59分]"
+          "appearance_count": 8,
+          "time_info": "[02时04分 ~ 16时32分]"
         },
         {
           "title": "【每日收评】创业板指探底回升涨超4%，半导体产业链持续爆发，算力硬件股集体反攻",
@@ -493,7 +572,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
@@ -504,7 +583,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
@@ -515,7 +594,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         }
