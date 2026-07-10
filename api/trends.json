@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-10T16:32:39.754207+08:00",
-  "total_titles_processed": 988,
+  "generated_at": "2026-07-10T20:04:36.522458+08:00",
+  "total_titles_processed": 1186,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 34,
+      "match_count": 40,
       "titles": [
         {
           "title": "丁薛祥：全力抓好党中央关于科技事业各项部署的落实，加快推进高水平科技自立自强",
@@ -93,6 +93,28 @@
           "time_info": "12时59分"
         },
         {
+          "title": "长鑫科技上市在即，有望纳入哪些指数？何时能借道ETF布局？",
+          "url": "https://www.cls.cn/detail/2422854",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时04分"
+        },
+        {
+          "title": "皇冠新材料科技股份有限公司将于7月17日上会",
+          "url": "https://flash.jin10.com/detail/20260710195239101800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时04分"
+        },
+        {
           "title": "广西洪水致大批学生被困，「救援航母」开入校园，这是种什么装备？救灾中还有哪些硬核科技派上了用场？",
           "url": "https://www.zhihu.com/question/2058504856239970003",
           "source": "知乎",
@@ -112,9 +134,34 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
+        },
+        {
+          "title": "科技主线向上还是暂停？请收好全球主要科技公司Q2财报发布指南",
+          "url": "https://www.cls.cn/detail/2421559",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时59分 ~ 20时04分]"
+        },
+        {
+          "title": "美国AI股太贵了？顶级基金经理：转战中国科技股、英股高股息与全球能源",
+          "url": "https://wallstreetcn.com/articles/3776590",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时59分 ~ 20时04分]"
         },
         {
           "title": "长鑫科技申购",
@@ -127,29 +174,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时52分 ~ 08时13分]"
-        },
-        {
-          "title": "科技主线向上还是暂停？请收好全球主要科技公司Q2财报发布指南",
-          "url": "https://www.cls.cn/detail/2421559",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 16时32分]"
-        },
-        {
-          "title": "美国AI股太贵了？顶级基金经理：转战中国科技股、英股高股息与全球能源",
-          "url": "https://wallstreetcn.com/articles/3776590",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 16时32分]"
         },
         {
           "title": "期货热点追踪",
@@ -205,9 +229,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
+        },
+        {
+          "title": "华工科技：TGV玻璃通孔激光加工智能装备已完成整机定型",
+          "url": "https://flash.jin10.com/detail/20260710194632990800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时04分"
         },
         {
           "title": "2026年APEC数字和人工智能部长会议将在成都举行",
@@ -216,7 +251,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -232,15 +267,48 @@
           "time_info": "12时59分"
         },
         {
+          "title": "静待SK海力士IPO，美股科技股盘前小幅下挫，日元走强，布油企稳，黄金承压",
+          "url": "https://wallstreetcn.com/articles/3776623",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时04分"
+        },
+        {
           "title": "港股收评：恒生指数涨0.6%，恒生科技指数跌0.21%",
           "url": "https://flash.jin10.com/detail/20260710161350386800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
+        },
+        {
+          "title": "安泰科技：控股子公司河冶科技拟投资1.95亿元实施粉末工模具钢产线扩产建设",
+          "url": "https://flash.jin10.com/detail/20260710194242321800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时04分"
+        },
+        {
+          "title": "安泰科技：安泰创投拟挂牌转让启赋安泰30%股权，底价不低于381.42万元",
+          "url": "https://flash.jin10.com/detail/20260710194200252800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时04分"
         },
         {
           "title": "北美科技软件股指数ETF涨1.51%，报93.88美元。 Global X网络安全ETF涨2.97%，纳斯达克网络安全ETF涨2.84%，ETFMG网络安全ETF涨2.78%",
@@ -282,7 +350,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -326,7 +394,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -381,7 +449,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -538,7 +606,7 @@
     },
     {
       "keyword_group": "独立开发 创业 副业",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "午后大反击！创业板暴涨超4%，科创50狂飙8%，中芯国际创新高，港股AI大模型双雄分化，智谱涨11%、MINIMAX大跌18%",
@@ -564,6 +632,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时04分 ~ 04时52分]"
+        },
+        {
+          "title": "【每日收评】创业板指放量跌超4%，半导体、AI硬件股集体调整，创新药板块逆势活跃",
+          "url": "https://www.cls.cn/detail/2422921",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时04分"
         },
         {
           "title": "韩国交易所因KOSDAQ 150期货上涨6%，在韩国创业板指（KOSDAQ）启动“临时停牌”机制，程序化交易暂停5分钟。",
