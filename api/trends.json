@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T19:58:46.597503+08:00",
-  "total_titles_processed": 1194,
+  "generated_at": "2026-07-11T21:46:39.205745+08:00",
+  "total_titles_processed": 1307,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时24分 ~ 19时58分]"
+          "appearance_count": 6,
+          "time_info": "[11时24分 ~ 21时46分]"
         },
         {
           "title": "长鑫科技上市在即，有望纳入哪些指数？何时能借道ETF布局？",
@@ -40,6 +41,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时24分 ~ 16时53分]"
+        },
+        {
+          "title": "阿里合计持股长鑫科技近5%，超过董事长朱一明",
+          "url": "https://wallstreetcn.com/articles/3776703",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时21分 ~ 21时46分]"
         },
         {
           "title": "高盛深度报告：谁将成为中国AI大模型行业的长期赢家？",
@@ -77,18 +91,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时43分 ~ 05时13分]"
-        },
-        {
-          "title": "阿里合计持股长鑫科技近5%，超过董事长朱一明",
-          "url": "https://wallstreetcn.com/articles/3776703",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 19时58分]"
         },
         {
           "title": "周五（7月10日），美股行业ETF普遍上涨，日常消费品ETF收涨超1.1%，银行业ETF、半导体ETF至少涨0.54%，科技行业ETF、全球科技股指数ETF、网络股指数ETF涨约0.2%，全球航空业ETF跌0.99%，生物科技指数ETF跌2.68%。 2026年迄今，半导体ETF累涨69.67%，全球科技股指数ETF累涨34.19%，科技行业ETF、能源业ETF至少涨24.89%，可选消费ETF则跌1.42%。",
