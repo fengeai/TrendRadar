@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T14:21:57.661774+08:00",
-  "total_titles_processed": 855,
+  "generated_at": "2026-07-11T16:53:17.778858+08:00",
+  "total_titles_processed": 998,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 14时21分]"
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 16时53分]"
         },
         {
           "title": "看广西洪灾中的救援硬核科技",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 14时21分]"
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 16时53分]"
         },
         {
           "title": "隆华科技集团旗下丰联科光电实现G8.7 AMOLED银合金管靶全自主量产出货",
@@ -85,8 +85,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 14时21分]"
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 16时53分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.23%，报6120.74点，本周累计上涨3.53%。 热门中概股里，网易初步收跌4.5%，日月光半导体跌1.2%，腾讯跌1.1%，拼多多跌0.8%，阿里涨1%，比亚迪涨2.9%，小米集团涨3.4%。 ETF中，中国科技指数ETF（CQQQ）收跌2.68%，本周反弹3.06%； 德银嘉实沪深300指数ETF（ASHR）收跌1.39%，本周反弹0.63%； XtrackersHarvest中证50（ASHS）收跌1.33%，本周跌0.89%； 中概互联网指数ETF（KWEB）收跌0.38%，本周累涨5.56%、延续上周反弹4.39%的表现； MSCI新兴市场ex中国ETF（EMXC）收涨0.33%，本周反弹1.37%。",
@@ -214,11 +214,12 @@
             7,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时52分 ~ 14时21分]"
+          "appearance_count": 8,
+          "time_info": "[01时52分 ~ 16时53分]"
         },
         {
           "title": "【每日收评】创业板指放量跌超4%，半导体、AI硬件股集体调整，创新药板块逆势活跃",
