@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T01:05:58.312349+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-12T03:15:02.248145+08:00",
+  "total_titles_processed": 350,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
+          "appearance_count": 3,
+          "time_info": "[01时05分 ~ 03时15分]"
         },
         {
           "title": "科技股续撑纳指三连阳，SK海力士ADR首日大涨13%，布油冲高转跌，黄金走V仍收跌",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
+          "appearance_count": 3,
+          "time_info": "[01时05分 ~ 03时15分]"
         },
         {
           "title": "“孤岛”救援的中国科技",
@@ -39,6 +39,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek V4 正式版将于 7 月中旬上线，你有什么期待？",
+          "url": "https://www.zhihu.com/question/2055029429290771542",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时14分 ~ 03时15分]"
         }
       ]
     }
