@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T05:04:08.302773+08:00",
-  "total_titles_processed": 378,
+  "generated_at": "2026-07-13T06:03:06.163320+08:00",
+  "total_titles_processed": 410,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时07分 ~ 05时04分]"
+          "appearance_count": 8,
+          "time_info": "[01时07分 ~ 06时03分]"
         },
         {
           "title": "下周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报",
@@ -27,19 +28,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时07分 ~ 05时04分]"
+          "appearance_count": 8,
+          "time_info": "[01时07分 ~ 06时03分]"
         },
         {
           "title": "维金斯抖音直播谈字母哥加盟",
           "url": "https://www.douyin.com/hot/2568025",
           "source": "抖音",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时07分 ~ 05时04分]"
+          "appearance_count": 8,
+          "time_info": "[01时07分 ~ 06时03分]"
         },
         {
           "title": "中报主线如何掘金？科技风格扩散何时结束？十大券商策略来了",
@@ -50,8 +52,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时07分 ~ 05时04分]"
+          "appearance_count": 8,
+          "time_info": "[01时07分 ~ 06时03分]"
         },
         {
           "title": "全抖音都在鼓励哈兰德",
@@ -91,8 +93,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时07分 ~ 05时04分]"
+          "appearance_count": 8,
+          "time_info": "[01时07分 ~ 06时03分]"
         },
         {
           "title": "Claude：将把Claude Fable 5在所有付费套餐中的开放使用期限延长至7月19日，同时继续将Claude Code 的每周使用额度提高50%，这一政策也将持续至7月19日。",
