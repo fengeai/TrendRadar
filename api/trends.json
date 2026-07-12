@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-12T07:04:34.655967+08:00",
-  "total_titles_processed": 417,
+  "generated_at": "2026-07-12T11:36:42.689683+08:00",
+  "total_titles_processed": 621,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "阿里合计持股长鑫科技近5%，超过董事长朱一明",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 07时04分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 11时36分]"
         },
         {
           "title": "科技股续撑纳指三连阳，SK海力士ADR首日大涨13%，布油冲高转跌，黄金走V仍收跌",
@@ -30,6 +30,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时05分 ~ 07时04分]"
+        },
+        {
+          "title": "全抖音都在鼓励哈兰德",
+          "url": "https://www.douyin.com/hot/2567817",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
         },
         {
           "title": "“孤岛”救援的中国科技",
@@ -46,7 +57,7 @@
     },
     {
       "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "DeepSeek V4 正式版将于 7 月中旬上线，你有什么期待？",
@@ -74,6 +85,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时59分 ~ 07时04分]"
+        },
+        {
+          "title": "苹果起诉OpenAI及两名员工窃取产品机密：曾要求带着“零部件”去面试",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33566535",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
         }
       ]
     }
