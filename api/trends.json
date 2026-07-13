@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13T08:02:15.275942+08:00",
-  "total_titles_processed": 530,
+  "generated_at": "2026-07-13T12:36:30.165978+08:00",
+  "total_titles_processed": 753,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 9,
+      "match_count": 16,
       "titles": [
         {
           "title": "小红书前员工再发文实名举报 IPO 合规，哪些信息值得关注？",
@@ -38,11 +38,12 @@
           "ranks": [
             9,
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时07分 ~ 08时02分]"
+          "appearance_count": 11,
+          "time_info": "[01时07分 ~ 12时36分]"
         },
         {
           "title": "维金斯抖音直播谈字母哥加盟",
@@ -69,6 +70,17 @@
           "time_info": "[08时01分 ~ 08时02分]"
         },
         {
+          "title": "本周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报",
+          "url": "https://wallstreetcn.com/articles/3776632",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
+        },
+        {
           "title": "全抖音都在鼓励哈兰德",
           "url": "https://www.douyin.com/hot/2567817",
           "source": "抖音",
@@ -88,7 +100,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -104,15 +116,81 @@
           "time_info": "[03时15分 ~ 03时16分]"
         },
         {
+          "title": "高盛：中国股票出现“轮动信号”，A股硬科技仍占优，H股互联网等盈利修复",
+          "url": "https://wallstreetcn.com/articles/3776747",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
+        },
+        {
+          "title": "五大亮点提前看！世界人工智能大会本周开幕：智慧、硬核、体验、年轻、治理",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33571516",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
+        },
+        {
           "title": "金十数据整理：每日科技要闻速递（7月13日）",
           "url": "https://flash.jin10.com/detail/20260713071642811800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-07-13）",
+          "url": "https://flash.jin10.com/detail/20260713120043549800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
+        },
+        {
+          "title": "大模型安全测评基准共建行动正式启动",
+          "url": "https://flash.jin10.com/detail/20260713120037840800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
+        },
+        {
+          "title": "长鑫科技超6000员工获股份",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E8%B6%856000%E5%91%98%E5%B7%A5%E8%8E%B7%E8%82%A1%E4%BB%BD%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
+        },
+        {
+          "title": "连续七周增长 中国大模型周调用量是美国4倍以上",
+          "url": "https://flash.jin10.com/detail/20260713114743079800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
         }
       ]
     },
@@ -125,11 +203,12 @@
           "url": "https://wallstreetcn.com/articles/3776720",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时07分 ~ 08时02分]"
+          "appearance_count": 11,
+          "time_info": "[01时07分 ~ 12时36分]"
         },
         {
           "title": "OpenAI宣称攻克CDC猜想",
@@ -153,6 +232,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时16分 ~ 05时04分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "独立开发 创业 副业",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "上证指数早盘收报3934.74点，跌1.54%。 深证成指早盘收报14654.49点，跌2.61%。 创业板指早盘收报3751.33点，跌2.38%。 沪深300早盘收报4716.67点，跌1.34%。 科创50早盘收报2026.96点，跌1.84%。 中证500早盘收报8233.65点，跌3.18%。 中证1000早盘收报7914.59点，跌3.46%。",
+          "url": "https://wallstreetcn.com/livenews/3132593",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
+        },
+        {
+          "title": "7月13日午间收评：深成指、创业板指均跌超2%，全市场下跌个股超4500只",
+          "url": "https://wallstreetcn.com/livenews/3132592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
         }
       ]
     }
