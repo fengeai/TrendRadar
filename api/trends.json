@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13T22:04:38.803533+08:00",
-  "total_titles_processed": 1168,
+  "generated_at": "2026-07-13T23:46:19.531373+08:00",
+  "total_titles_processed": 1310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "小红书前员工再发文实名举报 IPO 合规，哪些信息值得关注？",
@@ -71,6 +71,17 @@
           "time_info": "[12时36分 ~ 16时22分]"
         },
         {
+          "title": "解锁2026世界人工智能大会新亮点",
+          "url": "https://www.toutiao.com/trending/7661668281069223946/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时04分 ~ 23时46分]"
+        },
+        {
           "title": "夏粮增产20亿斤背后的科技密码",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A4%8F%E7%B2%AE%E5%A2%9E%E4%BA%A720%E4%BA%BF%E6%96%A4%E8%83%8C%E5%90%8E%E7%9A%84%E7%A7%91%E6%8A%80%E5%AF%86%E7%A0%81%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
@@ -80,6 +91,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时01分 ~ 08时02分]"
+        },
+        {
+          "title": "五大亮点提前看！世界人工智能大会本周开幕：智慧、硬核、体验、年轻、治理",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33571516",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时36分 ~ 23时46分]"
         },
         {
           "title": "全抖音都在鼓励哈兰德",
@@ -106,15 +131,17 @@
           "time_info": "16时22分"
         },
         {
-          "title": "解锁2026世界人工智能大会新亮点",
-          "url": "https://www.toutiao.com/trending/7661668281069223946/",
-          "source": "今日头条",
+          "title": "高盛：中国股票出现“轮动信号”，A股硬科技仍占优，H股互联网等盈利修复",
+          "url": "https://wallstreetcn.com/articles/3776747",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            10,
+            8,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时04分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时36分 ~ 23时46分]"
         },
         {
           "title": "美国内存芯片制造商股价在盘前交易中下跌，美光科技下跌6.6%，闪迪下跌6.5%，希捷科技下跌5.4%，西部数据下跌6.6%。",
@@ -128,32 +155,6 @@
           "time_info": "16时22分"
         },
         {
-          "title": "五大亮点提前看！世界人工智能大会本周开幕：智慧、硬核、体验、年轻、治理",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33571516",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时36分 ~ 22时04分]"
-        },
-        {
-          "title": "高盛：中国股票出现“轮动信号”，A股硬科技仍占优，H股互联网等盈利修复",
-          "url": "https://wallstreetcn.com/articles/3776747",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时36分 ~ 22时04分]"
-        },
-        {
           "title": "期货热点追踪",
           "url": "https://flash.jin10.com/detail/20260713074957380800",
           "source": "金十数据",
@@ -164,6 +165,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时02分 ~ 16时22分]"
+        },
+        {
+          "title": "科技股连续大跌 这轮牛市到顶了吗",
+          "url": "https://www.toutiao.com/trending/7661946107336855094/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时04分 ~ 23时46分]"
+        },
+        {
+          "title": "周星驰星女郎雪野入驻抖音",
+          "url": "https://www.douyin.com/hot/2570121",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时04分 ~ 23时46分]"
         },
         {
           "title": "功夫女足主创全员抖音集结",
@@ -205,7 +229,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -216,9 +240,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
+        },
+        {
+          "title": "胜宏科技澄清：网络流传相关言论不属实",
+          "url": "https://www.cls.cn/detail/2424855",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
           "title": "金十数据整理：每日科技要闻速递（7月13日）",
@@ -254,17 +289,6 @@
           "time_info": "12时36分"
         },
         {
-          "title": "周星驰星女郎雪野入驻抖音",
-          "url": "https://www.douyin.com/hot/2570121",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时04分"
-        },
-        {
           "title": "长鑫科技超6000员工获股份",
           "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E8%B6%856000%E5%91%98%E5%B7%A5%E8%8E%B7%E8%82%A1%E4%BB%BD%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -282,7 +306,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -307,17 +331,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
-        },
-        {
-          "title": "科技股连续大跌 这轮牛市到顶了吗",
-          "url": "https://www.toutiao.com/trending/7661946107336855094/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时04分"
         }
       ]
     },
@@ -332,9 +345,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时04分 ~ 23时46分]"
         },
         {
           "title": "上证指数早盘收报3934.74点，跌1.54%。 深证成指早盘收报14654.49点，跌2.61%。 创业板指早盘收报3751.33点，跌2.38%。 沪深300早盘收报4716.67点，跌1.34%。 科创50早盘收报2026.96点，跌1.84%。 中证500早盘收报8233.65点，跌3.18%。 中证1000早盘收报7914.59点，跌3.46%。",
