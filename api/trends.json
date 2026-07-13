@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13T06:03:06.163320+08:00",
-  "total_titles_processed": 410,
+  "generated_at": "2026-07-13T08:02:15.275942+08:00",
+  "total_titles_processed": 530,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "小红书前员工再发文实名举报 IPO 合规，哪些信息值得关注？",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时07分 ~ 06时03分]"
+          "appearance_count": 10,
+          "time_info": "[01时07分 ~ 08时02分]"
         },
         {
           "title": "下周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报",
@@ -28,20 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时07分 ~ 06时03分]"
-        },
-        {
-          "title": "维金斯抖音直播谈字母哥加盟",
-          "url": "https://www.douyin.com/hot/2568025",
-          "source": "抖音",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时07分 ~ 06时03分]"
+          "appearance_count": 10,
+          "time_info": "[01时07分 ~ 08时02分]"
         },
         {
           "title": "中报主线如何掘金？科技风格扩散何时结束？十大券商策略来了",
@@ -49,11 +37,36 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时07分 ~ 06时03分]"
+          "appearance_count": 10,
+          "time_info": "[01时07分 ~ 08时02分]"
+        },
+        {
+          "title": "维金斯抖音直播谈字母哥加盟",
+          "url": "https://www.douyin.com/hot/2568025",
+          "source": "抖音",
+          "ranks": [
+            6,
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时07分 ~ 08时02分]"
+        },
+        {
+          "title": "夏粮增产20亿斤背后的科技密码",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%8F%E7%B2%AE%E5%A2%9E%E4%BA%A720%E4%BA%BF%E6%96%A4%E8%83%8C%E5%90%8E%E7%9A%84%E7%A7%91%E6%8A%80%E5%AF%86%E7%A0%81%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时01分 ~ 08时02分]"
         },
         {
           "title": "全抖音都在鼓励哈兰德",
@@ -69,6 +82,17 @@
           "time_info": "[01时07分 ~ 05时04分]"
         },
         {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260713074957380800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
           "title": "功夫女足主创全员抖音集结",
           "url": "https://www.douyin.com/hot/2567708",
           "source": "抖音",
@@ -78,12 +102,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时15分 ~ 03时16分]"
+        },
+        {
+          "title": "金十数据整理：每日科技要闻速递（7月13日）",
+          "url": "https://flash.jin10.com/detail/20260713071642811800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
         }
       ]
     },
     {
       "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
@@ -93,8 +128,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时07分 ~ 06时03分]"
+          "appearance_count": 10,
+          "time_info": "[01时07分 ~ 08时02分]"
+        },
+        {
+          "title": "OpenAI宣称攻克CDC猜想",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E7%A7%B0%E6%94%BB%E5%85%8BCDC%E7%8C%9C%E6%83%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时01分 ~ 08时02分]"
         },
         {
           "title": "Claude：将把Claude Fable 5在所有付费套餐中的开放使用期限延长至7月19日，同时继续将Claude Code 的每周使用额度提高50%，这一政策也将持续至7月19日。",
