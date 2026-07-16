@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T18:18:24.642516+08:00",
-  "total_titles_processed": 1289,
+  "generated_at": "2026-07-16T20:26:39.583218+08:00",
+  "total_titles_processed": 1451,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 51,
+      "match_count": 63,
       "titles": [
         {
           "title": "5张图看懂中国人工智能进化之路",
@@ -44,6 +44,18 @@
           "time_info": "[00时41分 ~ 08时05分]"
         },
         {
+          "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
+          "url": "https://wallstreetcn.com/articles/3776964",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时14分 ~ 20时26分]"
+        },
+        {
           "title": "雀骨抖音追剧团",
           "url": "https://www.douyin.com/hot/2572497",
           "source": "抖音",
@@ -58,18 +70,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时41分 ~ 15时28分]"
-        },
-        {
-          "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
-          "url": "https://wallstreetcn.com/articles/3776964",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时14分 ~ 18时18分]"
         },
         {
           "title": "长鑫科技的下一“战”",
@@ -131,6 +131,18 @@
           "time_info": "[08时04分 ~ 08时05分]"
         },
         {
+          "title": "长鑫科技IPO倒计时 中一签能赚多少？",
+          "url": "https://www.cls.cn/detail/2428095",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时27分 ~ 20时26分]"
+        },
+        {
           "title": "长鑫科技IPO",
           "url": "https://www.douyin.com/hot/2572967",
           "source": "抖音",
@@ -149,7 +161,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -171,21 +183,33 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
         {
-          "title": "长鑫科技IPO倒计时 中一签能赚多少？",
-          "url": "https://www.cls.cn/detail/2428095",
-          "source": "财联社热门",
+          "title": "世界人工智能合作组织协定签署仪式举行。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3135070",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            3
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
+          "title": "长鑫科技超 6000 员工获股份，IPO 后批量诞生千万富翁，如何看待长鑫科技上市？",
+          "url": "https://www.zhihu.com/question/2059993412737283983",
+          "source": "知乎",
+          "ranks": [
+            14,
+            2,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时27分 ~ 18时18分]"
+          "appearance_count": 4,
+          "time_info": "[15时27分 ~ 20时26分]"
         },
         {
           "title": "长鑫科技IPO",
@@ -223,18 +247,6 @@
           "time_info": "[00时41分 ~ 06时09分]"
         },
         {
-          "title": "长鑫科技超 6000 员工获股份，IPO 后批量诞生千万富翁，如何看待长鑫科技上市？",
-          "url": "https://www.zhihu.com/question/2059993412737283983",
-          "source": "知乎",
-          "ranks": [
-            14,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时27分 ~ 18时18分]"
-        },
-        {
           "title": "基金二季报科技调仓现分歧，多只绩优基金维持高仓位",
           "url": "https://wallstreetcn.com/livenews/3134664",
           "source": "华尔街见闻-快讯",
@@ -258,6 +270,18 @@
           "time_info": "[00时41分 ~ 06时09分]"
         },
         {
+          "title": "功夫女足这条抖音艺术已成",
+          "url": "https://www.douyin.com/hot/2572892",
+          "source": "抖音",
+          "ranks": [
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时27分 ~ 20时26分]"
+        },
+        {
           "title": "今年A股最大IPO！长鑫科技启动申购",
           "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4A%E8%82%A1%E6%9C%80%E5%A4%A7IPO%EF%BC%81%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%90%AF%E5%8A%A8%E7%94%B3%E8%B4%AD",
           "source": "百度热搜",
@@ -270,16 +294,27 @@
           "time_info": "[12时14分 ~ 15时28分]"
         },
         {
-          "title": "功夫女足这条抖音艺术已成",
-          "url": "https://www.douyin.com/hot/2572892",
-          "source": "抖音",
+          "title": "长鑫科技8名高管身家过亿",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%808%E5%90%8D%E9%AB%98%E7%AE%A1%E8%BA%AB%E5%AE%B6%E8%BF%87%E4%BA%BF",
+          "source": "百度热搜",
           "ranks": [
-            25,
-            27
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时27分 ~ 18时18分]"
+          "appearance_count": 2,
+          "time_info": "[18时18分 ~ 20时26分]"
+        },
+        {
+          "title": "感受抖音里的人",
+          "url": "https://www.douyin.com/hot/2572849",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时18分 ~ 20时26分]"
         },
         {
           "title": "长鑫科技8名高管身家过亿",
@@ -343,7 +378,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -365,9 +400,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
+        },
+        {
+          "title": "【摩尔线程：预计2026年半年度营收16.5亿-17.5亿元，同比增长135.12%-149.37%】摩尔线程公告，预计2026年半年度营业收入为16.5亿元至17.5亿元，同比增长135.12%至149.37%。业绩增长主要得益于人工智能产业蓬勃发展及市场对全功能GPU的强劲需求，公司夸娥智算集群商业化加速，产品性能获客户高度认可并实现稳定供货，推动收入快速增长。",
+          "url": "https://wallstreetcn.com/livenews/3135059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
         },
         {
           "title": "港股存储概念持续走弱，澜起科技(06809.HK)短线下挫跌超18%，兆易创新(03986.HK)跌超8%。消息面上，7月15日韩国检方突击搜查澜起科技、日本瑞萨电子和美国Rambus在韩国的办公室，调查三家公司涉嫌半导体零部件价格操纵一事。澜起科技回应称目前公司运行正常。",
@@ -398,9 +444,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
+        },
+        {
+          "title": "梁文锋打新长鑫科技",
+          "url": "https://www.toutiao.com/trending/7663049647610400299/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
         },
         {
           "title": "科技赛道再度陷入调整，创新药承接资金走出独立行情",
@@ -409,9 +466,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
+        },
+        {
+          "title": "世界人工智能合作组织协定签署仪式举行",
+          "url": "https://flash.jin10.com/detail/20260716201440710800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
+          "title": "长鑫科技IPO面向散户部分获212倍认购。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3135054",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
         },
         {
           "title": "周三（7月15日），美股信息科技指数跌3.43%，报398.76点。成分股中，戴尔科技收跌9.80%，与西部数据、闪迪、美光科技、Lumentum表现最差，甲骨文涨3.56%、与苹果领跑。 人工智能（AI）赢家指数跌2.51%，报400.58点。成分股中，戴尔、西数、闪迪、美光、Lumentum领跌，Meta、谷歌A、甲骨文领涨。 AI软件先驱指数跌0.18%，报110.87点。成分股MongoDB收跌3.37%，领跌，甲骨文领涨。",
@@ -436,17 +515,6 @@
           "time_info": "15时28分"
         },
         {
-          "title": "长鑫科技8名高管身家过亿",
-          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%808%E5%90%8D%E9%AB%98%E7%AE%A1%E8%BA%AB%E5%AE%B6%E8%BF%87%E4%BA%BF",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
           "title": "周三（7月15日），美股存储芯片与硬件供应链指数跌6.36%，报207.63点。 成分股全线溃败，西部数据收跌8.78%，闪迪跌8.12%，美光科技跌8.02%，希捷科技、泰瑞达、拉姆研究、应用材料、Rambus也跌5.69%-2.36%。",
           "url": "https://wallstreetcn.com/livenews/3134607",
           "source": "华尔街见闻-快讯",
@@ -458,6 +526,17 @@
           "time_info": "06时09分"
         },
         {
+          "title": "【海光信息：预计2026年上半年净利润同比增长41.50%到52.32%】海光信息公告，预计2026年上半年净利润17亿元到18.3亿元，同比增长41.50%到52.32%。公司持续优化“CPU+DCU”业务布局，通过高强度研发投入，不断实现技术创新、产品性能提升，保持了国内领先的市场地位。报告期内，在人工智能大模型加速迭代、AI Agent应用规模化落地、国产化进程迈向商业化应用的多重驱动下，公司持续加码研发投入、迭代优化产品性能，牢牢把握发展机遇期，推动公司高端处理器产品的市场版图扩展，实现了公司营业收入的快速增长，整体业绩的持续增长。",
+          "url": "https://wallstreetcn.com/livenews/3135049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
           "title": "美股七巨头收盘播报｜周三（7月15日），美国科技股七巨头（Magnificent 7）指数涨2.41%，连续第二个交易日走高，报223.13点。 成分股中，苹果收涨4.01%，刷新收盘历史高位至327.50美元，收盘市值4.81万亿美元——相比之下英伟达5.14万亿美元；谷歌A涨3.17%，巴菲特称他启动了伯克希尔哈撒韦对谷歌母公司Alphabet的投资。 “超大”市值科技股指数涨1.12%，报446.55点。",
           "url": "https://wallstreetcn.com/livenews/3134606",
           "source": "华尔街见闻-快讯",
@@ -467,6 +546,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
+        },
+        {
+          "title": "MiniMax将携M3、H3等全模态模型及产品亮相世界人工智能大会",
+          "url": "https://wallstreetcn.com/livenews/3135046",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
         },
         {
           "title": "联合国秘书长古特雷斯抵达上海 出席2026世界人工智能大会暨人工智能全球治理高级别会议",
@@ -502,15 +592,26 @@
           "time_info": "12时14分"
         },
         {
-          "title": "感受抖音里的人",
-          "url": "https://www.douyin.com/hot/2572849",
-          "source": "抖音",
+          "title": "长鑫科技：网上发行初步中签率为0.40995452％",
+          "url": "https://wallstreetcn.com/livenews/3135040",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时18分"
+          "time_info": "20时26分"
+        },
+        {
+          "title": "长鑫科技上市哪些券商受益",
+          "url": "https://www.toutiao.com/trending/7663075103420190214/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
         },
         {
           "title": "英伟达(NVDA.O)：与丰田扩大合作伙伴关系，推动汽车、机器人和城市领域的物理人工智能发展。",
@@ -522,6 +623,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
+        },
+        {
+          "title": "胡彦斌抖音直播聊歌手",
+          "url": "https://www.douyin.com/hot/2573840",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
         },
         {
           "title": "英伟达(NVDA.O)：日本公司正在使用英伟达的Nemotron以构建人工智能模型。",
@@ -557,15 +669,37 @@
           "time_info": "08时05分"
         },
         {
+          "title": "习近平和彭丽媛为出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式的国际贵宾举行欢迎宴会。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3135034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
           "title": "银信科技：实控人詹立雄收到配偶郑丹提起的离婚诉讼 请求判令离婚并进行财产分割",
           "url": "https://flash.jin10.com/detail/20260716173154635800",
           "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
+        },
+        {
+          "title": "兴业科技：目前所有产品均不涉及光模块客户",
+          "url": "https://wallstreetcn.com/livenews/3135033",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
         },
         {
           "title": "恒生科技指数涨超3%，快手、小鹏涨超6%。",
@@ -707,11 +841,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            4
+            4,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时14分 ~ 15时28分]"
+          "appearance_count": 4,
+          "time_info": "[12时14分 ~ 20时26分]"
         },
         {
           "title": "Claude Code 源码泄露后 OpenCode 却没有一波大更新？是开源社区躺平了，还是另有隐情？",
