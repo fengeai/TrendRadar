@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T14:11:51.931399+08:00",
-  "total_titles_processed": 894,
+  "generated_at": "2026-07-18T16:54:01.569238+08:00",
+  "total_titles_processed": 1037,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 35,
+      "match_count": 42,
       "titles": [
         {
           "title": "详讯丨习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
@@ -67,6 +67,33 @@
           "time_info": "[01时19分 ~ 11时20分]"
         },
         {
+          "title": "Kimi冲击美科技股，纳指100一度跌2.7%、收盘跌幅收窄，芯片股进入熊市，油价大涨",
+          "url": "https://wallstreetcn.com/articles/3777186",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时58分 ~ 16时54分]"
+        },
+        {
+          "title": "2026世界人工智能大会有哪些不同",
+          "url": "https://search.bilibili.com/all?keyword=2026%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A%E6%9C%89%E5%93%AA%E4%BA%9B%E4%B8%8D%E5%90%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            6,
+            17,
+            15,
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时19分 ~ 16时54分]"
+        },
+        {
           "title": "科技股抛售潮蔓延，美股低开，纳指跌1.8%，半导体板块领跌，布油涨3%，黄金失守4000美元",
           "url": "https://wallstreetcn.com/articles/3777186",
           "source": "华尔街见闻",
@@ -92,30 +119,15 @@
           "time_info": "[01时19分 ~ 11时20分]"
         },
         {
-          "title": "2026世界人工智能大会有哪些不同",
-          "url": "https://search.bilibili.com/all?keyword=2026%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A%E6%9C%89%E5%93%AA%E4%BA%9B%E4%B8%8D%E5%90%8C",
-          "source": "bilibili 热搜",
+          "title": "上半年我国外汇领域热点扫描",
+          "url": "https://www.toutiao.com/trending/7663318330207407652/",
+          "source": "今日头条",
           "ranks": [
-            13,
-            6,
-            17,
-            15,
-            16
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时19分 ~ 14时11分]"
-        },
-        {
-          "title": "Kimi冲击美科技股，纳指100一度跌2.7%、收盘跌幅收窄，芯片股进入熊市，油价大涨",
-          "url": "https://wallstreetcn.com/articles/3777186",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时58分 ~ 14时11分]"
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 16时54分]"
         },
         {
           "title": "感受人工智能的“智”与“志”",
@@ -129,6 +141,17 @@
           "time_info": "[11时20分 ~ 14时11分]"
         },
         {
+          "title": "多项AI在世界人工智能大会首发首秀",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E9%A1%B9AI%E5%9C%A8%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A%E9%A6%96%E5%8F%91%E9%A6%96%E7%A7%80",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 16时54分]"
+        },
+        {
           "title": "水利部解读防汛关键期热点问题",
           "url": "https://s.weibo.com/weibo?q=%23%E6%B0%B4%E5%88%A9%E9%83%A8%E8%A7%A3%E8%AF%BB%E9%98%B2%E6%B1%9B%E5%85%B3%E9%94%AE%E6%9C%9F%E7%83%AD%E7%82%B9%E9%97%AE%E9%A2%98%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
@@ -140,6 +163,17 @@
           "time_info": "[11时20分 ~ 14时11分]"
         },
         {
+          "title": "如何评价月之暗面 kimi 最新发布的大模型 k3？对比全球其他大模型能力如何？",
+          "url": "https://www.zhihu.com/question/2061412232924337204",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 16时54分]"
+        },
+        {
           "title": "Kimi冲击美科技股，纳指再跌1%，芯片股跌入熊市，美伊冲突升级油价大涨",
           "url": "https://wallstreetcn.com/articles/3777186",
           "source": "华尔街见闻",
@@ -149,6 +183,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
+        },
+        {
+          "title": "商汤科技发布多模态基座模型日日新U1 Pro 对标GPT-Image 2",
+          "url": "https://flash.jin10.com/detail/20260718164334397800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
         },
         {
           "title": "据华尔街日报：SpaceX(SPCX.O)正在洽谈为五角大楼的人工智能推进计划提供计算能力。",
@@ -168,7 +213,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时11分"
         },
@@ -182,8 +227,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时58分 ~ 14时11分]"
+          "appearance_count": 5,
+          "time_info": "[07时58分 ~ 16时54分]"
+        },
+        {
+          "title": "世界人工智能大会超全攻略",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A%E8%B6%85%E5%85%A8%E6%94%BB%E7%95%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时20分 ~ 16时54分]"
         },
         {
           "title": "周五（7月17日），美股行业ETF普遍收跌，全球航空业ETF跌2.53%，半导体ETF跌2.18%，可选消费ETF跌1.62%，区域银行ETF回撤1.58%，全球科技股指数ETF、网络股指数ETF、科技行业ETF至多跌1.31%，能源业ETF涨1.16%。",
@@ -223,6 +279,18 @@
           "time_info": "[03时21分 ~ 05时04分]"
         },
         {
+          "title": "蔚来芯片子公司神玑首次独立参展世界人工智能大会，发布多款前沿AI算力产品",
+          "url": "https://wallstreetcn.com/livenews/3135966",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时11分 ~ 16时54分]"
+        },
+        {
           "title": "伊朗革命卫队：如果美国继续打击伊朗目标，伊方将扩大对美国在中东地区相关工业、科技和人工智能资产的攻击。",
           "url": "https://flash.jin10.com/detail/20260718044547376800",
           "source": "金十数据",
@@ -259,15 +327,15 @@
           "time_info": "[06时56分 ~ 07时58分]"
         },
         {
-          "title": "世界人工智能大会超全攻略",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A%E8%B6%85%E5%85%A8%E6%94%BB%E7%95%A5",
-          "source": "bilibili 热搜",
+          "title": "2026 世界人工智能大会在上海举行，超 300 款全球首发 AI 产品将亮相，本次大会有哪些看点？",
+          "url": "https://www.zhihu.com/question/2061186638059758273",
+          "source": "知乎",
           "ranks": [
-            12
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时20分 ~ 14时11分]"
+          "time_info": "[16时53分 ~ 16时54分]"
         },
         {
           "title": "工信部原副部长王江平：建议加大对优质人工智能终端消费的补贴",
@@ -293,15 +361,15 @@
           "time_info": "[01时19分 ~ 03时21分]"
         },
         {
-          "title": "蔚来芯片子公司神玑首次独立参展世界人工智能大会，发布多款前沿AI算力产品",
-          "url": "https://wallstreetcn.com/livenews/3135966",
-          "source": "华尔街见闻-快讯",
+          "title": "大模型哪大了 深入解读kimi k3",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%93%AA%E5%A4%A7%E4%BA%86%20%E6%B7%B1%E5%85%A5%E8%A7%A3%E8%AF%BBkimi%20k3",
+          "source": "bilibili 热搜",
           "ranks": [
-            8
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 16时54分]"
         },
         {
           "title": "媒体：“毫秒级速度”获取特朗普帖文，特朗普媒体科技集团报价10万美元/月",
@@ -376,9 +444,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时11分"
+        },
+        {
+          "title": "万兴科技AI视频矩阵亮相WAIC 2026",
+          "url": "https://flash.jin10.com/detail/20260718155957665800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
         },
         {
           "title": "一周热榜精选：韩国给单股杠杆交易“降温”！千万投资者申购长鑫科技",
@@ -430,8 +509,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时19分 ~ 14时11分]"
+          "appearance_count": 10,
+          "time_info": "[01时19分 ~ 16时54分]"
         },
         {
           "title": "【焦点复盘】创业板指录得周线四连阴，全市场超640股跌逾10%，电力板块逆势活跃",
@@ -443,8 +522,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时19分 ~ 14时11分]"
+          "appearance_count": 10,
+          "time_info": "[01时19分 ~ 16时54分]"
         },
         {
           "title": "【每日收评】创业板与科创50指数双双跌超7%，全市场近200股跌停，科技权重集体退潮",
@@ -465,6 +544,19 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "Kimi K3再掀“DeepSeek时刻”？高盛警告：\"算力扩张时代\"或已走到尽头",
+          "url": "https://wallstreetcn.com/articles/3777230",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时58分 ~ 16时54分]"
+        },
+        {
           "title": "“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算",
           "url": "https://wallstreetcn.com/articles/3777152",
           "source": "华尔街见闻",
@@ -475,19 +567,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时19分 ~ 06时56分]"
-        },
-        {
-          "title": "Kimi K3再掀“DeepSeek时刻”？高盛警告：\"算力扩张时代\"或已走到尽头",
-          "url": "https://wallstreetcn.com/articles/3777230",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时58分 ~ 14时11分]"
         }
       ]
     }
