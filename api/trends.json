@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T04:59:43.617813+08:00",
-  "total_titles_processed": 428,
+  "generated_at": "2026-07-19T06:01:45.283535+08:00",
+  "total_titles_processed": 458,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时04分 ~ 04时59分]"
+          "appearance_count": 5,
+          "time_info": "[01时04分 ~ 06时01分]"
         },
         {
           "title": "长鑫科技开启申购，中一签需缴 4330 元，单一账户顶格申购 334.9 万股，打新性价比如何？是散户红利吗？",
@@ -25,11 +25,12 @@
           "ranks": [
             8,
             10,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时04分 ~ 04时59分]"
+          "appearance_count": 5,
+          "time_info": "[01时04分 ~ 06时01分]"
         },
         {
           "title": "世界人工智能大会超全攻略",
@@ -39,8 +40,32 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时04分 ~ 06时01分]"
+        },
+        {
+          "title": "报道：白宫正主导前沿AI模型的访问权限，权力正从科技巨头手中转移",
+          "url": "https://wallstreetcn.com/livenews/3136069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            21
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[01时04分 ~ 04时59分]"
+          "time_info": "[01时05分 ~ 06时01分]"
+        },
+        {
+          "title": "曦智科技全栈光电算力技术亮相WAIC 2026",
+          "url": "https://wallstreetcn.com/livenews/3136059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 06时01分]"
         },
         {
           "title": "2026世界人工智能大会有哪些不同",
@@ -56,30 +81,6 @@
           "time_info": "[01时04分 ~ 04时59分]"
         },
         {
-          "title": "报道：白宫正主导前沿AI模型的访问权限，权力正从科技巨头手中转移",
-          "url": "https://wallstreetcn.com/livenews/3136069",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 04时59分]"
-        },
-        {
-          "title": "曦智科技全栈光电算力技术亮相WAIC 2026",
-          "url": "https://wallstreetcn.com/livenews/3136059",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 04时59分]"
-        },
-        {
           "title": "聚焦极端天气与城市灾害预警，“华雨GeoAI”大模型在WAIC首发",
           "url": "https://wallstreetcn.com/livenews/3136055",
           "source": "华尔街见闻-快讯",
@@ -88,8 +89,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 04时59分]"
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 06时01分]"
         },
         {
           "title": "世界人工智能大会有何看点",
@@ -109,7 +110,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
         },
@@ -148,11 +149,12 @@
           "ranks": [
             17,
             16,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时04分 ~ 04时59分]"
+          "appearance_count": 5,
+          "time_info": "[01时04分 ~ 06时01分]"
         }
       ]
     }
