@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T06:01:45.283535+08:00",
-  "total_titles_processed": 458,
+  "generated_at": "2026-07-19T07:03:27.680466+08:00",
+  "total_titles_processed": 490,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时04分 ~ 06时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时04分 ~ 07时03分]"
         },
         {
           "title": "长鑫科技开启申购，中一签需缴 4330 元，单一账户顶格申购 334.9 万股，打新性价比如何？是散户红利吗？",
@@ -29,8 +29,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时04分 ~ 06时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时04分 ~ 07时03分]"
         },
         {
           "title": "世界人工智能大会超全攻略",
@@ -40,8 +40,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时04分 ~ 06时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时04分 ~ 07时03分]"
         },
         {
           "title": "报道：白宫正主导前沿AI模型的访问权限，权力正从科技巨头手中转移",
@@ -52,8 +52,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时05分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时05分 ~ 07时03分]"
         },
         {
           "title": "曦智科技全栈光电算力技术亮相WAIC 2026",
@@ -64,8 +64,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时05分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时05分 ~ 07时03分]"
         },
         {
           "title": "2026世界人工智能大会有哪些不同",
@@ -74,11 +74,12 @@
           "ranks": [
             20,
             23,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时04分 ~ 04时59分]"
+          "appearance_count": 5,
+          "time_info": "[01时04分 ~ 07时03分]"
         },
         {
           "title": "聚焦极端天气与城市灾害预警，“华雨GeoAI”大模型在WAIC首发",
@@ -89,8 +90,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时05分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时05分 ~ 07时03分]"
         },
         {
           "title": "世界人工智能大会有何看点",
@@ -140,7 +141,7 @@
     },
     {
       "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "DeepSeek V4 正式版即将发布，有哪些值得关注的亮点？",
@@ -150,11 +151,23 @@
             17,
             16,
             12,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时04分 ~ 06时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时04分 ~ 07时03分]"
+        },
+        {
+          "title": "白宫前AI政策官员、 OpenAI战略未来主管迪恩·鲍尔：Kimi K3是一个非常优秀的模型！我不认为它的表现可以简单归因于蒸馏或类似技术。在智能体编程场景中，它的表现似乎基本可以与2026年第一季度最优秀的公开模型相媲美。",
+          "url": "https://flash.jin10.com/detail/20260719055403527800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
         }
       ]
     }
