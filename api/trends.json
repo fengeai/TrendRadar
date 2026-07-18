@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T16:54:01.569238+08:00",
-  "total_titles_processed": 1037,
+  "generated_at": "2026-07-18T18:24:55.289789+08:00",
+  "total_titles_processed": 1123,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 42,
+      "match_count": 44,
       "titles": [
         {
           "title": "详讯丨习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
@@ -42,6 +42,17 @@
           "time_info": "[01时19分 ~ 11时20分]"
         },
         {
+          "title": "Kimi冲击美科技股，纳指100一度跌2.7%、收盘跌幅收窄，芯片股进入熊市，油价大涨",
+          "url": "https://wallstreetcn.com/articles/3777186",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时58分 ~ 18时24分]"
+        },
+        {
           "title": "2026世界人工智能大会亮点速览",
           "url": "https://www.douyin.com/hot/2575352",
           "source": "抖音",
@@ -67,17 +78,6 @@
           "time_info": "[01时19分 ~ 11时20分]"
         },
         {
-          "title": "Kimi冲击美科技股，纳指100一度跌2.7%、收盘跌幅收窄，芯片股进入熊市，油价大涨",
-          "url": "https://wallstreetcn.com/articles/3777186",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时58分 ~ 16时54分]"
-        },
-        {
           "title": "2026世界人工智能大会有哪些不同",
           "url": "https://search.bilibili.com/all?keyword=2026%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A%E6%9C%89%E5%93%AA%E4%BA%9B%E4%B8%8D%E5%90%8C",
           "source": "bilibili 热搜",
@@ -90,8 +90,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时19分 ~ 16时54分]"
+          "appearance_count": 11,
+          "time_info": "[01时19分 ~ 18时24分]"
         },
         {
           "title": "科技股抛售潮蔓延，美股低开，纳指跌1.8%，半导体板块领跌，布油涨3%，黄金失守4000美元",
@@ -119,6 +119,18 @@
           "time_info": "[01时19分 ~ 11时20分]"
         },
         {
+          "title": "如何评价月之暗面 kimi 最新发布的大模型 k3？对比全球其他大模型能力如何？",
+          "url": "https://www.zhihu.com/question/2061412232924337204",
+          "source": "知乎",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时53分 ~ 18时24分]"
+        },
+        {
           "title": "上半年我国外汇领域热点扫描",
           "url": "https://www.toutiao.com/trending/7663318330207407652/",
           "source": "今日头条",
@@ -126,8 +138,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时53分 ~ 16时54分]"
+          "appearance_count": 3,
+          "time_info": "[16时53分 ~ 18时24分]"
+        },
+        {
+          "title": "多项AI在世界人工智能大会首发首秀",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E9%A1%B9AI%E5%9C%A8%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A%E9%A6%96%E5%8F%91%E9%A6%96%E7%A7%80",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时53分 ~ 18时24分]"
         },
         {
           "title": "感受人工智能的“智”与“志”",
@@ -141,17 +164,6 @@
           "time_info": "[11时20分 ~ 14时11分]"
         },
         {
-          "title": "多项AI在世界人工智能大会首发首秀",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E9%A1%B9AI%E5%9C%A8%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A%E9%A6%96%E5%8F%91%E9%A6%96%E7%A7%80",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时53分 ~ 16时54分]"
-        },
-        {
           "title": "水利部解读防汛关键期热点问题",
           "url": "https://s.weibo.com/weibo?q=%23%E6%B0%B4%E5%88%A9%E9%83%A8%E8%A7%A3%E8%AF%BB%E9%98%B2%E6%B1%9B%E5%85%B3%E9%94%AE%E6%9C%9F%E7%83%AD%E7%82%B9%E9%97%AE%E9%A2%98%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
@@ -163,15 +175,18 @@
           "time_info": "[11时20分 ~ 14时11分]"
         },
         {
-          "title": "如何评价月之暗面 kimi 最新发布的大模型 k3？对比全球其他大模型能力如何？",
-          "url": "https://www.zhihu.com/question/2061412232924337204",
-          "source": "知乎",
+          "title": "Kimi K3 横空出世，大摩：中国前沿大模型已实现全面追赶，规模、性能与定价同步突破",
+          "url": "https://wallstreetcn.com/articles/3777236",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            10,
+            9,
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时53分 ~ 16时54分]"
+          "appearance_count": 6,
+          "time_info": "[07时58分 ~ 18时24分]"
         },
         {
           "title": "Kimi冲击美科技股，纳指再跌1%，芯片股跌入熊市，美伊冲突升级油价大涨",
@@ -183,17 +198,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
-        },
-        {
-          "title": "商汤科技发布多模态基座模型日日新U1 Pro 对标GPT-Image 2",
-          "url": "https://flash.jin10.com/detail/20260718164334397800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时54分"
         },
         {
           "title": "据华尔街日报：SpaceX(SPCX.O)正在洽谈为五角大楼的人工智能推进计划提供计算能力。",
@@ -218,19 +222,6 @@
           "time_info": "14时11分"
         },
         {
-          "title": "Kimi K3 横空出世，大摩：中国前沿大模型已实现全面追赶，规模、性能与定价同步突破",
-          "url": "https://wallstreetcn.com/articles/3777236",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时58分 ~ 16时54分]"
-        },
-        {
           "title": "世界人工智能大会超全攻略",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A%E8%B6%85%E5%85%A8%E6%94%BB%E7%95%A5",
           "source": "bilibili 热搜",
@@ -238,8 +229,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时20分 ~ 16时54分]"
+          "appearance_count": 5,
+          "time_info": "[11时20分 ~ 18时24分]"
+        },
+        {
+          "title": "商汤科技发布多模态基座模型日日新U1 Pro 对标GPT-Image 2",
+          "url": "https://flash.jin10.com/detail/20260718164334397800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 18时24分]"
         },
         {
           "title": "周五（7月17日），美股行业ETF普遍收跌，全球航空业ETF跌2.53%，半导体ETF跌2.18%，可选消费ETF跌1.62%，区域银行ETF回撤1.58%，全球科技股指数ETF、网络股指数ETF、科技行业ETF至多跌1.31%，能源业ETF涨1.16%。",
@@ -253,6 +256,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时04分 ~ 07时58分]"
+        },
+        {
+          "title": "2026 世界人工智能大会在上海举行，超 300 款全球首发 AI 产品将亮相，本次大会有哪些看点？",
+          "url": "https://www.zhihu.com/question/2061186638059758273",
+          "source": "知乎",
+          "ranks": [
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时53分 ~ 18时24分]"
         },
         {
           "title": "跟着抖音网友吃一天",
@@ -325,17 +340,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时56分 ~ 07时58分]"
-        },
-        {
-          "title": "2026 世界人工智能大会在上海举行，超 300 款全球首发 AI 产品将亮相，本次大会有哪些看点？",
-          "url": "https://www.zhihu.com/question/2061186638059758273",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时53分 ~ 16时54分]"
         },
         {
           "title": "工信部原副部长王江平：建议加大对优质人工智能终端消费的补贴",
@@ -427,6 +431,17 @@
           "time_info": "05时04分"
         },
         {
+          "title": "长鑫科技开启申购，中一签需缴 4330 元，单一账户顶格申购 334.9 万股，打新性价比如何？是散户红利吗？",
+          "url": "https://www.zhihu.com/question/2061067983900906626",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
           "title": "首届世界人工智能大会·学术正式亮相",
           "url": "https://flash.jin10.com/detail/20260718094434762800",
           "source": "金十数据",
@@ -455,9 +470,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
+        },
+        {
+          "title": "壁仞科技首次推出NPO光互连、分布式解耦架构超节点方案",
+          "url": "https://flash.jin10.com/detail/20260718165014282800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         },
         {
           "title": "一周热榜精选：韩国给单股杠杆交易“降温”！千万投资者申购长鑫科技",
@@ -491,6 +517,48 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "Kimi K3再掀“DeepSeek时刻”？高盛警告：\"算力扩张时代\"或已走到尽头",
+          "url": "https://wallstreetcn.com/articles/3777230",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时58分 ~ 18时24分]"
+        },
+        {
+          "title": "“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算",
+          "url": "https://wallstreetcn.com/articles/3777152",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时19分 ~ 06时56分]"
+        },
+        {
+          "title": "DeepSeek最新估值意外曝光",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%9C%80%E6%96%B0%E4%BC%B0%E5%80%BC%E6%84%8F%E5%A4%96%E6%9B%9D%E5%85%89",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         }
       ]
     },
@@ -536,37 +604,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时19分 ~ 07时58分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "Kimi K3再掀“DeepSeek时刻”？高盛警告：\"算力扩张时代\"或已走到尽头",
-          "url": "https://wallstreetcn.com/articles/3777230",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时58分 ~ 16时54分]"
-        },
-        {
-          "title": "“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算",
-          "url": "https://wallstreetcn.com/articles/3777152",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时19分 ~ 06时56分]"
         }
       ]
     }
