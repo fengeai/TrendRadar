@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T03:14:32.340389+08:00",
-  "total_titles_processed": 383,
+  "generated_at": "2026-07-19T04:59:43.617813+08:00",
+  "total_titles_processed": 428,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "Kimi冲击美科技股，纳指100一度跌2.7%、收盘跌幅收窄，芯片股进入熊市，油价大涨",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 03时14分]"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 04时59分]"
         },
         {
           "title": "长鑫科技开启申购，中一签需缴 4330 元，单一账户顶格申购 334.9 万股，打新性价比如何？是散户红利吗？",
@@ -24,11 +24,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 03时14分]"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 04时59分]"
         },
         {
           "title": "世界人工智能大会超全攻略",
@@ -38,8 +39,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 03时14分]"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 04时59分]"
         },
         {
           "title": "2026世界人工智能大会有哪些不同",
@@ -47,11 +48,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             20,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 03时14分]"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 04时59分]"
         },
         {
           "title": "报道：白宫正主导前沿AI模型的访问权限，权力正从科技巨头手中转移",
@@ -62,8 +64,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 03时14分]"
+          "appearance_count": 3,
+          "time_info": "[01时05分 ~ 04时59分]"
         },
         {
           "title": "曦智科技全栈光电算力技术亮相WAIC 2026",
@@ -74,8 +76,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 03时14分]"
+          "appearance_count": 3,
+          "time_info": "[01时05分 ~ 04时59分]"
         },
         {
           "title": "聚焦极端天气与城市灾害预警，“华雨GeoAI”大模型在WAIC首发",
@@ -86,8 +88,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 03时14分]"
+          "appearance_count": 3,
+          "time_info": "[01时05分 ~ 04时59分]"
         },
         {
           "title": "世界人工智能大会有何看点",
@@ -99,6 +101,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时04分 ~ 01时05分]"
+        },
+        {
+          "title": "日媒：印企越来越依赖中国AI大模型",
+          "url": "https://www.toutiao.com/trending/7662655184850780187/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时59分"
         },
         {
           "title": "星宸科技：预计上半年净利润同比增583.72%—650.42%",
@@ -134,11 +147,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            16
+            16,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 03时14分]"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 04时59分]"
         }
       ]
     }
