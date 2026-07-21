@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T18:32:03.694942+08:00",
-  "total_titles_processed": 1225,
+  "generated_at": "2026-07-21T20:28:12.328662+08:00",
+  "total_titles_processed": 1362,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 42,
+      "match_count": 48,
       "titles": [
         {
           "title": "尾盘变盘！上证50大涨超3%，“煤电酒油”爆发，科技股再度下跌，恒指、恒科指均涨超2%，AI大模型股逆势下挫",
@@ -31,6 +31,17 @@
           "time_info": "[00时37分 ~ 08时03分]"
         },
         {
+          "title": "【焦点复盘】科创50涨超10%创历史第三单日涨幅，大批科技人气股日内上演“地天板”",
+          "url": "https://www.cls.cn/detail/2432754",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时31分 ~ 20时28分]"
+        },
+        {
           "title": "中国科技这3组数字真提气",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E8%BF%993%E7%BB%84%E6%95%B0%E5%AD%97%E7%9C%9F%E6%8F%90%E6%B0%94%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
@@ -42,15 +53,38 @@
           "time_info": "[12时20分 ~ 15时37分]"
         },
         {
-          "title": "【焦点复盘】科创50涨超10%创历史第三单日涨幅，大批科技人气股日内上演“地天板”",
-          "url": "https://www.cls.cn/detail/2432754",
-          "source": "财联社热门",
+          "title": "如何看待科技股反弹",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%A7%91%E6%8A%80%E8%82%A1%E5%8F%8D%E5%BC%B9",
+          "source": "bilibili 热搜",
           "ranks": [
-            5
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时31分 ~ 18时32分]"
+          "time_info": "[20时27分 ~ 20时28分]"
+        },
+        {
+          "title": "世界人工智能大会达成丰硕成果",
+          "url": "https://www.toutiao.com/trending/7664544012321426987/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时27分 ~ 20时28分]"
+        },
+        {
+          "title": "源杰科技、中一科技半年报净利最高预增均超10倍",
+          "url": "https://www.cls.cn/detail/2432698",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时31分 ~ 20时28分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-07-21）",
@@ -86,6 +120,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时37分 ~ 06时07分]"
+        },
+        {
+          "title": "张坤增聘后首份季报，调仓方向明了，加科技、减消费、砍港股",
+          "url": "https://www.cls.cn/detail/2432530",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时31分 ~ 20时28分]"
         },
         {
           "title": "全抖音都在恭喜西班牙夺冠",
@@ -149,17 +195,6 @@
           "time_info": "[02时59分 ~ 04时37分]"
         },
         {
-          "title": "源杰科技、中一科技半年报净利最高预增均超10倍",
-          "url": "https://www.cls.cn/detail/2432698",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 18时32分]"
-        },
-        {
           "title": "科技股终于暴力反弹",
           "url": "https://www.toutiao.com/trending/7664481386530766874/",
           "source": "今日头条",
@@ -169,6 +204,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时31分 ~ 18时32分]"
+        },
+        {
+          "title": "全球科技股反弹！美股盘前闪迪涨超7%，布油重回90美元上方，现货白银涨超4%",
+          "url": "https://wallstreetcn.com/articles/3777518",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时27分 ~ 20时28分]"
         },
         {
           "title": "期货热点追踪",
@@ -183,15 +229,15 @@
           "time_info": "[00时37分 ~ 08时03分]"
         },
         {
-          "title": "张坤增聘后首份季报，调仓方向明了，加科技、减消费、砍港股",
-          "url": "https://www.cls.cn/detail/2432530",
-          "source": "财联社热门",
+          "title": "长鑫科技：网上投资者放弃认购658万股",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%EF%BC%9A%E7%BD%91%E4%B8%8A%E6%8A%95%E8%B5%84%E8%80%85%E6%94%BE%E5%BC%83%E8%AE%A4%E8%B4%AD658%E4%B8%87%E8%82%A1",
+          "source": "百度热搜",
           "ranks": [
-            12
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时31分 ~ 18时32分]"
+          "time_info": "[20时27分 ~ 20时28分]"
         },
         {
           "title": "陈果：对中国真科技龙头不应太悲观",
@@ -203,6 +249,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时20分 ~ 12时21分]"
+        },
+        {
+          "title": "科技股终于暴力反弹",
+          "url": "https://www.baidu.com/s?wd=%E7%A7%91%E6%8A%80%E8%82%A1%E7%BB%88%E4%BA%8E%E6%9A%B4%E5%8A%9B%E5%8F%8D%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时27分 ~ 20时28分]"
         },
         {
           "title": "米哈游运营重心转向抖音的可能性有多大？",
@@ -234,7 +291,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -245,7 +302,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -278,9 +335,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
+        },
+        {
+          "title": "【长鑫科技：网上投资者放弃认购658.62万股】长鑫科技公告称，公司首次公开发行股票并在科创板上市发行结果已公布。本次发行价格为8.66元/股，初始发行股份数量为66.88亿股，占发行后总股本约10%。最终战略配售数量为16.67亿股，网上发行最终中签率约为0.47141739%。网上投资者缴款认购38.45亿股，放弃认购658.62万股；网下投资者缴款认购21.73亿股，放弃认购31567股。联席主承销商包销股份661.78万股，包销金额5731.01万元。超额配售选择权行使前，发行费用为2.81亿元。",
+          "url": "https://wallstreetcn.com/livenews/3137562",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
         },
         {
           "title": "中国 K3 大模型震惊 AI 界，美巨头高价模式还能撑多久？",
@@ -322,7 +390,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -421,7 +489,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -454,7 +522,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -484,7 +552,7 @@
     },
     {
       "keyword_group": "独立开发 创业 副业",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "上证指数早盘收报3819.66点，涨0.62%。 深证成指早盘收报14074.22点，涨3.41%。 创业板指早盘收报3622.27点，涨5.20%。 沪深300早盘收报4679.41点，涨1.76%。 科创50早盘收报1837.94点，涨6.94%。 中证500早盘收报7680.64点，涨3.63%。 中证1000早盘收报7175.01点，涨3.01%。",
@@ -496,6 +564,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
+        },
+        {
+          "title": "【每日收评】创业板指探底回升涨超7%，半导体芯片、算力硬件等科技赛道卷土重来",
+          "url": "https://www.cls.cn/detail/2432689",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时31分 ~ 20时28分]"
         },
         {
           "title": "沪指、创业板指收红，电力、煤炭板块走强，如何看待 2026 年 7 月 20 日 A 股市场行情？",
@@ -510,15 +589,15 @@
           "time_info": "[00时37分 ~ 02时59分]"
         },
         {
-          "title": "【每日收评】创业板指探底回升涨超7%，半导体芯片、算力硬件等科技赛道卷土重来",
-          "url": "https://www.cls.cn/detail/2432689",
-          "source": "财联社热门",
+          "title": "7 月 21 日科创 50 指数大涨 10.73%，创业板指涨超 7%，如何看待当下 A 股市场行情？",
+          "url": "https://www.zhihu.com/question/2062838747457131203",
+          "source": "知乎",
           "ranks": [
-            11
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时31分 ~ 18时32分]"
+          "time_info": "[20时27分 ~ 20时28分]"
         },
         {
           "title": "创业板指涨幅扩大至5%，科创50指数涨近7%。",
@@ -637,6 +716,20 @@
       "match_count": 8,
       "titles": [
         {
+          "title": "OpenAI负责人抨击Kimi开源",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            10,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时20分 ~ 20时28分]"
+        },
+        {
           "title": "为什么豆包没有被 DeepSeek「斩杀」？",
           "url": "https://www.zhihu.com/question/2061575313973416591",
           "source": "知乎",
@@ -652,19 +745,6 @@
           "time_info": "[00时37分 ~ 08时03分]"
         },
         {
-          "title": "OpenAI负责人抨击Kimi开源",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时20分 ~ 18时32分]"
-        },
-        {
           "title": "OpenAI 负责人称 Kimi 开源是减速主义，他的说法有道理吗？开源对 AI 的发展能带来什么？",
           "url": "https://www.zhihu.com/question/2062575282591209175",
           "source": "知乎",
@@ -676,6 +756,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时20分 ~ 18时32分]"
+        },
+        {
+          "title": "DeepSeek V4 开放灰度测试，你认为能超越 Kimi K3 吗？两个大模型各有哪些优劣？",
+          "url": "https://www.zhihu.com/question/2062579631564093084",
+          "source": "知乎",
+          "ranks": [
+            19,
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时37分 ~ 20时28分]"
         },
         {
           "title": "如何看待最近网传的 DeepSeek v4 正式版灰测？",
@@ -690,18 +783,6 @@
           "time_info": "[00时37分 ~ 02时59分]"
         },
         {
-          "title": "DeepSeek V4 开放灰度测试，你认为能超越 Kimi K3 吗？两个大模型各有哪些优劣？",
-          "url": "https://www.zhihu.com/question/2062579631564093084",
-          "source": "知乎",
-          "ranks": [
-            19,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时37分 ~ 18时32分]"
-        },
-        {
           "title": "复刻“DeepSeek时刻”？华尔街齐称：Kimi K3反而强化算力需求",
           "url": "https://wallstreetcn.com/articles/3777510",
           "source": "华尔街见闻",
@@ -709,8 +790,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 18时32分]"
+          "appearance_count": 4,
+          "time_info": "[18时31分 ~ 20时28分]"
         },
         {
           "title": "如何看待追光总裁称《三国第一部：争洛阳》以曹操为主角，是参考了 DeepSeek 的建议?",
