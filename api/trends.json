@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-23T15:40:36.278263+08:00",
-  "total_titles_processed": 1043,
+  "generated_at": "2026-07-23T18:31:53.072448+08:00",
+  "total_titles_processed": 1219,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 28,
+      "match_count": 36,
       "titles": [
         {
           "title": "剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？",
@@ -31,6 +31,19 @@
           "time_info": "[00时26分 ~ 06时12分]"
         },
         {
+          "title": "小红书被曝正主动联系相关老员工，愿补发期权换签署相关条款，真实性多大？若能达成一致，能顺利 IPO 吗？",
+          "url": "https://www.zhihu.com/question/2063292318887539352",
+          "source": "知乎",
+          "ranks": [
+            8,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时07分 ~ 18时31分]"
+        },
+        {
           "title": "小红书回应IPO传闻：相关信息均不属实",
           "url": "https://m.thepaper.cn/newsDetail_forward_33634641",
           "source": "澎湃新闻",
@@ -53,18 +66,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时26分 ~ 02时14分]"
-        },
-        {
-          "title": "小红书被曝正主动联系相关老员工，愿补发期权换签署相关条款，真实性多大？若能达成一致，能顺利 IPO 吗？",
-          "url": "https://www.zhihu.com/question/2063292318887539352",
-          "source": "知乎",
-          "ranks": [
-            8,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时07分 ~ 15时40分]"
         },
         {
           "title": "马斯克：美光科技已经给予特斯拉存储芯片（供应）配额。",
@@ -180,6 +181,17 @@
           "time_info": "[08时08分 ~ 12时21分]"
         },
         {
+          "title": "惠威科技：拟以4000万元-8000万元回购股份，回购股份的价格不超过人民币18.50元/股。",
+          "url": "https://wallstreetcn.com/livenews/3138801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
           "title": "中国大模型救场美国人工智能事故",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%95%91%E5%9C%BA%E7%BE%8E%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%BA%8B%E6%95%85",
           "source": "bilibili 热搜",
@@ -202,6 +214,17 @@
           "time_info": "04时17分"
         },
         {
+          "title": "鹏鼎控股：拟投资人民币100亿元资新建深圳第三园区，并建设人工智能高阶类载板及柔性电路板智造基地项目，本项目计划自2026年7月启动，至2033年建成投产。",
+          "url": "https://wallstreetcn.com/livenews/3138799",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
           "title": "上海：持续强化上市公司并购科技企业审核标准公开",
           "url": "https://flash.jin10.com/detail/20260723114639563800",
           "source": "金十数据",
@@ -213,6 +236,28 @@
           "time_info": "12时21分"
         },
         {
+          "title": "对话｜请人工智能反腐，这个国家用上“AI部长”能奏效吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33635920",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
+          "title": "马斯克也“默认”了？知名科技圈人士：特斯拉和SpaceX合并概率已达90%！",
+          "url": "https://www.cls.cn/detail/2434751",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
           "title": "上海：探索引入境外离岸人民币资金支持境内科技创新",
           "url": "https://flash.jin10.com/detail/20260723114422830800",
           "source": "金十数据",
@@ -222,6 +267,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
+        },
+        {
+          "title": "谷歌因违反欧盟科技反垄断规则被罚款10.2亿美元",
+          "url": "https://flash.jin10.com/detail/20260723181309076800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         },
         {
           "title": "硬科技企业密集登陆，港股IPO市场活力持续释放",
@@ -252,7 +308,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
         },
@@ -279,13 +335,35 @@
           "time_info": "12时21分"
         },
         {
+          "title": "惠威科技：拟以4000万元-8000万元回购公司股份",
+          "url": "https://flash.jin10.com/detail/20260723180757686800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：谷歌正在推出首版人工智能与经济图谱。",
+          "url": "https://flash.jin10.com/detail/20260723180732301800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
           "title": "A股机器人概念股震荡拉升，北自科技午后涨停，百达精工、浙江鼎力、弘亚数控、天桥起重、中原内配、日发精机涨超5%。",
           "url": "https://wallstreetcn.com/livenews/3138665",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
         },
@@ -312,6 +390,17 @@
           "time_info": "08时08分"
         },
         {
+          "title": "贝佐斯推动重新设计Prime Video，聚焦人工智能",
+          "url": "https://flash.jin10.com/detail/20260723180546329800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
           "title": "谷歌上调AI资本开支至2050亿美元，美国科技巨头持续扩大投入",
           "url": "https://flash.jin10.com/detail/20260723113313668800",
           "source": "金十数据",
@@ -326,7 +415,7 @@
     },
     {
       "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "云支出目标狂飙至7500亿美元！OpenAI豪掷超300亿美元建数据中心，推出Presence平台进军企业软件市场",
@@ -337,8 +426,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 15时40分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 18时31分]"
         },
         {
           "title": "6000亿美元→7500亿美元 OpenAI被曝大幅提高算力支出预测",
@@ -415,6 +504,17 @@
           "time_info": "[00时26分 ~ 08时08分]"
         },
         {
+          "title": "黄仁勋：美国不该限制DeepSeek、Kimi等中国模型，优秀的开源模型就该被用起来",
+          "url": "https://wallstreetcn.com/livenews/3138806",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
           "title": "OpenAI模型失控闯祸 中国大模型救场",
           "url": "https://www.baidu.com/s?wd=OpenAI%E6%A8%A1%E5%9E%8B%E5%A4%B1%E6%8E%A7%E9%97%AF%E7%A5%B8+%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%95%91%E5%9C%BA",
           "source": "百度热搜",
@@ -457,7 +557,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
         },
@@ -509,7 +609,7 @@
     },
     {
       "keyword_group": "独立开发 创业 副业",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "上证指数早盘收报3859.69点，跌0.19%。 深证成指早盘收报14035.01点，跌0.19%。 创业板指早盘收报3555.09点，跌0.33%。 沪深300早盘收报4707.96点，跌0.20%。 科创50早盘收报1783.94点，跌4.09%。 中证500早盘收报7690.90点，跌0.78%。 中证1000早盘收报7142.04点，跌0.23%。",
@@ -529,9 +629,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
+        },
+        {
+          "title": "没想到在西藏创业离不开的是拼多多",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E5%9C%A8%E8%A5%BF%E8%97%8F%E5%88%9B%E4%B8%9A%E7%A6%BB%E4%B8%8D%E5%BC%80%E7%9A%84%E6%98%AF%E6%8B%BC%E5%A4%9A%E5%A4%9A%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         },
         {
           "title": "中国上证综指7月23日（周四）收盘上涨9.74点，涨幅：0.25%，报3876.78点；<br/>中国深证成指7月23日（周四）收盘上涨61.87点，涨幅：0.44%，报14123.31点；<br/>中国沪深300指数7月23日（周四）收盘上涨10.76点，涨幅：0.23%，报4728.0点；<br/>中国创业板指数7月23日（周四）收盘上涨8.79点，涨幅：0.25%，报3575.52点；<br/>中国科创50指数7月23日（周四）收盘下跌70.39点，跌幅：3.78%，报1789.69点。",
@@ -540,7 +651,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
         }
