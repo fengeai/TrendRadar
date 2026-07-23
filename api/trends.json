@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-23T20:45:19.906874+08:00",
-  "total_titles_processed": 1385,
+  "generated_at": "2026-07-23T23:31:56.966521+08:00",
+  "total_titles_processed": 1560,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 43,
+      "match_count": 49,
       "titles": [
         {
           "title": "剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？",
@@ -27,11 +27,12 @@
             8,
             1,
             2,
-            4
+            4,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时07分 ~ 20时45分]"
+          "appearance_count": 7,
+          "time_info": "[08时07分 ~ 23时31分]"
         },
         {
           "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
@@ -141,7 +142,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -166,6 +167,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时26分 ~ 06时12分]"
+        },
+        {
+          "title": "长鑫科技下周一上市，发行价为8.66元/股",
+          "url": "https://www.cls.cn/detail/2435368",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时45分 ~ 23时31分]"
         },
         {
           "title": "长鑫科技网上弃购超 658 万股，券商被迫包销 5731 万元，为何大量中签散户放弃缴款？对上市股价有何影响？",
@@ -198,22 +211,23 @@
           "source": "澎湃新闻",
           "ranks": [
             13,
-            11
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时31分 ~ 23时31分]"
+        },
+        {
+          "title": "长鑫科技：将于7月27日在科创板上市",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%EF%BC%9A%E5%B0%86%E4%BA%8E7%E6%9C%8827%E6%97%A5%E5%9C%A8%E7%A7%91%E5%88%9B%E6%9D%BF%E4%B8%8A%E5%B8%82",
+          "source": "百度热搜",
+          "ranks": [
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时31分 ~ 20时45分]"
-        },
-        {
-          "title": "长鑫科技下周一上市，发行价为8.66元/股",
-          "url": "https://www.cls.cn/detail/2435368",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
+          "time_info": "[20时45分 ~ 23时31分]"
         },
         {
           "title": "惠威科技：拟以4000万元-8000万元回购股份，回购股份的价格不超过人民币18.50元/股。",
@@ -249,6 +263,17 @@
           "time_info": "04时17分"
         },
         {
+          "title": "抖音网友带我逛菲尔兹奖现场",
+          "url": "https://www.douyin.com/hot/2582104",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        },
+        {
           "title": "鹏鼎控股：拟投资人民币100亿元资新建深圳第三园区，并建设人工智能高阶类载板及柔性电路板智造基地项目，本项目计划自2026年7月启动，至2033年建成投产。",
           "url": "https://wallstreetcn.com/livenews/3138799",
           "source": "华尔街见闻-快讯",
@@ -260,6 +285,17 @@
           "time_info": "18时31分"
         },
         {
+          "title": "Alphabet现金流首度转负 AI资本支出压力考验科技巨头财报",
+          "url": "https://www.cls.cn/detail/2435521",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        },
+        {
           "title": "上海：持续强化上市公司并购科技企业审核标准公开",
           "url": "https://flash.jin10.com/detail/20260723114639563800",
           "source": "金十数据",
@@ -269,6 +305,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
+        },
+        {
+          "title": "Databricks与微软(MSFT.O)扩大合作，助力企业将商业背景融入企业人工智能。",
+          "url": "https://flash.jin10.com/detail/20260723230113550800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        },
+        {
+          "title": "APEC数字和人工智能部长会议通过成都声明",
+          "url": "https://wallstreetcn.com/livenews/3138953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
         },
         {
           "title": "马斯克也“默认”了？知名科技圈人士：特斯拉和SpaceX合并概率已达90%！",
@@ -288,7 +346,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -321,7 +379,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -348,6 +406,17 @@
           "time_info": "06时12分"
         },
         {
+          "title": "APEC数字和人工智能部长会议通过成都声明",
+          "url": "https://flash.jin10.com/detail/20260723225413881800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        },
+        {
           "title": "长电科技成立长润芯微系统公司 注册资本40亿元",
           "url": "https://wallstreetcn.com/livenews/3138671",
           "source": "华尔街见闻-快讯",
@@ -368,17 +437,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
-        },
-        {
-          "title": "长鑫科技：将于7月27日在科创板上市",
-          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%EF%BC%9A%E5%B0%86%E4%BA%8E7%E6%9C%8827%E6%97%A5%E5%9C%A8%E7%A7%91%E5%88%9B%E6%9D%BF%E4%B8%8A%E5%B8%82",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
         },
         {
           "title": "上海：便利科技企业再融资 推动再融资储架发行制度落地实施",
@@ -453,7 +511,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -475,7 +533,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -489,6 +547,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
+        },
+        {
+          "title": "长鑫科技7月27日科创板上市",
+          "url": "https://www.douyin.com/hot/2582708",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
         }
       ]
     },
@@ -680,7 +749,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
