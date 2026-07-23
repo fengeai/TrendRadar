@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-23T08:08:02.097288+08:00",
-  "total_titles_processed": 661,
+  "generated_at": "2026-07-23T12:21:56.240254+08:00",
+  "total_titles_processed": 868,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 16,
+      "match_count": 26,
       "titles": [
         {
           "title": "剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？",
@@ -36,11 +36,12 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 08时08分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 12时21分]"
         },
         {
           "title": "长鑫科技中签如中彩票，却有 660 万新股遭散户投资者弃购，投资者们在犹豫什么？",
@@ -65,15 +66,49 @@
           "time_info": "06时12分"
         },
         {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20260723080306349800",
-          "source": "金十数据",
+          "title": "上海出台直接融资“20条”，持续加强科技企业全生命周期金融服务",
+          "url": "https://wallstreetcn.com/livenews/3138598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "小红书被曝正主动联系相关老员工，愿补发期权换签署相关条款，真实性多大？若能达成一致，能顺利 IPO 吗？",
+          "url": "https://www.zhihu.com/question/2063292318887539352",
+          "source": "知乎",
+          "ranks": [
+            8,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时07分 ~ 12时21分]"
+        },
+        {
+          "title": "上海：深化债券市场“科技板”建设",
+          "url": "https://wallstreetcn.com/livenews/3138597",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时08分"
+          "time_info": "12时21分"
+        },
+        {
+          "title": "趋境科技力争五年内建成万卡级AI Token工厂",
+          "url": "https://flash.jin10.com/detail/20260723115159162800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
         },
         {
           "title": "周四亚太盘初，纳指期货跌0.3%，谷歌A与特斯拉掀开美国科技股业绩报告序幕。",
@@ -96,6 +131,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时26分 ~ 06时12分]"
+        },
+        {
+          "title": "灵初智能正以14.8亿美元的估值融资近1亿美元，该公司接近完成由奇瑞领投的一轮融资，其他投资者还包括蓝思科技。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3138591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
         },
         {
           "title": "前所未有的人工智能失控事故！中方救场",
@@ -122,15 +168,27 @@
           "time_info": "[00时26分 ~ 04时17分]"
         },
         {
-          "title": "小红书被曝正主动联系相关老员工，愿补发期权换签署相关条款，真实性多大？若能达成一致，能顺利 IPO 吗？",
-          "url": "https://www.zhihu.com/question/2063292318887539352",
-          "source": "知乎",
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260723080306349800",
+          "source": "金十数据",
           "ranks": [
-            8
+            3,
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时07分 ~ 08时08分]"
+          "time_info": "[08时08分 ~ 12时21分]"
+        },
+        {
+          "title": "中国大模型救场美国人工智能事故",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%95%91%E5%9C%BA%E7%BE%8E%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%BA%8B%E6%95%85",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
         },
         {
           "title": "标普500指数初步收跌大约0.1%，电信板块跌1.1%，科技板块大致持平，能源板块涨1.1%，原材料板块涨1.3%，公用事业板块涨2.2%。 纳斯达克100指数初步收跌0.4%，成分股中，SpaceX初步收跌6.6%，Workday跌6.2%，汤森路透跌3.6%，英特尔跌2.5%，Meta、微软至少跌2%，英伟达涨2.1%，博通涨2.6%，CoreWeave涨4.1%，核电股CEG涨4.8%。 半导体指数涨0.4%。",
@@ -144,13 +202,35 @@
           "time_info": "04时17分"
         },
         {
+          "title": "上海：持续强化上市公司并购科技企业审核标准公开",
+          "url": "https://flash.jin10.com/detail/20260723114639563800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "上海：探索引入境外离岸人民币资金支持境内科技创新",
+          "url": "https://flash.jin10.com/detail/20260723114422830800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
           "title": "硬科技企业密集登陆，港股IPO市场活力持续释放",
           "url": "https://wallstreetcn.com/livenews/3138462",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
         },
@@ -164,6 +244,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "上海：深化债券市场“科技板”建设",
+          "url": "https://flash.jin10.com/detail/20260723114042817800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "上海：便利科技企业再融资 推动再融资储架发行制度落地实施",
+          "url": "https://flash.jin10.com/detail/20260723114031067800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
         },
         {
           "title": "恒生指数主连夜盘收涨0.33%，报24997点。 恒生科技指数主连夜盘收平，报4678点。",
@@ -183,9 +285,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
+        },
+        {
+          "title": "谷歌上调AI资本开支至2050亿美元，美国科技巨头持续扩大投入",
+          "url": "https://flash.jin10.com/detail/20260723113313668800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
         }
       ]
     },
@@ -203,8 +316,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 08时08分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 12时21分]"
         },
         {
           "title": "云支出目标狂飙至7500亿美元！OpenAI豪掷超300亿美元建数据中心，推出Presence平台进军企业软件市场",
@@ -215,8 +328,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 08时08分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 12时21分]"
         },
         {
           "title": "OpenAI 模型「失控」入侵全球最大 AI 开源社区，敲响了哪些 AI 安全警钟？",
@@ -231,6 +344,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时26分 ~ 08时08分]"
+        },
+        {
+          "title": "吧友做梗图催更DeepSeekV4",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356411&amp;topic_name=%E5%90%A7%E5%8F%8B%E5%81%9A%E6%A2%97%E5%9B%BE%E5%82%AC%E6%9B%B4DeepSeekV4",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 12时21分]"
         },
         {
           "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
@@ -256,28 +381,6 @@
           "time_info": "[08时07分 ~ 08时08分]"
         },
         {
-          "title": "OpenAI模型失控闯祸 中国大模型救场",
-          "url": "https://www.baidu.com/s?wd=OpenAI%E6%A8%A1%E5%9E%8B%E5%A4%B1%E6%8E%A7%E9%97%AF%E7%A5%B8+%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%95%91%E5%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时07分 ~ 08时08分]"
-        },
-        {
-          "title": "吧友做梗图催更DeepSeekV4",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356411&amp;topic_name=%E5%90%A7%E5%8F%8B%E5%81%9A%E6%A2%97%E5%9B%BE%E5%82%AC%E6%9B%B4DeepSeekV4",
-          "source": "贴吧",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 08时08分]"
-        },
-        {
           "title": "OpenAI遭遇史上首次评测失控事故",
           "url": "https://www.baidu.com/s?wd=OpenAI%E9%81%AD%E9%81%87%E5%8F%B2%E4%B8%8A%E9%A6%96%E6%AC%A1%E8%AF%84%E6%B5%8B%E5%A4%B1%E6%8E%A7%E4%BA%8B%E6%95%85",
           "source": "百度热搜",
@@ -287,6 +390,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时26分 ~ 08时08分]"
+        },
+        {
+          "title": "OpenAI模型失控闯祸 中国大模型救场",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E6%A8%A1%E5%9E%8B%E5%A4%B1%E6%8E%A7%E9%97%AF%E7%A5%B8+%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%95%91%E5%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时07分 ~ 12时21分]"
         },
         {
           "title": "如何看待 7 月 22 日 DeepSeek 客户端联网搜索近 4 小时不可用？",
@@ -352,9 +467,26 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "独立开发 创业 副业",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "上证指数早盘收报3859.69点，跌0.19%。 深证成指早盘收报14035.01点，跌0.19%。 创业板指早盘收报3555.09点，跌0.33%。 沪深300早盘收报4707.96点，跌0.20%。 科创50早盘收报1783.94点，跌4.09%。 中证500早盘收报7690.90点，跌0.78%。 中证1000早盘收报7142.04点，跌0.23%。",
+          "url": "https://wallstreetcn.com/livenews/3138590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
         }
       ]
     }
