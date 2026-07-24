@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T22:00:40.254375+08:00",
-  "total_titles_processed": 1414,
+  "generated_at": "2026-07-24T23:39:22.595635+08:00",
+  "total_titles_processed": 1546,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 63,
+      "match_count": 73,
       "titles": [
         {
           "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时26分 ~ 22时00分]"
+          "appearance_count": 9,
+          "time_info": "[11时26分 ~ 23时39分]"
         },
         {
           "title": "7月27日登陆科创板！长鑫科技投资价值怎么看？",
@@ -124,17 +124,6 @@
           "time_info": "[01时38分 ~ 11时27分]"
         },
         {
-          "title": "长鑫科技一签能赚多少",
-          "url": "https://www.toutiao.com/trending/7665950655214784041/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时59分 ~ 22时00分]"
-        },
-        {
           "title": "抖音网友祝贺邓煜王虹获奖",
           "url": "https://www.douyin.com/hot/2582801",
           "source": "抖音",
@@ -170,6 +159,18 @@
           "time_info": "05时13分"
         },
         {
+          "title": "长鑫科技股价管控“小作文”先于上市登场，谣言为何密集出现？七大拆解",
+          "url": "https://www.cls.cn/detail/2436602",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时59分 ~ 23时39分]"
+        },
+        {
           "title": "A股科技板块持续调整，机构关注资源品与红利低位股",
           "url": "https://wallstreetcn.com/livenews/3139106",
           "source": "华尔街见闻-快讯",
@@ -192,13 +193,25 @@
           "time_info": "14时35分"
         },
         {
+          "title": "长鑫科技一签能赚多少",
+          "url": "https://www.toutiao.com/trending/7665950655214784041/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时59分 ~ 23时39分]"
+        },
+        {
           "title": "美国科技公司发布关于开放权重模型的公开信。该信件指出，开源权重模型对健康的AI生态系统至关重要。仅依赖封闭的人工智能模型并不安全。美国在人工智能领域面临开放权重的选择。",
           "url": "https://flash.jin10.com/detail/20260724214133553800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时00分"
         },
@@ -226,6 +239,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时38分 ~ 07时05分]"
+        },
+        {
+          "title": "长鑫科技上市时间敲定 7 月 27 日，哪些信息值得关注？你看好它的上市吗？",
+          "url": "https://www.zhihu.com/question/2063730050579396490",
+          "source": "知乎",
+          "ranks": [
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时26分 ~ 23时39分]"
         },
         {
           "title": "长鑫科技：将于7月27日在科创板上市",
@@ -263,18 +288,6 @@
           "time_info": "[03时36分 ~ 05时13分]"
         },
         {
-          "title": "长鑫科技上市时间敲定 7 月 27 日，哪些信息值得关注？你看好它的上市吗？",
-          "url": "https://www.zhihu.com/question/2063730050579396490",
-          "source": "知乎",
-          "ranks": [
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时26分 ~ 22时00分]"
-        },
-        {
           "title": "小红书被曝正主动联系相关老员工，愿补发期权换签署相关条款，真实性多大？若能达成一致，能顺利 IPO 吗？",
           "url": "https://www.zhihu.com/question/2063292318887539352",
           "source": "知乎",
@@ -290,22 +303,36 @@
           "url": "https://www.zhihu.com/question/2062839135568491650",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时48分 ~ 23时39分]"
+        },
+        {
+          "title": "长鑫科技一签能赚多少",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E4%B8%80%E7%AD%BE%E8%83%BD%E8%B5%9A%E5%A4%9A%E5%B0%91",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[19时48分 ~ 22时00分]"
+          "time_info": "[21时59分 ~ 23时39分]"
         },
         {
-          "title": "长鑫科技股价管控“小作文”先于上市登场，谣言为何密集出现？七大拆解",
-          "url": "https://www.cls.cn/detail/2436602",
-          "source": "财联社热门",
+          "title": "长鑫科技会成为下一个“中石油”吗",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E4%BC%9A%E6%88%90%E4%B8%BA%E4%B8%8B%E4%B8%80%E4%B8%AA%E2%80%9C%E4%B8%AD%E7%9F%B3%E6%B2%B9%E2%80%9D%E5%90%97",
+          "source": "百度热搜",
           "ranks": [
-            7
+            10,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时59分 ~ 22时00分]"
+          "appearance_count": 3,
+          "time_info": "[21时59分 ~ 23时39分]"
         },
         {
           "title": "【瑞银：不认为中国AI行业存在“泡沫”】7月24日，瑞银证券中国互联网行业分析师熊玮表示，中国云厂商投入节奏更稳健，强调ROI和可持续性，不认为中国AI行业有“泡沫”。同时，随着模型能力继续进步，推理需求持续增加，中国AI行业的投入会逐渐增大。（证券时报）",
@@ -320,31 +347,9 @@
           "time_info": "[19时48分 ~ 22时00分]"
         },
         {
-          "title": "长鑫科技会成为下一个“中石油”吗",
-          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E4%BC%9A%E6%88%90%E4%B8%BA%E4%B8%8B%E4%B8%80%E4%B8%AA%E2%80%9C%E4%B8%AD%E7%9F%B3%E6%B2%B9%E2%80%9D%E5%90%97",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时59分 ~ 22时00分]"
-        },
-        {
           "title": "长鑫科技迎来定价大考",
           "url": "https://www.toutiao.com/trending/7666052865487539748/",
           "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时59分 ~ 22时00分]"
-        },
-        {
-          "title": "长鑫科技一签能赚多少",
-          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E4%B8%80%E7%AD%BE%E8%83%BD%E8%B5%9A%E5%A4%9A%E5%B0%91",
-          "source": "百度热搜",
           "ranks": [
             14
           ],
@@ -386,6 +391,17 @@
           "time_info": "05时13分"
         },
         {
+          "title": "APEC人工智能高级别论坛关于促进亚太地区人工智能发展的声明",
+          "url": "https://wallstreetcn.com/livenews/3139538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
           "title": "恒生科技指数跌2%。",
           "url": "https://wallstreetcn.com/livenews/3139197",
           "source": "华尔街见闻-快讯",
@@ -397,6 +413,17 @@
           "time_info": "11时27分"
         },
         {
+          "title": "三星、SK海力士将宣布与美国科技巨头达成大规模芯片合作",
+          "url": "https://www.cls.cn/detail/2436740",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
           "title": "期货热点追踪",
           "url": "https://flash.jin10.com/detail/20260724110306052800",
           "source": "金十数据",
@@ -406,6 +433,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
+        },
+        {
+          "title": "谷歌公司签署《欧盟人工智能法案》透明度行为准则。 谷歌说：该欧盟准则涉及人工智能（AI）生成内容的透明度。",
+          "url": "https://wallstreetcn.com/livenews/3139536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
+          "title": "纳斯达克100指数跌1.2%， 美股存储芯片指数维持超过6.4%的跌幅，成分股闪迪目前跌9.4%、美光跌6.6%、西部数据跌5.8%、希捷科技跌4.9%。 费城半导体指数目前跌4.1%，成分股也全线溃败，Credo科技跌10%、Astera Labs跌9.3%、高意公司/相干公司Coherent跌8.8%、迈威尔科技/美满电子跌7%、美光跌幅第五大、Rambus跌6.4%、英伟达跌0.3%表现“顺数第二”。",
+          "url": "https://wallstreetcn.com/livenews/3139535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.57%，报6145.46点，美股早盘持续走低，北京时间23:00-03:44低位企稳——震荡于6120点附近，随后显著收复失地。 热门中概股里，日月光半导体初步收跌2.8%，阿里跌2.1%，网易跌0.8%，美团涨2.4%，小马智行涨7.5%。 ETF中，中国科技指数ETF（CQQQ）收跌2.04%，中概互联网指数ETF（KWEB）收跌0.64%。 XtrackersHarvest中证50（ASHS）收跌1.07%，德银嘉实沪深300指数ETF（ASHR）收跌0.54%，MSCI新兴市场ex中国ETF（EMXC）收跌0.50%。",
@@ -441,6 +490,17 @@
           "time_info": "05时13分"
         },
         {
+          "title": "APEC人工智能高级别论坛关于促进亚太地区人工智能发展的声明",
+          "url": "https://flash.jin10.com/detail/20260724225527330800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
           "title": "美五大科技巨头AI隐性债务被曝达1.65万亿美元",
           "url": "https://wallstreetcn.com/livenews/3139023",
           "source": "华尔街见闻-快讯",
@@ -474,6 +534,39 @@
           "time_info": "11时27分"
         },
         {
+          "title": "谷歌(GOOG.O)：欧盟关于人工智能生成内容透明度的法规，是基于2025年签署通用人工智能（GPAI）行为准则的延续。",
+          "url": "https://flash.jin10.com/detail/20260724225323034800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
+          "title": "谷歌(GOOG.O)签署欧盟人工智能法案透明度行为准则。",
+          "url": "https://flash.jin10.com/detail/20260724225207706800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
+          "title": "25家科技巨头联名施压特朗普：切勿全面限制开放权重AI模型",
+          "url": "https://flash.jin10.com/detail/20260724224925524800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
           "title": "AMD CEO苏姿丰在AMD Advancing AI大会上表示：预计人工智能（AI）加速器市场到2030年将达到1.4万亿美元规模。 预计数据中心CPU市场到2030年将达到2200亿美元规模。 整体而言，计算市场到2030年料将达到2万亿美元规模。 MI450 AI加速器是业内速度最快的。 全速生产Helios，即将发货。",
           "url": "https://wallstreetcn.com/livenews/3138999",
           "source": "华尔街见闻-快讯",
@@ -502,7 +595,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时00分"
         },
@@ -683,6 +776,17 @@
           "time_info": "17时26分"
         },
         {
+          "title": "微软联合20多家美国科技公司发布公开信之后，英伟达CEO黄仁勋迅速在X（原名推特）发布了公开社交动态，专门为此公开信背书，并指出：“世界既需要顶尖的封闭模型，也需要顶尖的开放模型。”",
+          "url": "https://wallstreetcn.com/livenews/3139515",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
           "title": "AMD(AMD.O)：预计到2030年，人工智能加速器市场将达到1.4万亿美元。",
           "url": "https://flash.jin10.com/detail/20260724003935431800",
           "source": "金十数据",
@@ -716,6 +820,17 @@
           "time_info": "14时35分"
         },
         {
+          "title": "7月24日，微软联合IBM、Meta、等20余家美国科技公司发表名为《开放权重与美国人工智能领导力》的公开信，呼吁开放权重AI模型。 公开信认为，1. 开放权重扩大了对 AI 经济的参与途径。 开放权重强化了市场竞争。 开放权重赋予客户更大的控制权。 开放与 AI 安全及保障。",
+          "url": "https://wallstreetcn.com/livenews/3139514",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
           "title": "金盘科技：实控人提议实施中期分红 金额不低于上半年净利润30%",
           "url": "https://flash.jin10.com/detail/20260724164214444800",
           "source": "金十数据",
@@ -738,11 +853,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时26分 ~ 22时00分]"
+          "appearance_count": 5,
+          "time_info": "[17时26分 ~ 23时39分]"
         },
         {
           "title": "公安部：上半年共侦办利用AI工具生成网络谣言案件170余起",
@@ -761,11 +877,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            13
+            13,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时26分 ~ 22时00分]"
+          "appearance_count": 5,
+          "time_info": "[17时26分 ~ 23时39分]"
         },
         {
           "title": "OpenAI：预计将大规模部署AMD的Helios。",
@@ -959,11 +1076,12 @@
           "ranks": [
             12,
             10,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时26分 ~ 22时00分]"
+          "appearance_count": 5,
+          "time_info": "[17时26分 ~ 23时39分]"
         },
         {
           "title": "创业板指跌超2%，沪指跌0.74%，深成指跌1.75%，贵金属、培育钻石、CPO、PCB等方向跌幅居前，沪深京三市下跌个股超4700只。",
