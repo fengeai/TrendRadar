@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T14:35:01.992866+08:00",
-  "total_titles_processed": 944,
+  "generated_at": "2026-07-24T17:26:55.064888+08:00",
+  "total_titles_processed": 1126,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 42,
+      "match_count": 48,
       "titles": [
         {
           "title": "7月27日登陆科创板！长鑫科技投资价值怎么看？",
@@ -34,6 +34,31 @@
           "time_info": "[01时38分 ~ 07时05分]"
         },
         {
+          "title": "长鑫科技产业链全景扫描：设备材料端率先受益 封测与存储模组产品导入验证持续进行",
+          "url": "https://www.cls.cn/detail/2435803",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时26分 ~ 17时26分]"
+        },
+        {
+          "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
+          "url": "https://wallstreetcn.com/articles/3777828",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时26分 ~ 17时26分]"
+        },
+        {
           "title": "【早报】美股科技赛道大跌，存储股逆市走高；油价暴涨、黄金跳水；长鑫科技下周一上市",
           "url": "https://www.cls.cn/detail/2435717",
           "source": "财联社热门",
@@ -45,28 +70,29 @@
           "time_info": "[11时26分 ~ 14时35分]"
         },
         {
-          "title": "长鑫科技产业链全景扫描：设备材料端率先受益 封测与存储模组产品导入验证持续进行",
-          "url": "https://www.cls.cn/detail/2435803",
-          "source": "财联社热门",
+          "title": "长鑫科技7月27日科创板上市",
+          "url": "https://www.douyin.com/hot/2582708",
+          "source": "抖音",
           "ranks": [
-            4,
-            3
+            23,
+            8,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时26分 ~ 14时35分]"
+          "appearance_count": 8,
+          "time_info": "[03时36分 ~ 17时26分]"
         },
         {
-          "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
-          "url": "https://wallstreetcn.com/articles/3777828",
-          "source": "华尔街见闻",
+          "title": "东山精密、澜起科技、江波龙、佰维存储等，多家科技龙头公司加入“增持回购潮”",
+          "url": "https://www.cls.cn/detail/2436009",
+          "source": "财联社热门",
           "ranks": [
             5,
-            4
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时26分 ~ 14时35分]"
+          "appearance_count": 3,
+          "time_info": "[14时34分 ~ 17时26分]"
         },
         {
           "title": "抖音网友带我逛菲尔兹奖现场",
@@ -84,19 +110,6 @@
           "time_info": "[01时38分 ~ 11时27分]"
         },
         {
-          "title": "长鑫科技7月27日科创板上市",
-          "url": "https://www.douyin.com/hot/2582708",
-          "source": "抖音",
-          "ranks": [
-            23,
-            8,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时36分 ~ 14时35分]"
-        },
-        {
           "title": "Alphabet现金流首度转负 AI资本支出压力考验科技巨头财报",
           "url": "https://www.cls.cn/detail/2435521",
           "source": "财联社热门",
@@ -108,17 +121,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时38分 ~ 11时27分]"
-        },
-        {
-          "title": "东山精密、澜起科技、江波龙、佰维存储等，多家科技龙头公司加入“增持回购潮”",
-          "url": "https://www.cls.cn/detail/2436009",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时34分 ~ 14时35分]"
         },
         {
           "title": "抖音网友祝贺邓煜王虹获奖",
@@ -173,7 +175,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -291,6 +293,17 @@
           "time_info": "11时27分"
         },
         {
+          "title": "长鑫科技上市时间敲定 7 月 27 日，哪些信息值得关注？你看好它的上市吗？",
+          "url": "https://www.zhihu.com/question/2063730050579396490",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
+        {
           "title": "标普500指数初步收跌1.2%，电信板块重挫5%可选消费板块跌4.9%，科技板块跌1.3%，能源板块涨0.4%，工业板块涨1.5%。 纳斯达克100指数初步收跌1.9%，道指跌1%，半导体指数跌1.1%，银行指数跌1.1%。",
           "url": "https://wallstreetcn.com/livenews/3139053",
           "source": "华尔街见闻-快讯",
@@ -346,6 +359,28 @@
           "time_info": "01时39分"
         },
         {
+          "title": "长鑫科技将上市",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%B0%86%E4%B8%8A%E5%B8%82%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
+        {
+          "title": "科技愿景被收益率折现，原油正用资金成本控制叙事节奏| 每日市场观察07.24",
+          "url": "https://flash.jin10.com/detail/20260724165537900800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
+        {
           "title": "周五亚太盘初，纳指期货涨0.3%。 目前（美股盘后），科技股英特尔涨4.5%，甲骨文涨2%，AMD涨1.4%，特斯拉反弹1.1%，美光跌0.4%。",
           "url": "https://wallstreetcn.com/livenews/3139086",
           "source": "华尔街见闻-快讯",
@@ -379,6 +414,17 @@
           "time_info": "03时36分"
         },
         {
+          "title": "中重科技：实控人谷峰兰增持公司10万股 累计增持金额83.5万元",
+          "url": "https://flash.jin10.com/detail/20260724165228987800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
+        {
           "title": "AMD(AMD.O)发布Helios人工智能服务器整机架。",
           "url": "https://flash.jin10.com/detail/20260724004744566800",
           "source": "金十数据",
@@ -396,7 +442,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -418,7 +464,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -456,6 +502,17 @@
           "time_info": "07时05分"
         },
         {
+          "title": "恒生指数收盘跌0.98%，恒生科技指数跌1.47%",
+          "url": "https://wallstreetcn.com/livenews/3139336",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
+        {
           "title": "AMD(AMD.O)：预计到2030年，人工智能加速器市场将达到1.4万亿美元。",
           "url": "https://flash.jin10.com/detail/20260724003935431800",
           "source": "金十数据",
@@ -484,16 +541,38 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
+        },
+        {
+          "title": "金盘科技：实控人提议实施中期分红 金额不低于上半年净利润30%",
+          "url": "https://flash.jin10.com/detail/20260724164214444800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         }
       ]
     },
     {
       "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
-      "match_count": 13,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
+          "url": "https://www.zhihu.com/question/2063832242242184073",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
         {
           "title": "公安部：上半年共侦办利用AI工具生成网络谣言案件170余起",
           "url": "https://wallstreetcn.com/livenews/3139199",
@@ -563,6 +642,17 @@
           "time_info": "01时39分"
         },
         {
+          "title": "印度法院：对新闻机构ANI与OpenAI之间的版权争议拥有管辖权。",
+          "url": "https://flash.jin10.com/detail/20260724170650841800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
+        {
           "title": "OpenAI预计将大规模部署AMD Helios。",
           "url": "https://flash.jin10.com/detail/20260724010730197800",
           "source": "金十数据",
@@ -596,6 +686,17 @@
           "time_info": "01时39分"
         },
         {
+          "title": "印度法院：OpenAI使用新闻机构ANI的内容进行人工智能训练并不构成版权侵权。",
+          "url": "https://flash.jin10.com/detail/20260724170428772800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
+        {
           "title": "AMD(AMD.O)CEO苏姿丰：OpenAI在AMD“押下重注”。",
           "url": "https://flash.jin10.com/detail/20260724030743533800",
           "source": "金十数据",
@@ -605,6 +706,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时36分"
+        },
+        {
+          "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
+        {
+          "title": "DeepSeek纠结了10秒还是决定谄媚",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E7%BA%A0%E7%BB%93%E4%BA%8610%E7%A7%92%E8%BF%98%E6%98%AF%E5%86%B3%E5%AE%9A%E8%B0%84%E5%AA%9A&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "公安部：上半年共侦办利用AI工具生成网络谣言案件170余起",
@@ -643,8 +766,30 @@
     },
     {
       "keyword_group": "独立开发 创业 副业",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "中天服务：拟使用自有资金2000万元参与认购杭州辉光日新三期创业投资基金合伙企业基金份额",
+          "url": "https://flash.jin10.com/detail/20260724170952146800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
+        {
+          "title": "【每日收评】深成指、创业板指双双跌超2%，两市成交额不足2万亿，半导体设备逆势活跃",
+          "url": "https://www.cls.cn/detail/2436369",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
         {
           "title": "创业板指跌超2%，沪指跌0.74%，深成指跌1.75%，贵金属、培育钻石、CPO、PCB等方向跌幅居前，沪深京三市下跌个股超4700只。",
           "url": "https://wallstreetcn.com/livenews/3139165",
