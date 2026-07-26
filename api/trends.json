@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T02:06:45.298886+08:00",
-  "total_titles_processed": 373,
+  "generated_at": "2026-07-27T04:16:03.201814+08:00",
+  "total_titles_processed": 412,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,31 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 02时06分]"
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 04时16分]"
+        },
+        {
+          "title": "韩美科技巨头聚首旧金山 英伟达、Anthropic宣布达成大型协议",
+          "url": "https://www.cls.cn/detail/2436901",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时08分 ~ 04时16分]"
+        },
+        {
+          "title": "黄仁勋、马斯克同日发声：中国的人工智能注定卓越 将成为全球领导者",
+          "url": "https://www.cls.cn/detail/2437146",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时08分 ~ 04时16分]"
         },
         {
           "title": "美国五大科技巨头 AI 隐性债务被曝达 1.65 万亿美元，四年内增长 8 倍，巨额表外负债会成为定时炸弹吗？",
@@ -31,29 +54,6 @@
           "time_info": "[00时08分 ~ 02时06分]"
         },
         {
-          "title": "韩美科技巨头聚首旧金山 英伟达、Anthropic宣布达成大型协议",
-          "url": "https://www.cls.cn/detail/2436901",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时08分 ~ 02时06分]"
-        },
-        {
-          "title": "黄仁勋、马斯克同日发声：中国的人工智能注定卓越 将成为全球领导者",
-          "url": "https://www.cls.cn/detail/2437146",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时08分 ~ 02时06分]"
-        },
-        {
           "title": "长鑫科技员工：上市和我们没啥关系",
           "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%91%98%E5%B7%A5%EF%BC%9A%E4%B8%8A%E5%B8%82%E5%92%8C%E6%88%91%E4%BB%AC%E6%B2%A1%E5%95%A5%E5%85%B3%E7%B3%BB",
           "source": "百度热搜",
@@ -61,8 +61,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时08分 ~ 02时06分]"
+          "appearance_count": 5,
+          "time_info": "[00时08分 ~ 04时16分]"
         },
         {
           "title": "长鑫科技上市前夕记者探访",
@@ -72,8 +72,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时08分 ~ 02时06分]"
+          "appearance_count": 5,
+          "time_info": "[00时08分 ~ 04时16分]"
         }
       ]
     }
