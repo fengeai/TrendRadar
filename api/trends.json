@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-26T15:41:45.325713+08:00",
-  "total_titles_processed": 840,
+  "generated_at": "2026-07-26T18:08:23.651651+08:00",
+  "total_titles_processed": 974,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "马上评｜中国青年科技人才何以“井喷式”爆发",
@@ -42,8 +42,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 15时41分]"
+          "appearance_count": 8,
+          "time_info": "[01时08分 ~ 18时08分]"
         },
         {
           "title": "三星、SK海力士将宣布与美国科技巨头达成大规模芯片合作",
@@ -51,11 +51,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 15时41分]"
+          "appearance_count": 8,
+          "time_info": "[01时08分 ~ 18时08分]"
         },
         {
           "title": "科技股大跌是因为“量化砸盘”？中基协私募专业委员会详解A股量化交易",
@@ -83,6 +84,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时08分 ~ 08时07分]"
+        },
+        {
+          "title": "华夏基金：旗下部分ETF长鑫科技上市首日或存净值差异风险",
+          "url": "https://flash.jin10.com/detail/20260726171205996800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
         },
         {
           "title": "有人呼吁美“封杀”中国大模型，黄仁勋等人急了：快开源美国AI",
@@ -138,22 +150,24 @@
           "ranks": [
             19,
             14,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时07分 ~ 15时41分]"
+          "appearance_count": 4,
+          "time_info": "[08时07分 ~ 18时08分]"
         },
         {
           "title": "为AI投资腾资金？美国科技巨头年内裁员近14万人",
           "url": "https://wallstreetcn.com/articles/3777930",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时33分 ~ 15时41分]"
+          "appearance_count": 3,
+          "time_info": "[12时33分 ~ 18时08分]"
         },
         {
           "title": "长鑫科技一签能赚多少",
@@ -173,7 +187,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         },
@@ -187,6 +201,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
+        },
+        {
+          "title": "美国五大科技巨头 AI 隐性债务被曝达 1.65 万亿美元，四年内增长 8 倍，巨额表外负债会成为定时炸弹吗？",
+          "url": "https://www.zhihu.com/question/2063915578427963194",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
         },
         {
           "title": "长鑫科技明日上市 中一签能赚多少钱",
@@ -217,9 +242,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
+        },
+        {
+          "title": "长鑫科技上市前夕探现场",
+          "url": "https://www.douyin.com/hot/2585697",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
         }
       ]
     },
@@ -257,11 +293,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时33分 ~ 15时41分]"
+          "appearance_count": 3,
+          "time_info": "[12时33分 ~ 18时08分]"
         },
         {
           "title": "OpenAI Codex产品负责人Tibo：我们已经为所有Codex和ChatGPT Work用户重置了使用额度。昨夜凌晨2点至4点左右，我们遭遇了一次几乎全球范围的服务中断。目前所有服务均已恢复正常。",
@@ -283,7 +320,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         }
