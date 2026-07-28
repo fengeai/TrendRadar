@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T07:12:07.738603+08:00",
-  "total_titles_processed": 529,
+  "generated_at": "2026-07-28T11:18:07.558686+08:00",
+  "total_titles_processed": 753,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 27,
+      "match_count": 42,
       "titles": [
         {
           "title": "美宣称拟对中国人工智能企业开展调查并实施制裁，中方回应",
@@ -46,11 +46,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            1
+            1,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时18分 ~ 07时12分]"
+          "appearance_count": 5,
+          "time_info": "[05时18分 ~ 11时18分]"
         },
         {
           "title": "长鑫科技上市首日高开 471%，市值突破 3 万亿，成 A 股新「一哥」，如何看待其表现？",
@@ -67,6 +68,29 @@
           "time_info": "[01时50分 ~ 07时12分]"
         },
         {
+          "title": "长鑫科技成A股市值最高公司，银行、保险等机构受益几何",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33667417",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时50分 ~ 11时18分]"
+        },
+        {
+          "title": "长鑫科技上市的背后",
+          "url": "https://search.bilibili.com/all?keyword=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E4%B8%8A%E5%B8%82%E7%9A%84%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 11时18分]"
+        },
+        {
           "title": "长鑫科技上市 哪些城市是赢家",
           "url": "https://www.toutiao.com/trending/7667218293643546153/",
           "source": "今日头条",
@@ -79,6 +103,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时50分 ~ 07时12分]"
+        },
+        {
+          "title": "雷军打新长鑫科技一天狂赚7亿？小米高管回应",
+          "url": "https://wallstreetcn.com/livenews/3140687",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
         },
         {
           "title": "美光科技总市值跌破万亿美元",
@@ -116,6 +151,17 @@
           "time_info": "05时18分"
         },
         {
+          "title": "恒生科技指数转为涨跌基本持平，此前涨超1%；恒指跌0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3140681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
+        },
+        {
           "title": "全世界都在 ALL in AI ，AI 真的是第四次工业革命吗？人类的科技树是否点错了？",
           "url": "https://www.zhihu.com/question/2052464126996353859",
           "source": "知乎",
@@ -135,18 +181,6 @@
           "ranks": [
             14,
             15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时50分 ~ 07时12分]"
-        },
-        {
-          "title": "长鑫科技成A股市值最高公司，银行、保险等机构受益几何",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33667417",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            16
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -177,6 +211,39 @@
           "time_info": "[05时18分 ~ 07时12分]"
         },
         {
+          "title": "长鑫科技跌超7%",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E8%B7%8C%E8%B6%857%25%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 11时18分]"
+        },
+        {
+          "title": "长鑫科技开盘跳水超7%后迅速反弹",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%BC%80%E7%9B%98%E8%B7%B3%E6%B0%B4%E8%B6%857%25%E5%90%8E%E8%BF%85%E9%80%9F%E5%8F%8D%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 11时18分]"
+        },
+        {
+          "title": "长鑫科技上市首日哪些数据刷A股纪录？券商如何看后市？",
+          "url": "https://www.cls.cn/detail/2438405",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 11时18分]"
+        },
+        {
           "title": "美国掀起中国科技大讨论",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%8E%80%E8%B5%B7%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E5%A4%A7%E8%AE%A8%E8%AE%BA%23&t=31&band_rank=12&Refer=top",
           "source": "微博",
@@ -188,6 +255,50 @@
           "time_info": "[07时11分 ~ 07时12分]"
         },
         {
+          "title": "长鑫科技上市 哪些城市是赢家",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E4%B8%8A%E5%B8%82+%E5%93%AA%E4%BA%9B%E5%9F%8E%E5%B8%82%E6%98%AF%E8%B5%A2%E5%AE%B6",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 11时18分]"
+        },
+        {
+          "title": "长鑫科技股价暴涨、上市创 A 股多项纪录，它为什么能这么火？这轮上涨到底能走多远？",
+          "url": "https://www.zhihu.com/question/2065148380980798092",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 11时18分]"
+        },
+        {
+          "title": "如何评价大连理工 2026 在陕招生，普通批仅 10 人全部为计算机人工智能？",
+          "url": "https://www.zhihu.com/question/2063239728175043416",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 11时18分]"
+        },
+        {
+          "title": "长鑫科技“上市盛宴”：合肥国资持股市值过万亿，阿里浮盈千亿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33667764",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 11时18分]"
+        },
+        {
           "title": "A股隐形龙头涨幅远超长鑫科技",
           "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E9%9A%90%E5%BD%A2%E9%BE%99%E5%A4%B4%E6%B6%A8%E5%B9%85%E8%BF%9C%E8%B6%85%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -197,6 +308,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时11分 ~ 07时12分]"
+        },
+        {
+          "title": "雷军打新长鑫科技浮盈7亿",
+          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E6%89%93%E6%96%B0%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E6%B5%AE%E7%9B%887%E4%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 11时18分]"
+        },
+        {
+          "title": "实探长鑫科技上市首日",
+          "url": "https://www.douyin.com/hot/2587627",
+          "source": "抖音",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 11时18分]"
         },
         {
           "title": "邓超来抖音把热度给了更需要的人",
@@ -232,13 +365,24 @@
           "time_info": "05时18分"
         },
         {
+          "title": "《杭州市人工智能产业发展促进条例（草案）》拟出台 首次引入词元概念并作出促进生产等制度安排",
+          "url": "https://wallstreetcn.com/livenews/3140672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
+        },
+        {
           "title": "多路资金云集长鑫科技，上市首日斩获可观浮盈",
           "url": "https://wallstreetcn.com/livenews/3140547",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -318,6 +462,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
+        },
+        {
+          "title": "AI应用端逆势走强，南天信息直线涨停，科蓝软件涨超15%，高伟达、格尔软件、麦迪科技、思特奇跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3140631",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
+        },
+        {
+          "title": "恒生科技指数日内涨幅扩大至1%。",
+          "url": "https://wallstreetcn.com/livenews/3140619",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
         }
       ]
     },
@@ -333,19 +499,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时50分 ~ 07时12分]"
+          "appearance_count": 7,
+          "time_info": "[01时50分 ~ 11时18分]"
         },
         {
           "title": "OpenAI失控入侵,遭索赔1亿算力",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356534&amp;topic_name=OpenAI%E5%A4%B1%E6%8E%A7%E5%85%A5%E4%BE%B5%2C%E9%81%AD%E7%B4%A2%E8%B5%941%E4%BA%BF%E7%AE%97%E5%8A%9B",
           "source": "贴吧",
           "ranks": [
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时50分 ~ 07时12分]"
+          "appearance_count": 7,
+          "time_info": "[01时50分 ~ 11时18分]"
         },
         {
           "title": "Claude Opus 5 系统提示词泄漏，膨胀到 20 万字符的系统提示词，你怎么看？",
@@ -378,7 +545,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         }
@@ -386,7 +553,7 @@
     },
     {
       "keyword_group": "独立开发 创业 副业",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "长鑫科技上市首日暴涨465%，成交破1400亿！创业板大涨3%，算力硬件午后拉升，恒科指涨逾1%，小米大涨超7%",
@@ -394,11 +561,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时50分 ~ 07时12分]"
+          "appearance_count": 7,
+          "time_info": "[01时50分 ~ 11时18分]"
         },
         {
           "title": "【每日收评】创业板指涨超3%，全市场近5200股飘红，长鑫科技全天成交额超1400亿",
@@ -411,6 +579,39 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时50分 ~ 07时12分]"
+        },
+        {
+          "title": "A股创业板指持续走弱现跌超6%，深证成指跌超4%，上证指数跌1.43%，两市近3000家个股飘绿。",
+          "url": "https://flash.jin10.com/detail/20260728111049611800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
+        },
+        {
+          "title": "创业板指跌超5%，沪指跌1.26%，深成指跌3.26%，算力硬件、半导体芯片、煤炭、贵金属等板块跌幅居前，沪深京三市下跌个股超2600只。",
+          "url": "https://wallstreetcn.com/livenews/3140670",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
+        },
+        {
+          "title": "创业板指跌超4%，沪指跌0.6%，深成指跌2.52%，算力硬件、半导体芯片、煤炭、贵金属等板块跌幅居前，沪深京三市下跌个股近2200只。",
+          "url": "https://wallstreetcn.com/livenews/3140653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
         }
       ]
     }
