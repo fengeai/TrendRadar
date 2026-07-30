@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T05:05:40.352373+08:00",
-  "total_titles_processed": 480,
+  "generated_at": "2026-07-30T10:53:47.943067+08:00",
+  "total_titles_processed": 680,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 13,
+      "match_count": 19,
       "titles": [
         {
           "title": "Meta Platforms(META.O)首席执行官：得益于人工智能，公司正在打造全新体验，产品交付速度加快。",
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
         },
@@ -36,7 +36,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
         },
@@ -47,9 +47,22 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
+        },
+        {
+          "title": "法学何为｜张凌寒：法律如何回应人工智能时代的责任追问？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33672802",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时23分 ~ 10时53分]"
         },
         {
           "title": "半个抖音的知识博主都去四川了",
@@ -60,20 +73,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 05时05分]"
-        },
-        {
-          "title": "【焦点复盘】双创指数现放量“深V”，游戏等AI应用端持续回暖，长鑫科技午后一度涨近15%",
-          "url": "https://www.cls.cn/detail/2440260",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 05时05分]"
+          "appearance_count": 4,
+          "time_info": "[01时23分 ~ 10时53分]"
         },
         {
           "title": "科技股调整到哪一步？多家卖方研判",
@@ -82,6 +83,32 @@
           "ranks": [
             11,
             12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时23分 ~ 10时53分]"
+        },
+        {
+          "title": "抖音乒乓百分大战下次见",
+          "url": "https://www.douyin.com/hot/2588999",
+          "source": "抖音",
+          "ranks": [
+            22,
+            23,
+            21,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时23分 ~ 10时53分]"
+        },
+        {
+          "title": "【焦点复盘】双创指数现放量“深V”，游戏等AI应用端持续回暖，长鑫科技午后一度涨近15%",
+          "url": "https://www.cls.cn/detail/2440260",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -101,29 +128,59 @@
           "time_info": "[01时23分 ~ 05时05分]"
         },
         {
-          "title": "法学何为｜张凌寒：法律如何回应人工智能时代的责任追问？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33672802",
-          "source": "澎湃新闻",
+          "title": "“反科技”标签大放异彩 这国股市在芯片动荡中创新高",
+          "url": "https://www.cls.cn/detail/2440581",
+          "source": "财联社热门",
           "ranks": [
-            17,
-            15
+            10
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 05时05分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
         },
         {
-          "title": "抖音乒乓百分大战下次见",
-          "url": "https://www.douyin.com/hot/2588999",
-          "source": "抖音",
+          "title": "A股半导体芯片股再度走低，通富微电逼近跌停，瑞芯微此前跌停，星宸科技、全志科技、有研硅、长光华芯、翱捷科技、华虹宏力均跌超10%。",
+          "url": "https://wallstreetcn.com/livenews/3142084",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            22,
-            23,
-            21
+            12
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 05时05分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
+        },
+        {
+          "title": "A股算力硬件股震荡下挫，东山精密、贤丰控股、共进股份跌停，新易盛、联讯仪器、源杰科技、中际旭创均跌超10%。",
+          "url": "https://wallstreetcn.com/livenews/3142082",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
+        },
+        {
+          "title": "A股存储芯片板块持续下跌，全志科技跌12.5%，有研硅、翱捷科技跌超10%，通富微电触及跌停，华虹宏力跌超9%。",
+          "url": "https://flash.jin10.com/detail/20260730102247691800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
+        },
+        {
+          "title": "A股科技股拥挤度",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%E7%A7%91%E6%8A%80%E8%82%A1%E6%8B%A5%E6%8C%A4%E5%BA%A6&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
         },
         {
           "title": "美国总统特朗普：（谈论人工智能）正在研究管控AI的措施。",
@@ -132,7 +189,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
         },
@@ -157,12 +214,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "A股电网设备板块盘中逆势拉升，昊创瑞通20cm涨停，此前广电电气涨停，金智科技、凯发电气、海兴电力、三星电气跟涨。",
+          "url": "https://flash.jin10.com/detail/20260730101558303800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
         }
       ]
     },
     {
       "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenAI针对学术研究员推出ChatGPT。",
@@ -193,7 +261,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
         },
@@ -229,12 +297,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "OpenAI 、 Anthropic 等上千员工联名请愿美政府控制 AI 发展速度，反映了什么？有何影响？",
+          "url": "https://www.zhihu.com/question/2065729146383071132",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
         }
       ]
     },
     {
       "keyword_group": "独立开发 创业 副业",
-      "match_count": 1,
+      "match_count": 6,
       "titles": [
         {
           "title": "下班了 年轻人赶着去做副业",
@@ -242,11 +321,67 @@
           "source": "百度热搜",
           "ranks": [
             14,
-            6
+            6,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 05时05分]"
+          "appearance_count": 4,
+          "time_info": "[01时23分 ~ 10时53分]"
+        },
+        {
+          "title": "A股创业板指、科创50指数双双跌超4%，深证成指跌近2.5%，上证指数跌0.35%，存储芯片、算力硬件等板块下跌。",
+          "url": "https://flash.jin10.com/detail/20260730102743838800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
+        },
+        {
+          "title": "创业板指、科创50均跌超4%，沪指跌0.38%，深成指跌2.43%，半导体芯片、算力硬件等方向跌幅居前，沪深京三市下跌个股近2500只。",
+          "url": "https://wallstreetcn.com/livenews/3142087",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
+        },
+        {
+          "title": "创业板指跌逾3% 算力硬件领跌",
+          "url": "https://www.baidu.com/s?wd=%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E8%B7%8C%E9%80%BE3%25+%E7%AE%97%E5%8A%9B%E7%A1%AC%E4%BB%B6%E9%A2%86%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
+        },
+        {
+          "title": "创业板指、科创50均跌超3%，沪指跌0.18%，深成指跌0.86%，半导体芯片、算力硬件等方向跌幅居前，沪深京三市下跌个股近2100只。",
+          "url": "https://wallstreetcn.com/livenews/3142072",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
+        },
+        {
+          "title": "创业板指、科创50均跌超2%，沪指涨0.08%，深成指跌1.02%，半导体、光刻机、玻璃基板、CPO等板块跌幅居前，沪深京三市下跌个股超1700只。",
+          "url": "https://wallstreetcn.com/livenews/3142052",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
         }
       ]
     }
