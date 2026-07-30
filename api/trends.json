@@ -1,12 +1,37 @@
 {
-  "generated_at": "2026-07-31T04:20:44.864751+08:00",
-  "total_titles_processed": 405,
+  "generated_at": "2026-07-31T06:14:21.985163+08:00",
+  "total_titles_processed": 481,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
+        {
+          "title": "大消费“反攻”：资金从高位科技撤退，涌向低位的“烟火气”",
+          "url": "https://www.cls.cn/detail/2441464",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 06时14分]"
+        },
+        {
+          "title": "宇树科技IPO时间定了 8月10日申购",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80IPO%E6%97%B6%E9%97%B4%E5%AE%9A%E4%BA%86+8%E6%9C%8810%E6%97%A5%E7%94%B3%E8%B4%AD",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 06时14分]"
+        },
         {
           "title": "宇树科技：8月10日打新",
           "url": "https://m.thepaper.cn/newsDetail_forward_33687840",
@@ -16,20 +41,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 04时20分]"
-        },
-        {
-          "title": "大消费“反攻”：资金从高位科技撤退，涌向低位的“烟火气”",
-          "url": "https://www.cls.cn/detail/2441464",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 06时14分]"
         },
         {
           "title": "宇树科技：8月10日打新",
@@ -44,15 +57,16 @@
           "time_info": "[00时41分 ~ 04时20分]"
         },
         {
-          "title": "宇树科技IPO时间定了 8月10日申购",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80IPO%E6%97%B6%E9%97%B4%E5%AE%9A%E4%BA%86+8%E6%9C%8810%E6%97%A5%E7%94%B3%E8%B4%AD",
-          "source": "百度热搜",
+          "title": "功夫女足20亿解锁周星驰惊喜抖音",
+          "url": "https://www.douyin.com/hot/2588946",
+          "source": "抖音",
           "ranks": [
-            14
+            22,
+            24
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时41分 ~ 04时20分]"
+          "time_info": "[00时41分 ~ 06时14分]"
         },
         {
           "title": "宇树科技股票发行安排",
@@ -60,17 +74,6 @@
           "source": "微博",
           "ranks": [
             19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 00时42分]"
-        },
-        {
-          "title": "功夫女足20亿解锁周星驰惊喜抖音",
-          "url": "https://www.douyin.com/hot/2588946",
-          "source": "抖音",
-          "ranks": [
-            22
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -94,9 +97,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
+        },
+        {
+          "title": "美股存储芯片概念股盘后继续走强，西部数据(WDC.O)涨超4%，希捷科技(STX.O)、美光科技(MU.O)和SK海力士(SKHY.O)涨3%，闪迪(SNDK.O)涨6%。",
+          "url": "https://flash.jin10.com/detail/20260731053830299800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
+        },
+        {
+          "title": "白宫顾问哈塞特：人工智能（AI）并没有给美国造成通货膨胀。 如有必要，我们将继续降低油价。",
+          "url": "https://wallstreetcn.com/livenews/3142656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
         },
         {
           "title": "Meta Platforms(META.O)报告称，已通过长期和短期协议，承诺在未来投入近7000亿美元，用于人工智能数据中心、云计算等领域。",
@@ -105,7 +130,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
         },
@@ -116,7 +141,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
         },
@@ -138,7 +163,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
         },
@@ -171,9 +196,31 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
+        },
+        {
+          "title": "标普500指数的11个板块中，信息技术/科技板块收涨5.24%，可选消费板块涨1.57%，原材料板块涨1%，电信板块跌2.52%。",
+          "url": "https://wallstreetcn.com/livenews/3142642",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
+        },
+        {
+          "title": "周四（7月30日），美股行业ETF多数收涨，半导体ETF涨6.88%，全球科技股指数ETF、科技行业ETF至少涨5.5%。",
+          "url": "https://wallstreetcn.com/livenews/3142641",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
         }
       ]
     },
@@ -189,8 +236,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 06时14分]"
         },
         {
           "title": "报道：AI股受挫之际，城堡投资大举买入前OpenAI研究员旗下基金持仓",
@@ -229,8 +276,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 06时14分]"
         }
       ]
     }
