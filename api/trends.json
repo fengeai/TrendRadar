@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-07-31T12:29:48.476558+08:00",
-  "total_titles_processed": 842,
+  "generated_at": "2026-07-31T15:56:48.519333+08:00",
+  "total_titles_processed": 1034,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 29,
+      "match_count": 34,
       "titles": [
+        {
+          "title": "宇树科技：8月10日打新",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33687840",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            7,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时41分 ~ 15时56分]"
+        },
         {
           "title": "【早报】美科技股全线暴涨；苹果、亚马逊业绩公布；油价下行、黄金走强；宇树科技，8月10日申购",
           "url": "https://www.cls.cn/detail/2442025",
@@ -20,28 +34,16 @@
           "time_info": "[08时10分 ~ 12时29分]"
         },
         {
-          "title": "宇树科技：8月10日打新",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33687840",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 12时29分]"
-        },
-        {
           "title": "长鑫科技市值首次突破4万亿",
           "url": "https://www.toutiao.com/trending/7668102382697447470/",
           "source": "今日头条",
           "ranks": [
-            1
+            1,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时29分 ~ 15时56分]"
         },
         {
           "title": "大消费“反攻”：资金从高位科技撤退，涌向低位的“烟火气”",
@@ -81,6 +83,19 @@
           "time_info": "[00时41分 ~ 04时20分]"
         },
         {
+          "title": "宇树科技8月10日开启申购",
+          "url": "https://www.douyin.com/hot/2591318",
+          "source": "抖音",
+          "ranks": [
+            12,
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时10分 ~ 15时56分]"
+        },
+        {
           "title": "功夫女足20亿解锁周星驰惊喜抖音",
           "url": "https://www.douyin.com/hot/2588946",
           "source": "抖音",
@@ -91,18 +106,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时41分 ~ 06时14分]"
-        },
-        {
-          "title": "宇树科技8月10日开启申购",
-          "url": "https://www.douyin.com/hot/2591318",
-          "source": "抖音",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时10分 ~ 12时29分]"
         },
         {
           "title": "宇树科技股票发行安排",
@@ -127,13 +130,35 @@
           "time_info": "[00时41分 ~ 00时42分]"
         },
         {
+          "title": "事关半导体！特朗普政府再出手：将入股七家科技公司",
+          "url": "https://www.cls.cn/detail/2442363",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时56分"
+        },
+        {
+          "title": "7 月 31 日长鑫科技盘中涨超 13%，总市值突破 4 万亿，还会持续上涨吗？",
+          "url": "https://www.zhihu.com/question/2066475673590265734",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时56分"
+        },
+        {
           "title": "长鑫科技市值突破4万亿",
           "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%B8%82%E5%80%BC%E7%AA%81%E7%A0%B44%E4%B8%87%E4%BA%BF",
           "source": "百度热搜",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
         },
@@ -171,13 +196,24 @@
           "time_info": "06时14分"
         },
         {
+          "title": "宇树科技：预计2026年1-6月营业收入10.52亿元至11.28亿元",
+          "url": "https://www.cls.cn/detail/2442075",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时56分"
+        },
+        {
           "title": "金十数据整理：每日人工智能动态汇总（2026-07-31）",
           "url": "https://flash.jin10.com/detail/20260731115746440800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
         },
@@ -188,9 +224,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
+        },
+        {
+          "title": "日本央行行长植田和男：人工智能支出本身推高了价格。",
+          "url": "https://flash.jin10.com/detail/20260731152600329800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时56分"
         },
         {
           "title": "Meta Platforms(META.O)报告称，已通过长期和短期协议，承诺在未来投入近7000亿美元，用于人工智能数据中心、云计算等领域。",
@@ -221,7 +268,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
         },
@@ -246,6 +293,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
+        },
+        {
+          "title": "长鑫科技盘中涨超13%",
+          "url": "https://www.douyin.com/hot/2591565",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时56分"
         },
         {
           "title": "【Meta报告称未来支出承诺接近7000亿美元】Meta表示，已通过长期和短期协议，承诺了近7000亿美元的未来支出，涉及人工智能数据中心、云计算等领域。 Meta在周四的一份监管申报文件中表示，公司拥有3493亿美元的不可撤销合同承诺，主要涉及第三方云服务协议、服务器和网络基础设施。该公司还有3470亿美元尚未开始的租赁承诺，尚未反映在资产负债表中。其中仅7月份就新增了680亿美元，付款将从2027年和2028年开始。这些成本是在现有活跃租赁之外的，涵盖数据中心、托管设施及“部分网络基础设施”。",
@@ -309,7 +367,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
         },
@@ -331,7 +389,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
         }
@@ -339,7 +397,7 @@
     },
     {
       "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenAI首席财务官“放暖风”：7月年化收入超过第二季！",
@@ -354,15 +412,49 @@
           "time_info": "[00时41分 ~ 08时10分]"
         },
         {
+          "title": "DeepSeek-V4-Flash 正式版API上线",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek-V4-Flash",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时56分"
+        },
+        {
+          "title": "DeepSeek V4 flash 正式版发布，有哪些亮点值得关注？",
+          "url": "https://www.zhihu.com/question/2066521165246489298",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时56分"
+        },
+        {
           "title": "降幅高达80%！OpenAI大砍两款AI模型价格 “Token价格战”升温",
           "url": "https://www.cls.cn/detail/2442077",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时29分 ~ 15时56分]"
+        },
+        {
+          "title": "DeepSeekV4Flash正式版上线",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeekV4Flash%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时29分"
+          "time_info": "15时56分"
         },
         {
           "title": "报道：AI股受挫之际，城堡投资大举买入前OpenAI研究员旗下基金持仓",
@@ -390,7 +482,7 @@
     },
     {
       "keyword_group": "独立开发 创业 副业",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "【每日收评】创业板指放量跌近4%，算力硬件权重集体重挫，大消费方向持续活跃",
@@ -411,9 +503,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
+        },
+        {
+          "title": "创业板站上1400家新起点，背后有哪些重要数据？",
+          "url": "https://www.cls.cn/detail/2442248",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时56分"
         },
         {
           "title": "A股午评：创业板指涨超5% AI硬件板块集体反弹",
@@ -422,7 +525,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
         }
