@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T02:04:54.206907+08:00",
-  "total_titles_processed": 375,
+  "generated_at": "2026-08-02T04:13:25.532026+08:00",
+  "total_titles_processed": 414,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2066605797186823402",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时06分 ~ 02时04分]"
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 04时13分]"
         },
         {
           "title": "杨勇被授予国防科技一等功，他的背后有哪些事迹？",
@@ -39,8 +40,19 @@
             20
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 04时13分]"
+        },
+        {
+          "title": "人工智能助力直肠癌个性化化疗",
+          "url": "https://wallstreetcn.com/livenews/3143612",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时06分 ~ 02时04分]"
+          "time_info": "[00时07分 ~ 04时13分]"
         },
         {
           "title": "科技巨头绩后股价冰火两重天，表明市场开始“惩罚”乱花钱的AI公司",
@@ -49,17 +61,6 @@
           "ranks": [
             9,
             25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 02时04分]"
-        },
-        {
-          "title": "人工智能助力直肠癌个性化化疗",
-          "url": "https://wallstreetcn.com/livenews/3143612",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -89,9 +90,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时04分 ~ 04时13分]"
         },
         {
           "title": "为什么 DeepSeek-V4-Flash-0731 的后训练如此有效？",
@@ -101,8 +102,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时06分 ~ 02时04分]"
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 04时13分]"
         },
         {
           "title": "马斯克关注DeepSeek账号",
