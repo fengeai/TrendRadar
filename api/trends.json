@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-02T04:13:25.532026+08:00",
-  "total_titles_processed": 414,
+  "generated_at": "2026-08-02T06:04:05.498846+08:00",
+  "total_titles_processed": 438,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "三大运营商停止第三方互联网渠道号卡办理，低价大流量卡将集体退场，出于哪些考量？对普通消费者有什么影响？",
@@ -13,11 +13,25 @@
           "source": "知乎",
           "ranks": [
             1,
-            4
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时06分 ~ 04时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时06分 ~ 06时04分]"
+        },
+        {
+          "title": "王骁解读七月热点",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E9%AA%81%E8%A7%A3%E8%AF%BB%E4%B8%83%E6%9C%88%E7%83%AD%E7%82%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22,
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时06分 ~ 06时04分]"
         },
         {
           "title": "杨勇被授予国防科技一等功，他的背后有哪些事迹？",
@@ -32,18 +46,6 @@
           "time_info": "[00时06分 ~ 02时04分]"
         },
         {
-          "title": "王骁解读七月热点",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E9%AA%81%E8%A7%A3%E8%AF%BB%E4%B8%83%E6%9C%88%E7%83%AD%E7%82%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时06分 ~ 04时13分]"
-        },
-        {
           "title": "人工智能助力直肠癌个性化化疗",
           "url": "https://wallstreetcn.com/livenews/3143612",
           "source": "华尔街见闻-快讯",
@@ -51,8 +53,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时07分 ~ 04时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时07分 ~ 06时04分]"
         },
         {
           "title": "科技巨头绩后股价冰火两重天，表明市场开始“惩罚”乱花钱的AI公司",
@@ -65,6 +67,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时07分 ~ 02时04分]"
+        },
+        {
+          "title": "开源崛起、降价80%，大模型真的还能赚到钱吗？",
+          "url": "https://wallstreetcn.com/articles/3778491",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时03分 ~ 06时04分]"
         },
         {
           "title": "美两家AI巨头承认自家大模型“失控”",
@@ -91,8 +104,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时04分 ~ 04时13分]"
+          "appearance_count": 4,
+          "time_info": "[02时04分 ~ 06时04分]"
         },
         {
           "title": "为什么 DeepSeek-V4-Flash-0731 的后训练如此有效？",
@@ -102,8 +115,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时06分 ~ 04时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时06分 ~ 06时04分]"
         },
         {
           "title": "马斯克关注DeepSeek账号",
