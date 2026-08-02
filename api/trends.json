@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T00:07:05.943962+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-08-03T02:05:05.457227+08:00",
+  "total_titles_processed": 397,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 00时07分]"
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 02时05分]"
         },
         {
           "title": "A股8月修复可期？科技仍为中长期主线？十大券商策略来了",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 00时07分]"
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 02时05分]"
         },
         {
           "title": "AI能否回本？科技巨头本周的股价走势，市场给出了答案",
@@ -37,8 +37,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 00时07分]"
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 02时05分]"
         },
         {
           "title": "全抖音都在模仿痴迷名场面",
@@ -48,8 +48,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 00时07分]"
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 02时05分]"
         },
         {
           "title": "A股或告别科技独舞",
@@ -73,33 +73,36 @@
           "url": "https://www.zhihu.com/question/2067212789714778007",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 00时07分]"
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 02时05分]"
         },
         {
           "title": "DeepSeek-V4系列迎重大升级 性能追平旗舰模型 Agent能力大幅增强",
           "url": "https://www.cls.cn/detail/2443548",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 00时07分]"
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 02时05分]"
         },
         {
           "title": "神了,OpenAI攻克十年数学难题",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356711&amp;topic_name=%E7%A5%9E%E4%BA%86%2COpenAI%E6%94%BB%E5%85%8B%E5%8D%81%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
           "source": "贴吧",
           "ranks": [
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 00时07分]"
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 02时05分]"
         }
       ]
     }
