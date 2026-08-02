@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T02:05:05.457227+08:00",
-  "total_titles_processed": 397,
+  "generated_at": "2026-08-03T04:15:10.324777+08:00",
+  "total_titles_processed": 451,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时06分 ~ 02时05分]"
+          "appearance_count": 6,
+          "time_info": "[00时06分 ~ 04时15分]"
         },
         {
           "title": "A股8月修复可期？科技仍为中长期主线？十大券商策略来了",
           "url": "https://www.cls.cn/detail/2443573",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时06分 ~ 02时05分]"
+          "appearance_count": 6,
+          "time_info": "[00时06分 ~ 04时15分]"
         },
         {
           "title": "AI能否回本？科技巨头本周的股价走势，市场给出了答案",
@@ -37,8 +38,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时06分 ~ 02时05分]"
+          "appearance_count": 6,
+          "time_info": "[00时06分 ~ 04时15分]"
         },
         {
           "title": "全抖音都在模仿痴迷名场面",
@@ -66,7 +67,7 @@
     },
     {
       "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "DeepSeek v4 flash 如此强大，接下来发布的 pro 会不会让美国御三家全部倒闭？",
@@ -74,11 +75,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时06分 ~ 02时05分]"
+          "appearance_count": 6,
+          "time_info": "[00时06分 ~ 04时15分]"
         },
         {
           "title": "DeepSeek-V4系列迎重大升级 性能追平旗舰模型 Agent能力大幅增强",
@@ -89,8 +91,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时06分 ~ 02时05分]"
+          "appearance_count": 6,
+          "time_info": "[00时06分 ~ 04时15分]"
         },
         {
           "title": "神了,OpenAI攻克十年数学难题",
@@ -101,8 +103,19 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时06分 ~ 02时05分]"
+          "appearance_count": 6,
+          "time_info": "[00时06分 ~ 04时15分]"
+        },
+        {
+          "title": "deepseek 定价按 10 个月回本算都这么便宜了，为什么谷歌投资 ai 还会现金流转负？",
+          "url": "https://www.zhihu.com/question/2065010626171293829",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时14分 ~ 04时15分]"
         }
       ]
     }
