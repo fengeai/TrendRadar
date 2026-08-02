@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T06:04:05.498846+08:00",
-  "total_titles_processed": 438,
+  "generated_at": "2026-08-02T08:04:06.856399+08:00",
+  "total_titles_processed": 497,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             1,
             4,
-            9
+            9,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时06分 ~ 06时04分]"
+          "appearance_count": 8,
+          "time_info": "[00时06分 ~ 08时04分]"
         },
         {
           "title": "王骁解读七月热点",
@@ -27,11 +28,12 @@
           "ranks": [
             22,
             20,
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时06分 ~ 06时04分]"
+          "appearance_count": 8,
+          "time_info": "[00时06分 ~ 08时04分]"
         },
         {
           "title": "杨勇被授予国防科技一等功，他的背后有哪些事迹？",
@@ -50,11 +52,36 @@
           "url": "https://wallstreetcn.com/livenews/3143612",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 08时04分]"
+        },
+        {
+          "title": "开源崛起、降价80%，大模型真的还能赚到钱吗？",
+          "url": "https://wallstreetcn.com/articles/3778491",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时07分 ~ 06时04分]"
+          "time_info": "[06时03分 ~ 08时04分]"
+        },
+        {
+          "title": "美两家AI巨头承认自家大模型“失控”",
+          "url": "https://www.toutiao.com/trending/7668948314036899378/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 08时04分]"
         },
         {
           "title": "科技巨头绩后股价冰火两重天，表明市场开始“惩罚”乱花钱的AI公司",
@@ -67,34 +94,12 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时07分 ~ 02时04分]"
-        },
-        {
-          "title": "开源崛起、降价80%，大模型真的还能赚到钱吗？",
-          "url": "https://wallstreetcn.com/articles/3778491",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时03分 ~ 06时04分]"
-        },
-        {
-          "title": "美两家AI巨头承认自家大模型“失控”",
-          "url": "https://www.toutiao.com/trending/7668948314036899378/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 00时07分]"
         }
       ]
     },
     {
       "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "神了,OpenAI攻克十年数学难题",
@@ -104,8 +109,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时04分 ~ 06时04分]"
+          "appearance_count": 6,
+          "time_info": "[02时04分 ~ 08时04分]"
         },
         {
           "title": "为什么 DeepSeek-V4-Flash-0731 的后训练如此有效？",
@@ -115,19 +120,31 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时06分 ~ 06时04分]"
+          "appearance_count": 8,
+          "time_info": "[00时06分 ~ 08时04分]"
         },
         {
           "title": "马斯克关注DeepSeek账号",
           "url": "https://s.weibo.com/weibo?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%85%B3%E6%B3%A8DeepSeek%E8%B4%A6%E5%8F%B7&t=31&band_rank=19&Refer=top",
           "source": "微博",
           "ranks": [
-            19
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 08时04分]"
+        },
+        {
+          "title": "OpenAI确认下一代模型Astra存在，以2000美元算力成本破解十项数学未解难题，正向监管层展示",
+          "url": "https://wallstreetcn.com/articles/3778497",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时06分 ~ 00时07分]"
+          "time_info": "[08时03分 ~ 08时04分]"
         }
       ]
     }
