@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-08-03T04:15:10.324777+08:00",
-  "total_titles_processed": 451,
+  "generated_at": "2026-08-03T06:02:09.427052+08:00",
+  "total_titles_processed": 471,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
       "match_count": 5,
       "titles": [
+        {
+          "title": "A股8月修复可期？科技仍为中长期主线？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2443573",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时06分 ~ 06时02分]"
+        },
         {
           "title": "国产大模型调用量全球领先",
           "url": "https://www.douyin.com/hot/2594706",
@@ -15,20 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时06分 ~ 04时15分]"
-        },
-        {
-          "title": "A股8月修复可期？科技仍为中长期主线？十大券商策略来了",
-          "url": "https://www.cls.cn/detail/2443573",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时06分 ~ 04时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时06分 ~ 06时02分]"
         },
         {
           "title": "AI能否回本？科技巨头本周的股价走势，市场给出了答案",
@@ -38,19 +39,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时06分 ~ 04时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时06分 ~ 06时02分]"
         },
         {
           "title": "全抖音都在模仿痴迷名场面",
           "url": "https://www.douyin.com/hot/2594688",
           "source": "抖音",
           "ranks": [
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时06分 ~ 02时05分]"
+          "appearance_count": 6,
+          "time_info": "[00时06分 ~ 06时02分]"
         },
         {
           "title": "A股或告别科技独舞",
@@ -76,11 +78,12 @@
           "ranks": [
             10,
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时06分 ~ 04时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时06分 ~ 06时02分]"
         },
         {
           "title": "DeepSeek-V4系列迎重大升级 性能追平旗舰模型 Agent能力大幅增强",
@@ -91,8 +94,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时06分 ~ 04时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时06分 ~ 06时02分]"
         },
         {
           "title": "神了,OpenAI攻克十年数学难题",
@@ -103,19 +106,20 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时06分 ~ 04时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时06分 ~ 06时02分]"
         },
         {
           "title": "deepseek 定价按 10 个月回本算都这么便宜了，为什么谷歌投资 ai 还会现金流转负？",
           "url": "https://www.zhihu.com/question/2065010626171293829",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时14分 ~ 04时15分]"
+          "appearance_count": 4,
+          "time_info": "[04时14分 ~ 06时02分]"
         }
       ]
     }
