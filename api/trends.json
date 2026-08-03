@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T06:02:09.427052+08:00",
-  "total_titles_processed": 471,
+  "generated_at": "2026-08-03T08:05:05.405461+08:00",
+  "total_titles_processed": 596,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 06时02分]"
+          "appearance_count": 10,
+          "time_info": "[00时06分 ~ 08时05分]"
         },
         {
           "title": "国产大模型调用量全球领先",
@@ -28,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 06时02分]"
+          "appearance_count": 10,
+          "time_info": "[00时06分 ~ 08时05分]"
         },
         {
           "title": "AI能否回本？科技巨头本周的股价走势，市场给出了答案",
@@ -39,8 +40,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 06时02分]"
+          "appearance_count": 10,
+          "time_info": "[00时06分 ~ 08时05分]"
         },
         {
           "title": "全抖音都在模仿痴迷名场面",
@@ -51,8 +52,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时06分 ~ 06时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时06分 ~ 08时05分]"
         },
         {
           "title": "A股或告别科技独舞",
@@ -91,11 +92,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 06时02分]"
+          "appearance_count": 10,
+          "time_info": "[00时06分 ~ 08时05分]"
         },
         {
           "title": "神了,OpenAI攻克十年数学难题",
@@ -106,8 +108,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 06时02分]"
+          "appearance_count": 10,
+          "time_info": "[00时06分 ~ 08时05分]"
         },
         {
           "title": "deepseek 定价按 10 个月回本算都这么便宜了，为什么谷歌投资 ai 还会现金流转负？",
@@ -115,11 +117,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时14分 ~ 06时02分]"
+          "appearance_count": 6,
+          "time_info": "[04时14分 ~ 08时05分]"
         }
       ]
     }
