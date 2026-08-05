@@ -1,12 +1,45 @@
 {
-  "generated_at": "2026-08-06T01:48:38.046792+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-08-06T03:46:28.100100+08:00",
+  "total_titles_processed": 391,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 3,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "Yardeni Research Inc.总裁兼首席投资策略师Yardeni认为，对于一个高增长行业来说，那是比较低的估值倍数。 抛售科技板块的投资者“已经发现他们实际上把这些这些股票变成了促销品”。 将纳斯达克100指数推进技术性回调的抛售也消除了其过高的估值，从而为反弹创造了条件。 加之强劲的季报和持续旺盛的人工智能需求，进一步上涨也有了稳固的基础。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3145567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时46分"
+        },
+        {
+          "title": "飙升的科技股还能买吗？资深策略师Yardeni认为该板块现在是打折价",
+          "url": "https://wallstreetcn.com/livenews/3145566",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时46分"
+        },
+        {
+          "title": "Meta Platforms(META.O)首席人工智能官：Muse Code测试版已上线。这是来自Meta超级智能实验室（MSL）的首个编程智能体，基于Muse Spark 1.2构建。",
+          "url": "https://flash.jin10.com/detail/20260806031659563800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时46分"
+        },
         {
           "title": "2026抖音创作者大会来了",
           "url": "https://www.douyin.com/hot/2598281",
@@ -15,19 +48,42 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
+          "appearance_count": 2,
+          "time_info": "[01时48分 ~ 03时46分]"
         },
         {
           "title": "抖音手瓦选秀大会",
           "url": "https://www.douyin.com/hot/2597698",
           "source": "抖音",
           "ranks": [
-            21
+            21,
+            22
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时48分 ~ 03时46分]"
+        },
+        {
+          "title": "恒生指数主连夜盘收跌0.91%，报25674点。 恒生科技指数主连夜盘收跌1.01%，报4881点。",
+          "url": "https://wallstreetcn.com/livenews/3145555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时48分"
+          "time_info": "03时46分"
+        },
+        {
+          "title": "据The Information：阿波罗全球管理公司任命新的人工智能领域负责人，以寻求更多大型融资交易。",
+          "url": "https://flash.jin10.com/detail/20260806023739866800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时46分"
         },
         {
           "title": "李大霄谈高科技反弹",
@@ -44,18 +100,41 @@
     },
     {
       "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "怎么看 OpenAI 提到下一代 Harness 将脱离 PC，两三个月后现在的 Codex 工作方式会淘汰？",
           "url": "https://www.zhihu.com/question/2068265537105302957",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时48分 ~ 03时46分]"
+        },
+        {
+          "title": "Meta推出首款AI编程智能体，正面挑战Anthropic与OpenAI。",
+          "url": "https://wallstreetcn.com/livenews/3145560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时48分"
+          "time_info": "03时46分"
+        },
+        {
+          "title": "微软的AI销售主要源自OpenAI，凸显对紧密合作伙伴的依赖程度",
+          "url": "https://wallstreetcn.com/livenews/3145543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时46分"
         },
         {
           "title": "DeepSeek把Claude拉进“斩杀线”",
@@ -67,6 +146,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
+        },
+        {
+          "title": "微软AI收入过半来自OpenAI 显示对合作伙伴依赖仍较高",
+          "url": "https://flash.jin10.com/detail/20260806021844852800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时46分"
         }
       ]
     }
