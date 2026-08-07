@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-08-07T15:27:41.719747+08:00",
-  "total_titles_processed": 814,
+  "generated_at": "2026-08-07T17:08:06.462244+08:00",
+  "total_titles_processed": 965,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 34,
+      "match_count": 45,
       "titles": [
-        {
-          "title": "【早报】特朗普：对多晶硅及其衍生产品加征关税；美存储股再遭重挫；原油走强、黄金微跌；宇树科技发行价定了",
-          "url": "https://www.cls.cn/detail/2447939",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时09分 ~ 15时27分]"
-        },
         {
           "title": "宇树科技发行价150.8元",
           "url": "https://m.thepaper.cn/newsDetail_forward_33728179",
@@ -27,6 +15,18 @@
             8,
             3,
             2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时09分 ~ 17时08分]"
+        },
+        {
+          "title": "【早报】特朗普：对多晶硅及其衍生产品加征关税；美存储股再遭重挫；原油走强、黄金微跌；宇树科技发行价定了",
+          "url": "https://www.cls.cn/detail/2447939",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -93,6 +93,17 @@
           "time_info": "08时09分"
         },
         {
+          "title": "宇树科技王兴兴：会持续推进电子皮肤技术应用的落地",
+          "url": "https://wallstreetcn.com/livenews/3146592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
+        },
+        {
           "title": "A股存储芯片概念持续活跃，兆易创新涨超9%，普冉股份、江波龙、德明利、北京君正、朗科科技、佰维存储、香农芯创跟涨。",
           "url": "https://flash.jin10.com/detail/20260807133310734800",
           "source": "金十数据",
@@ -152,6 +163,18 @@
           "time_info": "[11时55分 ~ 13时47分]"
         },
         {
+          "title": "如何评价 GPT-5.6Luna 免费不限量，后续基础大模型都会走向免费吗？",
+          "url": "https://www.zhihu.com/question/2068986574256312589",
+          "source": "知乎",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时27分 ~ 17时08分]"
+        },
+        {
           "title": "宇树科技IPO 一批90后千万富豪或诞生",
           "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80IPO+%E4%B8%80%E6%89%B990%E5%90%8E%E5%8D%83%E4%B8%87%E5%AF%8C%E8%B1%AA%E6%88%96%E8%AF%9E%E7%94%9F",
           "source": "百度热搜",
@@ -161,6 +184,50 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时46分 ~ 15时27分]"
+        },
+        {
+          "title": "谁是宇树科技背后大赢家",
+          "url": "https://www.baidu.com/s?wd=%E8%B0%81%E6%98%AF%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E8%83%8C%E5%90%8E%E5%A4%A7%E8%B5%A2%E5%AE%B6",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时07分 ~ 17时08分]"
+        },
+        {
+          "title": "宇树科技与长江工院共建产业学院",
+          "url": "https://www.toutiao.com/trending/7670925583261499455/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时07分 ~ 17时08分]"
+        },
+        {
+          "title": "宇树科技王兴兴：公司在机器人外界感知能力等多个细分领域有技术储备",
+          "url": "https://wallstreetcn.com/livenews/3146586",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
+        },
+        {
+          "title": "宇树科技王兴兴：生态黏性将使新品牌消费级机器人获客成本激增",
+          "url": "https://wallstreetcn.com/livenews/3146585",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
         },
         {
           "title": "A股CPO概念股再度拉升，中富电路涨超14%，光迅科技、汇绿生态此前涨停，杰普特、联讯仪器、亨通光电涨超6%。",
@@ -180,9 +247,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
+        },
+        {
+          "title": "宇树科技王兴兴：持续开发迭代新型机器人 探索自主推理能力突破",
+          "url": "https://wallstreetcn.com/livenews/3146584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
+        },
+        {
+          "title": "宇树科技王兴兴：上市有压力更有动力 将以良好的业绩回报股东",
+          "url": "https://wallstreetcn.com/livenews/3146583",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
         },
         {
           "title": "金十数据整理：每日科技要闻速递（8月7日）",
@@ -213,7 +302,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
         },
@@ -240,17 +329,6 @@
           "time_info": "13时47分"
         },
         {
-          "title": "如何评价 GPT-5.6Luna 免费不限量，后续基础大模型都会走向免费吗？",
-          "url": "https://www.zhihu.com/question/2068986574256312589",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时27分"
-        },
-        {
           "title": "发行市值610亿 谁是宇树科技背后赢家",
           "url": "https://www.toutiao.com/trending/7671113266424368678/",
           "source": "今日头条",
@@ -262,13 +340,24 @@
           "time_info": "11时55分"
         },
         {
+          "title": "宇树科技王兴兴：人形机器人应用处于探索起步阶段 尚待突破两方面瓶颈",
+          "url": "https://wallstreetcn.com/livenews/3146576",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
+        },
+        {
           "title": "宇树科技王兴兴：公司采用“以销定产+安全库存”的生产计划模式",
           "url": "https://wallstreetcn.com/livenews/3146499",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
         },
@@ -279,7 +368,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
         },
@@ -301,9 +390,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
+        },
+        {
+          "title": "正邦科技：7月销售生猪81.76万头，环比下降14.18%，同比上升17.60%；销售收入5.87亿元，环比下降6.18%，同比下降20.81%。商品猪（扣除仔猪后）销售均价10.78元/公斤，较上月上升11.42%。",
+          "url": "https://wallstreetcn.com/livenews/3146570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
         },
         {
           "title": "港股大模型概念股持续拉升，MINIMAX-W、智谱盘中一度涨超15％。",
@@ -326,6 +426,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
+        },
+        {
+          "title": "宇树科技王兴兴：人形机器人更多地走入人类社会后 电子皮肤应用将会有所加速",
+          "url": "https://flash.jin10.com/detail/20260807163433740800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
+        },
+        {
+          "title": "港股收盘：恒生指数收涨0.54%，恒生科技指数收涨0.78%。生物医药板块走高，药明生物涨超10%；智谱涨超14%，MINIMAX涨约10%。",
+          "url": "https://wallstreetcn.com/livenews/3146562",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
         },
         {
           "title": "宇树科技发行价格150.80元/股",
@@ -397,7 +519,7 @@
     },
     {
       "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "宇树科技IPO定价150.8元，DeepSeek、腾讯等获战略配售",
@@ -407,8 +529,23 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时09分 ~ 15时27分]"
+          "appearance_count": 7,
+          "time_info": "[08时09分 ~ 17时08分]"
+        },
+        {
+          "title": "DeepSeek拟上调API服务价格",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            14,
+            18,
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时09分 ~ 17时08分]"
         },
         {
           "title": "DeepSeek终于打算激进扩张了",
@@ -433,18 +570,16 @@
           "time_info": "08时09分"
         },
         {
-          "title": "DeepSeek拟上调API服务价格",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
-          "source": "贴吧",
+          "title": "DeepSeek涨价，国产大模型\"免费午餐\"到头了！",
+          "url": "https://wallstreetcn.com/articles/3778849",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
-            14,
-            18,
-            23
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时09分 ~ 15时27分]"
+          "appearance_count": 3,
+          "time_info": "[15时27分 ~ 17时08分]"
         },
         {
           "title": "DeepSeek官宣涨价，且“幅度较大”！",
@@ -470,6 +605,17 @@
           "time_info": "[13时46分 ~ 13时47分]"
         },
         {
+          "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
+          "url": "https://www.zhihu.com/question/2069015264461579129",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时07分 ~ 17时08分]"
+        },
+        {
           "title": "DeepSeek、腾讯等获宇树科技战略配售",
           "url": "https://www.cls.cn/detail/2447658",
           "source": "财联社热门",
@@ -481,15 +627,15 @@
           "time_info": "08时09分"
         },
         {
-          "title": "DeepSeek涨价，国产大模型\"免费午餐\"到头了！",
-          "url": "https://wallstreetcn.com/articles/3778849",
-          "source": "华尔街见闻",
+          "title": "谷歌将人工智能管理重心迁至加州 全力迎战Anthropic与OpenAI",
+          "url": "https://wallstreetcn.com/livenews/3146580",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时27分"
+          "time_info": "17时08分"
         },
         {
           "title": "如何看待 DeepSeek 8 月 6 日公告称即将大幅度涨价？",
@@ -517,7 +663,7 @@
     },
     {
       "keyword_group": "独立开发 创业 副业",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "A股午评：创业板指涨1.75% 稀土永磁、PCB板块走强",
@@ -553,6 +699,17 @@
           "time_info": "11时55分"
         },
         {
+          "title": "宇树科技王兴兴：人形机器人会为人类生活带来更多的创新创业机会",
+          "url": "https://wallstreetcn.com/livenews/3146591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
+        },
+        {
           "title": "8月7日午间收评：创业板指半日涨1.75%，创新药、PCB概念股集体走强",
           "url": "https://wallstreetcn.com/livenews/3146422",
           "source": "华尔街见闻-快讯",
@@ -570,7 +727,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
         },
@@ -581,7 +738,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
         },
