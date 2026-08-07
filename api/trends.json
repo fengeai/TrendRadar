@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T21:19:20.400104+08:00",
-  "total_titles_processed": 1349,
+  "generated_at": "2026-08-07T23:01:53.691178+08:00",
+  "total_titles_processed": 1488,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 54,
+      "match_count": 56,
       "titles": [
         {
           "title": "宇树科技发行价150.8元",
@@ -21,6 +21,19 @@
           "time_info": "[08时09分 ~ 19时01分]"
         },
         {
+          "title": "一图看懂 | 宇树科技打新攻略来了，中一签需缴款7.54万元",
+          "url": "https://www.cls.cn/detail/2448544",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时00分 ~ 23时01分]"
+        },
+        {
           "title": "【早报】特朗普：对多晶硅及其衍生产品加征关税；美存储股再遭重挫；原油走强、黄金微跌；宇树科技发行价定了",
           "url": "https://www.cls.cn/detail/2447939",
           "source": "财联社热门",
@@ -33,19 +46,6 @@
           "time_info": "[08时09分 ~ 15时27分]"
         },
         {
-          "title": "一图看懂 | 宇树科技打新攻略来了，中一签需缴款7.54万元",
-          "url": "https://www.cls.cn/detail/2448544",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时00分 ~ 21时19分]"
-        },
-        {
           "title": "如何评价 GPT-5.6Luna 免费不限量，后续基础大模型都会走向免费吗？",
           "url": "https://www.zhihu.com/question/2068986574256312589",
           "source": "知乎",
@@ -54,11 +54,12 @@
             12,
             8,
             9,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时27分 ~ 21时19分]"
+          "appearance_count": 9,
+          "time_info": "[15时27分 ~ 23时01分]"
         },
         {
           "title": "谁是宇树科技背后赢家",
@@ -204,6 +205,30 @@
           "time_info": "19时54分"
         },
         {
+          "title": "美联储巴尔金：目前尚不清楚人工智能对整体生产力水平的影响有多大。",
+          "url": "https://flash.jin10.com/detail/20260807224749896800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时01分"
+        },
+        {
+          "title": "宇树科技中一签需缴款7.54万元",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E4%B8%AD%E4%B8%80%E7%AD%BE%E9%9C%80%E7%BC%B4%E6%AC%BE7.54%E4%B8%87%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时53分 ~ 23时01分]"
+        },
+        {
           "title": "沪指冲高回落涨0.6%，煤炭掀涨停潮，贵金属集体大涨，半导体材料再拉升，恒科指跌超2%，AI大模型双雄逆势拉升",
           "url": "https://wallstreetcn.com/articles/3778805",
           "source": "华尔街见闻",
@@ -214,18 +239,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[08时09分 ~ 15时27分]"
-        },
-        {
-          "title": "宇树科技中一签需缴款7.54万元",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E4%B8%AD%E4%B8%80%E7%AD%BE%E9%9C%80%E7%BC%B4%E6%AC%BE7.54%E4%B8%87%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时53分 ~ 21时19分]"
         },
         {
           "title": "大模型竞争白热化，张一鸣喊话：字节跳动“拒绝蒸馏”，不用别人输出换榜单排名",
@@ -593,13 +606,24 @@
           "time_info": "08时09分"
         },
         {
+          "title": "北美科技软件股指数ETF涨超2.7%，报102.34美元，逼近8月5日盘中最高位103.72美元和6月1日顶部108.03美元。",
+          "url": "https://wallstreetcn.com/livenews/3146770",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时01分"
+        },
+        {
           "title": "天才女友抖音追剧团",
           "url": "https://www.douyin.com/hot/2601120",
           "source": "抖音",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时19分"
         },
@@ -667,8 +691,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时07分 ~ 21时19分]"
+          "appearance_count": 8,
+          "time_info": "[17时07分 ~ 23时01分]"
         },
         {
           "title": "DeepSeek终于打算激进扩张了",
@@ -800,6 +824,20 @@
       "match_count": 14,
       "titles": [
         {
+          "title": "【焦点复盘】创业板指终结周线6连阴，AI硬件端持续回暖，4600亿CXO龙头创近4年新高",
+          "url": "https://www.cls.cn/detail/2448537",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时00分 ~ 23时01分]"
+        },
+        {
           "title": "A股午评：创业板指涨1.75% 稀土永磁、PCB板块走强",
           "url": "https://flash.jin10.com/detail/20260807113538270800",
           "source": "金十数据",
@@ -877,19 +915,6 @@
           "time_info": "19时54分"
         },
         {
-          "title": "【焦点复盘】创业板指终结周线6连阴，AI硬件端持续回暖，4600亿CXO龙头创近4年新高",
-          "url": "https://www.cls.cn/detail/2448537",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时00分 ~ 21时19分]"
-        },
-        {
           "title": "沪指尾盘涨超1%，深成指涨1.4%，创业板指涨1.4%。",
           "url": "https://flash.jin10.com/detail/20260807145453770800",
           "source": "金十数据",
@@ -907,7 +932,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时19分"
         },
