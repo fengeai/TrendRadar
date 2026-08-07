@@ -1,27 +1,40 @@
 {
-  "generated_at": "2026-08-07T08:09:50.671533+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-08-07T11:55:25.880949+08:00",
+  "total_titles_processed": 532,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 16,
+      "match_count": 22,
       "titles": [
         {
-          "title": "宇树科技下周打新，发行价150.8元/股",
-          "url": "https://www.cls.cn/detail/2447640",
+          "title": "【早报】特朗普：对多晶硅及其衍生产品加征关税；美存储股再遭重挫；原油走强、黄金微跌；宇树科技发行价定了",
+          "url": "https://www.cls.cn/detail/2447939",
           "source": "财联社热门",
           "ranks": [
+            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时09分"
+          "appearance_count": 2,
+          "time_info": "[08时09分 ~ 11时55分]"
         },
         {
           "title": "宇树科技8月10日开启网上申购",
           "url": "https://www.douyin.com/hot/2600095",
           "source": "抖音",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时09分 ~ 11时55分]"
+        },
+        {
+          "title": "宇树科技下周打新，发行价150.8元/股",
+          "url": "https://www.cls.cn/detail/2447640",
+          "source": "财联社热门",
           "ranks": [
             1
           ],
@@ -41,48 +54,64 @@
           "time_info": "08时09分"
         },
         {
-          "title": "【早报】特朗普：对多晶硅及其衍生产品加征关税；美存储股再遭重挫；原油走强、黄金微跌；宇树科技发行价定了",
-          "url": "https://www.cls.cn/detail/2447939",
-          "source": "财联社热门",
+          "title": "宇树科技发行价150.8元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33728179",
+          "source": "澎湃新闻",
           "ranks": [
-            2
+            8,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时09分"
+          "appearance_count": 2,
+          "time_info": "[08时09分 ~ 11时55分]"
         },
         {
           "title": "大模型竞争白热化，张一鸣喊话：字节跳动“拒绝蒸馏”，不用别人输出换榜单排名",
           "url": "https://m.thepaper.cn/newsDetail_forward_33728476",
           "source": "澎湃新闻",
           "ranks": [
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时09分"
+          "appearance_count": 2,
+          "time_info": "[08时09分 ~ 11时55分]"
         },
         {
-          "title": "宇树科技发行价150.8元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33728179",
-          "source": "澎湃新闻",
+          "title": "打破国外垄断！中国重磅科技集中上新",
+          "url": "https://www.baidu.com/s?wd=%E6%89%93%E7%A0%B4%E5%9B%BD%E5%A4%96%E5%9E%84%E6%96%AD%EF%BC%81%E4%B8%AD%E5%9B%BD%E9%87%8D%E7%A3%85%E7%A7%91%E6%8A%80%E9%9B%86%E4%B8%AD%E4%B8%8A%E6%96%B0",
+          "source": "百度热搜",
           "ranks": [
-            8
+            14,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时09分"
+          "appearance_count": 2,
+          "time_info": "[08时09分 ~ 11时55分]"
         },
         {
           "title": "沪指冲高回落涨0.6%，煤炭掀涨停潮，贵金属集体大涨，半导体材料再拉升，恒科指跌超2%，AI大模型双雄逆势拉升",
           "url": "https://wallstreetcn.com/articles/3778805",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时09分"
+          "appearance_count": 2,
+          "time_info": "[08时09分 ~ 11时55分]"
+        },
+        {
+          "title": "人民锐评：用“Token”还是“词元”，事关科技话语权",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33729497",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时09分 ~ 11时55分]"
         },
         {
           "title": "金十数据整理：每日科技要闻速递（8月7日）",
@@ -107,26 +136,59 @@
           "time_info": "08时09分"
         },
         {
-          "title": "打破国外垄断！中国重磅科技集中上新",
-          "url": "https://www.baidu.com/s?wd=%E6%89%93%E7%A0%B4%E5%9B%BD%E5%A4%96%E5%9E%84%E6%96%AD%EF%BC%81%E4%B8%AD%E5%9B%BD%E9%87%8D%E7%A3%85%E7%A7%91%E6%8A%80%E9%9B%86%E4%B8%AD%E4%B8%8A%E6%96%B0",
-          "source": "百度热搜",
+          "title": "宇树科技IPO能让多少人财富自由",
+          "url": "https://www.toutiao.com/trending/7670945660593507894/",
+          "source": "今日头条",
           "ranks": [
-            14
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时09分"
+          "time_info": "11时55分"
         },
         {
-          "title": "人民锐评：用“Token”还是“词元”，事关科技话语权",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33729497",
-          "source": "澎湃新闻",
+          "title": "发行市值610亿 谁是宇树科技背后赢家",
+          "url": "https://www.toutiao.com/trending/7671113266424368678/",
+          "source": "今日头条",
           "ranks": [
-            14
+            15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时09分"
+          "time_info": "11时55分"
+        },
+        {
+          "title": "金十图示：2026年08月07日（周五）港A科技互联网公司市值排名TOP 50一览",
+          "url": "https://flash.jin10.com/detail/20260807105117936800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "港股大模型概念股持续拉升，MINIMAX-W、智谱盘中一度涨超15％。",
+          "url": "https://wallstreetcn.com/livenews/3146390",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "港股大模型概念股持续走高，MINIMAX-W(00100.HK)涨近25%，智谱(02513.HK)涨超17%。",
+          "url": "https://flash.jin10.com/detail/20260807104654889800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
         },
         {
           "title": "宇树科技发行价格150.80元/股",
@@ -138,6 +200,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
+        },
+        {
+          "title": "存储芯片板块震荡上扬，国科微、骄成超声涨超10%，正帆科技、万润科技、兆易创新、精测电子涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3146385",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
         },
         {
           "title": "宇树科技发行价格150.80元/股",
@@ -190,22 +263,22 @@
       "match_count": 8,
       "titles": [
         {
-          "title": "DeepSeek终于打算激进扩张了",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E7%BB%88%E4%BA%8E%E6%89%93%E7%AE%97%E6%BF%80%E8%BF%9B%E6%89%A9%E5%BC%A0%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时09分"
-        },
-        {
           "title": "宇树科技IPO定价150.8元，DeepSeek、腾讯等获战略配售",
           "url": "https://wallstreetcn.com/articles/3778857",
           "source": "华尔街见闻",
           "ranks": [
             4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时09分 ~ 11时55分]"
+        },
+        {
+          "title": "DeepSeek终于打算激进扩张了",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E7%BB%88%E4%BA%8E%E6%89%93%E7%AE%97%E6%BF%80%E8%BF%9B%E6%89%A9%E5%BC%A0%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -223,33 +296,35 @@
           "time_info": "08时09分"
         },
         {
-          "title": "DeepSeek、腾讯等获宇树科技战略配售",
-          "url": "https://www.cls.cn/detail/2447658",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时09分"
-        },
-        {
           "title": "DeepSeek官宣涨价，且“幅度较大”！",
           "url": "https://wallstreetcn.com/articles/3778814",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时09分"
+          "appearance_count": 2,
+          "time_info": "[08时09分 ~ 11时55分]"
         },
         {
           "title": "DeepSeek拟上调API服务价格",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
           "source": "贴吧",
           "ranks": [
-            12
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时09分 ~ 11时55分]"
+        },
+        {
+          "title": "DeepSeek、腾讯等获宇树科技战略配售",
+          "url": "https://www.cls.cn/detail/2447658",
+          "source": "财联社热门",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -281,8 +356,19 @@
     },
     {
       "keyword_group": "独立开发 创业 副业",
-      "match_count": 2,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "A股午评：创业板指涨1.75% 稀土永磁、PCB板块走强",
+          "url": "https://flash.jin10.com/detail/20260807113538270800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
         {
           "title": "眼镜店老板副业做的AI视频火到海外",
           "url": "https://www.toutiao.com/trending/7670874502713622564/",
@@ -295,6 +381,39 @@
           "time_info": "08时09分"
         },
         {
+          "title": "上证指数早盘收报3919.51点，涨0.49%。 深证成指早盘收报14295.08点，涨1.31%。 创业板指早盘收报3577.20点，涨1.75%。 沪深300早盘收报4689.96点，涨0.83%。 科创50早盘收报1718.59点，涨1.02%。 中证500早盘收报7919.52点，涨1.15%。 中证1000早盘收报7615.18点，涨1.13%。",
+          "url": "https://wallstreetcn.com/livenews/3146423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "8月7日午间收评：创业板指半日涨1.75%，创新药、PCB概念股集体走强",
+          "url": "https://wallstreetcn.com/livenews/3146422",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "新闻蒸馏器｜谷歌AI大改组：诺奖得主卸任日常管理，元老率核心人员出走创业",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33727851",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
           "title": "新闻蒸馏器丨谷歌AI大改组：诺奖得主卸任日常管理，元老率核心人员出走创业",
           "url": "https://m.thepaper.cn/newsDetail_forward_33727851",
           "source": "澎湃新闻",
@@ -304,6 +423,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
+        },
+        {
+          "title": "创业板指涨超2%，沪指涨0.3%，深成指涨1.23%，算力硬件、医药医疗、半导体芯片等方向领涨，沪深京三市上涨个股超1500只。",
+          "url": "https://wallstreetcn.com/livenews/3146389",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
         }
       ]
     }
