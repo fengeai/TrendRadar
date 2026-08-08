@@ -1,39 +1,11 @@
 {
-  "generated_at": "2026-08-09T02:49:11.968480+08:00",
-  "total_titles_processed": 385,
+  "generated_at": "2026-08-09T03:37:21.501957+08:00",
+  "total_titles_processed": 405,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
-          "url": "https://wallstreetcn.com/articles/3778988",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 02时49分]"
-        },
-        {
-          "title": "如何看待 OpenCode Go 订阅中 DeepSeek v4 Flash 开启限时双倍活动？",
-          "url": "https://www.zhihu.com/question/2069133357099832441",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时48分 ~ 02时49分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "为什么体制内至今仍不鼓励用人工智能？",
@@ -42,11 +14,12 @@
           "ranks": [
             4,
             6,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 02时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 03时37分]"
         },
         {
           "title": "“创系列”指数产品扩容，16只ETF集中申报，瞄准算力与金融科技",
@@ -56,8 +29,49 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 02时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 03时37分]"
+        },
+        {
+          "title": "刺激之夜抖音直播",
+          "url": "https://www.douyin.com/hot/2602052",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
+          "url": "https://wallstreetcn.com/articles/3778988",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 03时37分]"
+        },
+        {
+          "title": "如何看待 OpenCode Go 订阅中 DeepSeek v4 Flash 开启限时双倍活动？",
+          "url": "https://www.zhihu.com/question/2069133357099832441",
+          "source": "知乎",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时48分 ~ 03时37分]"
         }
       ]
     }
