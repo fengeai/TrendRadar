@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T04:39:09.971085+08:00",
-  "total_titles_processed": 430,
+  "generated_at": "2026-08-09T05:38:20.287242+08:00",
+  "total_titles_processed": 440,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2448863",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时42分 ~ 04时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时42分 ~ 05时38分]"
         },
         {
           "title": "为什么体制内至今仍不鼓励用人工智能？",
@@ -40,8 +41,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时37分 ~ 04时39分]"
+          "appearance_count": 4,
+          "time_info": "[03时37分 ~ 05时38分]"
         },
         {
           "title": "央媒：用Token还是词元事关科技话语权",
@@ -70,8 +71,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时42分 ~ 04时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时42分 ~ 05时38分]"
         },
         {
           "title": "如何看待 OpenCode Go 订阅中 DeepSeek v4 Flash 开启限时双倍活动？",
@@ -79,11 +80,12 @@
           "source": "知乎",
           "ranks": [
             12,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时48分 ~ 04时39分]"
+          "appearance_count": 6,
+          "time_info": "[02时48分 ~ 05时38分]"
         }
       ]
     }
