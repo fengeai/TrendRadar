@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T05:38:20.287242+08:00",
-  "total_titles_processed": 440,
+  "generated_at": "2026-08-09T06:37:11.157003+08:00",
+  "total_titles_processed": 459,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 05时38分]"
+          "appearance_count": 11,
+          "time_info": "[00时42分 ~ 06时37分]"
         },
         {
           "title": "为什么体制内至今仍不鼓励用人工智能？",
@@ -27,39 +27,42 @@
             4,
             6,
             15,
-            19
+            19,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时42分 ~ 03时37分]"
+          "appearance_count": 8,
+          "time_info": "[00时42分 ~ 06时37分]"
         },
         {
           "title": "刺激之夜抖音直播",
           "url": "https://www.douyin.com/hot/2602052",
           "source": "抖音",
           "ranks": [
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时37分 ~ 05时38分]"
+          "appearance_count": 6,
+          "time_info": "[03时37分 ~ 06时37分]"
         },
         {
           "title": "央媒：用Token还是词元事关科技话语权",
           "url": "https://www.toutiao.com/trending/7671123642835566598/",
           "source": "今日头条",
           "ranks": [
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时38分 ~ 04时39分]"
+          "appearance_count": 4,
+          "time_info": "[04时38分 ~ 06时37分]"
         }
       ]
     },
     {
       "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
@@ -68,11 +71,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 05时38分]"
+          "appearance_count": 11,
+          "time_info": "[00时42分 ~ 06时37分]"
         },
         {
           "title": "如何看待 OpenCode Go 订阅中 DeepSeek v4 Flash 开启限时双倍活动？",
@@ -86,6 +90,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时48分 ~ 05时38分]"
+        },
+        {
+          "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
+          "url": "https://www.zhihu.com/question/2068108635620774765",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时36分 ~ 06时37分]"
         }
       ]
     }
