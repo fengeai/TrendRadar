@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T00:42:34.057174+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-08-09T01:38:08.798064+08:00",
+  "total_titles_processed": 353,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2042649810709239000",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 01时38分]"
         },
         {
           "title": "“创系列”指数产品扩容，16只ETF集中申报，瞄准算力与金融科技",
@@ -26,8 +27,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 01时38分]"
         }
       ]
     },
@@ -43,8 +44,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 01时38分]"
         }
       ]
     }
