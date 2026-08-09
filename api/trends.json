@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T02:52:43.093992+08:00",
-  "total_titles_processed": 377,
+  "generated_at": "2026-08-10T03:40:33.346764+08:00",
+  "total_titles_processed": 398,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 02时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 03时40分]"
         },
         {
           "title": "宇树科技中签率远低于长鑫科技",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 02时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 03时40分]"
         },
         {
           "title": "宇树科技明日打新，注意四大事项",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 02时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 03时40分]"
         },
         {
           "title": "宇树科技明日申购，中一签能赚多少？",
@@ -49,8 +49,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 02时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 03时40分]"
         },
         {
           "title": "下周重磅日程：美国CPI，宇树科技打新，腾讯、京东、茅台、中芯国际财报",
@@ -61,8 +61,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 02时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 03时40分]"
         },
         {
           "title": "A股科技反弹是否一蹴而就？投资主线有哪些？十大券商策略来了",
@@ -73,8 +73,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 02时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 03时40分]"
         },
         {
           "title": "券商综合测算：宇树科技中一签或赚20万元",
@@ -84,8 +84,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 02时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 03时40分]"
         },
         {
           "title": "灵巧手赛道重磅选手+1！蓝思科技+中科慧灵，要推出37个关节自由度",
@@ -95,8 +95,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 02时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 03时40分]"
         },
         {
           "title": "报道：苹果测试长鑫科技存储芯片，用于iPhone和MacBook",
@@ -106,8 +106,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 02时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 03时40分]"
         },
         {
           "title": "郑润泽发抖音是忘记加bgm了吗",
@@ -128,11 +128,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             26,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 02时52分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 03时40分]"
         },
         {
           "title": "宇树科技上市后或冲刺1000亿估值",
@@ -141,9 +142,9 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时52分 ~ 03时40分]"
         }
       ]
     }
