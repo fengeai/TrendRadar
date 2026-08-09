@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-08-09T19:37:29.071671+08:00",
-  "total_titles_processed": 1146,
+  "generated_at": "2026-08-09T21:06:18.777831+08:00",
+  "total_titles_processed": 1249,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "宇树科技明日打新，注意四大事项",
+          "url": "https://www.cls.cn/detail/2449251",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时07分 ~ 21时06分]"
+        },
         {
           "title": "为什么体制内至今仍不鼓励用人工智能？",
           "url": "https://www.zhihu.com/question/2042649810709239000",
@@ -81,32 +96,32 @@
           "time_info": "[10时13分 ~ 19时37分]"
         },
         {
-          "title": "宇树科技明日打新，注意四大事项",
-          "url": "https://www.cls.cn/detail/2449251",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时07分 ~ 19时37分]"
-        },
-        {
           "title": "周末要闻汇总：北京购房政策调整，宇树科技10日开启IPO申购",
           "url": "https://www.cls.cn/detail/2449266",
           "source": "财联社热门",
           "ranks": [
             11,
             10,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时53分 ~ 19时37分]"
+          "appearance_count": 7,
+          "time_info": "[16时53分 ~ 21时06分]"
+        },
+        {
+          "title": "宇树科技明日申购",
+          "url": "https://www.toutiao.com/trending/7670840910796881962/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            15,
+            29,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时48分 ~ 21时06分]"
         },
         {
           "title": "宇树科技中一签需缴7.54万元",
@@ -136,28 +151,27 @@
           "time_info": "[17时49分 ~ 19时37分]"
         },
         {
-          "title": "宇树科技明日申购",
-          "url": "https://www.toutiao.com/trending/7670840910796881962/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            15,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时48分 ~ 19时37分]"
-        },
-        {
           "title": "宇树科技明日申购，中一签能赚多少？",
           "url": "https://wallstreetcn.com/articles/3779007",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时42分 ~ 21时06分]"
+        },
+        {
+          "title": "灵巧手赛道重磅选手+1！蓝思科技+中科慧灵，要推出37个关节自由度",
+          "url": "https://www.cls.cn/detail/2449229",
+          "source": "财联社热门",
+          "ranks": [
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时42分 ~ 19时37分]"
+          "time_info": "[21时05分 ~ 21时06分]"
         },
         {
           "title": "金十数据整理：每日科技要闻速递（8月9日）",
