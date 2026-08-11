@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T19:51:55.295686+08:00",
-  "total_titles_processed": 1301,
+  "generated_at": "2026-08-11T21:21:16.664335+08:00",
+  "total_titles_processed": 1417,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 46,
+      "match_count": 53,
       "titles": [
         {
           "title": "宇树科技科创板申购火爆，中签率仅0.018%，首日盈利或逾20万元",
@@ -22,6 +22,19 @@
           "time_info": "[01时59分 ~ 18时57分]"
         },
         {
+          "title": "让“科味”更浓，恒生科技指数大调整，这一次有何不同？",
+          "url": "https://www.cls.cn/detail/2450976",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时58分 ~ 21时21分]"
+        },
+        {
           "title": "中签率0.0181%！宇树科技今天打新，机器人产业链迎来估值锚点",
           "url": "https://www.cls.cn/detail/2450388",
           "source": "财联社热门",
@@ -32,6 +45,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时59分 ~ 10时11分]"
+        },
+        {
+          "title": "非科技板块的春天？医药板块调研热度超越半导体",
+          "url": "https://www.cls.cn/detail/2450966",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            5,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时58分 ~ 21时21分]"
         },
         {
           "title": "宇树科技：回拨机制启动后，网上发行最终中签率为0.01809759%",
@@ -45,19 +72,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时59分 ~ 13时58分]"
-        },
-        {
-          "title": "让“科味”更浓，恒生科技指数大调整，这一次有何不同？",
-          "url": "https://www.cls.cn/detail/2450976",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时58分 ~ 19时51分]"
         },
         {
           "title": "中国黑科技圈粉老外",
@@ -82,6 +96,28 @@
           "time_info": "12时26分"
         },
         {
+          "title": "雅培与谷歌推出首个合作项目，借助血糖洞察和人工智能改变日常健康管理。",
+          "url": "https://flash.jin10.com/detail/20260811210808524800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
+          "title": "宇树科技网上中签率不到长鑫科技1/26",
+          "url": "https://wallstreetcn.com/livenews/3148086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
           "title": "印度央行行长：敦促各银行对所有人工智能模型进行盘点，并制定经董事会批准的人工智能治理政策。",
           "url": "https://flash.jin10.com/detail/20260811134517603800",
           "source": "金十数据",
@@ -93,28 +129,15 @@
           "time_info": "13时58分"
         },
         {
-          "title": "宇树科技中签号出炉：共有19,414个",
-          "url": "https://wallstreetcn.com/livenews/3148051",
-          "source": "华尔街见闻-快讯",
+          "title": "雅培：与谷歌的合作包括大规模研究，以更好地指导人工智能培训。",
+          "url": "https://flash.jin10.com/detail/20260811210715702800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时51分"
-        },
-        {
-          "title": "非科技板块的春天？医药板块调研热度超越半导体",
-          "url": "https://www.cls.cn/detail/2450966",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时58分 ~ 19时51分]"
+          "time_info": "21时21分"
         },
         {
           "title": "A股商业航天概念早盘下挫，中国卫星逼近跌停，超捷股份、斯瑞新材跌超10%，神剑股份、电科蓝天、航天环宇、金风科技跌超7%。",
@@ -139,6 +162,17 @@
           "time_info": "[01时59分 ~ 06时46分]"
         },
         {
+          "title": "大模型攻入OTA腹地？豆包称酒店推荐“按成交收费” 或挑战“佣金+广告”模式|深度",
+          "url": "https://www.cls.cn/detail/2451001",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时56分 ~ 21时21分]"
+        },
+        {
           "title": "IPO周报｜本周4只新股申购，“人形机器人第一股”宇树科技今日打新",
           "url": "https://m.thepaper.cn/newsDetail_forward_33750281",
           "source": "澎湃新闻",
@@ -150,6 +184,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时59分 ~ 06时46分]"
+        },
+        {
+          "title": "宇树科技中签号出炉：共有19,414个",
+          "url": "https://wallstreetcn.com/livenews/3148051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时51分 ~ 21时21分]"
         },
         {
           "title": "英伟达(NVDA.O)：全新融资平台将英伟达计算和全栈人工智能基础设施转变为全球资本可投资的资产类别。",
@@ -176,17 +222,6 @@
           "time_info": "[18时57分 ~ 19时51分]"
         },
         {
-          "title": "大模型攻入OTA腹地？豆包称酒店推荐“按成交收费” 或挑战“佣金+广告”模式|深度",
-          "url": "https://www.cls.cn/detail/2451001",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时56分 ~ 19时51分]"
-        },
-        {
           "title": "周一（8月10日），美股存储芯片与硬件供应链指数跌1.22%，报184.13点，美股盘初冲高回落，结束交易前30分钟内（再次）开启一波显著下跌的行情。 成分股Rambus收跌5.55%，泰瑞达跌3.75%，应用材料跌3.16%，美光科技、拉姆研究、希捷科技至少跌1.45%，西部数据收涨0.93%，闪迪涨2.12%。 此外，铠侠ADR跌4.01%，SK海力士ADR跌1.9%。",
           "url": "https://wallstreetcn.com/livenews/3147690",
           "source": "华尔街见闻-快讯",
@@ -211,6 +246,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时52分 ~ 06时46分]"
+        },
+        {
+          "title": "告别“外卖指数”转向“硬科技”？恒生科技将迎来最大改革",
+          "url": "https://wallstreetcn.com/articles/3779167",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时51分 ~ 21时21分]"
         },
         {
           "title": "特朗普媒体科技集团二季度净利润2.38亿美元，上年同期亏损0.2亿美元。",
@@ -249,6 +296,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时59分 ~ 06时46分]"
+        },
+        {
+          "title": "韩国股市暴跌，聚焦三星电子和SK海力士的投资节目成娱乐新热点",
+          "url": "https://news.ifeng.com/c/8vVaQwUQJEb",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时20分 ~ 21时21分]"
         },
         {
           "title": "英伟达(NVDA.O)：本公司及合作伙伴将为人工智能基础设施客户创建专用资金池。",
@@ -299,6 +357,17 @@
           "time_info": "[05时50分 ~ 06时46分]"
         },
         {
+          "title": "宇树科技中签号出炉",
+          "url": "https://www.toutiao.com/trending/7672729077492485651/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时20分 ~ 21时21分]"
+        },
+        {
           "title": "道指在非农次日收跌0.1%、成分股英伟达领跌，生物科技指数创历史新高",
           "url": "https://wallstreetcn.com/livenews/3147679",
           "source": "华尔街见闻-快讯",
@@ -335,6 +404,17 @@
           "time_info": "[05时50分 ~ 06时46分]"
         },
         {
+          "title": "宇树科技中签号出炉 共约1.94万个",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E4%B8%AD%E7%AD%BE%E5%8F%B7%E5%87%BA%E7%82%89+%E5%85%B1%E7%BA%A61.94%E4%B8%87%E4%B8%AA",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时20分 ~ 21时21分]"
+        },
+        {
           "title": "爱芯元智下一代大算力AI芯片完成流片，支持多芯级联实现边缘侧满血大模型推理",
           "url": "https://flash.jin10.com/detail/20260811115612569800",
           "source": "金十数据",
@@ -363,18 +443,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时51分"
-        },
-        {
-          "title": "告别“外卖指数”转向“硬科技”？恒生科技将迎来最大改革",
-          "url": "https://wallstreetcn.com/articles/3779167",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
@@ -484,7 +553,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
@@ -498,6 +567,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时57分"
+        },
+        {
+          "title": "宇树科技网上中签率不到长鑫科技1/26",
+          "url": "https://flash.jin10.com/detail/20260811205913362800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         },
         {
           "title": "九联科技：2026年上半年净利润3511.02万元，实现扭亏为盈",
@@ -528,7 +608,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
@@ -584,6 +664,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时59分 ~ 03时10分]"
+        },
+        {
+          "title": "DeepSeek招土木工程师，科技大厂争锋延伸至传统资源领域",
+          "url": "https://wallstreetcn.com/livenews/3148048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时51分 ~ 21时21分]"
         },
         {
           "title": "美国得州州长Abbott：OpenAI承诺将遵守本地数据中心标准。",
@@ -644,17 +736,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时59分 ~ 03时10分]"
-        },
-        {
-          "title": "DeepSeek招土木工程师，科技大厂争锋延伸至传统资源领域",
-          "url": "https://wallstreetcn.com/livenews/3148048",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时51分"
         },
         {
           "title": "OpenAI推出GPT-5.6-Cyber 面向安全人员开放更强AI能力",
