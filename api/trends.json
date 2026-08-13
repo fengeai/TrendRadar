@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-13T16:27:41.205151+08:00",
-  "total_titles_processed": 1130,
+  "generated_at": "2026-08-13T18:17:14.214073+08:00",
+  "total_titles_processed": 1270,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 38,
+      "match_count": 46,
       "titles": [
         {
           "title": "【焦点复盘】科技成长股主导缩量普涨，全市场超4100股飘红，大消费板块午后再度爆发",
@@ -114,9 +114,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
+        },
+        {
+          "title": "宏和科技：终止投资年产7200万米高性能电子级玻璃纤维布开发与生产项目",
+          "url": "https://wallstreetcn.com/livenews/3149095",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         },
         {
           "title": "CPO概念股持续拉升，天孚通信、德科立涨超10%，共进股份此前涨停，炬光科技、华懋科技、东山精密、锐捷网络涨超5%。",
@@ -136,7 +147,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -151,6 +162,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时58分 ~ 14时25分]"
+        },
+        {
+          "title": "从表态到实操！险资近一个月密集调研通信板块，科技产业增量成核心布局方向",
+          "url": "https://www.cls.cn/detail/2453116",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时27分 ~ 18时17分]"
         },
         {
           "title": "周三（8月12日），美股行业ETF普遍收涨，半导体ETF收涨2.32%，KBW银行ETF涨1.08%，房地产ETF涨0.91%，机器人与人工智能ETF涨0.88%，地区银行ETF涨0.74%。太阳能ETF则收跌0.70%，可选消费ETF收跌1.15%。",
@@ -179,6 +202,41 @@
           "time_info": "[04时55分 ~ 06时51分]"
         },
         {
+          "title": "梁文锋打新宇树科技 1.8 亿获配 120 万股，账面浮盈或超 7.04 亿元，怎样解读他的这一布局？",
+          "url": "https://www.zhihu.com/question/2071189146777773055",
+          "source": "知乎",
+          "ranks": [
+            19,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时27分 ~ 18时17分]"
+        },
+        {
+          "title": "董卿 抖音评论被造谣",
+          "url": "https://s.weibo.com/weibo?q=%E8%91%A3%E5%8D%BF%20%E6%8A%96%E9%9F%B3%E8%AF%84%E8%AE%BA%E8%A2%AB%E9%80%A0%E8%B0%A3&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时27分 ~ 18时17分]"
+        },
+        {
+          "title": "长鑫科技 中国市值最大上市公司",
+          "url": "https://s.weibo.com/weibo?q=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%20%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%80%BC%E6%9C%80%E5%A4%A7%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 18时17分]"
+        },
+        {
           "title": "梁文锋打新宇树科技有望浮盈超7亿",
           "url": "https://www.toutiao.com/trending/7673280015613627950/",
           "source": "今日头条",
@@ -189,6 +247,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时51分 ~ 10时31分]"
+        },
+        {
+          "title": "长鑫科技成为中国市值最大上市公司",
+          "url": "https://www.toutiao.com/trending/7673430128885501476/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 18时17分]"
+        },
+        {
+          "title": "长鑫科技 中国市值最大上市公司",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80+%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%80%BC%E6%9C%80%E5%A4%A7%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 18时17分]"
         },
         {
           "title": "路透调查显示，超过80%的日本企业仅部分使用或根本不使用人工智能。",
@@ -202,6 +282,17 @@
           "time_info": "07时51分"
         },
         {
+          "title": "宏和科技：2026年上半年电子级玻璃纤维布营收10.33亿元 同比上涨147.61%",
+          "url": "https://wallstreetcn.com/livenews/3149092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
           "title": "路透调查显示，超过一半的日本企业计划在近期增加人工智能预算，31%的企业尚未决定。",
           "url": "https://flash.jin10.com/detail/20260813070049622800",
           "source": "金十数据",
@@ -213,15 +304,26 @@
           "time_info": "07时51分"
         },
         {
-          "title": "从表态到实操！险资近一个月密集调研通信板块，科技产业增量成核心布局方向",
-          "url": "https://www.cls.cn/detail/2453116",
-          "source": "财联社热门",
+          "title": "福赛科技：公司机器人零部件产品处于早期研发、小批量试制及送样阶段",
+          "url": "https://wallstreetcn.com/livenews/3149087",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时27分"
+          "time_info": "18时17分"
+        },
+        {
+          "title": "宏和科技：2026年上半年净利润3.79亿元，同比增长334.32%",
+          "url": "https://wallstreetcn.com/livenews/3149085",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         },
         {
           "title": "A股CPO概念股持续活跃，剑桥科技、星网锐捷双双涨停，共进股份此前封板，锐捷网络、天孚通信涨超10%，德科立、炬光科技等涨幅居前。",
@@ -312,6 +414,17 @@
           "time_info": "10时31分"
         },
         {
+          "title": "亚洲科技股赴美求高估值 ADR发行量创2020年以来新高",
+          "url": "https://flash.jin10.com/detail/20260813175400176800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
           "title": "A股光纤概念延续强势，通鼎互联2连板，长进光子、天孚通信、炬光科技、长盈通、源杰科技涨超5%。",
           "url": "https://wallstreetcn.com/livenews/3148832",
           "source": "华尔街见闻-快讯",
@@ -334,17 +447,6 @@
           "time_info": "07时51分"
         },
         {
-          "title": "梁文锋打新宇树科技 1.8 亿获配 120 万股，账面浮盈或超 7.04 亿元，怎样解读他的这一布局？",
-          "url": "https://www.zhihu.com/question/2071189146777773055",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时27分"
-        },
-        {
           "title": "A股算力租赁概念继续活跃，城地香江3连板，群兴玩具一字涨停，中鼎股份、行云科技、宏景科技、鸿博股份涨幅靠前。",
           "url": "https://wallstreetcn.com/livenews/3148827",
           "source": "华尔街见闻-快讯",
@@ -354,17 +456,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
-        },
-        {
-          "title": "董卿 抖音评论被造谣",
-          "url": "https://s.weibo.com/weibo?q=%E8%91%A3%E5%8D%BF%20%E6%8A%96%E9%9F%B3%E8%AF%84%E8%AE%BA%E8%A2%AB%E9%80%A0%E8%B0%A3&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时27分"
         },
         {
           "title": "小马智行在佛山新设科技公司，含智能机器人研发业务",
@@ -479,23 +570,12 @@
           "source": "知乎",
           "ranks": [
             2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时51分 ~ 16时27分]"
-        },
-        {
-          "title": "DeepSeek V4 Pro正式版来了！尚未公布调价方案",
-          "url": "https://www.cls.cn/detail/2452920",
-          "source": "财联社热门",
-          "ranks": [
             3,
-            2
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时31分 ~ 16时27分]"
+          "appearance_count": 7,
+          "time_info": "[07时51分 ~ 18时17分]"
         },
         {
           "title": "DeepSeek V4 Pro正式版深夜“突袭”：多项测试逼近Fable 5，撞车Grok 4.6",
@@ -504,7 +584,20 @@
           "ranks": [
             6,
             5,
-            4
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时31分 ~ 18时17分]"
+        },
+        {
+          "title": "DeepSeek V4 Pro正式版来了！尚未公布调价方案",
+          "url": "https://www.cls.cn/detail/2452920",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -559,6 +652,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时55分 ~ 07时51分]"
+        },
+        {
+          "title": "快把真正的DeepSeek V4 Pro还给我",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BF%AB%E6%8A%8A%E7%9C%9F%E6%AD%A3%E7%9A%84DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E8%BF%98%E7%BB%99%E6%88%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时27分 ~ 18时17分]"
         },
         {
           "title": "Deepseek V4Pro 正式版发布，相比 Claude Fable 5 等模型，性能如何？性价比高吗？",
@@ -627,17 +732,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
-        },
-        {
-          "title": "快把真正的DeepSeek V4 Pro还给我",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BF%AB%E6%8A%8A%E7%9C%9F%E6%AD%A3%E7%9A%84DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E8%BF%98%E7%BB%99%E6%88%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时27分"
         },
         {
           "title": "DeepSeek刷新模型斩杀线",
@@ -730,7 +824,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         }
