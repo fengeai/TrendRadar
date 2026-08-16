@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-16T07:27:21.894902+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-08-16T09:47:38.912727+08:00",
+  "total_titles_processed": 445,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "DeepSeek-V4-Pro-0813 已发布，体验下来怎么样？",
@@ -15,19 +15,54 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时27分 ~ 09时47分]"
+        },
+        {
+          "title": "英伟达拟投资SB Energy 30亿美元，布局OpenAI数据中心",
+          "url": "https://wallstreetcn.com/livenews/3150021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时27分"
+          "time_info": "09时47分"
         },
         {
           "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
           "url": "https://www.cls.cn/detail/2455147",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            4
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时27分 ~ 09时47分]"
+        },
+        {
+          "title": "俱往矣!DeepSeek大幅涨价",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357395&amp;topic_name=%E4%BF%B1%E5%BE%80%E7%9F%A3%21DeepSeek%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
+          "source": "贴吧",
+          "ranks": [
+            22,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时27分 ~ 09时47分]"
+        },
+        {
+          "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
+          "url": "https://www.cls.cn/detail/2455237",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时27分"
+          "time_info": "09时47分"
         },
         {
           "title": "OpenAI Codex产品负责人：让Sol为你管理一支高效的Luna代理团队。这些模型彼此非常熟悉，能够通力合作，以惊人的速度和效率达成目标。",
@@ -52,17 +87,6 @@
           "time_info": "07时27分"
         },
         {
-          "title": "俱往矣!DeepSeek大幅涨价",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357395&amp;topic_name=%E4%BF%B1%E5%BE%80%E7%9F%A3%21DeepSeek%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
-          "source": "贴吧",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时27分"
-        },
-        {
           "title": "DeepSeek Harness实测",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%AE%9E%E6%B5%8B",
           "source": "bilibili 热搜",
@@ -77,8 +101,19 @@
     },
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "美国大模型帮日本对AI进行投毒",
+          "url": "https://www.toutiao.com/trending/7673727363703639571/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
         {
           "title": "美国大模型帮日本对AI进行投毒",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%B8%AE%E6%97%A5%E6%9C%AC%E5%AF%B9AI%E8%BF%9B%E8%A1%8C%E6%8A%95%E6%AF%92",
@@ -91,26 +126,50 @@
           "time_info": "07时27分"
         },
         {
+          "title": "国家电网投了量子科技",
+          "url": "https://wallstreetcn.com/livenews/3150019",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
           "title": "【早报】中行落地全国首个算力“Token贷”；贵州茅台、生益科技发布半年报；美存储板块走强",
           "url": "https://www.cls.cn/detail/2455045",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时27分"
+          "appearance_count": 2,
+          "time_info": "[07时27分 ~ 09时47分]"
         },
         {
           "title": "童年动画三巨头集体在抖音写信",
           "url": "https://www.douyin.com/hot/2610466",
           "source": "抖音",
           "ranks": [
-            7
+            7,
+            28
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时27分 ~ 09时47分]"
+        },
+        {
+          "title": "520元/股！宇树科技，未上市先疯抢！场外“暗盘”兴起，谁在豪赌？",
+          "url": "https://wallstreetcn.com/articles/3779509",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时27分"
+          "time_info": "09时47分"
         },
         {
           "title": "宇树科技IPO：暗盘交易系捕风捉影，背后风险不容小觑",
@@ -122,6 +181,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "美国大模型帮日本对AI进行投毒",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%B8%AE%E6%97%A5%E6%9C%AC%E5%AF%B9AI%E8%BF%9B%E8%A1%8C%E6%8A%95%E6%AF%92%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
         }
       ]
     }
