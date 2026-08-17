@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T19:33:20.176983+08:00",
-  "total_titles_processed": 1248,
+  "generated_at": "2026-08-17T21:46:59.672943+08:00",
+  "total_titles_processed": 1402,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 40,
+      "match_count": 44,
       "titles": [
         {
           "title": "下周重磅日程：中国7月经济数据，阿里、小米、天孚通信、兆易创新、长飞光纤财报，宇树科技上市在即",
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时33分 ~ 19时33分]"
+        },
+        {
+          "title": "长鑫科技股价再创新高 市值重回4万亿以上 机构：三重利好共振打开业绩空间",
+          "url": "https://www.cls.cn/detail/2455825",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时33分 ~ 21时46分]"
         },
         {
           "title": "CPO概念股震荡走高，天洋新材4连板，共进股份3连板，中石科技2连板，太辰光、仕佳光子、阿莱德、天孚通信跟涨。",
@@ -43,15 +55,26 @@
           "time_info": "[00时33分 ~ 09时45分]"
         },
         {
-          "title": "长鑫科技股价再创新高 市值重回4万亿以上 机构：三重利好共振打开业绩空间",
-          "url": "https://www.cls.cn/detail/2455825",
-          "source": "财联社热门",
+          "title": "宇树科技8月19日上市",
+          "url": "https://www.douyin.com/hot/2613555",
+          "source": "抖音",
           "ranks": [
-            4
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时33分"
+          "time_info": "21时46分"
+        },
+        {
+          "title": "美股开盘，道指跌0.3%，标普500指数接近平开，纳指涨0.2%。存储概念股上涨，美光科技(MU.O)涨3.6%，闪迪(SNDK.O)涨4.5%。Alphabet(GOOG.O)涨0.2%，伯克希尔二季度继续加仓Alphabet。阿里巴巴(BABA.N)上涨1.6%，公司以15亿美元的价格出售游戏业务。",
+          "url": "https://flash.jin10.com/detail/20260817213040526800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时46分"
         },
         {
           "title": "长鑫科技=2.5个茅台",
@@ -223,7 +246,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时33分"
         },
@@ -278,7 +301,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时33分"
         },
@@ -305,13 +328,24 @@
           "time_info": "07时28分"
         },
         {
+          "title": "宇树科技：将于8月19日科创板上市",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%EF%BC%9A%E5%B0%86%E4%BA%8E8%E6%9C%8819%E6%97%A5%E7%A7%91%E5%88%9B%E6%9D%BF%E4%B8%8A%E5%B8%82",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时46分"
+        },
+        {
           "title": "【午报】科创50指数涨超3%，半导体产业链震荡走强，长鑫科技市值重回4万亿",
           "url": "https://www.cls.cn/detail/2455748",
           "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时33分"
         },
@@ -355,7 +389,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时33分"
         },
@@ -415,6 +449,17 @@
           "time_info": "15时08分"
         },
         {
+          "title": "宇树科技：将于8月19日科创板上市",
+          "url": "https://wallstreetcn.com/livenews/3150507",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时46分"
+        },
+        {
           "title": "恒生科技指数日内涨幅扩大至2%，商汤涨超8%，华虹宏力涨超7%。",
           "url": "https://wallstreetcn.com/livenews/3150177",
           "source": "华尔街见闻-快讯",
@@ -432,7 +477,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时33分"
         },
@@ -443,7 +488,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时33分"
         },
@@ -462,7 +507,7 @@
     },
     {
       "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
-      "match_count": 17,
+      "match_count": 22,
       "titles": [
         {
           "title": "周末要闻汇总：英伟达缩减对OpenAI数据中心项目担保计划；全国首个算力“Token贷”落地",
@@ -527,6 +572,17 @@
           "time_info": "[00时33分 ~ 09时45分]"
         },
         {
+          "title": "英伟达(NVDA.O)上涨0.8%，OpenAI承诺将在2030年前大规模部署英伟达AI基础设施。",
+          "url": "https://flash.jin10.com/detail/20260817213122179800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时46分"
+        },
+        {
           "title": "DeepSeek调价生效 涨幅最高达1100%",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E8%B0%83%E4%BB%B7%E7%94%9F%E6%95%88+%E6%B6%A8%E5%B9%85%E6%9C%80%E9%AB%98%E8%BE%BE1100%25",
           "source": "百度热搜",
@@ -537,6 +593,20 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时45分 ~ 12时52分]"
+        },
+        {
+          "title": "DeepSeek 新定价已生效，实际体验下来你的感受如何？跟你预想的差异大吗？",
+          "url": "https://www.zhihu.com/question/2072598571090538898",
+          "source": "知乎",
+          "ranks": [
+            15,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时41分 ~ 21时46分]"
         },
         {
           "title": "OpenAI内部动荡加剧：重组不断，员工疲惫，高管离职潮持续，上市计划悄然推迟",
@@ -550,19 +620,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时51分 ~ 15时08分]"
-        },
-        {
-          "title": "DeepSeek 新定价已生效，实际体验下来你的感受如何？跟你预想的差异大吗？",
-          "url": "https://www.zhihu.com/question/2072598571090538898",
-          "source": "知乎",
-          "ranks": [
-            15,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时41分 ~ 19时33分]"
         },
         {
           "title": "博主：DeepSeek要当全球Agent的底座",
@@ -632,6 +689,39 @@
           "time_info": "13时41分"
         },
         {
+          "title": "英伟达：OpenAI承诺2030年前部署约12吉瓦英伟达AI算力",
+          "url": "https://wallstreetcn.com/livenews/3150525",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时46分"
+        },
+        {
+          "title": "OpenAI：利用模型帮助保障代码安全。 将模型用于基础设施防御工作。 持续投资于安全架构与管控措施。",
+          "url": "https://wallstreetcn.com/livenews/3150523",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时46分"
+        },
+        {
+          "title": "Opencode Go 也涨价了，哪里还有便宜 DeepSeek ？",
+          "url": "https://www.zhihu.com/question/2072487733474359004",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时46分"
+        },
+        {
           "title": "DeepSeek Harness 有什么好用的插件？",
           "url": "https://www.zhihu.com/question/2071617281214378127",
           "source": "知乎",
@@ -641,6 +731,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时08分"
+        },
+        {
+          "title": "OpenAI：Ports-Pike项目预计将在截至2032年的六年建设期内创造3.5万个建筑业就业岗位，并长期创造2500个运营岗位。",
+          "url": "https://flash.jin10.com/detail/20260817210940922800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时46分"
         },
         {
           "title": "DeepSeek定价灵活性",
@@ -686,11 +787,12 @@
           "url": "https://wallstreetcn.com/articles/3779568",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时33分 ~ 21时46分]"
         },
         {
           "title": "创业板指涨超2%，深证成指涨1.57%，沪指涨0.82%，半导体芯片、农业、养殖业、算力硬件等方向涨幅居前，沪深京三市上涨个股近3700只。",
@@ -703,6 +805,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时41分 ~ 15时08分]"
+        },
+        {
+          "title": "【每日收评】创业板指震荡走高涨超3%，全市场逾百股涨停，半导体、算力硬件等科技赛道爆发",
+          "url": "https://www.cls.cn/detail/2456053",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时33分 ~ 21时46分]"
         },
         {
           "title": "上证指数早盘收报3960.19点，涨0.84%。 深证成指早盘收报14534.46点，涨1.26%。 创业板指早盘收报3674.68点，涨1.33%。 沪深300早盘收报4701.19点，涨0.76%。 科创50早盘收报1769.93点，涨3.04%。 中证500早盘收报8119.26点，涨1.61%。 中证1000早盘收报7887.92点，涨1.52%。",
@@ -737,17 +851,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时08分"
-        },
-        {
-          "title": "【每日收评】创业板指震荡走高涨超3%，全市场逾百股涨停，半导体、算力硬件等科技赛道爆发",
-          "url": "https://www.cls.cn/detail/2456053",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时33分"
         },
         {
           "title": "中国上证综指8月17日（周一）开盘上涨2.93点，涨幅：0.07%，报3930.1点；<br/>中国深证成指8月17日（周一）开盘上涨44.89点，涨幅：0.31%，报14399.2点；<br/>中国沪深300指数8月17日（周一）开盘上涨6.39点，涨幅：0.14%，报4672.28点；<br/>中国创业板指数8月17日（周一）开盘上涨6.48点，涨幅：0.18%，报3632.78点；<br/>中国科创50指数8月17日（周一）开盘上涨3.87点，涨幅：0.23%，报1721.55点。",
