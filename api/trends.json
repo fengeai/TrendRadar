@@ -1,94 +1,166 @@
 {
-  "generated_at": "2026-08-19T00:52:55.476906+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-08-20T09:41:57.012476+08:00",
+  "total_titles_processed": 305,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小红书 抖音 热点 花叔 数字生命卡兹克 人工智能 大模型 互联网 科技",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
-          "title": "据Axios：据白宫消息人士透露，白宫计划明天与特朗普共同举办一场活动，届时将有多位科技界领袖出席，但预测市场公司并未受邀，也不会参加。",
-          "url": "https://flash.jin10.com/detail/20260819004821037800",
-          "source": "金十数据",
+          "title": "宇树科技创始人王兴兴：我们尚未大规模推广人形机器人，因目前整个效率和它的泛用性能力还不够高。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3152028",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时52分"
+          "time_info": "09时41分"
         },
         {
-          "title": "AI暗雷！美科技巨头表外负债膨胀至3万亿美元，约为年资本开支的5倍",
-          "url": "https://wallstreetcn.com/articles/3779679",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
-        },
-        {
-          "title": "热点事件网络围观必备素养",
-          "url": "https://www.baidu.com/s?wd=%E7%83%AD%E7%82%B9%E4%BA%8B%E4%BB%B6%E7%BD%91%E7%BB%9C%E5%9B%B4%E8%A7%82%E5%BF%85%E5%A4%87%E7%B4%A0%E5%85%BB",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
-        },
-        {
-          "title": "人工智能安全：下一阶段人工智能产业竞争的新赛道",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33799807",
+          "title": "中一签赚47.46万！宇树科技开盘暴涨629.44%，总市值4449亿元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33807884",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时52分"
+          "time_info": "09时41分"
         },
         {
-          "title": "宇树科技发布「超人」，原地跳高 2 米、奔跑极限速度每秒 12.66 米，人形机器人距离实用还有多远？",
-          "url": "https://www.zhihu.com/question/2072710686380238015",
+          "title": "有抖音账号以“单亲妈妈交友”人设性暗示诱导用户，3个黑产团伙被捣毁29人被抓",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33810766",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时41分"
+        },
+        {
+          "title": "抖音推出「馋猫外卖」虚拟点餐，订单不会送达，金额存入「一起攒」，如何看待这一功能？怎样从商业角度解读？",
+          "url": "https://www.zhihu.com/question/2073021871205913577",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时41分"
+        },
+        {
+          "title": "梁文锋打新宇树科技浮盈11亿，雷军赚152亿，美团系浮盈333亿，大疆痛失超250亿",
+          "url": "https://wallstreetcn.com/articles/3779762",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时41分"
+        },
+        {
+          "title": "A股创新药概念开盘大涨，三元基因、键凯科技、沃森生物、莱美药业、康希诺、悦康药业、双鹭药业、百克生物等一字涨停，智飞生物、石药创新、康泰生物等涨超10%，消息面上，默沙东与莫德纳周三宣布，双方合作的 mRNA 个性化癌症疫苗 intismeran autogene 首个 III 期临床试验取得初步阳性结果，隔夜美股莫德纳股价大涨近180%。",
+          "url": "https://wallstreetcn.com/livenews/3152015",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时41分"
+        },
+        {
+          "title": "香港恒生指数开盘涨1.11%，恒生科技指数涨1.69%。蔚来、理想汽车涨超4%；快手跌4.8%，此前发布财报。",
+          "url": "https://wallstreetcn.com/livenews/3152009",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时41分"
+        },
+        {
+          "title": "电影空枪抖音直播",
+          "url": "https://www.douyin.com/hot/2615605",
+          "source": "抖音",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时41分"
+        },
+        {
+          "title": "浙江平湖如何搭上宇树科技的东风",
+          "url": "https://www.toutiao.com/trending/7675751282040114729/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "独立开发 创业 副业",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "沪指失守3900点，创业板跌逾6%，宇树IPO首日涨超400%，存储、算力齐跌，银行煤炭逆势活跃",
+          "url": "https://wallstreetcn.com/articles/3779764",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时41分"
+        },
+        {
+          "title": "上证指数开盘报3907.21点，涨0.33%。 深证成指开盘报14032.97点，涨1.03%。 创业板指开盘报3517.65点，涨1.27%。 沪深300开盘报4613.30点，涨0.54%。 科创50开盘报1685.48点，涨1.08%。 中证500开盘报7864.68点，涨1.04%。 中证1000开盘报7602.50点，涨1.13%。",
+          "url": "https://wallstreetcn.com/livenews/3152012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时41分"
+        },
+        {
+          "title": "中国上证综指8月20日（周四）开盘上涨12.78点，涨幅：0.33%，报3907.21点；<br/>中国深证成指8月20日（周四）开盘上涨142.81点，涨幅：1.03%，报14032.97点；<br/>中国沪深300指数8月20日（周四）开盘上涨24.6点，涨幅：0.54%，报4613.3点；<br/>中国创业板指数8月20日（周四）开盘上涨44.16点，涨幅：1.27%，报3517.65点；<br/>中国科创50指数8月20日（周四）开盘上涨17.96点，涨幅：1.08%，报1685.48点。",
+          "url": "https://flash.jin10.com/detail/20260820092737862800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI工具 AI编程 Cursor Claude OpenAI DeepSeek GitHub Copilot vibe coding",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek Harness 五天超越 151k star，它能引发一场什么革命？",
+          "url": "https://www.zhihu.com/question/2072997638685864311",
           "source": "知乎",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时52分"
-        },
-        {
-          "title": "费城半导体指数跌6%，英伟达股价下跌2.71%，台积电股价下跌4.13%，博通股价下跌3.52%，SK海力士股价下跌8.11%，美光科技股价下跌7.47%，超威半导体股价下跌5.76%。",
-          "url": "https://wallstreetcn.com/livenews/3151216",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "独立开发 创业 副业",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "75岁王石再创业",
-          "url": "https://www.toutiao.com/trending/7674608437980024361/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "time_info": "09时41分"
         }
       ]
     }
